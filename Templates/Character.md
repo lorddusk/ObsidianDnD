@@ -12,4 +12,5 @@ tags: Note <%tp.file.creation_date("YYYY")%>
 # <%* tR += `${title}` %> 
 ___ 
 ## References: - 
---- creation date:: [[<%tp.file.creation_date("YYYY-MM-DD")%>]] <%tp.file.creation_date("HH:mm")%>
+--- 
+creation date:: [[<%tp.file.creation_date("YYYY-MM-DD")%>]] <%tp.file.creation_date("HH:mm")%>

@@ -1,5 +1,12 @@
 # Index
-<span class="nav">[Locations](#Locations) [NPCs](#NPCs) [Factions](#Factions)</span>
+<span class="nav">[Sessions](#Sessions) [Characters](#Characters) [Locations](#Locations) [NPCs](#NPCs) [Items](#Items)</span>
+
+## Sessions
+```dataview
+list from "Session Notes"
+where type="session"
+sort file.name asc
+```
 
 ## Characters
 ```dataview
