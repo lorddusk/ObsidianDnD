@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kerkers & Draken/Session Notes/Session Template File.md",
+            "file": "Templates/Session X - XX XX.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kerkers & Draken/Session Notes/Session Template File.md",
+                "file": "Templates/Session X - XX XX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,8 @@
   },
   "active": "c23024eef5ad6d4e",
   "lastOpenFiles": [
+    "Templates/Session X - XX XX.md",
+    "Kerkers & Draken/Session Notes/Untitled.md",
     "Kerkers & Draken/Session Notes/Session Template File.md",
     "Kerkers & Draken/Session Notes/Session 0 1.md",
     "Characters/Work in progress/Mordecai/Character Sheet.md",
@@ -120,8 +122,6 @@
     "Characters/Work in progress/Filo/Character Sheet.md",
     "Characters/Work in progress/Filo/Background.md",
     "Kerkers & Draken/Extended Notes.md",
-    "Characters/Mordecai - Hexblade Warlock (WIP).md",
-    "Characters/Filo - Moon Druid (WIP).md",
-    "Untitled.md"
+    "Characters/Mordecai - Hexblade Warlock (WIP).md"
   ]
 }
