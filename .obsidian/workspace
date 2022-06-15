@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Work in progress/Mordecai/Character Sheet.md",
+            "file": "Red Hand of Doom/Session Notes/Session xx - 15 June 2022.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Work in progress/Mordecai/Character Sheet.md",
+                "file": "Red Hand of Doom/Session Notes/Session xx - 15 June 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,12 +92,28 @@
             "id": "fc661439ddcc0540",
             "type": "leaf",
             "state": {
-              "type": "BC-matrix",
+              "type": "empty",
               "state": {}
             }
           },
           {
             "id": "8c24c0e50a558096",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee72f83cc62929e0",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "877db2817f45ed2a",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
@@ -113,15 +129,14 @@
   },
   "active": "c23024eef5ad6d4e",
   "lastOpenFiles": [
+    "Red Hand of Doom/Session Notes/Session xx - 15 June 2022.md",
     "Characters/Work in progress/Mordecai/Character Sheet.md",
     "Characters/Work in progress/Mordecai/Background.md",
     "Characters/Work in progress/Filo/Character Sheet.md",
     "Characters/Work in progress/Filo/Background.md",
-    "Red Hand of Doom/Session Notes/Session xx - 15 June 2022.md",
     "Red Hand of Doom/Extended Notes/POIs/Untitled.md",
     "Red Hand of Doom/Extended Notes/NPCs/Untitled.md",
     "Red Hand of Doom/Extended Notes/Locations/Untitled.md",
-    "Red Hand of Doom/Extended Notes/Items/Untitled.md",
-    "Red Hand of Doom/Extended Notes/Characters/Untitled.md"
+    "Red Hand of Doom/Extended Notes/Items/Untitled.md"
   ]
 }
