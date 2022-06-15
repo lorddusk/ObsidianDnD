@@ -6,5 +6,6 @@
   "fantasy-calendar",
   "breadcrumbs",
   "templater-obsidian",
-  "obsidian-leaflet-plugin"
+  "obsidian-leaflet-plugin",
+  "dataview"
 ]
