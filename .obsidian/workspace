@@ -6,25 +6,11 @@
       {
         "id": "c23024eef5ad6d4e",
         "type": "leaf",
-        "dimension": 58.50456621004566,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Templates/Character.md",
             "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a1ccbc2298c7fdc2",
-        "type": "leaf",
-        "dimension": 41.49543378995434,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Red Hand of Doom/Index.md",
-            "mode": "preview",
             "source": false
           }
         }
@@ -123,19 +109,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "c23024eef5ad6d4e",
   "lastOpenFiles": [
     "Templates/Character.md",
+    "Red Hand of Doom/Compendium/Characters/Henk.md",
+    "2022-06-15.md",
     "Templates/Item.md",
     "Templates/Location.md",
     "Templates/NPC.md",
-    "Red Hand of Doom/Compendium/Characters/Henk.md",
     "Red Hand of Doom/Compendium/Untitled.md",
     "Red Hand of Doom/Index.md",
-    "Characters/Work in progress/Mordecai/Character Sheet.md",
-    "Characters/Work in progress/Mordecai/Background.md",
-    "Characters/Work in progress/Filo/Character Sheet.md"
+    "Characters/Work in progress/Mordecai/Character Sheet.md"
   ]
 }
