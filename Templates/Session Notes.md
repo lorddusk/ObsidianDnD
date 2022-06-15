@@ -2,9 +2,13 @@
 ### XX XX <> DR
 
 ## Players
+- 
 
 ## Locations
+- 
 
 ## NPCS
+- 
 
 ## Session Notes
+- 
