@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Character.md",
+            "file": "Templates/Location.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Character.md",
+                "file": "Templates/Location.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,11 +127,11 @@
   },
   "active": "c23024eef5ad6d4e",
   "lastOpenFiles": [
+    "Templates/Location.md",
     "Templates/Character.md",
+    "Templates/Item.md",
     "Red Hand of Doom/Compendium/Untitled.md",
     "Templates/NPC.md",
-    "Templates/Location.md",
-    "Templates/Item.md",
     "Red Hand of Doom/Index.md",
     "Characters/Work in progress/Mordecai/Character Sheet.md",
     "Characters/Work in progress/Mordecai/Background.md",
