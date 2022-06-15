@@ -1,5 +1,5 @@
 ---
-type: character
+type: item
 tags: Note <%tp.file.creation_date("YYYY")%>
 ---
 <%* 
