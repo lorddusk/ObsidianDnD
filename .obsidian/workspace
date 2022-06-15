@@ -6,11 +6,25 @@
       {
         "id": "c23024eef5ad6d4e",
         "type": "leaf",
+        "dimension": 58.50456621004566,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Red Hand of Doom/Index.md",
             "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "a1ccbc2298c7fdc2",
+        "type": "leaf",
+        "dimension": 41.49543378995434,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Red Hand of Doom/Index.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -111,7 +125,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c23024eef5ad6d4e",
+  "active": "a1ccbc2298c7fdc2",
   "lastOpenFiles": [
     "Red Hand of Doom/Index.md",
     "Characters/Work in progress/Mordecai/Character Sheet.md",
