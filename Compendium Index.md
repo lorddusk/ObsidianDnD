@@ -1,6 +1,8 @@
+# Red Hand of Doom
 <span class="nav">[Sessions](#Sessions) [Characters](#Characters) [Locations](#Locations) [NPCs](#NPCs) [Items](#Items)</span>
 
-## Red Hand of Doom Session Notes
+
+## Session Notes
 ```dataview
 list from "Red Hand of Doom/Session Notes"
 where type="session"
