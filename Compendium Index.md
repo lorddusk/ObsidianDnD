@@ -1,7 +1,6 @@
-# Compendium Index
 <span class="nav">[Sessions](#Sessions) [Characters](#Characters) [Locations](#Locations) [NPCs](#NPCs) [Items](#Items)</span>
 
-## Sessions
+## Red Hand of Doom Session Notes
 ```dataview
 list from "Red Hand of Doom/Session Notes"
 where type="session"

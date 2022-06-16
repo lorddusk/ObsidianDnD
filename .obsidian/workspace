@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium Index.md",
-            "mode": "preview",
-            "source": false
+            "file": "Compendium Index.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium Index.md",
+                "file": "Compendium Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,25 +87,9 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
-          },
-          {
-            "id": "fc661439ddcc0540",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "8c24c0e50a558096",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +98,7 @@
   },
   "active": "28e1143d9e407e9e",
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium Index.md",
+    "Compendium Index.md",
     "Red Hand of Doom/Session Notes/Session xx - 15 June 2022.md",
     "Red Hand of Doom/Compendium/Items/Test.md",
     "Red Hand of Doom/Compendium/Characters/Test.md",
