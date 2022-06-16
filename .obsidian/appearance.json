@@ -1,5 +1,8 @@
 {
   "interfaceFontFamily": "Fira Code",
   "monospaceFontFamily": "Fira Code",
-  "cssTheme": "Comfort Smooth"
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "larger popup"
+  ]
 }

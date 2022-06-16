@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448
+    "width": 313
   },
   "right": {
     "id": "d2e9448ef357e2fe",
@@ -115,14 +115,14 @@
   "active": "28e1143d9e407e9e",
   "lastOpenFiles": [
     "Red Hand of Doom/Compendium Index.md",
-    "2022-06-15.md",
-    "Red Hand of Doom/Compendium/Characters/Test.md",
     "Red Hand of Doom/Session Notes/Session xx - 15 June 2022.md",
     "Red Hand of Doom/Compendium/Items/Test.md",
+    "Red Hand of Doom/Compendium/Characters/Test.md",
+    "Red Hand of Doom/Compendium/Locations/Test.md",
+    "Red Hand of Doom/Compendium/NPCs/Test.md",
+    "2022-06-15.md",
     "Templates/Session Notes.md",
     "Templates/NPC.md",
-    "Templates/Location.md",
-    "Templates/Item.md",
-    "Templates/Character.md"
+    "Templates/Location.md"
   ]
 }
