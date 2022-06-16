@@ -6,5 +6,7 @@
   "fantasy-calendar",
   "templater-obsidian",
   "obsidian-leaflet-plugin",
-  "dataview"
+  "dataview",
+  "obsidian-admonition",
+  "obsidian-dice-roller"
 ]

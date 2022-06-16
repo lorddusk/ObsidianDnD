@@ -11,7 +11,7 @@
           "state": {
             "file": "Compendium Index.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         },
         "group": "0799dbf27798d4b5"
@@ -24,7 +24,7 @@
           "state": {
             "file": "Compendium Index.md",
             "mode": "preview",
-            "source": false
+            "source": true
           }
         },
         "group": "0799dbf27798d4b5"
@@ -99,6 +99,14 @@
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c060105c1f8dc98",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
