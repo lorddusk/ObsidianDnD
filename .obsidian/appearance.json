@@ -3,6 +3,7 @@
   "monospaceFontFamily": "Fira Code",
   "cssTheme": "Things",
   "enabledCssSnippets": [
-    "larger popup"
+    "larger popup",
+    "headercolors"
   ]
 }
