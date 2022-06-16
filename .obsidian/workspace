@@ -7,8 +7,12 @@
         "id": "28e1143d9e407e9e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Compendium Index.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "group": "0799dbf27798d4b5"
       },
@@ -20,7 +24,7 @@
           "state": {
             "file": "Compendium Index.md",
             "mode": "preview",
-            "source": true
+            "source": false
           }
         },
         "group": "0799dbf27798d4b5"
@@ -79,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Compendium Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,9 +110,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "28e1143d9e407e9e",
+  "active": "411cb856c9737485",
   "lastOpenFiles": [
     "Compendium Index.md",
+    "^summary.md",
     "Red Hand of Doom/Session Notes/Session xx - 15 June 2022.md",
     "Red Hand of Doom/Compendium/Items/Test.md",
     "Red Hand of Doom/Compendium/Characters/Test.md",
@@ -115,7 +121,6 @@
     "Red Hand of Doom/Compendium/NPCs/Test.md",
     "2022-06-15.md",
     "Templates/Session Notes.md",
-    "Templates/NPC.md",
-    "Templates/Location.md"
+    "Templates/NPC.md"
   ]
 }
