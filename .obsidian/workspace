@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/NPCs/Henk.md",
+            "file": "Red Hand of Doom/Compendium/Locations/Index.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         },
         "group": "0799dbf27798d4b5"
@@ -22,9 +22,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/NPCs/Henk.md",
-            "mode": "preview",
-            "source": true
+            "file": "Red Hand of Doom/Compendium/Locations/Index.md",
+            "mode": "source",
+            "source": false
           }
         },
         "group": "0799dbf27798d4b5"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/Henk.md",
+                "file": "Red Hand of Doom/Compendium/Locations/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,14 @@
   },
   "active": "28e1143d9e407e9e",
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium/NPCs/Henk.md",
-    "Red Hand of Doom/Compendium/NPCs/Index.md",
     "Red Hand of Doom/Compendium/Locations/Index.md",
+    "Red Hand of Doom/Compendium/NPCs/Index.md",
+    "Red Hand of Doom/Compendium/NPCs/Henk.md",
+    "Red Hand of Doom/Compendium/NPCs/Andries.md",
+    "Templates/NPC.md",
     "Red Hand of Doom/Compendium/Items/Index.md",
     "Red Hand of Doom/Compendium/Characters/Index.md",
     "Compendium Index.md",
-    "Tags.md",
-    "^summary.md",
-    "Red Hand of Doom/Session Notes/Session xx - 15 June 2022.md",
-    "Red Hand of Doom/Compendium/Items/Test.md"
+    "Tags.md"
   ]
 }

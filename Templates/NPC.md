@@ -1,5 +1,8 @@
 ---
 type: npc
+name: unknown
+location: unknown
+desc: tbd
 tags: Note <%tp.file.creation_date("YYYY")%>
 ---
 <%* 
