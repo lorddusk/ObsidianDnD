@@ -8,13 +8,15 @@ ac: 10
 hp: 6
 speed: 30ft 
 stats: [13, 14, 16, 9, 14, 16] 
+damage_resistances: string
 saves: 
 - <ability-score>: number 
 skillsaves: 
 - <skill-name>: number  
-languages: Common
+languages: Common, Celestial
 cr: 1
 ```
+
 
 Rolls:
 STR 13
@@ -25,3 +27,6 @@ WIS 14
 CHA 14
 
 Swapped CON with CHA (see above for actual rolls)
+
+Aasimar Scourge
+Light Cantrip
