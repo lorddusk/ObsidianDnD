@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c23024eef5ad6d4e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Red Hand of Doom/House Rules.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "26000bc07eb4956f"
-      },
-      {
         "id": "c418494a8a0960af",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/House Rules.md",
-            "mode": "preview",
+            "file": "Characters/Work in progress/Booker/Character Sheet.md",
+            "mode": "source",
             "source": false
           }
-        },
-        "group": "26000bc07eb4956f"
+        }
+      },
+      {
+        "id": "a6c2656b40578e87",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/Work in progress/Booker/Character Sheet.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/House Rules.md",
+                "file": "Characters/Work in progress/Booker/Character Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,14 +109,6 @@
             }
           },
           {
-            "id": "8c24c0e50a558096",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "ee72f83cc62929e0",
             "type": "leaf",
             "state": {
@@ -133,25 +123,34 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "acf718c0bca19a7c",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "c23024eef5ad6d4e",
+  "active": "c418494a8a0960af",
   "lastOpenFiles": [
-    "Red Hand of Doom/House Rules.md",
     "Characters/Work in progress/Booker/Character Sheet.md",
-    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
-    "Compendium Index.md",
-    "Characters/Work in progress/Filo/Character Sheet.md",
-    "Characters/Work in progress/Booker/Background.md",
     "Characters/Work in progress/Filo/Background.md",
+    "Characters/Work in progress/Booker/Background.md",
     "Templates/Session Notes.md",
-    "Red Hand of Doom/Session Notes/Session xx - 15 June 2022.md",
-    "Red Hand of Doom/Compendium/NPCs/Index.md"
+    "<%tp.file.creation_date(\"YYYY-MM-DD\")%>.md",
+    "Compendium Index.md",
+    "Red Hand of Doom/Compendium/Locations/Index.md",
+    "Red Hand of Doom/Compendium/NPCs/Index.md",
+    "Red Hand of Doom/House Rules.md",
+    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md"
   ]
 }
