@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Locations/Index.md",
-            "mode": "preview",
+            "file": "Characters/Work in progress/Booker/Character Sheet.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Index.md",
+                "file": "Characters/Work in progress/Booker/Character Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,14 +142,14 @@
   },
   "active": "a6c2656b40578e87",
   "lastOpenFiles": [
+    "Characters/Work in progress/Booker/Character Sheet.md",
+    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
     "Red Hand of Doom/Compendium/Locations/Index.md",
     "Red Hand of Doom/Compendium/Locations/Nimon Gap.md",
     "Red Hand of Doom/Compendium/Locations/Worldmap.md",
-    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
     "Red Hand of Doom/House Rules.md",
     "Red Hand of Doom/Compendium/Locations/Brindol.md",
     "Compendium Index.md",
-    "Characters/Work in progress/Booker/Character Sheet.md",
     "Templates/Location.md",
     "Characters/Work in progress/Filo/Background.md"
   ]
