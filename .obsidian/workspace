@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a6c2656b40578e87",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/Work in progress/Booker/Character Sheet.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "acaf62ef28ba3f69",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Compendium Index.md",
+            "file": "Red Hand of Doom/Compendium/Characters/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Work in progress/Booker/Character Sheet.md",
+                "file": "Red Hand of Doom/Compendium/Characters/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a6c2656b40578e87",
+  "active": "acaf62ef28ba3f69",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Characters/Untitled.md",
+    "Red Hand of Doom/Compendium/Characters/Danny.md",
+    "Red Hand of Doom/Compendium/Characters/Guido.md",
+    "Compendium Index.md",
+    "2022-07-23.md",
+    "Red Hand of Doom/Compendium/Locations/Worldmap.md",
     "Characters/Work in progress/Booker/Character Sheet.md",
     "Characters/Work in progress/Booker/Background.md",
-    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
-    "Red Hand of Doom/Compendium/Locations/Index.md",
-    "Red Hand of Doom/Compendium/Locations/Nimon Gap.md",
-    "Red Hand of Doom/Compendium/Locations/Worldmap.md",
-    "Red Hand of Doom/House Rules.md",
-    "Red Hand of Doom/Compendium/Locations/Brindol.md",
-    "Compendium Index.md",
-    "Templates/Location.md"
+    "Tags.md",
+    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md"
   ]
 }

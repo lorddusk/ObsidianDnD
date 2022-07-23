@@ -1,5 +1,5 @@
 ---
-type: location
+type: world
 tags: Note 2022
 ---
 
