@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "",
+  "collapse-filter": true,
+  "search": "path: Compendium file: -index",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -18,5 +18,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1.592997007321782,
-  "close": true
+  "close": false
 }
