@@ -17,3 +17,9 @@ cr: 1
 ```
 
 Rolls:
+STR 13
+DEX 14
+CON 15
+INT 9
+WIS 14
+CHA 14
