@@ -2,7 +2,7 @@
 name:
 player: Peter
 type: character
-tags: Note 2022
+tags: Party
 ---
 
 # Peter 

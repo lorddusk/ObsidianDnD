@@ -1,6 +1,6 @@
 ---
 type: location
-tags: Note 2022
+tags: Location
 ---
 
 # Nimon Gap 

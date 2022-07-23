@@ -3,7 +3,7 @@ name: Aelar
 surname: Amastacia
 player: Rob
 type: character
-tags: Note 2022
+tags: Party
 ---
 
 # Aelar Amastacia

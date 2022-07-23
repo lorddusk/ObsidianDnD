@@ -2,7 +2,7 @@
 name:
 player: Danny
 type: character
-tags: Note 2022
+tags: Party
 ---
 
 # Danny 

@@ -2,7 +2,7 @@
 name: Brindol
 desc: Small town
 type: location
-tags: Note 2022
+tags: Location
 ---
 
 # Brindol 

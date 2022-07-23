@@ -1,6 +1,6 @@
 ---
 type: location
-tags: Note <%tp.file.creation_date("YYYY")%>
+tags: Location
 ---
 <%* 
 	let title = tp.file.title 

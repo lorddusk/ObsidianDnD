@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "acaf62ef28ba3f69",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Red Hand of Doom/Compendium/Characters/Index.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "50607e25a6017f9d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Characters/Aelar.md",
+            "file": "Templates/Location.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Index.md",
+                "file": "Templates/Location.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "acaf62ef28ba3f69",
+  "active": "50607e25a6017f9d",
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium/Characters/Index.md",
-    "Red Hand of Doom/Compendium/Characters/Aelar.md",
-    "Red Hand of Doom/Compendium/Items/Index.md",
-    "Red Hand of Doom/Compendium/Locations/Index.md",
-    "Red Hand of Doom/Compendium/Characters/Peter.md",
-    "Red Hand of Doom/Compendium/Characters/Guido.md",
-    "Red Hand of Doom/Compendium/Characters/Danny.md",
-    "Red Hand of Doom/Compendium/Characters/Booker.md",
+    "Templates/Location.md",
+    "Templates/NPC.md",
+    "Tags.md",
     "Compendium Index.md",
-    "2022-07-23.md"
+    "Templates/Session Notes.md",
+    "Templates/Item.md",
+    "Templates/Character.md",
+    "Red Hand of Doom/Compendium/Locations/Worldmap.md",
+    "Red Hand of Doom/Compendium/Locations/Nimon Gap.md",
+    "Red Hand of Doom/Compendium/Locations/Brindol.md"
   ]
 }

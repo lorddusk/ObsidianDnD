@@ -1,6 +1,6 @@
 ---
 type: world
-tags: Note 2022
+tags: Location
 ---
 
 # World 
