@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Locations/Index.md",
+            "file": "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
             "mode": "preview",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Index.md",
+                "file": "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +142,8 @@
   },
   "active": "a6c2656b40578e87",
   "lastOpenFiles": [
+    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
+    "Red Hand of Doom/House Rules.md",
     "Red Hand of Doom/Compendium/Locations/Index.md",
     "Red Hand of Doom/Compendium/Locations/Brindol.md",
     "Compendium Index.md",
@@ -149,8 +151,6 @@
     "Red Hand of Doom/Compendium/Locations/Nimon Gap.md",
     "Characters/Work in progress/Booker/Character Sheet.md",
     "Templates/Location.md",
-    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
-    "Red Hand of Doom/House Rules.md",
     "Characters/Work in progress/Filo/Background.md"
   ]
 }
