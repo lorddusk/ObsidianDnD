@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Locations/Index.md",
+            "file": "Tags.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Locations/Index.md",
+            "file": "Tags.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Index.md",
+                "file": "Tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,14 +120,15 @@
   },
   "active": "28e1143d9e407e9e",
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium/Locations/Index.md",
-    "Red Hand of Doom/Compendium/NPCs/Index.md",
-    "Red Hand of Doom/Compendium/NPCs/Henk.md",
-    "Red Hand of Doom/Compendium/NPCs/Andries.md",
-    "Templates/NPC.md",
-    "Red Hand of Doom/Compendium/Items/Index.md",
-    "Red Hand of Doom/Compendium/Characters/Index.md",
+    "Tags.md",
     "Compendium Index.md",
-    "Tags.md"
+    "Red Hand of Doom/Session Notes/Session xx - 15 June 2022.md",
+    "Templates/Session Notes.md",
+    "Templates/NPC.md",
+    "Templates/Location.md",
+    "Templates/Item.md",
+    "Templates/Character.md",
+    "Red Hand of Doom/Compendium/NPCs/Index.md",
+    "Red Hand of Doom/Compendium/Locations/Index.md"
   ]
 }
