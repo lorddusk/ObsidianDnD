@@ -1,12 +1,10 @@
 ---
-name:
-player: Danny
 type: character
 tags: Note 2022
 ---
 
-# Danny 
+# Rob 
 ___ 
 ## References: - 
 --- 
-creation date:: [[2022-07-23]] 22:28
+creation date:: [[2022-07-23]] 22:29

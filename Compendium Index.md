@@ -1,5 +1,5 @@
 # Red Hand of Doom
-<span class="nav">[Sessions](#Sessions) [Characters](#Characters) [Locations](#Locations) [NPCs](#NPCs) [Items](#Items)</span>
+<span class="nav">[Sessions](#Sessions)<br/>[Characters](#Characters)<br/>[Locations](#Locations)<br/>[NPCs](#NPCs)<br/>[Items](#Items)</span>
 
 
 ## Session Notes
