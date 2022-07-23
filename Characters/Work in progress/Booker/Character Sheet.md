@@ -14,7 +14,7 @@ saves:
 skillsaves: 
 - <skill-name>: number  
 languages: Common
-cr: 5
+cr: 1
 spells: 
 - <description> 
 - <spell level>: <spell-list> 
