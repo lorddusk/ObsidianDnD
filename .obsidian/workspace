@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "28e1143d9e407e9e",
+        "id": "c23024eef5ad6d4e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tags.md",
+            "file": "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "0799dbf27798d4b5"
-      },
-      {
-        "id": "411cb856c9737485",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Tags.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "0799dbf27798d4b5"
+        }
       }
     ],
     "direction": "vertical"
@@ -67,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313
+    "width": 349
   },
   "right": {
     "id": "d2e9448ef357e2fe",
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags.md",
+                "file": "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,32 +89,55 @@
             }
           },
           {
-            "id": "8c060105c1f8dc98",
+            "id": "fc661439ddcc0540",
             "type": "leaf",
             "state": {
-              "type": "DICE_ROLLER_VIEW",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c24c0e50a558096",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee72f83cc62929e0",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "877db2817f45ed2a",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "28e1143d9e407e9e",
+  "active": "c23024eef5ad6d4e",
   "lastOpenFiles": [
-    "Tags.md",
-    "Compendium Index.md",
-    "Red Hand of Doom/Session Notes/Session xx - 15 June 2022.md",
+    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
     "Templates/Session Notes.md",
-    "Templates/NPC.md",
-    "Templates/Location.md",
-    "Templates/Item.md",
-    "Templates/Character.md",
+    "Red Hand of Doom/Session Notes/Session xx - 15 June 2022.md",
     "Red Hand of Doom/Compendium/NPCs/Index.md",
-    "Red Hand of Doom/Compendium/Locations/Index.md"
+    "Characters/Work in progress/Mordecai/Character Sheet.md",
+    "Characters/Work in progress/Mordecai/Background.md",
+    "Characters/Work in progress/Filo/Character Sheet.md",
+    "Characters/Work in progress/Filo/Background.md",
+    "Red Hand of Doom/Extended Notes/POIs/Untitled.md",
+    "Red Hand of Doom/Extended Notes/NPCs/Untitled.md"
   ]
 }
