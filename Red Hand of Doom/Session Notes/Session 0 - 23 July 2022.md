@@ -19,7 +19,7 @@ Reroll all if no stat is higher than 1x15 or 2x14.
 
 When rolling a new character after character death, the limitation on rolling stats in order is removed.
 
-**2. Sourcebooks:** Player’s Handbook, Sword Coast Adventurer’s Guide, Volo’s Guide to monsters, Tasha’s Couldron of Everything*, Fizban’s Treasury of dragons.
+**2. Sourcebooks:** Player’s Handbook, Sword Coast Adventurer’s Guide, Volo’s Guide to monsters, Tasha’s Cauldron of Everything*, Xanathar's Guide to Everything, Fizban’s Treasury of dragons.
 
 *Tasha’s character creation options are disabled, class options and spells are enabled*
 
