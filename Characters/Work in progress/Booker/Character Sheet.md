@@ -14,7 +14,6 @@ skillsaves:
 - <skill-name>: number  
 languages: Common
 cr: 1
-spells: 
-- <description> 
-- <spell level>: <spell-list> 
 ```
+
+Rolls:
