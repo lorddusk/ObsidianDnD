@@ -1,9 +1,10 @@
 {
   "interfaceFontFamily": "Fira Code",
   "monospaceFontFamily": "Fira Code",
-  "cssTheme": "Things",
+  "cssTheme": "Discordian",
   "enabledCssSnippets": [
     "larger popup",
     "headercolors"
-  ]
+  ],
+  "translucency": false
 }

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Work in progress/Booker/Character Sheet.md",
-            "mode": "source",
+            "file": "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -140,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c418494a8a0960af",
+  "active": "a6c2656b40578e87",
   "lastOpenFiles": [
     "Characters/Work in progress/Booker/Character Sheet.md",
+    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
+    "Red Hand of Doom/House Rules.md",
     "Characters/Work in progress/Filo/Background.md",
+    "Characters/Work in progress/Filo/Character Sheet.md",
+    "Red Hand of Doom/Compendium/NPCs/Index.md",
     "Characters/Work in progress/Booker/Background.md",
     "Templates/Session Notes.md",
     "<%tp.file.creation_date(\"YYYY-MM-DD\")%>.md",
-    "Compendium Index.md",
-    "Red Hand of Doom/Compendium/Locations/Index.md",
-    "Red Hand of Doom/Compendium/NPCs/Index.md",
-    "Red Hand of Doom/House Rules.md",
-    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md"
+    "Compendium Index.md"
   ]
 }

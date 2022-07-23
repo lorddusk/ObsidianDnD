@@ -5,8 +5,7 @@ size: Medium
 type: Humanoid  
 alignment: Neutral
 ac: 10
-hp: 6 
-hit_dice: 1d6 
+hp: 6
 speed: 30ft 
 stats: [10, 10, 10, 10, 10, 10] 
 saves: 
