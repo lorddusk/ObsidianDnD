@@ -8,6 +8,7 @@ tags: Location
 # Brindol 
 **Points of Interest**
 - Adventurers Guild
+
 ___ 
 ## References: - 
 --- 

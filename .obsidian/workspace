@@ -7,8 +7,12 @@
         "id": "50607e25a6017f9d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +130,15 @@
   },
   "active": "50607e25a6017f9d",
   "lastOpenFiles": [
+    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
+    "Red Hand of Doom/Compendium/NPCs/Index.md",
+    "Red Hand of Doom/Compendium/Locations/Brindol.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
-    "Compendium Index.md",
-    "Templates/Location.md",
-    "Templates/NPC.md",
-    "Tags.md",
-    "Templates/Session Notes.md",
+    "Red Hand of Doom/Compendium/Items/Pipa.md",
     "Templates/Item.md",
-    "Templates/Character.md",
+    "Red Hand of Doom/Compendium/Characters/Aelar.md",
     "Red Hand of Doom/Compendium/Locations/Worldmap.md",
-    "Red Hand of Doom/Compendium/Locations/Nimon Gap.md"
+    "Compendium Index.md",
+    "Templates/Location.md"
   ]
 }
