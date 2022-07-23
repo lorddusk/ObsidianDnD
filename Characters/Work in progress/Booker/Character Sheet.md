@@ -4,11 +4,12 @@ name: Booker
 size: Medium
 type: Aasimar (Scourge)  
 alignment: Neutral
-ac: 10
-hp: 6
-speed: 30ft 
+ac: 13
+hp: 16
+speed: 30ft.
 stats: [13, 14, 16, 9, 14, 16] 
-damage_resistances: string
+damage_resistances: Necrotic, Radiant
+senses: Darkvision 60ft.
 saves: 
 - <ability-score>: number 
 skillsaves: 
