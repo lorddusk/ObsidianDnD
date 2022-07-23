@@ -1,6 +1,6 @@
 ```statblock 
 image: [[Wikilink To Image]] 
-name: Mordecai
+name: Booker
 size: Medium
 type: Humanoid  
 alignment: Neutral
@@ -14,7 +14,7 @@ saves:
 skillsaves: 
 - <skill-name>: number  
 languages: Common
-cr: number 
+cr: 5
 spells: 
 - <description> 
 - <spell level>: <spell-list> 
