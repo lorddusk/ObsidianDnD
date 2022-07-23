@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Characters/Guido.md",
+            "file": "Red Hand of Doom/Compendium/Characters/Index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "50607e25a6017f9d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Red Hand of Doom/Compendium/Characters/Aelar.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Guido.md",
+                "file": "Red Hand of Doom/Compendium/Characters/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,15 +142,15 @@
   },
   "active": "acaf62ef28ba3f69",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Characters/Index.md",
+    "Red Hand of Doom/Compendium/Characters/Aelar.md",
+    "Red Hand of Doom/Compendium/Items/Index.md",
+    "Red Hand of Doom/Compendium/Locations/Index.md",
+    "Red Hand of Doom/Compendium/Characters/Peter.md",
     "Red Hand of Doom/Compendium/Characters/Guido.md",
     "Red Hand of Doom/Compendium/Characters/Danny.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Compendium Index.md",
-    "Red Hand of Doom/Compendium/Characters/Index.md",
-    "Red Hand of Doom/Compendium/Characters/Rob.md",
-    "Red Hand of Doom/Compendium/Characters/Peter.md",
-    "2022-07-23.md",
-    "Red Hand of Doom/Compendium/Locations/Worldmap.md",
-    "Characters/Work in progress/Booker/Character Sheet.md"
+    "2022-07-23.md"
   ]
 }

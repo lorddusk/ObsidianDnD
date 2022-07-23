@@ -1,4 +1,6 @@
 ---
+name:
+player: Guido
 type: character
 tags: Note 2022
 ---

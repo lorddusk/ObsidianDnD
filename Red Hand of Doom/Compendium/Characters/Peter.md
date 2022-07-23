@@ -1,4 +1,6 @@
 ---
+name:
+player: Peter
 type: character
 tags: Note 2022
 ---
