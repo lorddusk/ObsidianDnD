@@ -6,5 +6,6 @@
     "larger popup",
     "headercolors"
   ],
-  "translucency": false
+  "translucency": false,
+  "baseFontSize": 17
 }
