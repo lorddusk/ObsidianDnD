@@ -4,6 +4,7 @@ tags: Note 2022
 ---
 
 # World 
+![[world.png]]
 ___ 
 ## References: - 
 --- 
