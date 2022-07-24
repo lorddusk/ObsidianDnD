@@ -1,0 +1,9 @@
+.nav-folder.mod-root>.nav-folder-children .nav-folder>.nav-folder-title[data-path*="/Templates"], .nav-folder.mod-root>.nav-folder-children .nav-folder>.nav-folder-title[data-path*="/Templates"] + .nav-folder-children{
+     display: none;
+}
+ .nav-folder.mod-root>.nav-folder-children .nav-folder>.nav-folder-title[data-path*="/Attachments"], .nav-folder.mod-root>.nav-folder-children .nav-folder>.nav-folder-title[data-path*="/Attachments"] + .nav-folder-children{
+     display: none;
+}
+ .nav-folder.mod-root>.nav-folder-children .nav-folder>.nav-folder-title[data-path*="/Resources"], .nav-folder.mod-root>.nav-folder-children .nav-folder>.nav-folder-title[data-path*="/Resources"] + .nav-folder-children{
+     display: none;
+}
