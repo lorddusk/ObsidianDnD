@@ -1,6 +1,6 @@
 ---
 type: character
-tags: Note <%tp.file.creation_date("YYYY")%>
+tags: Party
 ---
 <%* 
 	let title = tp.file.title 

@@ -19,16 +19,16 @@
       "template": "Templates/Session Notes.md"
     },
     {
+      "folder": "Red Hand of Doom/Compendium/Locations",
+      "template": "Templates/Location.md"
+    },
+    {
       "folder": "Red Hand of Doom/Compendium/Characters",
       "template": "Templates/Character.md"
     },
     {
       "folder": "Red Hand of Doom/Compendium/Items",
       "template": "Templates/Item.md"
-    },
-    {
-      "folder": "Red Hand of Doom/Compendium/Locations",
-      "template": "Templates/Location.md"
     },
     {
       "folder": "Red Hand of Doom/Compendium/NPCs",
