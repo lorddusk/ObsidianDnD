@@ -4,6 +4,8 @@ tags: Location
 ---
 
 # World 
+```
+```
 ![[world.png]]
 ___ 
 ## References: - 

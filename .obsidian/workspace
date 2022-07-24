@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Booker/Character Sheet.md",
+            "file": "Red Hand of Doom/Compendium/Locations/Worldmap.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Character Sheet.md",
+                "file": "Red Hand of Doom/Compendium/Locations/Worldmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Character Sheet.md"
+                "file": "Red Hand of Doom/Compendium/Locations/Worldmap.md"
               }
             }
           },
@@ -125,12 +125,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "409bd1375132a0de",
+  "active": "28e1143d9e407e9e",
   "lastOpenFiles": [
+    "Characters/Booker/Character Sheet.md",
     "Resources/Booker Crest Lvl 1 Obsidian.pdf",
     "Resources/Booker Crest Lvl 1.pdf",
     "Resources/Booker Crest Lvl 1 Flattened.pdf",
-    "Characters/Booker/Character Sheet.md",
     "Resources/world.png",
     "Red Hand of Doom/Compendium/Characters/Aelar.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
