@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/NPCs/Index.md",
+            "file": "Characters/Booker/Character Sheet.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/Index.md",
+                "file": "Characters/Booker/Character Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/Index.md"
+                "file": "Characters/Booker/Character Sheet.md"
               }
             }
           },
@@ -127,15 +127,15 @@
   },
   "active": "28e1143d9e407e9e",
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium/Locations/Index.md",
-    "Red Hand of Doom/Compendium/Items/Index.md",
     "Red Hand of Doom/Compendium/Characters/Index.md",
+    "Red Hand of Doom/Compendium/Items/Index.md",
+    "Red Hand of Doom/Compendium/NPCs/Index.md",
+    "Red Hand of Doom/Compendium/Locations/Index.md",
     "Red Hand of Doom/Compendium/Characters/Peter.md",
     "Red Hand of Doom/Compendium/Characters/Guido.md",
     "Red Hand of Doom/Compendium/Characters/Danny.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Compendium Index.md",
-    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
-    "Red Hand of Doom/House Rules.md"
+    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md"
   ]
 }
