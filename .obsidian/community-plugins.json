@@ -9,7 +9,8 @@
   "obsidian-leaflet-plugin",
   "obsidian-5e-statblocks",
   "dataview",
-  "obsidian-dice-roller",
   "obsidian-admonition",
-  "obsidian-outliner"
+  "obsidian-dice-roller",
+  "obsidian-outliner",
+  "oz-image-plugin"
 ]
