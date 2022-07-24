@@ -4,7 +4,8 @@
   "cssTheme": "",
   "enabledCssSnippets": [
     "larger popup",
-    "headercolors"
+    "headercolors",
+    "hide folders"
   ],
   "translucency": false,
   "baseFontSize": 16
