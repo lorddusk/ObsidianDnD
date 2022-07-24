@@ -9,7 +9,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "Resources/Booker Crest Lvl 1.pdf"
+            "file": "Resources/Booker Crest Lvl 1 Flattened.pdf"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Booker Crest Lvl 1.pdf",
+                "file": "Resources/Booker Crest Lvl 1 Flattened.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Booker Crest Lvl 1.pdf"
+                "file": "Resources/Booker Crest Lvl 1 Flattened.pdf"
               }
             }
           },
@@ -123,17 +123,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "409bd1375132a0de",
+  "active": "28e1143d9e407e9e",
   "lastOpenFiles": [
-    "Resources/world.png",
     "Resources/Booker Crest Lvl 1.pdf",
+    "Resources/Booker Crest Lvl 1 Flattened.pdf",
+    "Resources/world.png",
     "Characters/Work in progress/Booker/Character Sheet.md",
     "Red Hand of Doom/Compendium/Characters/Aelar.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
     "conflict-files-obsidian-git.md",
     "Characters/Work in progress/Booker/Background.md",
     "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
-    "Red Hand of Doom/Compendium/Characters/Index.md",
-    "Compendium Index.md"
+    "Red Hand of Doom/Compendium/Characters/Index.md"
   ]
 }
