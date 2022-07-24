@@ -12,13 +12,12 @@ lat: 50
 long: 50
 minZoom: 1
 maxZoom: 10
-defaultZoom :5
+defaultZoom: 
 unit: meters
 scale: 1
 markers: default
 darkMode: true
 ```
-![[world.png]]
 ___ 
 ## References: - 
 --- 
