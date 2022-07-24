@@ -1,5 +1,36 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "world",
+      "lastAccessed": 1658675708039,
+      "markers": [
+        {
+          "id": "ID_7a1bcb8a6a78",
+          "type": "default",
+          "loc": [
+            -1.17578125,
+            1.20703125
+          ],
+          "layer": "%5B%5Bworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.403921568627451,
+            0.4773988897700238
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Red Hand of Doom/Compendium/Locations/Worldmap.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
