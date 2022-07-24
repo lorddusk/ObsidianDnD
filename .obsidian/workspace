@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Characters/Index.md",
+            "file": "Characters/Work in progress/Booker/Character Sheet.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Characters/Index.md",
+            "file": "Characters/Work in progress/Booker/Character Sheet.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Index.md",
+                "file": "Characters/Work in progress/Booker/Character Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Index.md"
+                "file": "Characters/Work in progress/Booker/Character Sheet.md"
               }
             }
           },
@@ -141,15 +141,15 @@
   },
   "active": "28e1143d9e407e9e",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Characters/Aelar.md",
+    "Red Hand of Doom/Compendium/Characters/Booker.md",
+    "Characters/Work in progress/Booker/Character Sheet.md",
+    "conflict-files-obsidian-git.md",
+    "Characters/Work in progress/Booker/Background.md",
+    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
     "Red Hand of Doom/Compendium/Characters/Index.md",
     "Compendium Index.md",
     "Red Hand of Doom/Compendium/Items/Index.md",
-    "Red Hand of Doom/Compendium/Locations/Index.md",
-    "Red Hand of Doom/Compendium/NPCs/Index.md",
-    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
-    "Templates/Session Notes.md",
-    "Tags.md",
-    "Templates/NPC.md",
-    "Templates/Location.md"
+    "Red Hand of Doom/Compendium/Locations/Index.md"
   ]
 }
