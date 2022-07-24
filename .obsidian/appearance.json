@@ -1,11 +1,11 @@
 {
   "interfaceFontFamily": "Fira Code",
   "monospaceFontFamily": "Fira Code",
-  "cssTheme": "Things",
+  "cssTheme": "Obsidian Nord",
   "enabledCssSnippets": [
     "larger popup",
     "headercolors"
   ],
   "translucency": false,
-  "baseFontSize": 17
+  "baseFontSize": 16
 }
