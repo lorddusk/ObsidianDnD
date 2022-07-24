@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tags.md",
+            "file": "Red Hand of Doom/Compendium/Characters/Index.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tags.md",
+            "file": "Red Hand of Doom/Compendium/Characters/Index.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags.md",
+                "file": "Red Hand of Doom/Compendium/Characters/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,28 @@
             }
           },
           {
-            "id": "8c060105c1f8dc98",
+            "id": "7bfea6a361487c52",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "56f2aba7eaaded3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Red Hand of Doom/Compendium/Characters/Index.md"
+              }
+            }
+          },
+          {
+            "id": "1b114ddfcd7062b4",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -120,15 +141,15 @@
   },
   "active": "28e1143d9e407e9e",
   "lastOpenFiles": [
-    "Tags.md",
+    "Red Hand of Doom/Compendium/Characters/Index.md",
     "Compendium Index.md",
-    "Red Hand of Doom/Session Notes/Session xx - 15 June 2022.md",
-    "Templates/Session Notes.md",
-    "Templates/NPC.md",
-    "Templates/Location.md",
-    "Templates/Item.md",
-    "Templates/Character.md",
+    "Red Hand of Doom/Compendium/Items/Index.md",
+    "Red Hand of Doom/Compendium/Locations/Index.md",
     "Red Hand of Doom/Compendium/NPCs/Index.md",
-    "Red Hand of Doom/Compendium/Locations/Index.md"
+    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
+    "Templates/Session Notes.md",
+    "Tags.md",
+    "Templates/NPC.md",
+    "Templates/Location.md"
   ]
 }
