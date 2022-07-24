@@ -9,7 +9,7 @@ where type="session"
 sort file.name asc
 ```
 
-## Characters
+## Characters**
 ```dataview
 list from "Red Hand of Doom/Compendium"
 where type="character"
