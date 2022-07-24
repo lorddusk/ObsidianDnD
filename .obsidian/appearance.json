@@ -1,7 +1,7 @@
 {
   "interfaceFontFamily": "Fira Code",
   "monospaceFontFamily": "Fira Code",
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "larger popup",
     "headercolors"
