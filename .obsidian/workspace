@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Compendium Index.md",
+            "file": "Tags.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compendium Index.md",
+                "file": "Tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compendium Index.md"
+                "file": "Tags.md"
               }
             }
           },
@@ -125,8 +125,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "409bd1375132a0de",
+  "active": "28e1143d9e407e9e",
   "lastOpenFiles": [
+    "Compendium Index.md",
     "Red Hand of Doom/Compendium/NPCs/Index.md",
     "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
     "Red Hand of Doom/Compendium/Characters/Peter.md",
@@ -135,7 +136,6 @@
     "Red Hand of Doom/Compendium/Characters/Aelar.md",
     "Red Hand of Doom/Worldmap.md",
     "Red Hand of Doom/House Rules.md",
-    "Red Hand of Doom/Compendium/Characters/Index.md",
-    "Characters/Booker/Character Sheet.md"
+    "Red Hand of Doom/Compendium/Characters/Index.md"
   ]
 }
