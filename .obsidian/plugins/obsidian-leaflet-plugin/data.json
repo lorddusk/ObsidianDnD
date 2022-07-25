@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "world",
-      "lastAccessed": 1658782420920,
+      "lastAccessed": 1658782558572,
       "markers": [
         {
           "id": "ID_5a8919a9c829",
@@ -51,7 +51,7 @@
     },
     {
       "id": "elsir",
-      "lastAccessed": 1658782420920,
+      "lastAccessed": 1658782558572,
       "markers": [
         {
           "id": "ID_0a1848eaeb78",
@@ -77,7 +77,7 @@
           "id": "ID_0939896868c8",
           "type": "default",
           "loc": [
-            -1.0703125,
+            -1.06640625,
             1.783203125
           ],
           "link": "Nimon Gap",
@@ -86,7 +86,27 @@
           "command": false,
           "percent": [
             0.570625,
-            0.524904214559387
+            0.5229885057471264
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b98f92b78aa",
+          "type": "default",
+          "loc": [
+            -0.9453125,
+            1.947265625
+          ],
+          "link": "Talar",
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.623125,
+            0.46360153256704983
           ],
           "description": null,
           "minZoom": null,
