@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b0b9ec3a3824dc5f",
+        "id": "6936dc38f1a73729",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -116,17 +116,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "409bd1375132a0de",
+  "active": "6936dc38f1a73729",
   "lastOpenFiles": [
+    "Red Hand of Doom/House Rules.md",
+    "_Index_of_D&D.md",
+    "Red Hand of Doom/Compendium/Locations/_Index_of_Locations.md",
     "Red Hand of Doom/Compendium/Events/_Index_of_Events.md",
     "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
     "Characters/_Index_of_Characters.md",
-    "_Index_of_D&D.md",
     "Red Hand of Doom/_Index_of_Red Hand of Doom.md",
-    "Red Hand of Doom/House Rules.md",
     "Red Hand of Doom/Compendium/Characters/Index.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Rhest.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
-    "Compendium Index.md"
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md"
   ]
 }
