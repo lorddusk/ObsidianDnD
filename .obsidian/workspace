@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "deaa841ebff39fd9",
+        "id": "c1477ccc5500d351",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Red Hand of Doom/House Rules.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Red Hand of Doom/House Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Red Hand of Doom/House Rules.md"
+              }
             }
           },
           {
@@ -116,17 +123,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "deaa841ebff39fd9",
+  "active": "c1477ccc5500d351",
   "lastOpenFiles": [
+    "Compendium Index.md",
+    "Red Hand of Doom/Compendium/Items/Potion of Healing.md",
+    "House Rules/Mechanics & Combat/Potions.md",
     "Red Hand of Doom/House Rules.md",
     "House Rules/Inspiration.md",
     "House Rules/Inspiration/Inspired Saving Throws.md",
     "House Rules/Inspiration/I have a thing for that.md",
     "House Rules/Inspiration/Party Inspiration.md",
     "House Rules/Inspiration/DM Inspiration.md",
-    "House Rules/Rule of Cool/Burgeoning Heroes.md",
-    "House Rules/Mechanics & Combat.md",
-    "House Rules/Rule of Cool.md",
-    "House Rules/Rule of Cool/Vicious Mockery.md"
+    "House Rules/Rule of Cool/Burgeoning Heroes.md"
   ]
 }
