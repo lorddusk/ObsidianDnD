@@ -1,5 +1,15 @@
+**Rules of Cool**
+
 *Burgeoning Heroes*
 Each character starts with 5 extra hit points.
 
 *Vicious Mockery*
-If the bard uses vicious mockery and their insult makes the DM laught, the target automatically fails 
+If the bard uses vicious mockery and their insult makes the DM laught, the target automatically fails their saving throw.
+
+**Mechanics & Combat**
+
+*Potions*
+Drinking a potion is a bonus action, administering one is an action.
+
+**
+
