@@ -19,6 +19,7 @@ unit: meters
 scale: 1
 darkMode: false
 ```
+- Stretches 250 miles by 70 miles
 ___ 
 ## References: - 
 --- 
