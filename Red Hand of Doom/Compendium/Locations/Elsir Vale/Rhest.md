@@ -7,7 +7,7 @@ tags: Location
 
 # Rhest 
 - Took control of the [[Elsir Vale]] about 500 years ago
-- 
+- 200 years ago the city was burned by a savage horde out of the [[Wyrmsmoke Mountains]].
 ___ 
 ## References: - 
 --- 
