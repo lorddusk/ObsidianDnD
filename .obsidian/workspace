@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c1477ccc5500d351",
+        "id": "32b25e65169b72c0",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -16,11 +16,15 @@
         }
       },
       {
-        "id": "32b25e65169b72c0",
+        "id": "aaa07b1eec72b76a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "House Rules/Third Party Additions.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -77,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "House Rules/Third Party Additions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "House Rules/Third Party Additions.md"
+              }
             }
           },
           {
@@ -128,8 +135,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "409bd1375132a0de",
+  "active": "aaa07b1eec72b76a",
   "lastOpenFiles": [
+    "House Rules/Third Party Additions.md",
     "Red Hand of Doom/House Rules.md",
     "Third Party Additions.md",
     "House Rules/Inspiration.md",
@@ -138,7 +146,6 @@
     "House Rules/Mechanics & Combat/Potions.md",
     "House Rules/Inspiration/Inspired Saving Throws.md",
     "House Rules/Inspiration/I have a thing for that.md",
-    "House Rules/Inspiration/Party Inspiration.md",
-    "House Rules/Inspiration/DM Inspiration.md"
+    "House Rules/Inspiration/Party Inspiration.md"
   ]
 }
