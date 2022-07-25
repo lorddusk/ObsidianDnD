@@ -5,7 +5,8 @@ tags: Location
 ---
 
 # Nimon Gap 
-- [[Harvest Festival]]
+### Points of Interest
+- Home of the [[Harvest Festival]]
 ___ 
 ## References: - 
 --- 
