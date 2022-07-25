@@ -1,0 +1,1 @@
+*Stealth:* Players roll (Dex) Stealth rolls only at the point of possible detection, when mentioned players want to go 'into stealth mode'. Rolls will be made when someone could see them or is looking for them.

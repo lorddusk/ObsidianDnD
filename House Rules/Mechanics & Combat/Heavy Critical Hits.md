@@ -1,0 +1,1 @@
+*Heavy Critical Hits:* when you roll a natural 20 on an attack, roll your damage rolls, and add the maximum they could have rolled to that number.

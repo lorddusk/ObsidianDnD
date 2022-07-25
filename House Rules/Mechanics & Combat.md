@@ -1,12 +1,12 @@
 **Mechanics & Combat**
 
-*Potions:* Drinking a potion is a bonus action, administering one is an action.
+[[Potions]]
 
-*Stealth:* Players roll (Dex) Stealth rolls only at the point of possible detection, when mentioned players want to go 'into stealth mode'. Rolls will be made when someone could see them or is looking for them.
+[[Stealth]]
 
-*Heavy Critical Hits:* when you roll a natural 20 on an attack, roll your damage rolls, and add the maximum they could have rolled to that number.
+[[Heavy Critical Hits]]
 
-*Exhausting Critical:* Characters can turn a hit into a critical by suffering 2 exhaustion levels. when a bossfight comes to the very end, both character and nemesis are wounded, tired and exhausted, you can exceed your limits to deliver a critical blow.
+[[Exhausting Critical]]
 
 *Teamwork Initiative:* On the first turn of combat, allow players to lower their initiative to one point lower than that of an ally. this can allow for enhanced teamwork, cool combinations and interesting tactics.  
   

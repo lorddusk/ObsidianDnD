@@ -1,0 +1,1 @@
+*Exhausting Critical:* Characters can turn a hit into a critical by suffering 2 exhaustion levels. when a bossfight comes to the very end, both character and nemesis are wounded, tired and exhausted, you can exceed your limits to deliver a critical blow.

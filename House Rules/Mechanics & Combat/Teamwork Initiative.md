@@ -1,0 +1,1 @@
+*Teamwork Initiative:* On the first turn of combat, allow players to lower their initiative to one point lower than that of an ally. this can allow for enhanced teamwork, cool combinations and interesting tactics. 
