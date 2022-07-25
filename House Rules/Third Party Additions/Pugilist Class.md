@@ -1,0 +1,1 @@
+A boxer/brawler style class
