@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6936dc38f1a73729",
+        "id": "79e19b361bcc9c01",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Compendium Index.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,7 +69,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "Compendium Index.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Compendium Index.md"
+              }
             }
           },
           {
@@ -110,23 +117,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6936dc38f1a73729",
+  "active": "56f2aba7eaaded3d",
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Rhest.md",
-    "Red Hand of Doom/Compendium/Characters/Aelar.md",
-    "Red Hand of Doom/Compendium/Characters/Booker.md",
-    "Red Hand of Doom/Compendium/Locations/Crestbrook.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md",
-    "Characters/Booker/Background.md",
-    "Characters/Booker/Character Sheet.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/The Witchwood.md"
+    "Red Hand of Doom/Compendium/Characters/Booker.md",
+    "Red Hand of Doom/Compendium/Characters/Guido.md",
+    "Red Hand of Doom/Compendium/Characters/Danny.md",
+    "Red Hand of Doom/Compendium/Characters/Aelar.md",
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Rhest.md",
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
+    "Red Hand of Doom/Compendium/Characters/Peter.md",
+    "Red Hand of Doom/Compendium/Locations/Crestbrook.md",
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md"
   ]
 }
