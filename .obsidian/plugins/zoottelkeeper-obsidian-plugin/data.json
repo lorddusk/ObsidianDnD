@@ -9,7 +9,7 @@
   "folderEmoji": ":card_index_dividers:",
   "fileEmoji": ":page_facing_up:",
   "enableEmojis": false,
-  "foldersExcluded": "",
+  "foldersExcluded": "Characters/*\nSession Notes/*",
   "foldersIncluded": "Red Hand of Doom/Compendium/Characters/\nRed Hand of Doom/Compendium/Events/\nRed Hand of Doom/Compendium/Items/\nRed Hand of Doom/Compendium/Locations/*\nRed Hand of Doom/Compendium/NPCs/",
   "sortOrder": "asc",
   "addSquareBrackets": true,
