@@ -4,7 +4,6 @@ tags: Item
 ---
 
 # Potion of Healing 
-[[House Rules/Potion]]
 ___ 
 ## References: - 
 --- 
