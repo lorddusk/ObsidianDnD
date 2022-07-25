@@ -1,4 +1,6 @@
 ---
+name: Elsir Vale
+desc: Region
 type: location
 tags: Location
 ---
