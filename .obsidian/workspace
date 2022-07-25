@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Worldmap.md",
+                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Worldmap.md"
+                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale.md"
               }
             }
           },
@@ -135,10 +135,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fce8d2add9bdf335",
+  "active": "28e1143d9e407e9e",
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale.md",
     "Red Hand of Doom/Worldmap.md",
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale.md",
     "Red Hand of Doom/Compendium/Locations/Index.md",
     "Red Hand of Doom/House Rules.md",
     "Characters/Booker/Character Sheet.md",

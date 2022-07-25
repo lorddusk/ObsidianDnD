@@ -1,58 +1,5 @@
 {
-  "mapMarkers": [
-    {
-      "id": "world",
-      "lastAccessed": 1658781687240,
-      "markers": [
-        {
-          "id": "ID_4a99dbe9284b",
-          "type": "default",
-          "loc": [
-            -0.890625,
-            2.205078125
-          ],
-          "link": "Brindol",
-          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.70625,
-            0.44157088122605365
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_9b3bb9590a8b",
-          "type": "default",
-          "loc": [
-            -1.06640625,
-            1.779296875
-          ],
-          "link": "Nimon Gap",
-          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.569375,
-            0.5229885057471264
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Red Hand of Doom/Worldmap.md",
-        "Red Hand of Doom/Compendium/Locations/Elsir Vale.md"
-      ]
-    }
-  ],
+  "mapMarkers": [],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
@@ -83,7 +30,7 @@
       "type": "Elsir",
       "iconName": "map-pin",
       "color": "#662ad5",
-      "layer": true,
+      "layer": false,
       "transform": {
         "size": 6,
         "x": 0,
