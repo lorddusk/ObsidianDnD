@@ -1,5 +1,93 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "world",
+      "lastAccessed": 1658781807286,
+      "markers": [
+        {
+          "id": "ID_5a8919a9c829",
+          "type": "World",
+          "loc": [
+            -1.57354736328125,
+            2.31884765625
+          ],
+          "link": "Brindol",
+          "layer": "%5B%5Bworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b7b5b198908",
+          "type": "World",
+          "loc": [
+            -1.2734375,
+            2.203125
+          ],
+          "link": "Nimon Gap",
+          "layer": "%5B%5Bworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7372549019607844,
+            0.5170499603489295
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a79e8ba596a",
+          "type": "Elsir",
+          "loc": [
+            -0.904296875,
+            2.205078125
+          ],
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.705625,
+            0.4434865900383142
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8abf8f94828",
+          "type": "Elsir",
+          "loc": [
+            -1.06640625,
+            1.783203125
+          ],
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.570625,
+            0.5229885057471264
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Red Hand of Doom/Worldmap.md",
+        "Red Hand of Doom/Compendium/Locations/Elsir Vale.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
