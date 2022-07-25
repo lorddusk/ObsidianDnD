@@ -2,7 +2,6 @@
 name: Aelar
 surname: Amastacia
 player: Rob
-home: [[The Witchwood]]
 type: character
 tags: Party
 ---
