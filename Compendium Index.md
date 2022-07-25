@@ -1,5 +1,5 @@
 # Red Hand of Doom
-<span class="nav">[Sessions](#Sessions)<br/>[Characters](#Characters)<br/>[Locations](#Locations)<br/>[NPCs](#NPCs)<br/>[Items](#Items)</span>
+<span class="nav">[Sessions](#Sessions)<br/>[Characters](#Characters)<br/>[Locations](#Locations)<br/>[NPCs](#NPCs)<br/>[Items](#Items)<br/>[Events](#Events)</span>
 
 
 ## Session Notes
@@ -37,3 +37,9 @@ where type="item"
 sort file.name asc
 ```
 
+## Events
+```dataview
+list from "Red Hand of Doom/Compendium"
+where type="event"
+sort file.name asc
+```

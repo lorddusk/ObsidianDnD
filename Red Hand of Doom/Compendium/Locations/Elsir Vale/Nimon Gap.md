@@ -5,7 +5,7 @@ tags: Location
 ---
 
 # Nimon Gap 
-Start location during the Harvest Festival
+- [[Harvest Festival]]
 ___ 
 ## References: - 
 --- 
