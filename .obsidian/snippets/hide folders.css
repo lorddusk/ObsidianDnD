@@ -9,3 +9,9 @@ div[data-path='Templates'] + div.nav-folder-children
 {
     display: none;
 }
+
+div[data-path='House Rules'], 
+div[data-path='House Rules'] + div.nav-folder-children 
+{
+    display: none;
+}
