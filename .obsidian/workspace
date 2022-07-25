@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "28e1143d9e407e9e",
+        "id": "6a47fb04d1935807",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/House Rules.md",
+            "file": "Red Hand of Doom/Compendium/Items/Potion of Healing.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "a8fb4660d3029214",
+        "id": "fbb43f3748e12304",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -135,17 +135,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "28e1143d9e407e9e",
+  "active": "fbb43f3748e12304",
   "lastOpenFiles": [
     "Red Hand of Doom/Compendium/Items/Potion of Healing.md",
-    "Red Hand of Doom/Compendium/Items/Index.md",
     "Red Hand of Doom/House Rules.md",
+    "Red Hand of Doom/Worldmap.md",
+    "Red Hand of Doom/Compendium/Items/Index.md",
     "House Rules/Potion.md",
     "Red Hand of Doom/Compendium/Characters/Aelar.md",
     "Characters/Booker/Character Sheet.md",
     "Tags.md",
     "Compendium Index.md",
-    "Red Hand of Doom/Compendium/NPCs/Index.md",
-    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md"
+    "Red Hand of Doom/Compendium/NPCs/Index.md"
   ]
 }
