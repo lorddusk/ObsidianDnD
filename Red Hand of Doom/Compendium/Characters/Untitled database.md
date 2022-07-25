@@ -26,7 +26,7 @@ columns:
       source_data: current_folder
       task_hide_completed: true
   Player:
-    input: text
+    input: select
     key: Player
     accessor: Player
     label: Player
@@ -37,6 +37,32 @@ columns:
       media_width: 100
       media_height: 100
       isInline: false
+      task_hide_completed: true
+  Surname:
+    input: text
+    accessor: Surname
+    key: Surname
+    label: Surname
+    position: 100
+    config:
+      enable_media_view: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      source_data: current_folder
+      task_hide_completed: true
+  Description:
+    input: text
+    accessor: Description
+    key: Description
+    label: Description
+    position: 100
+    config:
+      enable_media_view: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      source_data: current_folder
       task_hide_completed: true
 config:
   enable_show_state: false
