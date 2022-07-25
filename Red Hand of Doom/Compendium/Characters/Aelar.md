@@ -7,6 +7,8 @@ tags: Party
 ---
 
 # Aelar Amastacia
+- Originally from Witchwood
+- After the dam got destroyed by goblins, and the flooding of Blackfens
 ___ 
 ## References: - 
 --- 
