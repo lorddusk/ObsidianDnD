@@ -1,0 +1,1 @@
+*"I have a thing for that":*  Allow a player to spend a point of inspiration to 'remember' their character purchased a mundane item. Gold is deducted as if the item was bought earlier and just lost it in their pack.

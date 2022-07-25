@@ -1,1 +1,1 @@
-*Potions:* Drinking a potion is a bonus action, administering one is an action.
+*DM inspiration:* normally used to gain advantage on a roll before rolling.

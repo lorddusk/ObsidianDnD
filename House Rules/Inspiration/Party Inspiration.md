@@ -1,1 +1,1 @@
-*Potions:* Drinking a potion is a bonus action, administering one is an action.
+*Party Inspiration:* Inspiration tokens are pooled for the party to a maximum of 4 tokens to stimulate the use of inspiration.

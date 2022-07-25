@@ -1,1 +1,1 @@
-*Potions:* Drinking a potion is a bonus action, administering one is an action.
+*Inspired saving throws:* players can spend their reaction and a point of inspiration to gain a saving throw reroll.
