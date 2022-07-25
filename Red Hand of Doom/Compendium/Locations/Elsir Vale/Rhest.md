@@ -1,12 +1,12 @@
 ---
 name: Rhest
-desc: Controlling city of 
+desc: Controlling City of Elsir Vale
 type: location
 tags: Location
 ---
 
 # Rhest 
-- Controls the [[Elsir Vale]]
+- Took control of the [[Elsir Vale]] about 500 years ago
 - 
 ___ 
 ## References: - 
