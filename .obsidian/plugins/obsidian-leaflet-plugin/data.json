@@ -2,22 +2,42 @@
   "mapMarkers": [
     {
       "id": "world",
-      "lastAccessed": 1658781507648,
+      "lastAccessed": 1658781560855,
       "markers": [
         {
-          "id": "ID_581b7b2b2bcb",
+          "id": "ID_4a99dbe9284b",
           "type": "default",
           "loc": [
-            -1.578125,
-            2.3203125
+            -0.890625,
+            2.205078125
           ],
           "link": "Brindol",
-          "layer": "%5B%5Bworld.png%5D%5D",
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.7764705882352941,
-            0.640761300555115
+            0.70625,
+            0.44157088122605365
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b3bb9590a8b",
+          "type": "default",
+          "loc": [
+            -1.06640625,
+            1.779296875
+          ],
+          "link": "Nimon Gap",
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.569375,
+            0.5229885057471264
           ],
           "description": null,
           "minZoom": null,
