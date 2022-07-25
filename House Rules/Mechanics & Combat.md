@@ -16,3 +16,5 @@
 
 *Skill usage:* Group checks require all heroes to roll and the majority must pass, critital 1 and 20 count as double.  
 Party checks allow one player, the best trained PC to roll once. If a second PC is trained, they can assist for advantage. A third trained PC may add a +1 bonus. If the roll fails, it fails.
+
+*Potions:* Drinking a potion is a bonus action, administering one is an action.
