@@ -2,42 +2,22 @@
   "mapMarkers": [
     {
       "id": "world",
-      "lastAccessed": 1658781444727,
+      "lastAccessed": 1658781507648,
       "markers": [
         {
-          "id": "ID_ebf929bb599a",
+          "id": "ID_581b7b2b2bcb",
           "type": "default",
           "loc": [
-            -1.583984375,
-            2.318359375
+            -1.578125,
+            2.3203125
           ],
           "link": "Brindol",
           "layer": "%5B%5Bworld.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.7758169934640523,
-            0.6431403647898494
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_882a58385828",
-          "type": "default",
-          "loc": [
-            -1.291015625,
-            2.205078125
-          ],
-          "link": "Nimon Gap",
-          "layer": "%5B%5Bworld.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.7379084967320262,
-            0.5241871530531325
+            0.7764705882352941,
+            0.640761300555115
           ],
           "description": null,
           "minZoom": null,

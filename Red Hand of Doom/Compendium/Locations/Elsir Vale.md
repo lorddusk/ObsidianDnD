@@ -15,7 +15,7 @@ maxZoom: 10
 defaultZoom: 8
 unit: meters
 scale: 1
-markers: default
+markers: elsir_vale
 darkMode: false
 ```
 ___ 
