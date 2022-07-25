@@ -1,0 +1,1 @@
+*Vicious Mockery:* If the bard uses vicious mockery and their insult makes the DM laught, the target automatically fails their saving throw.

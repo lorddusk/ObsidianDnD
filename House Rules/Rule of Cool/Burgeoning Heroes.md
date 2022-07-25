@@ -1,0 +1,1 @@
+*Burgeoning Heroes*: Each character starts with 5 extra hit points.
