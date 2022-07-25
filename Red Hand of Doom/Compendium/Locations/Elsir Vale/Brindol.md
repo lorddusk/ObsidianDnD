@@ -6,10 +6,10 @@ tags: Location
 ---
 
 # Brindol 
-**Points of Interest**
+### Points of Interest
 - Adventurers Guild
 
-**Population
+### Population
 - 80% Human
 - 10% Halfling
 - 5% Dwarf
