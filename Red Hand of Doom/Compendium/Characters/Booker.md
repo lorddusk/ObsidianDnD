@@ -9,6 +9,7 @@ tags: Party
 # Booker Crest
 ___ 
 ## References:
-- [[Character]]
+- [[Character Sheet]]
+- [[Background]]
 --- 
 creation date:: [[2022-07-23]] 22:29
