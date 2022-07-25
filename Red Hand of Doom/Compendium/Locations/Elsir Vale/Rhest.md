@@ -5,7 +5,8 @@ tags: Location
 ---
 
 # Rhest 
-
+- Controls the [[Elsir Vale]]
+- 
 ___ 
 ## References: - 
 --- 
