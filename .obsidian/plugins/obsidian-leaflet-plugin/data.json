@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "world",
-      "lastAccessed": 1658784506173,
+      "lastAccessed": 1658784563184,
       "markers": [
         {
           "id": "ID_5a8919a9c829",
@@ -106,7 +106,7 @@
     },
     {
       "id": "elsir",
-      "lastAccessed": 1658784506173,
+      "lastAccessed": 1658784563184,
       "markers": [
         {
           "id": "ID_0a1848eaeb78",
@@ -175,7 +175,7 @@
             -0.521240234375,
             1.5869140625
           ],
-          "link": "Blackfens, the",
+          "link": "The Blackfens",
           "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
           "mutable": true,
           "command": false,
@@ -192,10 +192,31 @@
             -0.790771484375,
             1.6044921875
           ],
+          "link": "The Witchwood",
           "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98e90bd9facb",
+          "type": "default",
+          "loc": [
+            -0.341796875,
+            1.625
+          ],
+          "link": "Rhest",
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.52,
+            0.16762452107279693
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,

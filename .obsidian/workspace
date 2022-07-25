@@ -123,8 +123,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "409bd1375132a0de",
+  "active": "6936dc38f1a73729",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md",
+    "Red Hand of Doom/Compendium/Characters/Aelar.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/The Witchwood.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/The Blackfens.md",
@@ -132,8 +134,6 @@
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Wyrmsmoke Mountains.md",
     "Red Hand of Doom/Compendium/Locations/Index.md",
     "Red Hand of Doom/House Rules.md",
-    "_Index_of_D&D.md",
-    "Red Hand of Doom/Compendium/Locations/_Index_of_Locations.md",
-    "Red Hand of Doom/Compendium/Events/_Index_of_Events.md"
+    "_Index_of_D&D.md"
   ]
 }
