@@ -1,6 +1,6 @@
 ---
 name: Rhest
-desc: Controlling City of Elsir Vale
+desc: Used to controlElsir Vale
 type: location
 tags: Location
 ---
