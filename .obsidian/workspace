@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f5d4aaef7482381",
-        "type": "leaf",
-        "state": {
-          "type": "database-plugin",
-          "state": {
-            "file": "Red Hand of Doom/Compendium/Characters/Untitled database.md"
-          }
-        }
-      },
-      {
         "id": "68f44ff5325343ed",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Red Hand of Doom/Compendium/Characters/Aelar.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -79,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Untitled database.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Untitled database.md"
-              }
+              "state": {}
             }
           },
           {
@@ -133,11 +116,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8f5d4aaef7482381",
+  "active": "409bd1375132a0de",
   "lastOpenFiles": [
     "Red Hand of Doom/Compendium/Characters/Aelar.md",
-    "Red Hand of Doom/Compendium/Characters/Index.md",
     "Red Hand of Doom/Compendium/Characters/Untitled database.md",
+    "Red Hand of Doom/Compendium/Characters/Index.md",
     "Compendium Index.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
