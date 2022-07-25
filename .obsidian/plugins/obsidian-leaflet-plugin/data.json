@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "world",
-      "lastAccessed": 1658781807286,
+      "lastAccessed": 1658781826814,
       "markers": [
         {
           "id": "ID_5a8919a9c829",
@@ -48,6 +48,7 @@
             -0.904296875,
             2.205078125
           ],
+          "link": "Brindol",
           "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
           "mutable": true,
           "command": false,
@@ -67,6 +68,7 @@
             -1.06640625,
             1.783203125
           ],
+          "link": "Nimon Gap",
           "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
           "mutable": true,
           "command": false,
