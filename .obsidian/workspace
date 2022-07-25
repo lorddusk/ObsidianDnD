@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "79e19b361bcc9c01",
+        "id": "8f5d4aaef7482381",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Red Hand of Doom/Compendium/Characters/Index.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Red Hand of Doom/Compendium/Characters/Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Red Hand of Doom/Compendium/Characters/Index.md"
+              }
             }
           },
           {
@@ -116,7 +123,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "91ca4ed5357e61de",
+  "active": "8f5d4aaef7482381",
   "lastOpenFiles": [
     "Compendium Index.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md",
