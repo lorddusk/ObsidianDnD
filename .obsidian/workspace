@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Characters/Aelar.md",
+            "file": "Compendium Index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Aelar.md",
+                "file": "Compendium Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Aelar.md"
+                "file": "Compendium Index.md"
               }
             }
           },
@@ -125,10 +125,10 @@
   },
   "active": "b0b9ec3a3824dc5f",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Characters/Aelar.md",
     "Compendium Index.md",
     "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
     "Red Hand of Doom/Compendium/Characters/Peter.md",
-    "Red Hand of Doom/Compendium/Characters/Aelar.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Blackfens.md",
