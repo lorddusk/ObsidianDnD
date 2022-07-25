@@ -9,6 +9,14 @@ tags: Location
 **Points of Interest**
 - Adventurers Guild
 
+**Population
+- 80% Human
+- 10% Halfling
+- 5% Dwarf
+- 2% Half-Orc
+- 2% Gnome
+- 1% Elf
+
 ___ 
 ## References: - 
 --- 
