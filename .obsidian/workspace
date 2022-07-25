@@ -14,6 +14,14 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "32b25e65169b72c0",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -69,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/House Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Red Hand of Doom/House Rules.md"
-              }
+              "state": {}
             }
           },
           {
@@ -123,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c1477ccc5500d351",
+  "active": "409bd1375132a0de",
   "lastOpenFiles": [
-    "House Rules/Inspiration.md",
     "Red Hand of Doom/House Rules.md",
+    "Third Party Additions.md",
+    "House Rules/Inspiration.md",
     "Compendium Index.md",
     "Red Hand of Doom/Compendium/Items/Potion of Healing.md",
     "House Rules/Mechanics & Combat/Potions.md",
     "House Rules/Inspiration/Inspired Saving Throws.md",
     "House Rules/Inspiration/I have a thing for that.md",
     "House Rules/Inspiration/Party Inspiration.md",
-    "House Rules/Inspiration/DM Inspiration.md",
-    "House Rules/Rule of Cool/Burgeoning Heroes.md"
+    "House Rules/Inspiration/DM Inspiration.md"
   ]
 }
