@@ -7,8 +7,12 @@
         "id": "b0b9ec3a3824dc5f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Compendium Index.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Party",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Compendium Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Compendium Index.md"
+              }
             }
           },
           {
@@ -118,15 +125,15 @@
   },
   "active": "b0b9ec3a3824dc5f",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
+    "Red Hand of Doom/Compendium/Characters/Peter.md",
     "Red Hand of Doom/Compendium/Characters/Aelar.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md",
     "Compendium Index.md",
-    "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Blackfens.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Witchwood.md",
     "Red Hand of Doom/Compendium/Locations/Crestbrook.md",
-    "Red Hand of Doom/Compendium/Locations/Index.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md"
+    "Red Hand of Doom/Compendium/Locations/Index.md"
   ]
 }
