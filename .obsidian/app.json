@@ -11,5 +11,6 @@
   },
   "communityThemeSortOrder": "download",
   "showFrontmatter": false,
-  "attachmentFolderPath": "Resources"
+  "attachmentFolderPath": "Resources",
+  "alwaysUpdateLinks": true
 }

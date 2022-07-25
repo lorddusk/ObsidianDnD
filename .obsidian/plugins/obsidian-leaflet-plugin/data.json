@@ -1,79 +1,8 @@
 {
   "mapMarkers": [
     {
-      "id": "elsir",
-      "lastAccessed": 1658782634497,
-      "markers": [
-        {
-          "id": "ID_0a1848eaeb78",
-          "type": "default",
-          "loc": [
-            -0.8935546875,
-            2.2060546875
-          ],
-          "link": "Brindol",
-          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.7059375,
-            0.4382183908045977
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_0939896868c8",
-          "type": "default",
-          "loc": [
-            -1.06640625,
-            1.783203125
-          ],
-          "link": "Nimon Gap",
-          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.570625,
-            0.5229885057471264
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_4b98f92b78aa",
-          "type": "default",
-          "loc": [
-            -0.9453125,
-            1.947265625
-          ],
-          "link": "Talar",
-          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.623125,
-            0.46360153256704983
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md"
-      ]
-    },
-    {
       "id": "world",
-      "lastAccessed": 1658784104289,
+      "lastAccessed": 1658784506173,
       "markers": [
         {
           "id": "ID_5a8919a9c829",
@@ -173,6 +102,110 @@
       "shapes": [],
       "files": [
         "Red Hand of Doom/Worldmap.md"
+      ]
+    },
+    {
+      "id": "elsir",
+      "lastAccessed": 1658784506173,
+      "markers": [
+        {
+          "id": "ID_0a1848eaeb78",
+          "type": "default",
+          "loc": [
+            -0.8935546875,
+            2.2060546875
+          ],
+          "link": "Brindol",
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7059375,
+            0.4382183908045977
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0939896868c8",
+          "type": "default",
+          "loc": [
+            -1.06640625,
+            1.783203125
+          ],
+          "link": "Nimon Gap",
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.570625,
+            0.5229885057471264
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b98f92b78aa",
+          "type": "default",
+          "loc": [
+            -0.9453125,
+            1.947265625
+          ],
+          "link": "Talar",
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.623125,
+            0.46360153256704983
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39eb0968994a",
+          "type": "default",
+          "loc": [
+            -0.521240234375,
+            1.5869140625
+          ],
+          "link": "Blackfens, the",
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cadbc898fadb",
+          "type": "default",
+          "loc": [
+            -0.790771484375,
+            1.6044921875
+          ],
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md"
       ]
     }
   ],
