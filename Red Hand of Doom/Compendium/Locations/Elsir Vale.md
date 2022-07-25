@@ -4,6 +4,20 @@ tags: Location
 ---
 
 # Elsir Vale 
+```leaflet
+id: world
+image: [[Elsir Vale.jpg]]
+height: 500px
+lat: 50
+long: 50
+minZoom: 7
+maxZoom: 10
+defaultZoom: 8
+unit: meters
+scale: 1
+markers: default
+darkMode: false
+```
 ___ 
 ## References: - 
 --- 

@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "world",
-      "lastAccessed": 1658753392881,
+      "lastAccessed": 1658781444727,
       "markers": [
         {
           "id": "ID_ebf929bb599a",
@@ -48,7 +48,8 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Red Hand of Doom/Worldmap.md"
+        "Red Hand of Doom/Worldmap.md",
+        "Red Hand of Doom/Compendium/Locations/Elsir Vale.md"
       ]
     }
   ],

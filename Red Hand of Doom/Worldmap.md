@@ -16,7 +16,7 @@ defaultZoom: 8
 unit: meters
 scale: 1
 markers: default
-darkMode: true
+darkMode: false
 ```
 ___ 
 ## References: - 
