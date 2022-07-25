@@ -1,0 +1,1 @@
+*Flanking:* when a creature and at least one ally are within 5ft of the same enemy on opposite sides or corners of the enemy’s space, they flank that enemy and each of them has advantage on melee attack rolls against that enemy. This does not take effect if that one ally is 5 ft from an enemy. ( 2v1 allows flanking, 2v2 does not )

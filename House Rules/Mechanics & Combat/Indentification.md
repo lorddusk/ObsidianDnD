@@ -1,0 +1,1 @@
+*Identification:* cast identify or have a (NPC) wizard identify them for you for a price. Using or attuning to unidentified magic items allow them to work as intended, you might just not recognize its effects.

@@ -1,0 +1,1 @@
+*Potions:* Drinking a potion is a bonus action, administering one is an action.
