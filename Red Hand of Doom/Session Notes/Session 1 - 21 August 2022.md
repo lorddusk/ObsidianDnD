@@ -14,8 +14,8 @@ game_date: xx xx xx DR
 ^summary
 ## Housekeeping:
 ## Recap:
-[[]]
-![[Session 0 - 23 July 2022]]
+[[/]]
+
 ## Scenes:
 ## Loot:
 ## Log:
