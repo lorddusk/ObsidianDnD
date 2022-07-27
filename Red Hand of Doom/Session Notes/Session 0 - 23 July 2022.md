@@ -16,8 +16,7 @@ Characters gerolled - [[Booker]]
 ^summary
 
 ## Housekeeping
-Datumprikker voor 2022 gemaakt.
-Invullen waar nodig: 
-https://docs.google.com/spreadsheets/d/1iari1QhSHvxwAC0S_Iwmu689zn3FXjc7VoLOTSN8g_8/edit?usp=sharing
+[Datumprikker](https://docs.google.com/spreadsheets/d/1iari1QhSHvxwAC0S_Iwmu689zn3FXjc7VoLOTSN8g_8/edit?usp=sharing) voor 2022 gemaakt, invullen waar nodig.
+
 
 
