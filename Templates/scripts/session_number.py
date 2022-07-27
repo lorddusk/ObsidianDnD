@@ -5,9 +5,7 @@ from pathlib import Path
 template_folder = 'Templates'
 
 
-def main():
-    if sys.stdout.encoding != 'utf-8':
-        sys.stdout.reconfigure(encoding='utf-8')
+def increase_session_number():
     path = Path(r"session_number.txt")
     with open(path, 'r') as f:
         number = int(f.read())
@@ -15,6 +13,12 @@ def main():
     with open(path, 'w') as f2:
         f2.write(f'{str(number)}')
     print(number)
+
+
+def main():
+    if sys.stdout.encoding != 'utf-8':
+        sys.stdout.reconfigure(encoding='utf-8')
+    increase_session_number()
 
 
 if __name__ == '__main__':

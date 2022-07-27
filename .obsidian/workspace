@@ -7,8 +7,12 @@
         "id": "484f79709810dc3f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Red Hand of Doom/Session Notes/Session [object Promise] - 27 July 2022.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Red Hand of Doom/Session Notes/Session [object Promise] - 27 July 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Red Hand of Doom/Session Notes/Session [object Promise] - 27 July 2022.md"
+              }
             }
           },
           {
@@ -118,7 +125,7 @@
   },
   "active": "484f79709810dc3f",
   "lastOpenFiles": [
-    "Red Hand of Doom/Session Notes/Untitled.md",
+    "Red Hand of Doom/Session Notes/Session [object Promise] - 27 July 2022.md",
     "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
     "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
     "^summary.md",
