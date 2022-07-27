@@ -5,7 +5,7 @@ campaign: "Red Hand of Doom"
 session: 0
 date: {{23 July 2022}}
 game_date: xx xx xx DR
-players: [[Booker]]], Rob, Guido, Danny, Peter (eerder)]
+players: [Tim, Rob, Guido, Danny, Peter (eerder)]
 ---
 
 
