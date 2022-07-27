@@ -14,8 +14,7 @@ characters: []
 - Sessie 0 doorgenomen
 - [[House Rules]] besproken
 - Characters gerolled - [[Booker]]
-
-^summary
+ ^summary
 ## Housekeeping
 Datumprikker voor 2022 gemaakt.
 Invullen waar nodig: 
