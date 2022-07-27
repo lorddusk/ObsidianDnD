@@ -15,7 +15,7 @@ await tp.file.rename(`Session xx - ${title}`);
 ^summary
 ## Housekeeping:
 ## Recap:
-![[^summary]]
+![[#^summary]]
 ## Scenes:
 ## Loot:
 ## Log:
