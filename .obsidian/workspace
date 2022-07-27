@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
+                "file": "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md"
+                "file": "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md"
               }
             }
           },
@@ -135,10 +135,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "27f5de0862d7005f",
+  "active": "c20e30632ce34cb3",
   "lastOpenFiles": [
-    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
     "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
+    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
     "^summary.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
     "House Rules/Third Party Additions/Hamund's Harvesting Handbook vol 1 2 3.md",
