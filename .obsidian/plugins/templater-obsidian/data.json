@@ -4,7 +4,7 @@
   "templates_pairs": [
     [
       "session_number",
-      "C:\\Users\\timl\\AppData\\Local\\Programs\\Python\\Python39\\python.exe Templates\\scripts\\session_number.py"
+      "C:\\Users\\timl\\AppData\\Local\\Programs\\Python\\Python39\\python.exe Templates\\scripts\\sessionnumber.py"
     ]
   ],
   "trigger_on_file_creation": true,
