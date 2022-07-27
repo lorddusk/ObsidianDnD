@@ -20,7 +20,7 @@ Datumprikker voor 2022 gemaakt.
 Invullen waar nodig: 
 https://docs.google.com/spreadsheets/d/1iari1QhSHvxwAC0S_Iwmu689zn3FXjc7VoLOTSN8g_8/edit?usp=sharing
 ## Recap
-![[^summary]]
+![](^summary)
 ## Scenes
 ## Loot
 ## Log
