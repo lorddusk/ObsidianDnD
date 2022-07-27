@@ -7,6 +7,7 @@ game_date: xx xx xx DR
 players: []
 play_date: {{21 August 2022}}
 create_date: {{27 July 2022}}
+Last modified date: <%+ tp.file.last_modified_date() %>
 ---
 
 ## Summary:
