@@ -3,7 +3,7 @@
   "templates_folder": "Templates",
   "templates_pairs": [
     [
-      "session_number",
+      "sessionnumber",
       "C:\\Users\\timl\\AppData\\Local\\Programs\\Python\\Python39\\python.exe Templates\\sessionnumber.py"
     ]
   ],
