@@ -9,11 +9,12 @@ def main():
     if sys.stdout.encoding != 'utf-8':
         sys.stdout.reconfigure(encoding='utf-8')
     path = Path(r"session_number.txt")
-    file = open(path, "w+")
-    number = file.read()
-    newNumber = f"{int(number) + 1}"
-    file.write(newNumber)
-    file.close()
+    with open(path, 'r') as f:
+        number = int(f.read())
+    number += 1
+    with open(path, 'w') as f2:
+        f2.write(f'{str(number)}')
+    print(number)
 
 
 if __name__ == '__main__':
