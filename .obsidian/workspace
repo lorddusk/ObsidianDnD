@@ -7,12 +7,8 @@
         "id": "484f79709810dc3f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Red Hand of Doom/Session Notes/Untitled.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Red Hand of Doom/Session Notes/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -123,7 +116,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "484f79709810dc3f",
+  "active": "409bd1375132a0de",
   "lastOpenFiles": [
     "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
     "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
