@@ -2,7 +2,10 @@
 type: session
 world: Faerun
 campaign: "Red Hand of Doom"
-session: x
+<%*
+let session_number = tp.user.session_number();
+%>
+session: {{<%`${session_number}`%>
 game_date: xx xx xx DR
 players: []
 create_date: {{<% tp.date.now("DD MMMM YYYY") %>}}
@@ -10,7 +13,7 @@ create_date: {{<% tp.date.now("DD MMMM YYYY") %>}}
 
 <%* 
 let title = await tp.date.now("DD MMMM YYYY"); 
-await tp.file.rename(`Session xx - ${title}`); 
+await tp.file.rename(`Session ${session_number} - ${title}`); 
 %>
 
 ## Summary:
