@@ -8,11 +8,10 @@ template_folder = 'Templates'
 def main():
     if sys.stdout.encoding != 'utf-8':
         sys.stdout.reconfigure(encoding='utf-8')
-    path = Path("session_number.txt")
+    path = Path(r"session_number.txt")
     file = open(path, "w+")
     number = file.read()
     newNumber = f"{int(number) + 1}"
-    print(newNumber)
     file.write(newNumber)
     file.close()
 
