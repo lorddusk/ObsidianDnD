@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import sys
 import traceback
 from pathlib import Path
