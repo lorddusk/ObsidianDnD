@@ -1,6 +1,7 @@
 import sys
 import traceback
 
+template_folder = 'Templates'
 
 def main():
     if sys.stdout.encoding != 'utf-8':
@@ -8,7 +9,8 @@ def main():
     file = open("session_number.txt", "W+")
     number = file.read()
     newNumber = f"{number + 1}"
-    file
+    file.write(newNumber)
+    file.close()
 
 
 if __name__ == '__main__':
