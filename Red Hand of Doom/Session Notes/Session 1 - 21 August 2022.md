@@ -12,7 +12,7 @@ game_date: xx xx xx DR
 ^summary
 ## Housekeeping:
 ## Recap:
-![[^summary]]
+![[]][^summary]
 ## Scenes:
 ## Loot:
 ## Log:
