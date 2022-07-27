@@ -3,8 +3,8 @@
   "templates_folder": "Templates",
   "templates_pairs": [
     [
-      "",
-      ""
+      "session_number",
+      "C:\\python39\\python.exe Templates\\session_number.py"
     ]
   ],
   "trigger_on_file_creation": true,
