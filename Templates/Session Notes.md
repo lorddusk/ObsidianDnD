@@ -3,9 +3,10 @@ type: session
 world: Faerun
 campaign: "Red Hand of Doom"
 session: x
-date: {{<% tp.date.now("DD MMMM YYYY") %>}}
 game_date: xx xx xx DR
 characters: []
+create_date: {{<% tp.date.now("DD MMMM YYYY") %>}}
+mod_date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 ---
 
 <%* 
