@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "484f79709810dc3f",
+        "id": "61c3839c29d21d11",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -116,10 +116,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "409bd1375132a0de",
+  "active": "61c3839c29d21d11",
   "lastOpenFiles": [
-    "Templates/Character.md",
     "Red Hand of Doom/Session Notes/Untitled.md",
+    "Templates/Character.md",
     "Red Hand of Doom/Session Notes/Untitled 1.md",
     "Red Hand of Doom/Session Notes/Session [object Promise] - 27 July 2022.md",
     "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
