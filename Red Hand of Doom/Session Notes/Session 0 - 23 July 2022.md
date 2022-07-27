@@ -11,10 +11,10 @@ characters: []
 
 
 ## Summary:
-- Sessie 0 doorgenomen
-- [[House Rules]] besproken
-- Characters gerolled - [[Booker]]
- ^summary
+Sessie 0 doorgenomen
+[[House Rules]] besproken
+Characters gerolled - [[Booker]]
+^summary
 ## Housekeeping
 Datumprikker voor 2022 gemaakt.
 Invullen waar nodig: 

@@ -1,6 +1,6 @@
 ---
 type: session
-session: x
+session: 1
 date: {{21 August 2022}}
 game_date: xx xx xx DR
 ---
