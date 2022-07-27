@@ -3,9 +3,9 @@ type: session
 world: Faerun
 campaign: "Red Hand of Doom"
 <%*
-let session_number = tp.user.session_number();
+let session_number = tp.user.session_number()
 %>
-session: {{<%`${session_number}`%>
+session: <%`${session_number}`%>
 game_date: xx xx xx DR
 players: []
 create_date: {{<% tp.date.now("DD MMMM YYYY") %>}}
