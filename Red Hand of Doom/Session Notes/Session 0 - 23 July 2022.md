@@ -5,6 +5,7 @@ campaign: "Red Hand of Doom"
 session: 0
 game_date: xx xx xx DR
 players: [Tim, Rob, Guido, Danny, Peter (eerder)]
+play_date: {{23 July 2022}}
 create_date: {{23 July 2022}}
 ---
 
@@ -13,6 +14,7 @@ Sessie 0 doorgenomen
 [[House Rules]] besproken
 Characters gerolled - [[Booker]]
 ^summary
+
 ## Housekeeping
 Datumprikker voor 2022 gemaakt.
 Invullen waar nodig: 
