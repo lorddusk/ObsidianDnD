@@ -4,11 +4,9 @@ import sys
 import traceback
 from pathlib import Path
 
-template_folder = 'Templates'
-
 
 def increase_session_number():
-    path = Path(r"session_number.txt")
+    path = Path(r"sessionnumber.txt")
     with open(path, 'r') as f:
         number = int(f.read())
     number += 1
