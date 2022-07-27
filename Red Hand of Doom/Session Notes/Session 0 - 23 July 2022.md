@@ -6,10 +6,7 @@ session: 0
 game_date: xx xx xx DR
 players: [Tim, Rob, Guido, Danny, Peter (eerder)]
 create_date: {{23 July 2022}}
-mod_date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 ---
-
-
 
 ## Summary:
 Sessie 0 doorgenomen
