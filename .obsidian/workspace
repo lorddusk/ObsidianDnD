@@ -9,18 +9,6 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c20e30632ce34cb3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
             "file": "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
             "mode": "source",
             "source": false
@@ -135,7 +123,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c20e30632ce34cb3",
+  "active": "27f5de0862d7005f",
   "lastOpenFiles": [
     "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
     "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
