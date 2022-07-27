@@ -9,10 +9,13 @@ game_date: xx xx xx DR
 
 ## Summary:
 
+^c084a0
+
 ^summary
 ## Housekeeping:
 ## Recap:
-![[]][^summary]
+[[]]
+![[Session 0 - 23 July 2022]]
 ## Scenes:
 ## Loot:
 ## Log:
