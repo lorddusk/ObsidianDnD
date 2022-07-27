@@ -1,14 +1,18 @@
 import sys
 import traceback
+from pathlib import Path
 
 template_folder = 'Templates'
+
 
 def main():
     if sys.stdout.encoding != 'utf-8':
         sys.stdout.reconfigure(encoding='utf-8')
-    file = open("session_number.txt", "W+")
+    path = Path(template_folder) / "session_number.txt"
+    file = open(path, "w+")
     number = file.read()
     newNumber = f"{number + 1}"
+    print(newNumber)
     file.write(newNumber)
     file.close()
 
