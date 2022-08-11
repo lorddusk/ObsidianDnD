@@ -5,7 +5,7 @@ tags: Location
 ---
 
 # Wyrmsmoke Mountains 
-- Houses a savage horde
+- Houses multiple Goblinoid Tribes
 ___ 
 ## References: - 
 --- 
