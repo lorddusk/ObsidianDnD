@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8f61e98b1348668f",
+        "id": "cd18738cf77affab",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Red Hand of Doom/Compendium/Characters/Index.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Red Hand of Doom/Compendium/Characters/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Red Hand of Doom/Compendium/Characters/Index.md"
+              }
             }
           },
           {
@@ -117,6 +124,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8f61e98b1348668f",
-  "lastOpenFiles": []
+  "active": "cd18738cf77affab",
+  "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Characters/Guido.md",
+    "Red Hand of Doom/Compendium/Characters/Booker.md",
+    "Red Hand of Doom/Compendium/Characters/Aelar.md"
+  ]
 }

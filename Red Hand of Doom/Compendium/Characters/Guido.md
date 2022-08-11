@@ -1,11 +1,13 @@
 ---
-name:
+name: Bikam
+surname: Folkor
+nickname: The Scribbler
 player: Guido
 type: character
 tags: Party
 ---
 
-# Guido 
+# Bikam 
 ___ 
 ## References: - 
 --- 
