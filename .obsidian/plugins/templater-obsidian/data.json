@@ -3,15 +3,15 @@
   "templates_folder": "Templates",
   "templates_pairs": [
     [
-      "",
-      ""
+      "sessionnumber",
+      "C:\\Users\\timl\\AppData\\Local\\Programs\\Python\\Python39\\python.exe Templates\\sessionnumber.py"
     ]
   ],
   "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
-  "enable_system_commands": false,
+  "enable_system_commands": true,
   "shell_path": "",
-  "user_scripts_folder": "",
+  "user_scripts_folder": "Templates",
   "enable_folder_templates": true,
   "folder_templates": [
     {
@@ -33,10 +33,6 @@
     {
       "folder": "Red Hand of Doom/Compendium/NPCs",
       "template": "Templates/NPC.md"
-    },
-    {
-      "folder": "Red Hand of Doom/Compendium/Events",
-      "template": "Templates/Events.md"
     }
   ],
   "syntax_highlighting": true,

@@ -2,16 +2,12 @@
 type: session
 world: Faerun
 campaign: "Red Hand of Doom"
-session: xx
+session: 1
 game_date: xx xx xx DR
 players: []
-create_date: {{<% tp.date.now("DD MMMM YYYY") %>}}
+play_date: {{21 August 2022}}
+create_date: {{27 July 2022}}
 ---
-
-<%* 
-let title = await tp.date.now("DD MMMM YYYY"); 
-await tp.file.rename(`Session xx - ${title}`); 
-%>
 
 ## Summary:
 
@@ -20,7 +16,7 @@ await tp.file.rename(`Session xx - ${title}`);
 ## Housekeeping:
 
 ## Recap:
-![[#^summary]]
+![[Session 0 - 23 July 2022#^summary]]
 
 ## Scenes:
 

@@ -1,165 +1,23 @@
 {
   "mapMarkers": [
     {
-      "id": "elsir",
-      "lastAccessed": 1658784804476,
-      "markers": [
-        {
-          "id": "ID_0a1848eaeb78",
-          "type": "default",
-          "loc": [
-            -0.8935546875,
-            2.2060546875
-          ],
-          "link": "Brindol",
-          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.7059375,
-            0.4382183908045977
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_0939896868c8",
-          "type": "default",
-          "loc": [
-            -1.06640625,
-            1.783203125
-          ],
-          "link": "Nimon Gap",
-          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.570625,
-            0.5229885057471264
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_4b98f92b78aa",
-          "type": "default",
-          "loc": [
-            -0.9453125,
-            1.947265625
-          ],
-          "link": "Talar",
-          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.623125,
-            0.46360153256704983
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_39eb0968994a",
-          "type": "default",
-          "loc": [
-            -0.521240234375,
-            1.5869140625
-          ],
-          "link": "The Blackfens",
-          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_cadbc898fadb",
-          "type": "default",
-          "loc": [
-            -0.790771484375,
-            1.6044921875
-          ],
-          "link": "The Witchwood",
-          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_98e90bd9facb",
-          "type": "default",
-          "loc": [
-            -0.341796875,
-            1.625
-          ],
-          "link": "Rhest",
-          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.52,
-            0.16762452107279693
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md"
-      ]
-    },
-    {
       "id": "world",
-      "lastAccessed": 1658785129237,
+      "lastAccessed": 1658753392881,
       "markers": [
         {
-          "id": "ID_5a8919a9c829",
+          "id": "ID_ebf929bb599a",
           "type": "default",
           "loc": [
-            -1.57354736328125,
-            2.31884765625
+            -1.583984375,
+            2.318359375
           ],
           "link": "Brindol",
           "layer": "%5B%5Bworld.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_1b7b5b198908",
-          "type": "default",
-          "loc": [
-            -1.2734375,
-            2.203125
-          ],
-          "link": "Nimon Gap",
-          "layer": "%5B%5Bworld.png%5D%5D",
-          "mutable": true,
-          "command": false,
           "percent": [
-            0.7372549019607844,
-            0.5170499603489295
+            0.7758169934640523,
+            0.6431403647898494
           ],
           "description": null,
           "minZoom": null,
@@ -167,56 +25,20 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_7a79e8ba596a",
+          "id": "ID_882a58385828",
           "type": "default",
           "loc": [
-            -0.904296875,
+            -1.291015625,
             2.205078125
           ],
-          "link": "Brindol",
-          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.705625,
-            0.4434865900383142
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_f8abf8f94828",
-          "type": "default",
-          "loc": [
-            -1.06640625,
-            1.783203125
-          ],
           "link": "Nimon Gap",
-          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.570625,
-            0.5229885057471264
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_d8cba81a6b9b",
-          "type": "default",
-          "loc": [
-            -1.2252197265625,
-            1.677734375
-          ],
           "layer": "%5B%5Bworld.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.7379084967320262,
+            0.5241871530531325
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -232,21 +54,20 @@
   ],
   "defaultMarker": {
     "type": "default",
-    "iconName": "map-marker-alt",
+    "iconName": "map-marker",
     "color": "#af1d1d",
     "transform": {
       "size": 6,
       "x": 0,
       "y": -2
-    },
-    "isImage": false
+    }
   },
   "markerIcons": [],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
   "notePreview": false,
-  "layerMarkers": false,
+  "layerMarkers": true,
   "previousVersion": "5.0.3",
   "version": {
     "major": 5,
