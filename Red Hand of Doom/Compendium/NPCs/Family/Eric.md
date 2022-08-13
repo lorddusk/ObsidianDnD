@@ -6,7 +6,7 @@ desc: Halfbrother
 tags: NPC, Family
 ---
 
-# Eric Kraft
+# Eric ?
 ___ 
 ## References: 
 - Half-Brother of [[Booker]]

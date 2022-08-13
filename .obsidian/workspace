@@ -7,12 +7,8 @@
         "id": "cd18738cf77affab",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Red Hand of Doom/Compendium/NPCs/Family/Eric.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/Family/Eric.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/Family/Eric.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,15 +119,15 @@
   },
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
+    "Tags.md",
+    "[[Ramose.md",
+    "Red Hand of Doom/Compendium/NPCs/Family/Eric.md",
     "Red Hand of Doom/Compendium/NPCs/Index.md",
     "Characters/Booker/Background.md",
     "Characters/Booker/Character Sheet.md",
-    "Red Hand of Doom/Compendium/NPCs/Family/Eric.md",
     "Ramose.md",
-    "[[Ramose.md",
     "father.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Titlayo Crest.md",
-    "Red Hand of Doom/Compendium/NPCs/Family/Ramose Crest.md",
-    "Red Hand of Doom/Compendium/NPCs/Family/Chaedi Lia Crest.md"
+    "Red Hand of Doom/Compendium/NPCs/Family/Ramose Crest.md"
   ]
 }
