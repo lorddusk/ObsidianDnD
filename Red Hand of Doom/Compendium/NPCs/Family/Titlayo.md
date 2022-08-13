@@ -8,6 +8,7 @@ tags: NPC
 
 # Titlayo Crest
 ___ 
-## References: - 
+## References: 
+- Mother of [[Booker]]
 --- 
 creation date:: [[2022-08-13]] 22:43

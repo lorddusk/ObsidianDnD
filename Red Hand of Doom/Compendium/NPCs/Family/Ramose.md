@@ -8,6 +8,7 @@ tags: NPC
 
 # Ramose Crest
 ___ 
-## References: - 
+## References: 
+-  Father of [[Booker]]
 --- 
 creation date:: [[2022-08-13]] 22:43
