@@ -9,6 +9,9 @@ tags: NPC
 # Ramose Crest
 ___ 
 ## References: 
--  Father of [[Booker]]
+- Father of [[Booker]]
+- Father of [[Albanus]]
+- Father of [[Chaedi Lia]]
+- Step-father of [[Eric]]
 --- 
 creation date:: [[2022-08-13]] 22:43

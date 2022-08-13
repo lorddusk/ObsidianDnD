@@ -21,7 +21,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Characters/Booker.md",
+            "file": "Red Hand of Doom/Compendium/NPCs/Family/Ramose.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9cd2e974b5b5877c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Red Hand of Doom/Compendium/NPCs/Family/Titlayo.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Booker.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/Family/Titlayo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Booker.md"
+                "file": "Red Hand of Doom/Compendium/NPCs/Family/Titlayo.md"
               }
             }
           },
@@ -136,17 +148,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "47a6ed25356bf37b",
+  "active": "9cd2e974b5b5877c",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/NPCs/Family/Ramose.md",
+    "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Red Hand of Doom/Compendium/Characters/Bikam.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Titlayo.md",
-    "Red Hand of Doom/Compendium/NPCs/Family/Ramose.md",
     "Characters/Booker/Background.md",
     "Characters/Booker/Character Sheet.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Rhest.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Talar.md"
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Rhest.md"
   ]
 }
