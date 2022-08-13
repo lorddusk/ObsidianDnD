@@ -35,4 +35,5 @@ By my side there was a spear something that wasn't there before. On it there was
 "Keep this weapon on you at all times, protect it with your life, cherish it, and it will return the same love to you." on the back of the note was a list with ingredients and directions to take care of the weapon.
 
 Looking around me for the first time, I did not recognize where I was.
-I wandered aimlessly around for what felt days, before finding my way to [[Waterdeep]]. Asking people 
+I wandered aimlessly around for what felt days, before finding my way to [[Waterdeep]]. Asking people where [[Crestbrook]] was, nobody knew. Not the common folk, nor the librarians. They had never heard of it. 
+It became my goal to find my way back home, and I found my way to [[Brindol]] 
