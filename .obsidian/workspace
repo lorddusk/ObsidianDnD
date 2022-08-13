@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Booker/Character Sheet.md",
+            "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Background.md",
+                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Background.md"
+                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md"
               }
             }
           },
@@ -136,8 +136,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "47a6ed25356bf37b",
+  "active": "cd18738cf77affab",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md",
     "Characters/Booker/Character Sheet.md",
     "Characters/Booker/Background.md",
     "Red Hand of Doom/Compendium/Characters/Index.md",
