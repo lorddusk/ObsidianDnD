@@ -10,9 +10,9 @@ tags: NPC
 ___ 
 ## References: 
 - Brother of [[Booker]]
-- Brother of [[Albanus Crest]]
 - Brother of [[Chaedi Lia Crest]]
 - Half-Brother of [[Eric Kraft]]
 - Son of [[Ramose Crest]]
+- Son of [[Titlayo Crest]]
 --- 
 creation date:: [[2022-08-13]] 22:49
