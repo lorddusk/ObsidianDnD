@@ -25,3 +25,5 @@ Not having a care in the world, going to work, helping out my father on the fiel
 Just figuring my place out in the world, slowly wanting to adventure further and further from [[Crestbrook]]. 
 
 Thinking more and more of leaving, talking to my family and friends. When they told me to just do it. So it's what I did, I gather my things. Grabbed my books, my trusty sword, and a backpack from the shelves. Kissed my mother goodbye, gave my siblings a hug, and started walking...
+
+A week later, I was severly hurt in a boar attack, who pierced me on it's tusk. Thinking that I was surely 
