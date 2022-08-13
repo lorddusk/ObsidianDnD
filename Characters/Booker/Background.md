@@ -16,4 +16,7 @@ I have a weakness for the new intoxicants and other pleasures in these new lands
 ### Appearance :
 ![[Booker.jpg]]
 
+
+
 ## Backstory :
+Born in [[Crestbrook]] 
