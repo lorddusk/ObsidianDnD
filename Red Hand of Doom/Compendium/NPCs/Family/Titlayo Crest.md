@@ -2,8 +2,8 @@
 type: npc
 name: Titlayo Crest
 location: unknown
-desc: Mother of [[Booker]]
-tags: NPC
+desc: Mother
+tags: NPC, Family
 ---
 
 # Titlayo Crest
@@ -13,5 +13,6 @@ ___
 - Mother of [[Albanus Crest]]
 - Mother of [[Chaedi Lia Crest]]
 - Mother of [[Eric Kraft]]
+- Wife of [[Ramose Crest]]
 --- 
 creation date:: [[2022-08-13]] 22:43

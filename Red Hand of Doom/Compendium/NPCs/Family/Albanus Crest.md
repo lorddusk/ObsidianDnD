@@ -2,8 +2,8 @@
 type: npc
 name: Albanus Crest
 location: unknown
-desc: tbd
-tags: NPC
+desc: Brother
+tags: NPC, Family
 ---
 
 # Albanus Crest

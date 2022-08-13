@@ -2,8 +2,8 @@
 type: npc
 name: unknown
 location: unknown
-desc: tbd
-tags: NPC
+desc: Sister
+tags: NPC, Family
 ---
 
 # Chaedi Lia Crest

@@ -2,8 +2,8 @@
 type: npc
 name: Ramose Crest
 location: unknown
-desc: Father of [[Booker]]
-tags: NPC
+desc: Father
+tags: NPC, Family
 ---
 
 # Ramose Crest
@@ -13,5 +13,6 @@ ___
 - Father of [[Albanus Crest]]
 - Father of [[Chaedi Lia Crest]]
 - Step-father of [[Eric Kraft]]
+- Husband of [[Titlayo Crest]]
 --- 
 creation date:: [[2022-08-13]] 22:43
