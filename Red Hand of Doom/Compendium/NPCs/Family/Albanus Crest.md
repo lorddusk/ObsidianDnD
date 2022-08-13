@@ -12,5 +12,7 @@ ___
 - Brother of [[Booker]]
 - Brother of [[Albanus Crest]]
 - Brother of [[Chaedi Lia Crest]]
+- Half-Brother of [[Eric Kraft]]
+- Son of [[Ramose Crest]]
 --- 
 creation date:: [[2022-08-13]] 22:49
