@@ -2,7 +2,7 @@
 type: npc
 name: Titlayo Crest
 location: unknown
-desc: tbd
+desc: Mother of [[Booker]]
 tags: NPC
 ---
 
