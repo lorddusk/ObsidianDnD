@@ -2,6 +2,7 @@
 name: Booker
 surname: Crest
 player: Tim
+class: Hexblade Warlock
 type: character
 tags: Party
 ---

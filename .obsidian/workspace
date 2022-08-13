@@ -19,8 +19,12 @@
         "id": "47a6ed25356bf37b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Red Hand of Doom/Compendium/Characters/Booker.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -77,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Red Hand of Doom/Compendium/Characters/Booker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Red Hand of Doom/Compendium/Characters/Booker.md"
+              }
             }
           },
           {
@@ -131,6 +138,7 @@
   },
   "active": "47a6ed25356bf37b",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Characters/Bikam.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Titlayo.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Ramose.md",
     "Characters/Booker/Background.md",
@@ -139,7 +147,6 @@
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Rhest.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Talar.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/The Blackfens.md"
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Talar.md"
   ]
 }
