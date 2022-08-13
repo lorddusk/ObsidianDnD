@@ -26,6 +26,4 @@ Just figuring my place out in the world, slowly wanting to adventure further and
 
 Thinking more and more of leaving, talking to my family and friends. When they told me to just do it. So it's what I did, I gather my things. Grabbed my books, my trusty sword, and a backpack from the shelves. Kissed my mother goodbye, gave my siblings a hug, and started walking...
 
-A week later, I was severly hurt in a boar attack, who pierced me on it's tusk. Thinking that I was surely dying, I started praying. I wasn't even a believer of any of the Gods back home, but it just felt right at the moment. I prayed and prayed, nothing seemed to happen, and I felt myself getting weaker and weaker. 
-
--
+A week later, I was severly hurt in a boar attack, who pierced me on it's tusk. Thinking that I was surely dying, I started praying. I wasn't even a believer of any of the Gods back home, but it just felt right at the moment. I prayed and prayed, nothing seemed to happen, and I felt myself getting weaker and weaker and passed out. Moments later I felt a burning sensation, as if someone set me on fire. I opened up and saw a bright light
