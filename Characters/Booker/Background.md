@@ -28,4 +28,4 @@ Thinking more and more of leaving, talking to my family and friends. When they t
 
 A week later, I was severly hurt in a boar attack, who pierced me on it's tusk. Thinking that I was surely dying, I started praying. I wasn't even a believer of any of the Gods back home, but it just felt right at the moment. I prayed and prayed, nothing seemed to happen, and I felt myself getting weaker and weaker and passed out. Moments later I felt a burning sensation, as if someone set me on fire. I opened my eyes and saw a bright light. A blinding light.
 A disembodied voice echoed through the area I was finding myself in; "I can help you, but you will owe me your most precious belonging, something I will collect in 15 years...". 
-Not wanting to die, I replied that I accepted these conditions. The blinding light went even brighter, so much I needed to avert my eyes
+Not wanting to die, I replied that I accepted these conditions. The blinding light went even brighter, so much I needed to avert my eyes. As soon as it came, it went away. Once my eyes readjusted to a normal light, I felt much better. No 
