@@ -11,7 +11,10 @@ I have no clear recollection of my youth, but somehow I remember a ton of little
 Through no choice of my own, I lament having to have leave my home town of [[Crestbrook]]. And thus leaving my parents, and my sister alone. I hope to see them, alive, again one day...
 
 ### Flaws :
-I have a weakness for the new intoxicants and other pleasures in these new lands.
+I have a weakness for the new intoxicants and other pleasures in these new lands. I'll indulge in more than good for me, and have often land in fights, or other altercations with local folk.
+
 ### Appearance :
+
+
 
 ## Backstory :
