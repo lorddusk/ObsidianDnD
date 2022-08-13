@@ -7,8 +7,12 @@
         "id": "cd18738cf77affab",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Characters/Booker/Background.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Booker/Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/Booker/Background.md"
+              }
             }
           },
           {
@@ -119,6 +126,8 @@
   },
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
+    "Characters/Booker/Character Sheet.md",
+    "Characters/Booker/Background.md",
     "Red Hand of Doom/Compendium/Characters/Index.md",
     "Red Hand of Doom/Compendium/Characters/Bikam.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
