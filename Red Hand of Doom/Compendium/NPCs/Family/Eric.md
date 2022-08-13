@@ -1,6 +1,6 @@
 ---
 type: npc
-name: Eri
+name: Eric ?
 location: Crestbrook?
 desc: Halfbrother
 tags: NPC, Family

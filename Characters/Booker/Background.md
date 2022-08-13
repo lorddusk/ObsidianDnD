@@ -24,4 +24,4 @@ Living in a loving family, with 3 siblings. My full siblings: [[Albanus Crest]] 
 Not having a care in the world, going to work, helping out my father on the field, helping my sister and mother out gathering and storing food.
 Just figuring my place out in the world, slowly wanting to adventure further and further from [[Crestbrook]]. 
 
-Thinking more and more of leaving, talking to my family and friends. When they told me to just do it. 
+Thinking more and more of leaving, talking to my family and friends. When they told me to just do it. So it's what I did, I gather my things. Grabbed my books, my trusty sword, and a backpack from the shelves. Kissed my mother goodbye, gave my siblings a hug, and started walking...
