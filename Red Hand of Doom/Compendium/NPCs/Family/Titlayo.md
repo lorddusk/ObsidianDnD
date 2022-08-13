@@ -1,12 +1,12 @@
 ---
 type: npc
-name: unknown
+name: Titlayo Crest
 location: unknown
 desc: tbd
 tags: NPC
 ---
 
-# Titlayo 
+# Titlayo Crest
 ___ 
 ## References: - 
 --- 

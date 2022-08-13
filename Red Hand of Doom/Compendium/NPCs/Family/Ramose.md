@@ -1,12 +1,12 @@
 ---
 type: npc
-name: unknown
+name: Ramose Crest
 location: unknown
-desc: tbd
+desc: Father of [[Booker]]
 tags: NPC
 ---
 
-# Ramose 
+# Ramose Crest
 ___ 
 ## References: - 
 --- 
