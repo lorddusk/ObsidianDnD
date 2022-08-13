@@ -11,7 +11,7 @@ ___
 ## References: 
 - Brother of [[Booker]]
 - Brother of [[Chaedi Lia Crest]]
-- Half-Brother of [[Eric Kraft]]
+- Half-Brother of [[Eric]]
 - Son of [[Ramose Crest]]
 - Son of [[Titlayo Crest]]
 --- 

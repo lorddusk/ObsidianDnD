@@ -1,6 +1,6 @@
 ---
 type: npc
-name: Eric Kraft
+name: Eri
 location: Crestbrook?
 desc: Halfbrother
 tags: NPC, Family
