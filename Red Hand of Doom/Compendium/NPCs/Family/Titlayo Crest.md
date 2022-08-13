@@ -10,7 +10,8 @@ tags: NPC
 ___ 
 ## References: 
 - Mother of [[Booker]]
-- Mother of [[Albanus]]
-- Mother of [[Chaedi Lia]]
+- Mother of [[Albanus Crest]]
+- Mother of [[Chaedi Lia Crest]]
+- Mother of [[Eric]]
 --- 
 creation date:: [[2022-08-13]] 22:43

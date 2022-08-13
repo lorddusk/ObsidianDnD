@@ -19,4 +19,4 @@ I have a weakness for the new intoxicants and other pleasures in these new lands
 
 
 ## Backstory :
-Born in [[Crestbrook]], a child of [[Titlayo]] and [[Ramose]]. 
+Born in [[Crestbrook]], a child of [[Titlayo Crest]] and [[Ramose Crest]]. 

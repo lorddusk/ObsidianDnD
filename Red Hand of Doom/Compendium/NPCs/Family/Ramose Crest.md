@@ -10,8 +10,8 @@ tags: NPC
 ___ 
 ## References: 
 - Father of [[Booker]]
-- Father of [[Albanus]]
-- Father of [[Chaedi Lia]]
+- Father of [[Albanus Crest]]
+- Father of [[Chaedi Lia Crest]]
 - Step-father of [[Eric]]
 --- 
 creation date:: [[2022-08-13]] 22:43
