@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
+            "file": "Characters/Booker/Character Sheet.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
+                "file": "Characters/Booker/Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md"
+                "file": "Characters/Booker/Background.md"
               }
             }
           },
@@ -136,15 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cd18738cf77affab",
+  "active": "47a6ed25356bf37b",
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md",
     "Characters/Booker/Character Sheet.md",
-    "Characters/Booker/Background.md",
-    "Red Hand of Doom/Compendium/Characters/Index.md",
-    "Red Hand of Doom/Compendium/Characters/Bikam.md",
-    "Red Hand of Doom/Compendium/Characters/Booker.md",
-    "Red Hand of Doom/Compendium/Characters/Aelar.md"
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md",
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Rhest.md",
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Talar.md",
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/The Blackfens.md",
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/The Witchwood.md",
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Wyrmsmoke Mountains.md",
+    "Red Hand of Doom/Compendium/Locations/Crestbrook.md"
   ]
 }
