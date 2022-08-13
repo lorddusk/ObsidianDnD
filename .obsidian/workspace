@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Booker/Character Sheet.md",
+            "file": "Ramose.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Character Sheet.md",
+                "file": "Ramose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Character Sheet.md"
+                "file": "Ramose.md"
               }
             }
           },
@@ -126,15 +126,15 @@
   },
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
-    "father.md",
     "Characters/Booker/Background.md",
+    "[[Ramose.md",
+    "Characters/Booker/Character Sheet.md",
+    "father.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Titlayo Crest.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Ramose Crest.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Eric Kraft.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Chaedi Lia Crest.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
-    "Red Hand of Doom/Compendium/Characters/Booker.md",
-    "Red Hand of Doom/Compendium/Characters/Bikam.md",
-    "Characters/Booker/Character Sheet.md"
+    "Red Hand of Doom/Compendium/Characters/Booker.md"
   ]
 }
