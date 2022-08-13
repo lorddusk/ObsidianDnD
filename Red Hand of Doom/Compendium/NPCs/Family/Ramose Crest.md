@@ -1,7 +1,7 @@
 ---
 type: npc
 name: Ramose Crest
-location: unknown
+location: Crestbrook?
 desc: Father
 tags: NPC, Family
 ---

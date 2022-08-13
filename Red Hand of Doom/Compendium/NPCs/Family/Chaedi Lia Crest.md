@@ -1,7 +1,7 @@
 ---
 type: npc
-name: unknown
-location: unknown
+name: Chaedi Lia Crest
+location: Crestbrook?
 desc: Sister
 tags: NPC, Family
 ---

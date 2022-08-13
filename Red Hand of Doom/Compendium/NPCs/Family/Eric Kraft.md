@@ -1,7 +1,7 @@
 ---
 type: npc
-name: unknown
-location: unknown
+name: Eric Kraft
+location: Crestbrook?
 desc: Halfbrother
 tags: NPC, Family
 ---

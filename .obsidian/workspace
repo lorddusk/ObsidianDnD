@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/NPCs/Family/Eric Kraft.md",
+            "file": "Red Hand of Doom/Compendium/NPCs/Family/Titlayo Crest.md",
             "mode": "source",
             "source": false
           }
@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Red Hand of Doom/Compendium/NPCs/Family/Titlayo Crest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Red Hand of Doom/Compendium/NPCs/Family/Titlayo Crest.md"
+              }
             }
           },
           {
@@ -141,13 +144,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9cd2e974b5b5877c",
+  "active": "47a6ed25356bf37b",
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium/NPCs/Family/Titlayo Crest.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Ramose Crest.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Eric Kraft.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Chaedi Lia Crest.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
+    "Red Hand of Doom/Compendium/NPCs/Family/Titlayo Crest.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Red Hand of Doom/Compendium/Characters/Bikam.md",
     "Characters/Booker/Background.md",
