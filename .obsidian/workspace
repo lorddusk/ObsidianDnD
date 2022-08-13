@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Booker/Background.md",
+            "file": "Red Hand of Doom/Compendium/NPCs/Family/Ramose.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Background.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/Family/Ramose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Background.md"
+                "file": "Red Hand of Doom/Compendium/NPCs/Family/Ramose.md"
               }
             }
           },
@@ -136,8 +136,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "47a6ed25356bf37b",
+  "active": "a675e60e8360408f",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/NPCs/Family/Titlayo.md",
+    "Characters/Booker/Background.md",
     "Characters/Booker/Character Sheet.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
@@ -145,8 +147,6 @@
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Rhest.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Talar.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/The Blackfens.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/The Witchwood.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Wyrmsmoke Mountains.md",
-    "Red Hand of Doom/Compendium/Locations/Crestbrook.md"
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/The Witchwood.md"
   ]
 }
