@@ -7,8 +7,12 @@
         "id": "cd18738cf77affab",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md"
+              }
             }
           },
           {
@@ -117,7 +124,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cd18738cf77affab",
+  "active": "a675e60e8360408f",
   "lastOpenFiles": [
     "Tags.md",
     "[[Ramose.md",
