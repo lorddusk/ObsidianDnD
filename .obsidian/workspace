@@ -9,6 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Characters/Booker/Character Sheet.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "47a6ed25356bf37b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Characters/Booker/Background.md",
             "mode": "source",
             "source": false
@@ -124,7 +136,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cd18738cf77affab",
+  "active": "47a6ed25356bf37b",
   "lastOpenFiles": [
     "Characters/Booker/Character Sheet.md",
     "Characters/Booker/Background.md",
