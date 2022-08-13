@@ -31,4 +31,5 @@ A disembodied voice echoed through the area I was finding myself in; "I can help
 Not wanting to die, I replied that I accepted these conditions. The blinding light went even brighter, so much I needed to avert my eyes. As soon as it came, it went away. Once my eyes readjusted to a normal light, I felt much better. 
 
 I checked myself, no sign of the piercing anywhere. Although my skin had turned a sort of shade of grey, as if I was sickly, but... I felt fine. 
-By my side there was a sp
+By my side there was a spear and a dagger, they weren't there before. On the spear was a note;
+"Clean this weapon every day, protect it with your life, cherish it, and it will help you."
