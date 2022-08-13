@@ -6,7 +6,7 @@ desc: tbd
 tags: NPC
 ---
 
-# Chaedi Lia 
+# Chaedi Lia Crest
 ___ 
 ## References: - 
 --- 

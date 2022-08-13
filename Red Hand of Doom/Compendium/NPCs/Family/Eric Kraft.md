@@ -6,7 +6,7 @@ desc: tbd
 tags: NPC
 ---
 
-# Eric 
+# Eric Kraft
 ___ 
 ## References: - 
 --- 

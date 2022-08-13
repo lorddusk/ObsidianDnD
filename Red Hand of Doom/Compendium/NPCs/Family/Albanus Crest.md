@@ -1,13 +1,16 @@
 ---
 type: npc
-name: unknown
+name: Albanus Crest
 location: unknown
 desc: tbd
 tags: NPC
 ---
 
-# Albanus 
+# Albanus Crest
 ___ 
-## References: - 
+## References: 
+- Brother of [[Booker]]
+- Brother of [[Albanus Crest]]
+- Brother of [[Chaedi Lia Crest]]
 --- 
 creation date:: [[2022-08-13]] 22:49

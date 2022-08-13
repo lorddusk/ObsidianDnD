@@ -12,6 +12,6 @@ ___
 - Father of [[Booker]]
 - Father of [[Albanus Crest]]
 - Father of [[Chaedi Lia Crest]]
-- Step-father of [[Eric]]
+- Step-father of [[Eric Kraft]]
 --- 
 creation date:: [[2022-08-13]] 22:43

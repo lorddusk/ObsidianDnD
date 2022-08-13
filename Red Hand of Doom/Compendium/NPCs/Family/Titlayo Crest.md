@@ -12,6 +12,6 @@ ___
 - Mother of [[Booker]]
 - Mother of [[Albanus Crest]]
 - Mother of [[Chaedi Lia Crest]]
-- Mother of [[Eric]]
+- Mother of [[Eric Kraft]]
 --- 
 creation date:: [[2022-08-13]] 22:43
