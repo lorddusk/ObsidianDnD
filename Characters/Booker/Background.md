@@ -36,4 +36,6 @@ By my side there was a spear something that wasn't there before. On it there was
 
 Looking around me for the first time, I did not recognize where I was.
 I wandered aimlessly around for what felt days, before finding my way to [[Waterdeep]]. Asking people where [[Crestbrook]] was, nobody knew. Not the common folk, nor the librarians. They had never heard of it. 
-It became my goal to find my way back home, and I found my way to [[Brindol]] 
+It became my goal to find my way back home, and I found my way to [[Brindol]] and joined the Adventurers Guild in hopes it would give me the resources to find my way back home...
+
+It has been 15 years now... And I've not heard yet from my 
