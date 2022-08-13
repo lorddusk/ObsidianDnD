@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "file:Booker",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
       "query": "tag:#Location",
       "color": {
         "a": 1,
@@ -19,6 +26,13 @@
       "color": {
         "a": 1,
         "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Family",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     },
     {
@@ -53,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0256374918442606,
-  "close": true
+  "scale": 0.26547463015593553,
+  "close": false
 }
