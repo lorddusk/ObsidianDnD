@@ -1,7 +1,7 @@
 ---
 type: npc
 name: Titlayo Crest
-location: unknown
+location: Crestbrook?
 desc: Mother
 tags: NPC, Family
 ---

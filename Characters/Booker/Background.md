@@ -20,3 +20,4 @@ I have a weakness for the new intoxicants and other pleasures in these new lands
 
 ## Backstory :
 Born in [[Crestbrook]], a child of [[Titlayo Crest]] and [[Ramose Crest]]. 
+Living in a loving family, with 3 siblings. My full siblings: [[Albanus Crest]] and [[Chaedi Lia Crest]]; and my halfbrother: [[Eric Kraft]]
