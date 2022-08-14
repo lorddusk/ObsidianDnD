@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
+            "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
+                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,16 +97,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md"
+                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md"
               }
-            }
-          },
-          {
-            "id": "7a2cddb4114c42b1",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
             }
           },
           {
@@ -123,9 +115,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "3919f3fa9cdfc810",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
             }
           }
         ],
@@ -137,15 +138,15 @@
   },
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
-    "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
+    "Red Hand of Doom/Compendium/Characters/Booker.md",
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md",
     "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
+    "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Titlayo Crest.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Ramose Crest.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Eric.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Chaedi Lia Crest.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
-    "Red Hand of Doom/Compendium/Locations/Crestbrook.md",
-    "Red Hand of Doom/Compendium/Locations/Index.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Wyrmsmoke Mountains.md"
+    "Red Hand of Doom/Compendium/Locations/Crestbrook.md"
   ]
 }
