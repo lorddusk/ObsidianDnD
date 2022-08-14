@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/NPCs/Index.md",
-            "mode": "preview",
+            "file": "Characters/Booker/Background.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/Index.md",
+                "file": "Characters/Booker/Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/Index.md"
+                "file": "Characters/Booker/Background.md"
               }
             }
           },
@@ -126,12 +126,12 @@
   },
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/NPCs/Index.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md",
     "Tags.md",
     "[[Ramose.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Eric.md",
-    "Red Hand of Doom/Compendium/NPCs/Index.md",
     "Characters/Booker/Background.md",
     "Characters/Booker/Character Sheet.md",
     "Ramose.md",
