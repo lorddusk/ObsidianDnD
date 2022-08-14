@@ -12,5 +12,10 @@
   "communityThemeSortOrder": "download",
   "showFrontmatter": false,
   "attachmentFolderPath": "Resources",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "nl"
+  ]
 }

@@ -2,7 +2,7 @@
 ### Personality Traits :
 I honor my deal through a practice that is seemingly foreign to this land. At the beginning or end of my day I perform a small traditional (for me) ritual.
 
-Through a deal I made, I received a weapon I never thought was possible to handle, and thus I honor this deal by excessively cleanning and oil my weapon every day. This oil is a mixture of several ingredients that I were very commonly found around my home town ([[Crestbrook]]). The method of cleaning is very detailed and no part of the weapon is left uncleaned. 
+Through a deal I made, I received a weapon I never thought was possible to handle, and thus I honor this deal by excessively cleaning and oil my weapon every day. This oil is a mixture of several ingredients that I were very commonly found around my home town ([[Crestbrook]]). The method of cleaning is very detailed and no part of the weapon is left uncleaned. 
 
 ### Ideals : 
 I have a clear recollection of my youth, but found myself lost without a way home. In these new lands I woke up in, I keep finding new things to learn and see. Joining the Adventure Guild in [[Brindol]] helped me see more, and hopefully will get me the know how to get back home.
