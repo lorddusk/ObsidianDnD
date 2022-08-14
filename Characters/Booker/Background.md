@@ -8,7 +8,7 @@ Through a deal I made, I received a weapon I never thought was possible to handl
 I have a clear recollection of my youth, but found myself lost without a way home. In these new lands I woke up in, I keep finding new things to learn and see. Joining the Adventure Guild in [[Brindol]] helped me see more, and hopefully will get me the know how to get back home.
 
 ### Bonds :
-Through no choice of my own, I have no way to my home town of [[Crestbrook]]. And thus leaving my parents, and my sister alone. I hope to see them, alive, again one day...
+Through no choice of my own, I have no way to return to my home town of [[Crestbrook]]. And thus leaving my parents, and my siblings alone. I hope to see them, alive, again one day...
 
 ### Flaws :
 I have a weakness for the new intoxicants and other pleasures in these new lands. I'll indulge in more than is good for me, and have often land in fights, or other altercations with local folk.
