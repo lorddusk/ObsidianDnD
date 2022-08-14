@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Compendium Index.md",
+            "file": "Characters/Booker/Background.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Item",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compendium Index.md",
+                "file": "Characters/Booker/Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compendium Index.md"
+                "file": "Characters/Booker/Background.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compendium Index.md",
+                "file": "Characters/Booker/Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,23 +131,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cd18738cf77affab",
+  "active": "3919f3fa9cdfc810",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Characters/Booker.md",
+    "Characters/Booker/Character Sheet.md",
+    "Characters/Booker/Background.md",
+    "Compendium Index.md",
     "Red Hand of Doom/Worldmap.md",
     "Red Hand of Doom/Compendium/Characters/- Index.md",
     "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
     "Red Hand of Doom/Compendium/Items/- Index.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Rhest.md",
-    "Red Hand of Doom/Compendium/Locations/- Index.md",
-    "Red Hand of Doom/Compendium/NPCs/- Index.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md"
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md"
   ]
 }
