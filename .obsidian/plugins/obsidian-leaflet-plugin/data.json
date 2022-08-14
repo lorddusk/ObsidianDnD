@@ -50,6 +50,36 @@
       "files": [
         "Red Hand of Doom/Worldmap.md"
       ]
+    },
+    {
+      "id": "elsir",
+      "lastAccessed": 1660484274727,
+      "markers": [
+        {
+          "id": "ID_f9db5b1b5998",
+          "type": "default",
+          "loc": [
+            -0.8955078125,
+            2.2080078125
+          ],
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7065625,
+            0.43917624521072796
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md"
+      ]
     }
   ],
   "defaultMarker": {
