@@ -53,7 +53,7 @@
     },
     {
       "id": "elsir",
-      "lastAccessed": 1660484274727,
+      "lastAccessed": 1660484340177,
       "markers": [
         {
           "id": "ID_f9db5b1b5998",
@@ -62,6 +62,7 @@
             -0.8955078125,
             2.2080078125
           ],
+          "link": "Brindol",
           "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
           "mutable": true,
           "command": false,
@@ -69,6 +70,96 @@
             0.7065625,
             0.43917624521072796
           ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_786a199a3bab",
+          "type": "default",
+          "loc": [
+            -0.731475830078125,
+            1.697265625
+          ],
+          "link": "The Witchwood",
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89d9bb893bb8",
+          "type": "default",
+          "loc": [
+            -0.9384765625,
+            1.9482421875
+          ],
+          "link": "Talar",
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6234375,
+            0.46024904214559387
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a0959bbb96a",
+          "type": "default",
+          "loc": [
+            -1.06640625,
+            1.7822265625
+          ],
+          "link": "Nimon Gap",
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5703125,
+            0.5229885057471264
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b2aa8da7869",
+          "type": "default",
+          "loc": [
+            -0.3423004150390625,
+            1.626953125
+          ],
+          "link": "Rhest",
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dba95bf80acb",
+          "type": "default",
+          "loc": [
+            -0.5161285400390625,
+            1.5927734375
+          ],
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
