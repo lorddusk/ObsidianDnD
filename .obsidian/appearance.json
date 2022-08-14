@@ -7,6 +7,6 @@
     "headercolors",
     "hide folders"
   ],
-  "translucency": false,
+  "translucency": true,
   "baseFontSize": 16
 }
