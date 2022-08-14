@@ -14,6 +14,13 @@ where type="character"
 sort file.name asc
 ```
 
+## Events
+```dataview
+list from "Red Hand of Doom/Compendium"
+where type="event"
+sort file.name asc
+```
+
 ## Locations
 ```dataview
 list from "Red Hand of Doom/Compendium"
