@@ -53,7 +53,7 @@
     },
     {
       "id": "elsir",
-      "lastAccessed": 1660484340177,
+      "lastAccessed": 1660484373086,
       "markers": [
         {
           "id": "ID_f9db5b1b5998",
@@ -66,10 +66,7 @@
           "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": [
-            0.7065625,
-            0.43917624521072796
-          ],
+          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -103,10 +100,7 @@
           "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": [
-            0.6234375,
-            0.46024904214559387
-          ],
+          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -123,10 +117,7 @@
           "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": [
-            0.5703125,
-            0.5229885057471264
-          ],
+          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -156,6 +147,24 @@
             -0.5161285400390625,
             1.5927734375
           ],
+          "link": "The Blackfens",
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea0b38682b6b",
+          "type": "default",
+          "loc": [
+            -0.958038330078125,
+            0.775390625
+          ],
+          "link": "Wyrmsmoke Mountains",
           "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
           "mutable": true,
           "command": false,
