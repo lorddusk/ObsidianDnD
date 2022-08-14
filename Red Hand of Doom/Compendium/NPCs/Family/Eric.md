@@ -9,9 +9,9 @@ tags: NPC, Family
 # Eric ?
 ___ 
 ## References: 
-- Half-Brother of [[Booker]]
-- Half-Brother of [[Albanus Crest]]
-- Half-Brother of [[Chaedi Lia Crest]]
+- Half-brother of [[Booker]]
+- Half-brother of [[Albanus Crest]]
+- Half-brother of [[Chaedi Lia Crest]]
 - Stepson of [[Ramose Crest]] 
 - Son of [[Titlayo Crest]]
 --- 

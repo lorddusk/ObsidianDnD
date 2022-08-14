@@ -11,7 +11,7 @@ ___
 ## References: 
 - Sister of [[Booker]]
 - Sister of [[Albanus Crest]]
-- Halfsister of [[Eric]]
+- Half-sister of [[Eric]]
 - Daughter of [[Ramose Crest]]
 - Daughter of [[Titlayo Crest]]
 --- 
