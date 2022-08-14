@@ -14,5 +14,9 @@
   "attachmentFolderPath": "Resources",
   "alwaysUpdateLinks": true,
   "spellcheck": true,
-  "spellcheckLanguages": null
+  "spellcheckLanguages": [
+    "en-US",
+    "nl",
+    "en-GB"
+  ]
 }
