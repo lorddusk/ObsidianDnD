@@ -1,11 +1,11 @@
 ---
-name:
+name: Alton
 player: Peter
 type: character
 tags: Party
 ---
 
-# Peter 
+# Alton Millbrooke 
 ___ 
 ## References: - 
 --- 
