@@ -1,5 +1,6 @@
 ---
 name: Alton
+surname: Millbrooke
 player: Peter
 type: character
 tags: Party
