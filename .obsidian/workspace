@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "House Rules/Inspiration/DM Inspiration.md",
+            "file": "Characters/Booker/Background.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "House Rules/Inspiration/DM Inspiration.md",
+                "file": "Characters/Booker/Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "House Rules/Inspiration/DM Inspiration.md"
+                "file": "Characters/Booker/Background.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "House Rules/Inspiration/DM Inspiration.md",
+                "file": "Characters/Booker/Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,13 +139,13 @@
   },
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
+    "Characters/Booker/Character Sheet.md",
+    "House Rules/Inspiration/DM Inspiration.md",
     "House Rules/Inspiration.md",
     "House Rules/Inspiration/Party Inspiration.md",
-    "House Rules/Inspiration/DM Inspiration.md",
     "Red Hand of Doom/House Rules.md",
     "House Rules/Rule of Cool.md",
     "House Rules/Mechanics & Combat.md",
-    "Characters/Booker/Character Sheet.md",
     "Characters/Booker/Background.md",
     "Red Hand of Doom/Compendium/Characters/Alton.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md"
