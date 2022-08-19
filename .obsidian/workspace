@@ -129,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,6 +138,8 @@
   },
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Characters/- Index.md",
+    "Characters/Booker/Background.md",
     "Characters/Booker/Character Sheet.md",
     "House Rules/Inspiration/DM Inspiration.md",
     "House Rules/Inspiration.md",
@@ -146,8 +147,6 @@
     "Red Hand of Doom/House Rules.md",
     "House Rules/Rule of Cool.md",
     "House Rules/Mechanics & Combat.md",
-    "Characters/Booker/Background.md",
-    "Red Hand of Doom/Compendium/Characters/Alton.md",
-    "Red Hand of Doom/Compendium/Characters/Booker.md"
+    "Red Hand of Doom/Compendium/Characters/Alton.md"
   ]
 }
