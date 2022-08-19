@@ -36,7 +36,7 @@ A disembodied voice echoed through the area I was finding myself in; "I can help
 Not wanting to die, I replied that I accepted these conditions. The blinding light went even brighter, so much I needed to avert my eyes. As soon as it came, it went away. Once my eyes readjusted to a normal light, I felt much better. 
 
 I checked myself, no sign of the piercing anywhere. Although my skin had turned a sort of shade of grey, as if I was sickly, but... I felt fine. 
-By my side there was a spear something that wasn't there before. On it there was a note;
+By my side there was a spear, something that wasn't there before. On it there was a note;
 "Keep this weapon on you at all times, protect it with your life, cherish it, and it will return the same love to you." on the back of the note was a list with ingredients and directions to take care of the weapon.
 
 Looking around me for the first time, I did not recognize where I was.
