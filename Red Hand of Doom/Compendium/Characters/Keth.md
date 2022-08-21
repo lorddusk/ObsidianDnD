@@ -10,7 +10,8 @@ tags: Party
 ---
 
 # Keth Bar'dag
-Wears a symbol of Dol Arrah
+Wears a symbol of [Dol Arrah](https://5e.tools/deities.html#dol%20arrah_eberron_erlw)
+
 ___ 
 ## References:
 --- 
