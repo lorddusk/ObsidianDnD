@@ -4,7 +4,7 @@ tags: Location
 ---
 
 # Dauth 
-Has a brewery for fruit liquors
+Has a brewery for fruit liquors ran by a halfling
 ___ 
 ## References: - 
 --- 
