@@ -30,11 +30,9 @@ Zijn onderweg geweest in een bootje, aangekomen in [[Nimon Gap]].
 [[Bikam]] en [[Alton]] doen samen een competitie dagger werpen.
 
 Aan het einde van de dag, wordt er door een wachter geroepen dat [[Nimon Gap]] onder aanval is.
-We worden aangevallen door iets wat op kobolds lijken.
+We worden aangevallen door iets wat op kobolds lijken, rijdend op een soort van wespen.
 
 -- Combat --
-
-
 
 -- End of Combat --
 
