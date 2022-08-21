@@ -5,3 +5,4 @@
 | Spear          | d6   | 1    |       | [ ]  | [ ]  |                          |
 | Spell Attack   | d20  | 10   |       | [ ]  | [ ]  |                          |
 | Eldritch Blast | d10  | 2    |       | [ ]  | [ ]  |                          |
+^combat
