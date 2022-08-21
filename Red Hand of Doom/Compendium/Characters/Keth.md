@@ -1,11 +1,12 @@
 ---
-name:
+name: Keth
+surname: ?
 player: Danny
 type: character
 tags: Party
 ---
 
-# Danny 
+# Keth 
 ___ 
 ## References: - 
 --- 

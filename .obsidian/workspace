@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Booker/Background.md",
-            "mode": "preview",
+            "file": "Red Hand of Doom/Compendium/Characters/Booker.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Background.md",
+                "file": "Red Hand of Doom/Compendium/Characters/Booker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Background.md",
+                "file": "Red Hand of Doom/Compendium/Characters/Booker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Background.md"
+                "file": "Red Hand of Doom/Compendium/Characters/Booker.md"
               }
             }
           },
@@ -138,15 +138,15 @@
   },
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
-    "Characters/Booker/Character Sheet.md",
+    "Red Hand of Doom/Compendium/Characters/Keth.md",
+    "Red Hand of Doom/Compendium/Characters/Booker.md",
+    "Red Hand of Doom/Compendium/Characters/Aelar.md",
+    "Red Hand of Doom/Compendium/Characters/- Index.md",
     "Characters/Booker/Background.md",
+    "Characters/Booker/Character Sheet.md",
     "Compendium Index.md",
     "Red Hand of Doom/Compendium/NPCs/The Benefactor.md",
-    "Red Hand of Doom/Compendium/Characters/- Index.md",
     "House Rules/Inspiration/DM Inspiration.md",
-    "House Rules/Inspiration.md",
-    "House Rules/Inspiration/Party Inspiration.md",
-    "Red Hand of Doom/House Rules.md",
-    "House Rules/Rule of Cool.md"
+    "House Rules/Inspiration.md"
   ]
 }
