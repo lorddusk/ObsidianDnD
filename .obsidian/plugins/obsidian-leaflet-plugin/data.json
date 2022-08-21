@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "world",
-      "lastAccessed": 1660484428136,
+      "lastAccessed": 1661106882223,
       "markers": [
         {
           "id": "ID_ebf929bb599a",
@@ -53,7 +53,7 @@
     },
     {
       "id": "elsir",
-      "lastAccessed": 1661104364583,
+      "lastAccessed": 1661106882223,
       "markers": [
         {
           "id": "ID_f9db5b1b5998",
@@ -165,6 +165,23 @@
             0.775390625
           ],
           "link": "Wyrmsmoke Mountains",
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9c93afb3858",
+          "type": "default",
+          "loc": [
+            -1.2193374633789062,
+            2.0966796875
+          ],
+          "link": "Dauth",
           "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
           "mutable": true,
           "command": false,
