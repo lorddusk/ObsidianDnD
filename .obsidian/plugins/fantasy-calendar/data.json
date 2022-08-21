@@ -330,11 +330,11 @@
           "name": "Session 1 - 21 August 2022",
           "description": null,
           "date": {
-            "day": 30,
-            "month": 11,
-            "year": 1491
+            "year": 1491,
+            "month": 12,
+            "day": 1
           },
-          "id": "ID_bb19e8ab49b8",
+          "id": "ID_a98a9bca280b",
           "note": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022",
           "category": null
         }

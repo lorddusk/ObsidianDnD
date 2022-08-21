@@ -10,7 +10,8 @@ create_date: {{27 July 2022}}
 ---
 
 ## Summary:
-
+Onderweg in een bootje.
+Festival is later dan gepland, vanwege de warmte
 ^summary
 
 ## Housekeeping:
