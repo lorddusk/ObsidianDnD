@@ -1,3 +1,6 @@
+###### Rolls
+
+###### Combat #1
 | Kind of roll   | Dice | Roll | Extra | Adv. | Dis. | Note                     |
 | -------------- | ---- | ---- | ----- | ---- | ---- | ------------------------ |
 | Initiative     | d20  | 8    |       | [ ]  | [ ]  |                          |
