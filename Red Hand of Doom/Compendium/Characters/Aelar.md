@@ -3,6 +3,7 @@ name: Aelar
 surname: Amastacia
 player: Rob
 type: character
+class: Circle of the Stars
 tags: Party
 ---
 
