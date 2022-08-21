@@ -48,4 +48,4 @@ Hij komt met geruchten dat een van de Clerics van Kelemvor, geen human was maar 
 Of we mee willen naar de Crypte van deze persoon, zodat hij kan controleren of dit ook echt zo is.
 
 Kobold werkt voor de Inventor (Knieschijf in Draconic).
-Orders van de bas om
+Orders van de baas om [[Nimon Gap]] aan te vallen. Komen van een outpost uit de bossen net buiten de stad. 
