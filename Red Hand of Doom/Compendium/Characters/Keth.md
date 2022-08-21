@@ -2,6 +2,7 @@
 name: Keth
 surname: ?
 player: Danny
+class: Vengeance Paladin
 type: character
 tags: Party
 ---

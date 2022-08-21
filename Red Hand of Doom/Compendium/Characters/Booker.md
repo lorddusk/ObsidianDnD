@@ -4,6 +4,7 @@ surname: Crest
 player: Tim
 class: Hexblade Warlock
 type: character
+desc: My Character
 tags: Party
 ---
 
