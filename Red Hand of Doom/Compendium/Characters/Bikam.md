@@ -4,6 +4,7 @@ surname: Folkor
 nickname: The Scribbler
 class: Wizard of the Scribe
 player: Guido
+race: Gnome
 type: character
 tags: Party
 ---

@@ -3,6 +3,7 @@ name: Aelar
 surname: Amastacia
 player: Rob
 type: character
+race: Firbolg
 class: Circle of the Stars Druid
 tags: Party
 ---

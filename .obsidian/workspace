@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Booker/Character Sheet.md",
+            "file": "Red Hand of Doom/Compendium/Characters/Keth.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Character Sheet.md",
+                "file": "Red Hand of Doom/Compendium/Characters/Keth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Character Sheet.md",
+                "file": "Red Hand of Doom/Compendium/Characters/Keth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Character Sheet.md"
+                "file": "Red Hand of Doom/Compendium/Characters/Keth.md"
               }
             }
           },
@@ -139,15 +139,15 @@
   },
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Characters/Booker.md",
+    "Red Hand of Doom/Compendium/Characters/Bikam.md",
+    "Red Hand of Doom/Compendium/Characters/Alton.md",
+    "Red Hand of Doom/Compendium/Characters/Aelar.md",
+    "Characters/Booker/Character Sheet.md",
     "Red Hand of Doom/Compendium/Events/- Index.md",
     "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
     "Red Hand of Doom/Compendium/Items/- Index.md",
     "Characters/Booker/Background.md",
-    "Red Hand of Doom/Compendium/Characters/- Index.md",
-    "Red Hand of Doom/Compendium/Characters/Alton.md",
-    "Red Hand of Doom/Compendium/Characters/Aelar.md",
-    "Red Hand of Doom/Compendium/Characters/Keth.md",
-    "Compendium Index.md",
-    "Red Hand of Doom/Compendium/Characters/Booker.md"
+    "Red Hand of Doom/Compendium/Characters/- Index.md"
   ]
 }

@@ -2,7 +2,8 @@
 name: Alton
 surname: Millbrooke
 player: Peter
-class : Swashbuckler Rogue
+class: Swashbuckler Rogue
+race: Halfling 
 type: character
 tags: Party
 ---

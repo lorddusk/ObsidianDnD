@@ -4,6 +4,7 @@ surname: Crest
 player: Tim
 class: Hexblade Warlock
 type: character
+race: Aasimar
 desc: My Character
 tags: Party
 ---
