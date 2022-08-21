@@ -12,4 +12,4 @@
 | Eldritch Blast | d10  | 2    |       | [ ]  | [ ]  |                                  |
 | Melee Attack   | d20  | 12   | 8     | [x]  | [ ]  | Adv. through Entangle/Restrained |
 | Spear          | d6   | 2    |       | [ ]  | [ ]  |                                  |
-	^combat
+^combat
