@@ -41,3 +41,5 @@ In draconic (via Comprehend Languages)
 Voer een hinderlaag uit, tijdens het [[Harvest Festival]], zodat ik ongestoord mijn werk kan doen. 
 Getekend [[Jeralla]]
 
+Kobold die we gevangen hebben, vastgebonden.
+Een priest komt ons tegemoet, Broeder 
