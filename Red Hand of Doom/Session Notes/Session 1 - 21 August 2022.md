@@ -27,4 +27,5 @@ Zijn onderweg geweest in een bootje, aangekomen in [[Nimon Gap]].
 [[Aelar]] heeft niveau 1 gehaald, [[Keth]] niveau 4, heeft n5 gefaald.
 [[Bikam]] heeft meegedaan aan een peper eet wedstrijd, [[Booker]] heeft dit aanschouwt en de heetste peper gekocht, voor later :)
 [[Booker]] en [[Keth]] zijn er als een soort beveiliging vanuit de Adventurers Guild.
+[[Bikam]] en [[Alton]] doen samen een competitie dagger werpen.
 
