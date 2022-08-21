@@ -1,14 +1,18 @@
 ---
 name: Keth
-surname: ?
+surname: Bar'dag
 player: Danny
 class: Vengeance Paladin
 type: character
+desc: My Character
 tags: Party
 ---
 
-# Keth 
+# Keth Bar'dag
+Home: [[Crestbrook]]
 ___ 
-## References: - 
+## References:
+- [[Character Sheet]]
+- [[Background]]
 --- 
-creation date:: [[2022-07-23]] 22:28
+creation date:: [[2022-07-23]] 22:29
