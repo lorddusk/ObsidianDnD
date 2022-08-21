@@ -5,6 +5,7 @@ player: Danny
 class: Vengeance Paladin
 type: character
 desc: 
+race: Orc
 tags: Party
 ---
 
