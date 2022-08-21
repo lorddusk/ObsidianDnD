@@ -1,0 +1,161 @@
+{
+  "appData": {},
+  "state": {
+    "Red Hand of Doom/Rolls/Session 1 - 21 August 2022.md": {
+      "0": {
+        "data": {
+          "headers": [
+            {
+              "id": "9906b760-1685-4df6-91ad-f37ef08789c7",
+              "content": "Kind of roll",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "c8d4d967-fecd-4941-9438-17df1258dc4b",
+              "content": "Dice",
+              "sortDir": "default",
+              "width": "83px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": true,
+              "type": "text"
+            },
+            {
+              "id": "f83458b7-f40f-4109-bacc-40a1d2e78d70",
+              "content": "Rolled",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "36252697-f924-4452-81b3-e7552e63ae48",
+              "content": "Note",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            }
+          ],
+          "rows": [
+            {
+              "id": "374694db-0666-4f4f-9fd4-b3d23d87e12d",
+              "initialIndex": 0,
+              "creationTime": 1661112221905
+            },
+            {
+              "id": "7d2b2272-b0d5-4aa3-b162-ada5f7bfee0c",
+              "initialIndex": 1,
+              "creationTime": 1661112221781
+            },
+            {
+              "id": "b392afe6-ca43-4e1a-8322-e55d172ca87e",
+              "initialIndex": 2,
+              "creationTime": 1661112222545
+            }
+          ],
+          "cells": [
+            {
+              "id": "67693c37-f78c-489e-984c-1e9620af47a6",
+              "rowId": "374694db-0666-4f4f-9fd4-b3d23d87e12d",
+              "headerId": "9906b760-1685-4df6-91ad-f37ef08789c7",
+              "type": "text",
+              "text": "Initiative"
+            },
+            {
+              "id": "1f48d355-f7fe-445c-ad42-e10c597d153d",
+              "rowId": "374694db-0666-4f4f-9fd4-b3d23d87e12d",
+              "headerId": "c8d4d967-fecd-4941-9438-17df1258dc4b",
+              "type": "text",
+              "text": "d20"
+            },
+            {
+              "id": "5d17a2b4-3c4c-48fe-9368-64782e05c236",
+              "rowId": "374694db-0666-4f4f-9fd4-b3d23d87e12d",
+              "headerId": "f83458b7-f40f-4109-bacc-40a1d2e78d70",
+              "type": "text",
+              "text": "8"
+            },
+            {
+              "id": "03f23a6d-c807-495a-a972-ed7110dffcb6",
+              "rowId": "374694db-0666-4f4f-9fd4-b3d23d87e12d",
+              "headerId": "36252697-f924-4452-81b3-e7552e63ae48",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "f373c864-a6be-45ea-82bb-e9a330ae194f",
+              "rowId": "7d2b2272-b0d5-4aa3-b162-ada5f7bfee0c",
+              "headerId": "9906b760-1685-4df6-91ad-f37ef08789c7",
+              "type": "text",
+              "text": "Attack"
+            },
+            {
+              "id": "73f7af63-5570-43cf-8a56-be9b858173db",
+              "rowId": "7d2b2272-b0d5-4aa3-b162-ada5f7bfee0c",
+              "headerId": "c8d4d967-fecd-4941-9438-17df1258dc4b",
+              "type": "text",
+              "text": "d20"
+            },
+            {
+              "id": "0a4cd38c-491b-4a96-9e39-f895a32b83b4",
+              "rowId": "7d2b2272-b0d5-4aa3-b162-ada5f7bfee0c",
+              "headerId": "f83458b7-f40f-4109-bacc-40a1d2e78d70",
+              "type": "text",
+              "text": "10 / 4"
+            },
+            {
+              "id": "2c25bf4b-e08b-4376-b324-504746da0dab",
+              "rowId": "7d2b2272-b0d5-4aa3-b162-ada5f7bfee0c",
+              "headerId": "36252697-f924-4452-81b3-e7552e63ae48",
+              "type": "text",
+              "text": "(Adv through Faerie Fire)"
+            },
+            {
+              "id": "86d51470-3290-4397-ac0d-d43b13061b81",
+              "rowId": "b392afe6-ca43-4e1a-8322-e55d172ca87e",
+              "headerId": "9906b760-1685-4df6-91ad-f37ef08789c7",
+              "type": "text",
+              "text": "Spear"
+            },
+            {
+              "id": "974fed73-1913-44c3-990a-6bf909478df4",
+              "rowId": "b392afe6-ca43-4e1a-8322-e55d172ca87e",
+              "headerId": "c8d4d967-fecd-4941-9438-17df1258dc4b",
+              "type": "text",
+              "text": "d6"
+            },
+            {
+              "id": "eb8f5f92-6f28-4066-8ff9-9994140a3534",
+              "rowId": "b392afe6-ca43-4e1a-8322-e55d172ca87e",
+              "headerId": "f83458b7-f40f-4109-bacc-40a1d2e78d70",
+              "type": "text",
+              "text": "1"
+            },
+            {
+              "id": "cec1b572-4935-4e0d-a25b-0814e6e00bb5",
+              "rowId": "b392afe6-ca43-4e1a-8322-e55d172ca87e",
+              "headerId": "36252697-f924-4452-81b3-e7552e63ae48",
+              "type": "text",
+              "text": ""
+            }
+          ],
+          "tags": []
+        },
+        "viewType": "reading",
+        "shouldUpdate": true,
+        "tableCacheVersion": 425
+      }
+    }
+  },
+  "focusedElement": {
+    "id": "-1",
+    "type": "unfocused"
+  },
+  "excludedFiles": []
+}
