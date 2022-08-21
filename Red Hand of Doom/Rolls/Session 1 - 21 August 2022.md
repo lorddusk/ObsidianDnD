@@ -1,4 +1,6 @@
 ###### Rolls
+| Kind of roll   | Dice | Roll | Extra | Adv. | Dis. | Note                     |
+| -------------- | ---- | ---- | ----- | ---- | ---- | ------------------------ |
 
 ###### Combat #1
 | Kind of roll   | Dice | Roll | Extra | Adv. | Dis. | Note                     |

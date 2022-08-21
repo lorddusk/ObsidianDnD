@@ -6,7 +6,7 @@
         "data": {
           "headers": [
             {
-              "id": "e3b14e1e-430e-4069-b131-26a8c25d0583",
+              "id": "916e4c55-692a-4d61-8669-c5f622966bd4",
               "content": "Kind of roll",
               "sortDir": "default",
               "width": "116px",
@@ -15,7 +15,7 @@
               "type": "text"
             },
             {
-              "id": "38575f09-9483-4197-873b-46068a933cb7",
+              "id": "0519c7ed-b99e-4a35-868c-6b3a558f00b0",
               "content": "Dice",
               "sortDir": "default",
               "width": "58px",
@@ -24,7 +24,7 @@
               "type": "text"
             },
             {
-              "id": "9d6a9c63-c10b-4a86-a236-8cffac3da1a4",
+              "id": "ab485a47-b867-4d76-95da-12398462abda",
               "content": "Roll",
               "sortDir": "default",
               "width": "57px",
@@ -33,7 +33,7 @@
               "type": "text"
             },
             {
-              "id": "f8d67929-5b2a-45a4-8a1e-78c0ea2aad4c",
+              "id": "66101205-bb89-44a2-a4b7-3f4043164ace",
               "content": "Extra",
               "sortDir": "default",
               "width": "62px",
@@ -42,7 +42,7 @@
               "type": "text"
             },
             {
-              "id": "9b30d040-9224-4783-a13b-c803502a3cbf",
+              "id": "bba8fda0-aaec-460b-9ffd-ec977695b22b",
               "content": "Adv.",
               "sortDir": "default",
               "width": "52px",
@@ -51,7 +51,7 @@
               "type": "checkbox"
             },
             {
-              "id": "18c7d952-6ff3-4090-b3bc-d8ad892205da",
+              "id": "8e30bd05-594a-404f-a363-272a984807d6",
               "content": "Dis.",
               "sortDir": "default",
               "width": "50px",
@@ -60,7 +60,7 @@
               "type": "checkbox"
             },
             {
-              "id": "dae68f03-d59a-478e-af8b-9d11b9cb0648",
+              "id": "58b4dc74-ac7a-465a-bf4b-de1531a6fa68",
               "content": "Note",
               "sortDir": "default",
               "width": "100px",
@@ -71,274 +71,274 @@
           ],
           "rows": [
             {
-              "id": "231fea9b-a737-407f-92c3-e76b70b925cc",
+              "id": "1886a822-5b7a-4df6-abb4-f699cc649ef3",
               "initialIndex": 0,
               "creationTime": 1661112221905
             },
             {
-              "id": "49ef7a9e-fa78-4d67-bb95-ef751c25ddd2",
+              "id": "131aec80-14e9-4d7d-af89-a34a961e4436",
               "initialIndex": 1,
               "creationTime": 1661112221781
             },
             {
-              "id": "1b158f47-454b-423f-80e6-e7e7997c723d",
+              "id": "be525946-7d81-4b69-ba2e-0bfbbb61e88a",
               "initialIndex": 2,
               "creationTime": 1661112222545
             },
             {
-              "id": "9d179c17-0f81-4319-bc8e-88967d1d24cb",
+              "id": "bebfc5e3-6e7b-402f-94d8-4ba255facf50",
               "initialIndex": 3,
               "creationTime": 1661113185159
             },
             {
-              "id": "44627ce5-c40d-4159-ae93-694822ce721a",
+              "id": "e2de0e55-a043-402e-9e9e-f4e60898a189",
               "initialIndex": 4,
               "creationTime": 1661113217092
             }
           ],
           "cells": [
             {
-              "id": "cd36c24e-2b58-4523-bd1c-ba2cba99e4b1",
-              "rowId": "231fea9b-a737-407f-92c3-e76b70b925cc",
-              "headerId": "e3b14e1e-430e-4069-b131-26a8c25d0583",
+              "id": "347a9c86-efd6-417a-b9f4-e6e9217b515e",
+              "rowId": "1886a822-5b7a-4df6-abb4-f699cc649ef3",
+              "headerId": "916e4c55-692a-4d61-8669-c5f622966bd4",
               "type": "text",
               "text": "Initiative"
             },
             {
-              "id": "c2cfd667-9bd5-47e6-9e13-dc1b1997852f",
-              "rowId": "231fea9b-a737-407f-92c3-e76b70b925cc",
-              "headerId": "38575f09-9483-4197-873b-46068a933cb7",
+              "id": "a2a890ab-83f3-4490-8fcb-066407d60fbf",
+              "rowId": "1886a822-5b7a-4df6-abb4-f699cc649ef3",
+              "headerId": "0519c7ed-b99e-4a35-868c-6b3a558f00b0",
               "type": "text",
               "text": "d20"
             },
             {
-              "id": "0e2f1446-2e49-4115-aa60-0c6ab1c8f4bd",
-              "rowId": "231fea9b-a737-407f-92c3-e76b70b925cc",
-              "headerId": "9d6a9c63-c10b-4a86-a236-8cffac3da1a4",
+              "id": "d4461027-868b-440d-a8cf-8e3b3756871f",
+              "rowId": "1886a822-5b7a-4df6-abb4-f699cc649ef3",
+              "headerId": "ab485a47-b867-4d76-95da-12398462abda",
               "type": "text",
               "text": "8"
             },
             {
-              "id": "8dbc4c24-d6f9-4358-9f58-409439f52fb9",
-              "rowId": "231fea9b-a737-407f-92c3-e76b70b925cc",
-              "headerId": "f8d67929-5b2a-45a4-8a1e-78c0ea2aad4c",
+              "id": "a6c3e26e-82f9-41d7-ba59-6931797ba2fb",
+              "rowId": "1886a822-5b7a-4df6-abb4-f699cc649ef3",
+              "headerId": "66101205-bb89-44a2-a4b7-3f4043164ace",
               "type": "text",
               "text": ""
             },
             {
-              "id": "8cbf2826-8b33-4cd7-b3aa-512d3c018f46",
-              "rowId": "231fea9b-a737-407f-92c3-e76b70b925cc",
-              "headerId": "9b30d040-9224-4783-a13b-c803502a3cbf",
+              "id": "7353c89b-b7ba-4db0-848f-4d6ea7017cd7",
+              "rowId": "1886a822-5b7a-4df6-abb4-f699cc649ef3",
+              "headerId": "bba8fda0-aaec-460b-9ffd-ec977695b22b",
               "type": "checkbox",
               "isChecked": false
             },
             {
-              "id": "e0d60ec9-1469-46e9-a112-992dc79ab44f",
-              "rowId": "231fea9b-a737-407f-92c3-e76b70b925cc",
-              "headerId": "18c7d952-6ff3-4090-b3bc-d8ad892205da",
+              "id": "e7ac38dc-2f8f-402f-8a7c-09e22871dd69",
+              "rowId": "1886a822-5b7a-4df6-abb4-f699cc649ef3",
+              "headerId": "8e30bd05-594a-404f-a363-272a984807d6",
               "type": "checkbox",
               "isChecked": false
             },
             {
-              "id": "d7e21ba7-453d-4df6-ab09-af6508e1ce6b",
-              "rowId": "231fea9b-a737-407f-92c3-e76b70b925cc",
-              "headerId": "dae68f03-d59a-478e-af8b-9d11b9cb0648",
+              "id": "29d66a50-8a5c-45dd-ad7d-644c6c277b8a",
+              "rowId": "1886a822-5b7a-4df6-abb4-f699cc649ef3",
+              "headerId": "58b4dc74-ac7a-465a-bf4b-de1531a6fa68",
               "type": "text",
               "text": ""
             },
             {
-              "id": "25a39c35-4979-4bc2-a332-56fa997f0e8a",
-              "rowId": "49ef7a9e-fa78-4d67-bb95-ef751c25ddd2",
-              "headerId": "e3b14e1e-430e-4069-b131-26a8c25d0583",
+              "id": "4ad3901b-d0e4-4bda-ad4c-867a067d68ef",
+              "rowId": "131aec80-14e9-4d7d-af89-a34a961e4436",
+              "headerId": "916e4c55-692a-4d61-8669-c5f622966bd4",
               "type": "text",
               "text": "Melee Attack"
             },
             {
-              "id": "4bce46eb-da46-4190-90ea-fea6296339de",
-              "rowId": "49ef7a9e-fa78-4d67-bb95-ef751c25ddd2",
-              "headerId": "38575f09-9483-4197-873b-46068a933cb7",
+              "id": "47ed9cdc-7f5b-4c14-a4f9-37ce1dad63fd",
+              "rowId": "131aec80-14e9-4d7d-af89-a34a961e4436",
+              "headerId": "0519c7ed-b99e-4a35-868c-6b3a558f00b0",
               "type": "text",
               "text": "d20"
             },
             {
-              "id": "5c75024d-5897-4257-b123-57a5b57b41d0",
-              "rowId": "49ef7a9e-fa78-4d67-bb95-ef751c25ddd2",
-              "headerId": "9d6a9c63-c10b-4a86-a236-8cffac3da1a4",
+              "id": "cda2b974-8d9d-4a72-a5a7-1b82dc34f4c9",
+              "rowId": "131aec80-14e9-4d7d-af89-a34a961e4436",
+              "headerId": "ab485a47-b867-4d76-95da-12398462abda",
               "type": "text",
               "text": "10"
             },
             {
-              "id": "e510ba58-3aec-48c0-89ed-6027b2d82d51",
-              "rowId": "49ef7a9e-fa78-4d67-bb95-ef751c25ddd2",
-              "headerId": "f8d67929-5b2a-45a4-8a1e-78c0ea2aad4c",
+              "id": "3809df64-1f11-4c30-ab46-8b25f989466f",
+              "rowId": "131aec80-14e9-4d7d-af89-a34a961e4436",
+              "headerId": "66101205-bb89-44a2-a4b7-3f4043164ace",
               "type": "text",
               "text": "4"
             },
             {
-              "id": "b3e7780b-7a4d-46c7-84a6-ac37d0dd1ca8",
-              "rowId": "49ef7a9e-fa78-4d67-bb95-ef751c25ddd2",
-              "headerId": "9b30d040-9224-4783-a13b-c803502a3cbf",
+              "id": "75558aaa-ea23-4f6f-9edf-8cde5b00c781",
+              "rowId": "131aec80-14e9-4d7d-af89-a34a961e4436",
+              "headerId": "bba8fda0-aaec-460b-9ffd-ec977695b22b",
               "type": "checkbox",
               "isChecked": true
             },
             {
-              "id": "6aa981ea-a445-4c68-8c09-2aa677740a5f",
-              "rowId": "49ef7a9e-fa78-4d67-bb95-ef751c25ddd2",
-              "headerId": "18c7d952-6ff3-4090-b3bc-d8ad892205da",
+              "id": "150c4826-fb1e-473c-bf16-b2420a3fa363",
+              "rowId": "131aec80-14e9-4d7d-af89-a34a961e4436",
+              "headerId": "8e30bd05-594a-404f-a363-272a984807d6",
               "type": "checkbox",
               "isChecked": false
             },
             {
-              "id": "b81114d7-5ae1-4388-bfcc-fb10bb770139",
-              "rowId": "49ef7a9e-fa78-4d67-bb95-ef751c25ddd2",
-              "headerId": "dae68f03-d59a-478e-af8b-9d11b9cb0648",
+              "id": "0d453239-d60c-4294-9b18-12ca8c9ffb5c",
+              "rowId": "131aec80-14e9-4d7d-af89-a34a961e4436",
+              "headerId": "58b4dc74-ac7a-465a-bf4b-de1531a6fa68",
               "type": "text",
               "text": "Adv. through Faerie Fire"
             },
             {
-              "id": "c65f1a7e-8493-49df-9ad7-7c0f5c78e1ce",
-              "rowId": "1b158f47-454b-423f-80e6-e7e7997c723d",
-              "headerId": "e3b14e1e-430e-4069-b131-26a8c25d0583",
+              "id": "0db3ae20-179e-47fc-9422-1ad670e10bb6",
+              "rowId": "be525946-7d81-4b69-ba2e-0bfbbb61e88a",
+              "headerId": "916e4c55-692a-4d61-8669-c5f622966bd4",
               "type": "text",
               "text": "Spear"
             },
             {
-              "id": "d380685d-7c1d-4787-bc91-17b57578991d",
-              "rowId": "1b158f47-454b-423f-80e6-e7e7997c723d",
-              "headerId": "38575f09-9483-4197-873b-46068a933cb7",
+              "id": "a0c24957-f8e6-40f4-8029-3e85cd8ab08d",
+              "rowId": "be525946-7d81-4b69-ba2e-0bfbbb61e88a",
+              "headerId": "0519c7ed-b99e-4a35-868c-6b3a558f00b0",
               "type": "text",
               "text": "d6"
             },
             {
-              "id": "7b9d57ff-dcfe-4a23-9dfe-aa810df75fba",
-              "rowId": "1b158f47-454b-423f-80e6-e7e7997c723d",
-              "headerId": "9d6a9c63-c10b-4a86-a236-8cffac3da1a4",
+              "id": "0e3b2a5b-4856-40b5-be0b-6d732b8b4ad7",
+              "rowId": "be525946-7d81-4b69-ba2e-0bfbbb61e88a",
+              "headerId": "ab485a47-b867-4d76-95da-12398462abda",
               "type": "text",
               "text": "1"
             },
             {
-              "id": "48670e22-5826-40cc-b4d7-3d4e6e34c4d9",
-              "rowId": "1b158f47-454b-423f-80e6-e7e7997c723d",
-              "headerId": "f8d67929-5b2a-45a4-8a1e-78c0ea2aad4c",
+              "id": "0d3b3048-2b03-44b3-857a-c50cc2e7606c",
+              "rowId": "be525946-7d81-4b69-ba2e-0bfbbb61e88a",
+              "headerId": "66101205-bb89-44a2-a4b7-3f4043164ace",
               "type": "text",
               "text": ""
             },
             {
-              "id": "9e2e3527-6b49-48d8-b4ca-3a15eacec167",
-              "rowId": "1b158f47-454b-423f-80e6-e7e7997c723d",
-              "headerId": "9b30d040-9224-4783-a13b-c803502a3cbf",
+              "id": "a5b2ef63-a1c2-472a-bfc5-0bb6ad37654e",
+              "rowId": "be525946-7d81-4b69-ba2e-0bfbbb61e88a",
+              "headerId": "bba8fda0-aaec-460b-9ffd-ec977695b22b",
               "type": "checkbox",
               "isChecked": false
             },
             {
-              "id": "e9aa92ab-37dd-4e0b-b641-c6df629d2571",
-              "rowId": "1b158f47-454b-423f-80e6-e7e7997c723d",
-              "headerId": "18c7d952-6ff3-4090-b3bc-d8ad892205da",
+              "id": "80e513b1-9ccb-49ba-b2ca-044bcba45ca2",
+              "rowId": "be525946-7d81-4b69-ba2e-0bfbbb61e88a",
+              "headerId": "8e30bd05-594a-404f-a363-272a984807d6",
               "type": "checkbox",
               "isChecked": false
             },
             {
-              "id": "a5fe1db2-f909-4164-99b6-75c98eff989f",
-              "rowId": "1b158f47-454b-423f-80e6-e7e7997c723d",
-              "headerId": "dae68f03-d59a-478e-af8b-9d11b9cb0648",
+              "id": "077cc0c0-2aaa-44f3-897f-db185a942380",
+              "rowId": "be525946-7d81-4b69-ba2e-0bfbbb61e88a",
+              "headerId": "58b4dc74-ac7a-465a-bf4b-de1531a6fa68",
               "type": "text",
               "text": ""
             },
             {
-              "id": "d17c3b27-b008-4002-8ab6-2fbcd6970df8",
-              "rowId": "9d179c17-0f81-4319-bc8e-88967d1d24cb",
-              "headerId": "e3b14e1e-430e-4069-b131-26a8c25d0583",
+              "id": "90696ea4-0b5d-4549-935a-2ec81b785fd3",
+              "rowId": "bebfc5e3-6e7b-402f-94d8-4ba255facf50",
+              "headerId": "916e4c55-692a-4d61-8669-c5f622966bd4",
               "type": "text",
               "text": "Spell Attack"
             },
             {
-              "id": "27964e63-267c-41d8-a8f3-4f082ad2713a",
-              "rowId": "9d179c17-0f81-4319-bc8e-88967d1d24cb",
-              "headerId": "38575f09-9483-4197-873b-46068a933cb7",
+              "id": "970b20b9-71d3-4b1a-a61f-a771d9dc6f57",
+              "rowId": "bebfc5e3-6e7b-402f-94d8-4ba255facf50",
+              "headerId": "0519c7ed-b99e-4a35-868c-6b3a558f00b0",
               "type": "text",
               "text": "d20"
             },
             {
-              "id": "3cd7a69f-814a-47a4-9ffc-151faef05f62",
-              "rowId": "9d179c17-0f81-4319-bc8e-88967d1d24cb",
-              "headerId": "9d6a9c63-c10b-4a86-a236-8cffac3da1a4",
+              "id": "455084ac-cfd0-46b8-8823-9c4f451255ef",
+              "rowId": "bebfc5e3-6e7b-402f-94d8-4ba255facf50",
+              "headerId": "ab485a47-b867-4d76-95da-12398462abda",
               "type": "text",
               "text": "10"
             },
             {
-              "id": "9ed7a9b3-841b-4daf-86b8-451a14c47d19",
-              "rowId": "9d179c17-0f81-4319-bc8e-88967d1d24cb",
-              "headerId": "f8d67929-5b2a-45a4-8a1e-78c0ea2aad4c",
+              "id": "da3fe046-dfd8-4fd3-8b7e-79e0330ef656",
+              "rowId": "bebfc5e3-6e7b-402f-94d8-4ba255facf50",
+              "headerId": "66101205-bb89-44a2-a4b7-3f4043164ace",
               "type": "text",
               "text": ""
             },
             {
-              "id": "186d603f-7f47-427e-b12f-4d7049b2dc44",
-              "rowId": "9d179c17-0f81-4319-bc8e-88967d1d24cb",
-              "headerId": "9b30d040-9224-4783-a13b-c803502a3cbf",
+              "id": "65254dbf-1588-4fe1-b39d-249f9f4eec87",
+              "rowId": "bebfc5e3-6e7b-402f-94d8-4ba255facf50",
+              "headerId": "bba8fda0-aaec-460b-9ffd-ec977695b22b",
               "type": "checkbox",
               "isChecked": false
             },
             {
-              "id": "0e71cff5-93e6-43af-a54e-701ffc5c6526",
-              "rowId": "9d179c17-0f81-4319-bc8e-88967d1d24cb",
-              "headerId": "18c7d952-6ff3-4090-b3bc-d8ad892205da",
+              "id": "c357aec6-a3d9-41cf-84f9-116846e7ee83",
+              "rowId": "bebfc5e3-6e7b-402f-94d8-4ba255facf50",
+              "headerId": "8e30bd05-594a-404f-a363-272a984807d6",
               "type": "checkbox",
               "isChecked": false
             },
             {
-              "id": "204a0fcd-0cc5-4794-b454-a8429673b834",
-              "rowId": "9d179c17-0f81-4319-bc8e-88967d1d24cb",
-              "headerId": "dae68f03-d59a-478e-af8b-9d11b9cb0648",
+              "id": "b7be81f6-b047-4aa5-baa1-0f259479923d",
+              "rowId": "bebfc5e3-6e7b-402f-94d8-4ba255facf50",
+              "headerId": "58b4dc74-ac7a-465a-bf4b-de1531a6fa68",
               "type": "text",
               "text": ""
             },
             {
-              "id": "cd088c79-2e77-49b4-9a1b-6ba008ec20d5",
-              "rowId": "44627ce5-c40d-4159-ae93-694822ce721a",
-              "headerId": "e3b14e1e-430e-4069-b131-26a8c25d0583",
+              "id": "6038f844-5305-4266-925e-b7ed07fb7770",
+              "rowId": "e2de0e55-a043-402e-9e9e-f4e60898a189",
+              "headerId": "916e4c55-692a-4d61-8669-c5f622966bd4",
               "type": "text",
               "text": "Eldritch Blast"
             },
             {
-              "id": "37d47f24-8ccb-4198-868f-31d067641b8b",
-              "rowId": "44627ce5-c40d-4159-ae93-694822ce721a",
-              "headerId": "38575f09-9483-4197-873b-46068a933cb7",
+              "id": "6d2bb39f-3652-4b8f-8326-afde81679ebd",
+              "rowId": "e2de0e55-a043-402e-9e9e-f4e60898a189",
+              "headerId": "0519c7ed-b99e-4a35-868c-6b3a558f00b0",
               "type": "text",
               "text": "d10"
             },
             {
-              "id": "626a6065-8c6a-4fa9-9a73-fe4c2cf78865",
-              "rowId": "44627ce5-c40d-4159-ae93-694822ce721a",
-              "headerId": "9d6a9c63-c10b-4a86-a236-8cffac3da1a4",
+              "id": "4cca86c3-f577-478e-b1fe-d27cbe1c51d5",
+              "rowId": "e2de0e55-a043-402e-9e9e-f4e60898a189",
+              "headerId": "ab485a47-b867-4d76-95da-12398462abda",
               "type": "text",
               "text": "2"
             },
             {
-              "id": "641c13ac-c406-4789-8d59-d7eedc8bff86",
-              "rowId": "44627ce5-c40d-4159-ae93-694822ce721a",
-              "headerId": "f8d67929-5b2a-45a4-8a1e-78c0ea2aad4c",
+              "id": "c992085c-c768-49b9-ba8c-b8a15f824220",
+              "rowId": "e2de0e55-a043-402e-9e9e-f4e60898a189",
+              "headerId": "66101205-bb89-44a2-a4b7-3f4043164ace",
               "type": "text",
               "text": ""
             },
             {
-              "id": "71d482e4-967b-4b6c-9e59-a3e6c7e8057a",
-              "rowId": "44627ce5-c40d-4159-ae93-694822ce721a",
-              "headerId": "9b30d040-9224-4783-a13b-c803502a3cbf",
+              "id": "add9800b-97a8-4bf0-83c3-4deb3bb70a47",
+              "rowId": "e2de0e55-a043-402e-9e9e-f4e60898a189",
+              "headerId": "bba8fda0-aaec-460b-9ffd-ec977695b22b",
               "type": "checkbox",
               "isChecked": false
             },
             {
-              "id": "1eef6d73-b370-44d1-8e2e-dcb6b0675fa6",
-              "rowId": "44627ce5-c40d-4159-ae93-694822ce721a",
-              "headerId": "18c7d952-6ff3-4090-b3bc-d8ad892205da",
+              "id": "a7c1f8eb-3ce3-4221-b337-ce3d3e1e335a",
+              "rowId": "e2de0e55-a043-402e-9e9e-f4e60898a189",
+              "headerId": "8e30bd05-594a-404f-a363-272a984807d6",
               "type": "checkbox",
               "isChecked": false
             },
             {
-              "id": "59603eba-9a06-49f4-9b01-3d8d02598fcf",
-              "rowId": "44627ce5-c40d-4159-ae93-694822ce721a",
-              "headerId": "dae68f03-d59a-478e-af8b-9d11b9cb0648",
+              "id": "af65c5f5-641c-4ec6-be1f-9f9429c5ffb2",
+              "rowId": "e2de0e55-a043-402e-9e9e-f4e60898a189",
+              "headerId": "58b4dc74-ac7a-465a-bf4b-de1531a6fa68",
               "type": "text",
               "text": ""
             }
