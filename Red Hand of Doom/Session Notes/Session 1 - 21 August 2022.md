@@ -12,7 +12,8 @@ create_date: {{27 July 2022}}
 ## Summary:
 Zijn onderweg geweest in een bootje, aangekomen in [[Nimon Gap]].
 Festival is later dan gepland, vanwege de warmte.
-[[Alton]]
+[[Alton]] heeft een flesje likeur gekocht
+[[Aelar]] is een sp
 ^summary
 
 ## Housekeeping:
