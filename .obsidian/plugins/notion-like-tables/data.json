@@ -27,7 +27,7 @@
               "id": "9d6a9c63-c10b-4a86-a236-8cffac3da1a4",
               "content": "Roll",
               "sortDir": "default",
-              "width": "67px",
+              "width": "57px",
               "shouldWrapOverflow": true,
               "useAutoWidth": false,
               "type": "text"
