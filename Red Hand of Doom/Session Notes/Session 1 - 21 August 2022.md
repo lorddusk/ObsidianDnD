@@ -25,7 +25,7 @@ Zijn onderweg geweest in een bootje, aangekomen in [[Nimon Gap]].
 [[Alton]] heeft een flesje ale EN een flesje likeur gekocht.
 [[Aelar]] heeft een hammertje tik spel gespeeld. Mist 2x, [[Keth]] lacht hier hartelijk om.
 [[Aelar]] heeft niveau 1 gehaald, [[Keth]] niveau 4, heeft n5 gefaald.
-[[Bikam]] heeft meegedaan aan een peper eet wedstrijd, [[Booker]] heeft dit aanschouwt en de heetste peper gekocht, voor later :)
+[[Bikam]] heeft meegedaan aan een peper eet wedstrijd, [[Booker]] heeft dit aanschouwt en de heetste peper gekocht, voor later ;).
 [[Booker]] en [[Keth]] zijn er als een soort beveiliging vanuit de Adventurers Guild.
 [[Bikam]] en [[Alton]] doen samen een competitie dagger werpen.
 
