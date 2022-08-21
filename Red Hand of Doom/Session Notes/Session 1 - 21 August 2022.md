@@ -14,7 +14,7 @@ Zijn onderweg geweest in een bootje, aangekomen in [[Nimon Gap]].
 Festival is later dan gepland, vanwege de warmte.
 [[Alton]] heeft een flesje likeur gekocht.
 [[Aelar]] heeft een hammer dreun spel gespeeld.
-[[Booker]] en [[Keth]] zijn er als een soort beveiliging.
+[[Booker]] en [[Keth]] zijn er als een soort beveiliging vanuit de Adventurers Guild.
 ^summary
 
 ## Housekeeping:
