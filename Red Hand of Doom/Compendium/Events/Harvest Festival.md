@@ -1,11 +1,12 @@
 ---
 type: event
-location: [[Nimon Gap]]
+location: Nimon Gap
 tags: Event
 ---
 
 # Harvest Festival 
 ___ 
-## References: - 
+## References:
+- [[Nimon Gap]]
 --- 
 creation date:: [[2022-07-25]] 23:03
