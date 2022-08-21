@@ -9,7 +9,7 @@ type: character
 tags: Party
 ---
 
-# Bikam 
+# Bikam Folkor
 ___ 
 ## References: - 
 --- 
