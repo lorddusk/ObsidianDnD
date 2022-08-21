@@ -29,3 +29,6 @@ Zijn onderweg geweest in een bootje, aangekomen in [[Nimon Gap]].
 [[Booker]] en [[Keth]] zijn er als een soort beveiliging vanuit de Adventurers Guild.
 [[Bikam]] en [[Alton]] doen samen een competitie dagger werpen.
 
+Aan het einde van de dag, wordt er door een wachter geroepen dat [[Nimon Gap]] onder aanval is.
+We worden aangevallen door iets wat op 
+
