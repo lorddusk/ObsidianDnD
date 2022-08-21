@@ -47,4 +47,4 @@ Hij bewaakt het kerkhof in [[Nimon Gap]], zijn taak is dat de doden goed begrave
 Hij komt met geruchten dat een van de Clerics van Kelemvor, geen human was maar een groene draak.
 Of we mee willen naar de Crypte van deze persoon, zodat hij kan controleren of dit ook echt zo is.
 
-Kobold (Kobob) werkt voor de Inventor (Knieschijf in Draconic) en die werkt weer voor [[Jeralla]], maar weet niet waar die momenteel is. Orders van de baas om [[Nimon Gap]] aan te vallen. Komen van een outpost uit de bossen net buiten de stad. Ze rijden op de wespen omdat ze ze zo opgevoed hebben.
+Kobold (Kobob) werkt voor de Inventor (Knieschijf in Draconic) en die werkt weer voor [[Jeralla]], maar weet niet waar die momenteel is. Orders van de baas om [[Nimon Gap]] aan te vallen. Komen van een outpost uit de bossen net buiten de stad. Ze rijden op de wespen omdat ze ze zo opgevoed hebben. Kobob gemarkeerd met een kruisj
