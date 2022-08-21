@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
+            "file": "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
+                "file": "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
+                "file": "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md"
+                "file": "Red Hand of Doom/Compendium/Events/Harvest Festival.md"
               }
             }
           },
@@ -139,6 +139,7 @@
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
     "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
     "Red Hand of Doom/Compendium/NPCs/- Index.md",
     "Characters/Booker/Background.md",
     "Characters/Booker/Character Sheet.md",
@@ -146,7 +147,6 @@
     "Tags.md",
     "Red Hand of Doom/Worldmap.md",
     "Red Hand of Doom/Compendium/Characters/- Index.md",
-    "Red Hand of Doom/Compendium/Characters/Keth.md",
-    "Red Hand of Doom/Compendium/Characters/Aelar.md"
+    "Red Hand of Doom/Compendium/Characters/Keth.md"
   ]
 }
