@@ -1,2 +1,2 @@
 Initiative - 8
-Attack - 10 / 4
+Attack with Spear (Adv through Faerie Fire) - 10 / 4
