@@ -10,7 +10,7 @@ tags: Party
 ---
 
 # Keth Bar'dag
-wears a symbol of Corfair
+Wears a symbol of Dol Arrah
 ___ 
 ## References:
 --- 
