@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
-            "mode": "source",
+            "file": "Red Hand of Doom/Rolls/Session 1 - 21 August 2022.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
+                "file": "Red Hand of Doom/Rolls/Session 1 - 21 August 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
+                "file": "Red Hand of Doom/Rolls/Session 1 - 21 August 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md"
+                "file": "Red Hand of Doom/Rolls/Session 1 - 21 August 2022.md"
               }
             }
           },
@@ -139,8 +139,8 @@
   },
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
-    "Red Hand of Doom/Rolls/Session 1 - 21 August 2022.md",
     "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
+    "Red Hand of Doom/Rolls/Session 1 - 21 August 2022.md",
     "Red Hand of Doom/Compendium/NPCs/Jeralla.md",
     "House Rules/Mechanics & Combat.md",
     "Red Hand of Doom/House Rules.md",
