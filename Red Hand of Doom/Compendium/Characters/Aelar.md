@@ -3,7 +3,7 @@ name: Aelar
 surname: Amastacia
 player: Rob
 type: character
-class: Circle of the Stars
+class: Circle of the Stars Druid
 tags: Party
 ---
 

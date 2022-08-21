@@ -2,6 +2,7 @@
 name: Alton
 surname: Millbrooke
 player: Peter
+class : Swashbuckler Rogue
 type: character
 tags: Party
 ---
