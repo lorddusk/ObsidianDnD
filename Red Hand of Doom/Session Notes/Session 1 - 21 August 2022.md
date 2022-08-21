@@ -37,6 +37,7 @@ We worden aangevallen door iets wat op kobolds lijken, rijdend op een soort van 
 -- End of Combat --
 
 Notitie gevonden op het lijk van een Kobold: 
-(Via Comprehend Languages ontcijferd:)
-``Voer een hinderlaag uit, tijdens het [[Harvest Festival]], zodat ik ongestoord mijn werk kan doen. Getekend [[Jeralla]]``
+In draconic (via Comprehend Languages)
+Voer een hinderlaag uit, tijdens het [[Harvest Festival]], zodat ik ongestoord mijn werk kan doen. 
+Getekend [[Jeralla]]
 
