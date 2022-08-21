@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/NPCs/- Index.md",
-            "mode": "preview",
+            "file": "Characters/Booker/Character Sheet.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/- Index.md",
+                "file": "Characters/Booker/Character Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/- Index.md",
+                "file": "Characters/Booker/Character Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/- Index.md"
+                "file": "Characters/Booker/Character Sheet.md"
               }
             }
           },
@@ -139,6 +139,8 @@
   },
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
+    "Characters/Booker/Background.md",
+    "Red Hand of Doom/Compendium/NPCs/- Index.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Eric.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Chaedi Lia Crest.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
@@ -146,8 +148,6 @@
     "Red Hand of Doom/Compendium/NPCs/Family/Ramose Crest.md",
     "Red Hand of Doom/Compendium/Events/- Index.md",
     "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
-    "Red Hand of Doom/Compendium/Items/- Index.md",
-    "Red Hand of Doom/Compendium/Locations/- Index.md",
-    "Red Hand of Doom/Compendium/Characters/- Index.md"
+    "Red Hand of Doom/Compendium/Items/- Index.md"
   ]
 }
