@@ -7,9 +7,9 @@
           "headers": [
             {
               "id": "98de855c-79c4-4b45-b436-6b59046b30e2",
-              "content": "Id",
+              "content": "Id.",
               "sortDir": "default",
-              "width": "100px",
+              "width": "50px",
               "shouldWrapOverflow": true,
               "useAutoWidth": false,
               "type": "text"
@@ -170,7 +170,7 @@
               "rowId": "f90b43d1-d880-4a23-8950-901598fd89bf",
               "headerId": "98de855c-79c4-4b45-b436-6b59046b30e2",
               "type": "text",
-              "text": ""
+              "text": "1"
             },
             {
               "id": "0af32f9a-a062-4efd-bfb5-9a23b03351c2",
@@ -226,7 +226,7 @@
               "rowId": "7581a4f7-9f0f-4c08-acdd-04ead21b4072",
               "headerId": "98de855c-79c4-4b45-b436-6b59046b30e2",
               "type": "text",
-              "text": ""
+              "text": "2"
             },
             {
               "id": "e26463cb-c050-4530-b82b-37cf4ca28d32",
@@ -282,7 +282,7 @@
               "rowId": "4fff865a-9705-472c-9647-22a91e42fbfd",
               "headerId": "98de855c-79c4-4b45-b436-6b59046b30e2",
               "type": "text",
-              "text": ""
+              "text": "3"
             },
             {
               "id": "ec0efcf3-4ad2-4e48-8b23-7dcb97294f3f",
@@ -338,7 +338,7 @@
               "rowId": "3e7c0e02-1d13-4551-998f-fc5d33fc3237",
               "headerId": "98de855c-79c4-4b45-b436-6b59046b30e2",
               "type": "text",
-              "text": ""
+              "text": "4"
             },
             {
               "id": "49f986b2-85c3-41be-99e1-a6739ad24b33",
@@ -394,7 +394,7 @@
               "rowId": "0d6c7bd7-7336-472f-8ddb-8faa64863d81",
               "headerId": "98de855c-79c4-4b45-b436-6b59046b30e2",
               "type": "text",
-              "text": ""
+              "text": "5"
             },
             {
               "id": "c55fd101-fd1c-42ef-96bd-d4541d0dba40",
@@ -450,7 +450,7 @@
               "rowId": "2f1a65a3-7c07-4a32-bc22-deea6674d730",
               "headerId": "98de855c-79c4-4b45-b436-6b59046b30e2",
               "type": "text",
-              "text": ""
+              "text": "6"
             },
             {
               "id": "798e5b20-ce4d-4d8e-8442-6c14f11958b7",
@@ -506,7 +506,7 @@
               "rowId": "308a58ac-a4ac-4808-903f-7c2f0112cf32",
               "headerId": "98de855c-79c4-4b45-b436-6b59046b30e2",
               "type": "text",
-              "text": ""
+              "text": "7"
             }
           ],
           "tags": []
