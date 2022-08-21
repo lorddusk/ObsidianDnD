@@ -44,5 +44,5 @@ Getekend [[Jeralla]]
 Kobold die we gevangen hebben, vastgebonden.
 Een priest komt ons tegemoet, Broeder Keith groet ons.
 Hij bewaakt het kerkhof in [[Nimon Gap]], zijn taak is dat de doden goed begraven worden, en de geschriften van de overledene bijgehouden worden.
-Hij komt met bewijs dat een van de Clerics van Kallenvor, geen human was maar een groene draak.
-Of we mee willen naar de Crypte van deze persoon, zodat hij kan controleren 
+Hij komt met geruchten dat een van de Clerics van Kelemvor, geen human was maar een groene draak.
+Of we mee willen naar de Crypte van deze persoon, zodat hij kan controleren of dit ook echt zo is.
