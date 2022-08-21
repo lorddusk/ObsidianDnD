@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Compendium Index.md",
-            "mode": "source",
+            "file": "Characters/Booker/Background.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compendium Index.md",
+                "file": "Characters/Booker/Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compendium Index.md",
+                "file": "Characters/Booker/Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compendium Index.md"
+                "file": "Characters/Booker/Background.md"
               }
             }
           },
@@ -139,14 +139,14 @@
   },
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
-    "Tags.md",
+    "Characters/Booker/Character Sheet.md",
     "Compendium Index.md",
+    "Tags.md",
     "Red Hand of Doom/Worldmap.md",
     "Red Hand of Doom/Compendium/Characters/- Index.md",
     "Red Hand of Doom/Compendium/Characters/Keth.md",
     "Red Hand of Doom/Compendium/Characters/Aelar.md",
     "Red Hand of Doom/Compendium/Characters/Bikam.md",
-    "Characters/Booker/Character Sheet.md",
     "Characters/Booker/Background.md",
     "Red Hand of Doom/Compendium/NPCs/- Index.md"
   ]
