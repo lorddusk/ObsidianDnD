@@ -33,6 +33,6 @@ Aan het einde van de dag, wordt er door een wachter geroepen dat [[Nimon Gap]] o
 We worden aangevallen door iets wat op kobolds lijken, rijdend op een soort van wespen.
 
 -- Combat --
-![[Red Hand of Doom/Rolls/Session 1 - 21 August 2022]]
+![[Red Hand of Doom/Rolls/Session 1 - 21 August 2022#^combat]]
 -- End of Combat --
 
