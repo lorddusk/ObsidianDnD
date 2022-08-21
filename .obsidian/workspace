@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Booker/Background.md",
-            "mode": "preview",
+            "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Background.md",
+                "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Background.md",
+                "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Background.md"
+                "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md"
               }
             }
           },
@@ -134,11 +134,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/NPCs/- Index.md",
+    "Characters/Booker/Background.md",
     "Characters/Booker/Character Sheet.md",
     "Compendium Index.md",
     "Tags.md",
@@ -146,8 +147,6 @@
     "Red Hand of Doom/Compendium/Characters/- Index.md",
     "Red Hand of Doom/Compendium/Characters/Keth.md",
     "Red Hand of Doom/Compendium/Characters/Aelar.md",
-    "Red Hand of Doom/Compendium/Characters/Bikam.md",
-    "Characters/Booker/Background.md",
-    "Red Hand of Doom/Compendium/NPCs/- Index.md"
+    "Red Hand of Doom/Compendium/Characters/Bikam.md"
   ]
 }

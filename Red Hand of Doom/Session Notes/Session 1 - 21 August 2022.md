@@ -3,7 +3,7 @@ type: session
 world: Faerun
 campaign: "Red Hand of Doom"
 session: 1
-game_date: xx xx xx DR
+game_date: 1491 DR - 30 September
 players: [Peter, Guido, Tim, Danny, Rob]
 play_date: {{21 August 2022}}
 create_date: {{27 July 2022}}
