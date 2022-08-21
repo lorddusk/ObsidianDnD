@@ -42,4 +42,5 @@ Voer een hinderlaag uit, tijdens het [[Harvest Festival]], zodat ik ongestoord m
 Getekend [[Jeralla]]
 
 Kobold die we gevangen hebben, vastgebonden.
-Een priest komt ons tegemoet, Broeder 
+Een priest komt ons tegemoet, Broeder Keith groet ons.
+Hij bewaakt het kerkhof in [, zijn taak is dat de doden goed begraven worden, en de geschriften van de overledene bijgehouden worden.
