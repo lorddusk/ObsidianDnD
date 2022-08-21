@@ -1,5 +1,5 @@
 | Kind of roll | Dice | Rolled     | Adv | Dis | Note                          |
 | ------------ | ---- | ---------- | --- | --- | ----------------------------- |
 | Initiative   | d20  | 8          | [ ] | [ ] |                               |
-| Attack       | d20  | **10** / 4 | [x] | [ ] | Advantage through Faerie Fire |
+| Melee Attack | d20  | **10** / 4 | [x] | [ ] | Advantage through Faerie Fire |
 | Spear        | d6   | 1          | [ ] | [ ] |                               |
