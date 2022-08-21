@@ -1,7 +1,7 @@
 ###### Rolls
-| What    | Dice | Roll | Extra | Adv. | Dis. | Note |
-| ------- | ---- | ---- | ----- | ---- | ---- | ---- |
-| Insight | d20    |   9   |       | [ ]  | [ ]  |      |
+| Id. | What    | Dice | Roll | Extra | Adv. | Dis. | Note |
+| --- | ------- | ---- | ---- | ----- | ---- | ---- | ---- |
+| 1   | Insight | d20  | 9    |       | [ ]  | [ ]  |      |
 
 ###### Combat #1
 | What           | Dice | Roll | Extra | Adv. | Dis. | Note                             | Id |
