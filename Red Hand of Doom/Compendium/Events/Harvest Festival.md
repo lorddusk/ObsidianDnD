@@ -1,5 +1,6 @@
 ---
 type: event
+location: [[Nimon Gap]]
 tags: Event
 ---
 
