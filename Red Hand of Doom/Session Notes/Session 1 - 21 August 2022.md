@@ -14,11 +14,12 @@ create_date: {{27 July 2022}}
 ^summary
 
 ## Housekeeping:
+- Joe afgemeldt vanwege ziekte.
 
 ## Recap:
 ![[Session 0 - 23 July 2022#^summary]]
 
-## Scenes:
+## Notes:
 Zijn onderweg geweest in een bootje, aangekomen in [[Nimon Gap]].
 [[Harvest Festival]] is later dan gepland, vanwege de warmte.
 [[Alton]] heeft een flesje ale EN een flesje likeur gekocht.
@@ -26,8 +27,4 @@ Zijn onderweg geweest in een bootje, aangekomen in [[Nimon Gap]].
 [[Aelar]] heeft niveau 1 gehaald, [[Keth]] niveau 4, heeft n5 gefaald.
 [[Bikam]] heeft meegedaan aan een peper eet wedstrijd, [[Booker]] heeft dit aanschouwt.
 [[Booker]] en [[Keth]] zijn er als een soort beveiliging vanuit de Adventurers Guild.
-## Loot:
-
-## Log:
-
 
