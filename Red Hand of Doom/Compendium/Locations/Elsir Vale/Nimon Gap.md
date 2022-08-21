@@ -9,6 +9,10 @@ Known for their apple orchards and sheep herders.
 
 ### Points of Interest
 - Home of the [[Harvest Festival]]
+
+### Population
+- 35% Halfling
+- 65% Human
 ___ 
 ## References: - 
 --- 
