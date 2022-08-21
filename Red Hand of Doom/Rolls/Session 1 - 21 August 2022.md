@@ -1,9 +1,9 @@
 ###### Rolls
-| Kind of roll   | Dice | Roll | Extra | Adv. | Dis. | Note                     |
-| -------------- | ---- | ---- | ----- | ---- | ---- | ------------------------ |
+| What | Dice | Roll | Extra | Adv. | Dis. | Note |
+| ---- | ---- | ---- | ----- | ---- | ---- | ---- |
 
 ###### Combat #1
-| Kind of roll   | Dice | Roll | Extra | Adv. | Dis. | Note                     |
+| What           | Dice | Roll | Extra | Adv. | Dis. | Note                     |
 | -------------- | ---- | ---- | ----- | ---- | ---- | ------------------------ |
 | Initiative     | d20  | 8    |       | [ ]  | [ ]  |                          |
 | Melee Attack   | d20  | 10   | 4     | [x]  | [ ]  | Adv. through Faerie Fire |
