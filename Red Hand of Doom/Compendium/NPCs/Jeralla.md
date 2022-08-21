@@ -7,7 +7,7 @@ tags: NPC
 ---
 
 # Jeralla 
-Name found in a note that wa
+Name found in a note that was on a kobold.
 ___ 
 ## References: - 
 --- 

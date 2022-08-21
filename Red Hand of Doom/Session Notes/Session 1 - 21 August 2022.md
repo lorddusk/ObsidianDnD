@@ -36,7 +36,8 @@ We worden aangevallen door iets wat op kobolds lijken, rijdend op een soort van 
 ![[Red Hand of Doom/Rolls/Session 1 - 21 August 2022#^combat]]
 -- End of Combat --
 
-Notitie gevonden bij baasmans: Via Comprehend Languages ontcijferd:
+Notitie gevonden op het lijk van een Kobold: 
+(Via Comprehend Languages ontcijferd:)
 Voer een hinderlaag uit, tijdens het [[Harvest Festival]], zodat ik ongestoord mijn werk kan doen.
-Getekend Jeralla
+Getekend [[Jeralla]]
 
