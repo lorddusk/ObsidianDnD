@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Characters/Booker/Background.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "61a0a527e16866b1",
+    "id": "5411536fa0de3230",
     "type": "split",
     "children": [
       {
-        "id": "2507262ff4019950",
+        "id": "621e2efc1faf7d5b",
         "type": "tabs",
         "children": [
           {
-            "id": "a675e60e8360408f",
+            "id": "a7cc7e2e411a2509",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "cf55e326298d89e2",
+            "id": "bc9f492981f8b9f3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Item",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,15 +56,15 @@
     "width": 300
   },
   "right": {
-    "id": "a578b6e487c5eb01",
+    "id": "ac497703a978d935",
     "type": "split",
     "children": [
       {
-        "id": "f7305abad6897f75",
+        "id": "631dbe30c78c743b",
         "type": "tabs",
         "children": [
           {
-            "id": "8446899718c9cc2c",
+            "id": "b9554a1ec878994c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -81,36 +81,7 @@
             }
           },
           {
-            "id": "5ef1f854eb311f57",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "5a1eb1cffe94f75a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Characters/Booker/Background.md"
-              }
-            }
-          },
-          {
-            "id": "c7d7ccbed6f94a3b",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "f76d6a9f4cd2dbc2",
+            "id": "34596843e46d626d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,31 +93,60 @@
             }
           },
           {
-            "id": "3919f3fa9cdfc810",
+            "id": "4b42bf0920993f85",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1dece4022c65c5bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/Booker/Background.md"
+              }
+            }
+          },
+          {
+            "id": "84fffe6c86b2a27f",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "ccc420166c37a4e7",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium/NPCs/The Benefactor.md",
+    "Compendium Index.md",
     "Characters/Booker/Background.md",
-    "Red Hand of Doom/Compendium/Characters/- Index.md",
     "Characters/Booker/Character Sheet.md",
+    "Red Hand of Doom/Compendium/NPCs/The Benefactor.md",
+    "Red Hand of Doom/Compendium/Characters/- Index.md",
     "House Rules/Inspiration/DM Inspiration.md",
     "House Rules/Inspiration.md",
     "House Rules/Inspiration/Party Inspiration.md",
     "Red Hand of Doom/House Rules.md",
-    "House Rules/Rule of Cool.md",
-    "House Rules/Mechanics & Combat.md"
+    "House Rules/Rule of Cool.md"
   ]
 }
