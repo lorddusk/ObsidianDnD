@@ -1,7 +1,7 @@
 {
   "userAdmonitions": {
-    "Combat": {
-      "type": "Combat",
+    "combat": {
+      "type": "combat",
       "color": "50, 32, 31",
       "icon": {
         "name": "fire",
@@ -12,8 +12,8 @@
       "noTitle": false,
       "copy": false
     },
-    "Quote": {
-      "type": "Quote",
+    "quote": {
+      "type": "quote",
       "color": "40, 40, 40",
       "icon": {
         "type": "obsidian",
@@ -21,10 +21,11 @@
       },
       "command": true,
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     },
-    "Note": {
-      "type": "Note",
+    "note": {
+      "type": "note",
       "color": "31, 38, 49",
       "icon": {
         "name": "pencil-alt",
@@ -32,7 +33,8 @@
       },
       "command": true,
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": true,
