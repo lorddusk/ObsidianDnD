@@ -2,7 +2,7 @@
   "userAdmonitions": {
     "combat": {
       "type": "combat",
-      "color": "50, 32, 31",
+      "color": "171, 54, 48",
       "icon": {
         "name": "fire",
         "type": "font-awesome"
@@ -14,7 +14,7 @@
     },
     "quote": {
       "type": "quote",
-      "color": "40, 40, 40",
+      "color": "156, 156, 156",
       "icon": {
         "type": "obsidian",
         "name": "quote-glyph"
@@ -26,7 +26,7 @@
     },
     "note": {
       "type": "note",
-      "color": "31, 38, 49",
+      "color": "72, 111, 173",
       "icon": {
         "name": "pencil-alt",
         "type": "font-awesome"
