@@ -2,12 +2,12 @@
   "userAdmonitions": {
     "quote": {
       "type": "quote",
-      "color": "#7d7d7d",
+      "color": "40, 40, 40",
       "icon": {
         "type": "obsidian",
         "name": "Quote"
       },
-      "command": false,
+      "command": true,
       "title": null,
       "injectColor": true,
       "noTitle": false,
@@ -17,8 +17,8 @@
       "type": "note",
       "color": "31, 38, 49",
       "icon": {
-        "name": "pencil-alt",
-        "type": "font-awesome"
+        "type": "obsidian",
+        "name": "Pencil"
       },
       "command": false,
       "title": null,

@@ -45,7 +45,7 @@ We worden aangevallen door iets wat op kobolds lijken, rijdend op een soort van 
 
 
 Notitie gevonden op het lijk van een Kobold: 
-```ad-quote
+```ad-note
 title: In Draconic, vertaald via Comprehend Languages
 Voer een hinderlaag uit, tijdens het [[Harvest Festival]], zodat ik ongestoord mijn werk kan doen. 
 Getekend [[Jeralla]]

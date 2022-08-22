@@ -5,7 +5,8 @@
   "enabledCssSnippets": [
     "larger popup",
     "headercolors",
-    "hide folders"
+    "hide folders",
+    "custom-admonitions.8408be"
   ],
   "translucency": true,
   "baseFontSize": 12
