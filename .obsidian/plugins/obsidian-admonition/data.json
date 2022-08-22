@@ -15,15 +15,16 @@
     },
     "note": {
       "type": "note",
-      "color": "#7d7d7d",
+      "color": "31, 38, 49",
       "icon": {
-        "name": "sticky-note",
+        "name": "pencil-alt",
         "type": "font-awesome"
       },
       "command": false,
       "title": null,
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": false,
