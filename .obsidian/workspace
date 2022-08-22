@@ -9,11 +9,12 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Characters/Aelar.md",
-            "mode": "preview",
+            "file": "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
+            "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "012608c1bd5d2f39"
       },
       {
         "id": "4cef1e93ca8608ae",
@@ -21,11 +22,12 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Characters/Aelar.md",
+            "file": "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
             "mode": "preview",
             "source": false
           }
-        }
+        },
+        "group": "012608c1bd5d2f39"
       }
     ],
     "direction": "vertical"
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Aelar.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Aelar.md"
+                "file": "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md"
               }
             }
           },
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Aelar.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,10 +152,10 @@
   },
   "active": "4cef1e93ca8608ae",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Characters/Aelar.md",
     "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022.md",
     "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
-    "Red Hand of Doom/Compendium/Characters/Aelar.md",
     "Red Hand of Doom/Compendium/Characters/Bikam.md",
     "Red Hand of Doom/Compendium/Characters/Alton.md",
     "Characters/Booker/Background.md",
