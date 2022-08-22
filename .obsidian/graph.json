@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "(-path: \"House Rules\") (-path: \"Templates\") (-path: \"Characters\") file: -index",
+  "search": "(-path: \"House Rules\") (-path: \"Templates\") (-path: \"Rolls\") (file: -index) (file: -Tags)",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3721908912720573,
+  "scale": 0.7315620564781375,
   "close": false
 }
