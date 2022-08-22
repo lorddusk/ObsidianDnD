@@ -22,6 +22,17 @@
       "command": false,
       "injectColor": true,
       "noTitle": false
+    },
+    "Note": {
+      "type": "Note",
+      "color": "31, 38, 49",
+      "icon": {
+        "name": "pencil-alt",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": true,
