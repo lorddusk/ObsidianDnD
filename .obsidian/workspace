@@ -13,21 +13,7 @@
             "mode": "source",
             "source": false
           }
-        },
-        "group": "017cdd6b9639379a"
-      },
-      {
-        "id": "193b1bd63a9f7858",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
-            "mode": "preview",
-            "source": false
-          }
-        },
-        "group": "017cdd6b9639379a"
+        }
       }
     ],
     "direction": "vertical"
@@ -116,6 +102,14 @@
             }
           },
           {
+            "id": "c7d7ccbed6f94a3b",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
             "id": "f76d6a9f4cd2dbc2",
             "type": "leaf",
             "state": {
@@ -128,31 +122,31 @@
             }
           },
           {
-            "id": "b1a6574536690c9e",
+            "id": "3919f3fa9cdfc810",
             "type": "leaf",
             "state": {
-              "type": "FANTASY_CALENDAR",
+              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "193b1bd63a9f7858",
+  "active": "cd18738cf77affab",
   "lastOpenFiles": [
-    "Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022.md",
-    "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
-    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
-    "Red Hand of Doom/Compendium/Characters/Aelar.md",
-    "Templates/Events.md",
-    "Red Hand of Doom/Session Notes/Session xx - 22 August 2022.md",
-    "Red Hand of Doom/Session Notes/Rolls/Untitled.md",
-    "Red Hand of Doom/Session Notes/Rolls/Session xx - 22 August 2022.md",
-    "Red Hand of Doom/Rolls/Untitled.md",
-    "Characters/Booker/Background.md"
+    "Characters/Booker/Background.md",
+    "Red Hand of Doom/Compendium/NPCs/The Benefactor.md",
+    "Red Hand of Doom/Compendium/Characters/- Index.md",
+    "Characters/Booker/Character Sheet.md",
+    "House Rules/Inspiration/DM Inspiration.md",
+    "House Rules/Inspiration.md",
+    "House Rules/Inspiration/Party Inspiration.md",
+    "Red Hand of Doom/House Rules.md",
+    "House Rules/Rule of Cool.md",
+    "House Rules/Mechanics & Combat.md"
   ]
 }
