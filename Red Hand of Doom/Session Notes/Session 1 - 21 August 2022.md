@@ -15,11 +15,11 @@ Op het festival aangekomen, de kraampjes afgegaan, spelletjes gespeeld, wedstrij
 Tegen het einde van de avond een aanval van kobolds rijdend op wespen.
 Dit afgeslagen met minieme schade opgelopen te hebben, een van de kobolds in leven gelaten.
 Deze ondervraagd en daarna vrijgelaten met een kleine safeguard.
-Een priest heeft ons gevraagd om mee te gaan om een crypte te checken waar geruchten over naar boven zijn gekomen, dat er niet ligt wat er 
+Een priest heeft ons gevraagd om mee te gaan om een crypte te checken waar geruchten over naar boven zijn gekomen, dat er niet ligt wat er zou moeten liggen.
 ^summary
 
 ## Housekeeping:
-- Joe afgemeldt vanwege ziekte.
+- Joe afgemeld vanwege ziekte.
 
 ## Recap:
 ![[Session 0 - 23 July 2022#^summary]]
