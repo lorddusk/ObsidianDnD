@@ -40,8 +40,8 @@
       "type": "ooc",
       "color": "191, 193, 51",
       "icon": {
-        "type": "rpg",
-        "name": "aware"
+        "type": "octicons",
+        "name": "unverified"
       },
       "command": true,
       "title": "Out of Character Knowledge",
