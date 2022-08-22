@@ -116,14 +116,6 @@
             }
           },
           {
-            "id": "c7d7ccbed6f94a3b",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
             "id": "f76d6a9f4cd2dbc2",
             "type": "leaf",
             "state": {
@@ -134,13 +126,21 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "b1a6574536690c9e",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
