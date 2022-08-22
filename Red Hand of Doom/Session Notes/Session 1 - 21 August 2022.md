@@ -43,7 +43,7 @@ collapse: closed
 ```
 
 Notitie gevonden op het lijk van een Kobold: 
-```ad-note
+```ad-quote
 title: In Draconic, vertaald via Comprehend Languages
 collapse: true
 
