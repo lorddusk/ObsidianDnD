@@ -1,5 +1,6 @@
 ---
 type: session
+tag: session
 world: Faerun
 campaign: "Red Hand of Doom"
 session: 0
@@ -17,6 +18,7 @@ Characters gerolled - [[Booker]]
 
 ## Housekeeping
 [Datumprikker](https://docs.google.com/spreadsheets/d/1iari1QhSHvxwAC0S_Iwmu689zn3FXjc7VoLOTSN8g_8/edit?usp=sharing) voor 2022 gemaakt, invullen waar nodig.
+
 
 
 

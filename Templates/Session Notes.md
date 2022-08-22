@@ -1,5 +1,6 @@
 ---
 type: session
+tag: session
 world: Faerun
 campaign: "Red Hand of Doom"
 session: xx
