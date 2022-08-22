@@ -134,14 +134,6 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "3919f3fa9cdfc810",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
           }
         ]
       }
