@@ -11,7 +11,8 @@ create_date: {{27 July 2022}}
 ---
 
 ## Summary:
-
+Op het festival aangekomen, de kraampjes afgegaan, spelletjes gespeeld, wedstrijden bezocht.
+Tegen het ei
 ^summary
 
 ## Housekeeping:
