@@ -37,11 +37,11 @@ Zijn onderweg geweest in een bootje, aangekomen in [[Nimon Gap]].
 Aan het einde van de dag, wordt er door een wachter geroepen dat [[Nimon Gap]] onder aanval is.
 We worden aangevallen door iets wat op kobolds lijken, rijdend op een soort van wespen.
 
-
-<summary>Combat 
+-- Combat --
 
 [[Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022#^combat]]
-</sum
+
+-- End of Combat --
 
 
 Notitie gevonden op het lijk van een Kobold: 
