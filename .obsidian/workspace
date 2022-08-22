@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md",
+            "file": "Red Hand of Doom/Rolls/Session 1 - 21 August 2022.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5411536fa0de3230",
+    "id": "61a0a527e16866b1",
     "type": "split",
     "children": [
       {
-        "id": "621e2efc1faf7d5b",
+        "id": "2507262ff4019950",
         "type": "tabs",
         "children": [
           {
-            "id": "a7cc7e2e411a2509",
+            "id": "a675e60e8360408f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "bc9f492981f8b9f3",
+            "id": "cf55e326298d89e2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Item",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,20 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "ac497703a978d935",
+    "id": "a578b6e487c5eb01",
     "type": "split",
     "children": [
       {
-        "id": "631dbe30c78c743b",
+        "id": "f7305abad6897f75",
         "type": "tabs",
         "children": [
           {
-            "id": "b9554a1ec878994c",
+            "id": "8446899718c9cc2c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md",
+                "file": "Red Hand of Doom/Rolls/Session 1 - 21 August 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,19 +81,7 @@
             }
           },
           {
-            "id": "34596843e46d626d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "4b42bf0920993f85",
+            "id": "5ef1f854eb311f57",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -104,17 +92,17 @@
             }
           },
           {
-            "id": "1dece4022c65c5bc",
+            "id": "5a1eb1cffe94f75a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md"
+                "file": "Red Hand of Doom/Rolls/Session 1 - 21 August 2022.md"
               }
             }
           },
           {
-            "id": "84fffe6c86b2a27f",
+            "id": "c7d7ccbed6f94a3b",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
@@ -122,15 +110,26 @@
             }
           },
           {
-            "id": "ccc420166c37a4e7",
+            "id": "f76d6a9f4cd2dbc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Red Hand of Doom/Rolls/Session 1 - 21 August 2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3919f3fa9cdfc810",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,15 +138,15 @@
   },
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
-    "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
+    "Characters/Booker/Background.md",
     "Red Hand of Doom/Compendium/NPCs/The Benefactor.md",
-    "Red Hand of Doom/Compendium/NPCs/Jeralla.md",
-    "Red Hand of Doom/Rolls/Session 1 - 21 August 2022.md",
-    "House Rules/Mechanics & Combat.md",
-    "Red Hand of Doom/House Rules.md",
-    "House Rules/Mechanics & Combat/Flanking.md",
-    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
+    "Red Hand of Doom/Compendium/Characters/- Index.md",
     "Characters/Booker/Character Sheet.md",
-    "Red Hand of Doom/Compendium/Characters/- Index.md"
+    "House Rules/Inspiration/DM Inspiration.md",
+    "House Rules/Inspiration.md",
+    "House Rules/Inspiration/Party Inspiration.md",
+    "Red Hand of Doom/House Rules.md",
+    "House Rules/Rule of Cool.md",
+    "House Rules/Mechanics & Combat.md"
   ]
 }
