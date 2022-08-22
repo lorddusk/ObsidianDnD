@@ -235,6 +235,92 @@
         "shouldUpdate": true,
         "tableCacheVersion": 425
       }
+    },
+    "Red Hand of Doom/Session Notes/Rolls/Untitled.md": {
+      "0": {
+        "data": {
+          "headers": [
+            {
+              "id": "7c26eb86-d185-4c01-ab03-28f64144496a",
+              "content": "Id.",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "896f87aa-c609-478e-b8a1-92b11d09f2e4",
+              "content": "What",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "bee754f2-0661-4142-bcf2-485d99879c08",
+              "content": "Dice",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "218dc8f2-ce93-4287-8e23-68a4281defbd",
+              "content": "Roll",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "3c492dcc-f2a8-4122-90f2-5e70d30e79bc",
+              "content": "Extra",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "a180d63b-0a08-4477-b406-ada627cc6f27",
+              "content": "Adv.",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "37cbcc1c-8393-4cdc-bf70-4bd799a4de26",
+              "content": "Dis.",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "8e9e173f-a093-4df1-8ff0-f4358328da27",
+              "content": "Note",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            }
+          ],
+          "rows": [],
+          "cells": [],
+          "tags": []
+        },
+        "shouldUpdate": false,
+        "viewType": "live-preview",
+        "tableCacheVersion": 425
+      }
     }
   },
   "focusedElement": {
