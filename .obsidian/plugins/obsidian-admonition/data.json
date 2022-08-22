@@ -40,8 +40,8 @@
       "type": "ooc",
       "color": "191, 193, 51",
       "icon": {
-        "name": "exclamation-triangle",
-        "type": "font-awesome"
+        "type": "rpg",
+        "name": "aware"
       },
       "command": true,
       "title": "Out of Character Knowledge",
