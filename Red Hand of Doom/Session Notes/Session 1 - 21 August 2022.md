@@ -12,7 +12,8 @@ create_date: {{27 July 2022}}
 
 ## Summary:
 Op het festival aangekomen, de kraampjes afgegaan, spelletjes gespeeld, wedstrijden bezocht.
-Tegen het ei
+Tegen het einde van de avond een aanval van kobolds rijdend op wespen.
+Dit afgeslagen met minime schade opgelopen te hebben
 ^summary
 
 ## Housekeeping:
