@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "(path: Compendium) (path: \"Session Notes\") file: -index",
+  "search": "(-path: \"House Rules\") (-path: \"Templates\") (-path: \"Characters\") file: -index",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
