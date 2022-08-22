@@ -13,10 +13,10 @@ tags: Party
 - After the dam got destroyed by goblins, and the flooding of [[The Blackfens]], he left [[The Witchwood]] to prepare for worse events to happen.
 - Met at the [[Harvest Festival]] in [[Nimon Gap]], he and his clan of Druids is always present at this event. As they think they are there to guarantee a great harvest.
 
-```ad-quote
+```ad-ooc
 title: Out of Character Knowledge
 collapse: closed
-Dit is out of character knowledge
+Out of character knowledge goes here
 ```
 ___ 
 ## References: - 
