@@ -12,6 +12,18 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "note": {
+      "type": "note",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "sticky-note",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": null,
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
