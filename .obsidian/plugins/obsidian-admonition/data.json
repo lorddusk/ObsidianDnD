@@ -35,6 +35,19 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "ooc": {
+      "type": "ooc",
+      "color": "191, 193, 51",
+      "icon": {
+        "name": "exclamation-triangle",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Out of Character Knowledge",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": true,
