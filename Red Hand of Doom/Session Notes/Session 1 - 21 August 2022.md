@@ -45,6 +45,7 @@ Notitie gevonden op het lijk van een Kobold:
 ```ad-note
 title: In Draconic, vertaald via Comprehend Languages
 collapse: true
+
 Voer een hinderlaag uit, tijdens het [[Harvest Festival]], zodat ik ongestoord mijn werk kan doen. 
 Getekend [[Jeralla]]
 ```

@@ -1,7 +1,7 @@
 {
   "interfaceFontFamily": "Fira Code",
   "monospaceFontFamily": "Fira Code",
-  "cssTheme": "Prism",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "larger popup",
     "headercolors",
