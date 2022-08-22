@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "file: -index ",
+  "search": "path: -Templates -House Rulesfile: -index",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5218052642714684,
+  "scale": 0.3721908912720573,
   "close": false
 }
