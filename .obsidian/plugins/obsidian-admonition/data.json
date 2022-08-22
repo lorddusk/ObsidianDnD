@@ -7,7 +7,7 @@
         "name": "fire",
         "type": "font-awesome"
       },
-      "command": false,
+      "command": true,
       "injectColor": true,
       "noTitle": false,
       "copy": false
@@ -19,7 +19,7 @@
         "type": "obsidian",
         "name": "quote-glyph"
       },
-      "command": false,
+      "command": true,
       "injectColor": true,
       "noTitle": false
     },
@@ -30,7 +30,7 @@
         "name": "pencil-alt",
         "type": "font-awesome"
       },
-      "command": false,
+      "command": true,
       "injectColor": true,
       "noTitle": false
     }

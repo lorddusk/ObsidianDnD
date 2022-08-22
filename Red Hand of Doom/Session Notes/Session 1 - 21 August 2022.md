@@ -37,16 +37,14 @@ Zijn onderweg geweest in een bootje, aangekomen in [[Nimon Gap]].
 Aan het einde van de dag, wordt er door een wachter geroepen dat [[Nimon Gap]] onder aanval is.
 We worden aangevallen door iets wat op kobolds lijken, rijdend op een soort van wespen.
 
--- Combat --
-
-[[Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022#^combat]]
-
--- End of Combat --
-
+```ad-combat
+![[Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022#^combat]]
+```
 
 Notitie gevonden op het lijk van een Kobold: 
 ```ad-note
 title: In Draconic, vertaald via Comprehend Languages
+collapse: true
 Voer een hinderlaag uit, tijdens het [[Harvest Festival]], zodat ik ongestoord mijn werk kan doen. 
 Getekend [[Jeralla]]
 ```

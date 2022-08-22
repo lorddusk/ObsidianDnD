@@ -321,6 +321,647 @@
         "viewType": "live-preview",
         "tableCacheVersion": 425
       }
+    },
+    "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md": {
+      "0": {
+        "data": {
+          "headers": [
+            {
+              "id": "95257eb3-bb58-471e-bd87-e343949450c8",
+              "content": "Id.",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "20c30c9d-7335-474b-b83c-6bc392bc203b",
+              "content": "What",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "f8c92837-7a9d-473c-b66d-da0acd49fbe4",
+              "content": "Dice",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "1e2e9c91-ca90-480e-b722-060b6c6c5d55",
+              "content": "Roll",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "bcc4da46-3fb3-415b-ae7f-57a3762f9e3f",
+              "content": "Extra",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "18221230-d2ee-4f82-9ca5-c4f37609b8b5",
+              "content": "Adv.",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "c1e4bc51-07ac-4ec7-aeaf-e3dd04477b07",
+              "content": "Dis.",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "14c6557f-d721-4241-93a7-4b6e3a576b66",
+              "content": "Note",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "963091f9-139f-4538-8cb4-1029709bb5a5",
+              "content": "New",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            }
+          ],
+          "rows": [
+            {
+              "id": "b4d6ba1d-4fcd-442d-be95-a41e16b6e775",
+              "initialIndex": 0,
+              "creationTime": 1661171107610
+            },
+            {
+              "id": "3f05671e-8aad-4ec4-a94b-2f14f968b79c",
+              "initialIndex": 1,
+              "creationTime": 1661171107943
+            },
+            {
+              "id": "42067144-e204-4fd4-838f-6c3860712cf6",
+              "initialIndex": 2,
+              "creationTime": 1661171107533
+            },
+            {
+              "id": "59a72f49-21d9-4f6c-a4b9-c7a557bd157b",
+              "initialIndex": 3,
+              "creationTime": 1661171108109
+            },
+            {
+              "id": "1abfae5d-e5c6-4583-867f-c3b9877de67d",
+              "initialIndex": 4,
+              "creationTime": 1661171107260
+            },
+            {
+              "id": "3868cf08-f1e2-481e-a0c4-c2334efd5d94",
+              "initialIndex": 5,
+              "creationTime": 1661171107816
+            },
+            {
+              "id": "944c456b-d441-44d8-9d92-a4ec9059426e",
+              "initialIndex": 6,
+              "creationTime": 1661171107739
+            },
+            {
+              "id": "115c8ed4-1b6a-4c9b-86a0-9f834aff5db0",
+              "initialIndex": 7,
+              "creationTime": 1661171107278
+            }
+          ],
+          "cells": [
+            {
+              "id": "c2e66150-6290-486a-9b8e-19dbcf925da7",
+              "rowId": "b4d6ba1d-4fcd-442d-be95-a41e16b6e775",
+              "headerId": "95257eb3-bb58-471e-bd87-e343949450c8",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;1&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "ba8bb1d3-9fb0-4103-a476-45a5116d8b91",
+              "rowId": "b4d6ba1d-4fcd-442d-be95-a41e16b6e775",
+              "headerId": "20c30c9d-7335-474b-b83c-6bc392bc203b",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;Initiative&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "64f02c01-dce0-4623-95e5-5079516a1d9e",
+              "rowId": "b4d6ba1d-4fcd-442d-be95-a41e16b6e775",
+              "headerId": "f8c92837-7a9d-473c-b66d-da0acd49fbe4",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;d20&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "0ec8a564-c33d-4245-8254-6c5339f422a2",
+              "rowId": "b4d6ba1d-4fcd-442d-be95-a41e16b6e775",
+              "headerId": "1e2e9c91-ca90-480e-b722-060b6c6c5d55",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;8&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "d8a36fa8-45d0-4c77-b8a1-9db75739018a",
+              "rowId": "b4d6ba1d-4fcd-442d-be95-a41e16b6e775",
+              "headerId": "bcc4da46-3fb3-415b-ae7f-57a3762f9e3f",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "9b5a614a-9d42-4230-8839-f60498e2868f",
+              "rowId": "b4d6ba1d-4fcd-442d-be95-a41e16b6e775",
+              "headerId": "18221230-d2ee-4f82-9ca5-c4f37609b8b5",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__checkbox-cell\"&gt;&lt;input class=\"task-list-item-checkbox\" type=\"checkbox\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "f700c848-7b13-456d-be46-6538aa8d7e21",
+              "rowId": "b4d6ba1d-4fcd-442d-be95-a41e16b6e775",
+              "headerId": "c1e4bc51-07ac-4ec7-aeaf-e3dd04477b07",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__checkbox-cell\"&gt;&lt;input class=\"task-list-item-checkbox\" type=\"checkbox\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "fc42fa5a-15d7-4efe-b2b4-579ec3f2e00d",
+              "rowId": "b4d6ba1d-4fcd-442d-be95-a41e16b6e775",
+              "headerId": "14c6557f-d721-4241-93a7-4b6e3a576b66",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__auto-width\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "7328f3f8-6739-4b0b-a75b-b1074968c82e",
+              "rowId": "b4d6ba1d-4fcd-442d-be95-a41e16b6e775",
+              "headerId": "963091f9-139f-4538-8cb4-1029709bb5a5",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div&gt;&lt;button class=\"NLT__button NLT__button--icon\" tabindex=\"-1\" aria-hidden=\"true\"&gt;&lt;svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium NLT__icon--md css-i4bv87-MuiSvgIcon-root\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"MoreVertIcon\"&gt;&lt;path d=\"M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z\"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/button&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "31dbc6fe-bd38-46ac-9083-5370c93b4084",
+              "rowId": "3f05671e-8aad-4ec4-a94b-2f14f968b79c",
+              "headerId": "95257eb3-bb58-471e-bd87-e343949450c8",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;2&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "ec06634c-1242-4ba0-b341-2fd93b166cce",
+              "rowId": "3f05671e-8aad-4ec4-a94b-2f14f968b79c",
+              "headerId": "20c30c9d-7335-474b-b83c-6bc392bc203b",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;Melee Attack&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "46e58b69-822f-4d12-a6e3-5e002422b134",
+              "rowId": "3f05671e-8aad-4ec4-a94b-2f14f968b79c",
+              "headerId": "f8c92837-7a9d-473c-b66d-da0acd49fbe4",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;d20&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "2e6c004d-d594-4669-8382-dbe09c05fe38",
+              "rowId": "3f05671e-8aad-4ec4-a94b-2f14f968b79c",
+              "headerId": "1e2e9c91-ca90-480e-b722-060b6c6c5d55",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;10&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "c07d70b4-966e-4f22-af13-e76a97d9ca10",
+              "rowId": "3f05671e-8aad-4ec4-a94b-2f14f968b79c",
+              "headerId": "bcc4da46-3fb3-415b-ae7f-57a3762f9e3f",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;4&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "d91494ee-1c50-4a0d-bc3b-1fae53f23674",
+              "rowId": "3f05671e-8aad-4ec4-a94b-2f14f968b79c",
+              "headerId": "18221230-d2ee-4f82-9ca5-c4f37609b8b5",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__checkbox-cell\"&gt;&lt;input class=\"task-list-item-checkbox\" type=\"checkbox\" checked=\"\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "f89e6a86-f141-4781-ad3d-449f0fb264a8",
+              "rowId": "3f05671e-8aad-4ec4-a94b-2f14f968b79c",
+              "headerId": "c1e4bc51-07ac-4ec7-aeaf-e3dd04477b07",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__checkbox-cell\"&gt;&lt;input class=\"task-list-item-checkbox\" type=\"checkbox\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "7c9af0d3-5c60-4a73-b1f3-c49a74ee40d0",
+              "rowId": "3f05671e-8aad-4ec4-a94b-2f14f968b79c",
+              "headerId": "14c6557f-d721-4241-93a7-4b6e3a576b66",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__auto-width\"&gt;Adv. through Faerie Fire&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "22620454-524b-4fa6-9f54-010625c31215",
+              "rowId": "3f05671e-8aad-4ec4-a94b-2f14f968b79c",
+              "headerId": "963091f9-139f-4538-8cb4-1029709bb5a5",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div&gt;&lt;button class=\"NLT__button NLT__button--icon\" tabindex=\"-1\" aria-hidden=\"true\"&gt;&lt;svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium NLT__icon--md css-i4bv87-MuiSvgIcon-root\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"MoreVertIcon\"&gt;&lt;path d=\"M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z\"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/button&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "dbe76197-daba-42bb-96c4-a4e894ef7fa5",
+              "rowId": "42067144-e204-4fd4-838f-6c3860712cf6",
+              "headerId": "95257eb3-bb58-471e-bd87-e343949450c8",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;3&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "7c41eada-1684-48a3-85a9-597c785ac506",
+              "rowId": "42067144-e204-4fd4-838f-6c3860712cf6",
+              "headerId": "20c30c9d-7335-474b-b83c-6bc392bc203b",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;Spear&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "3e732849-a051-40fc-bbf2-3d625084c1dd",
+              "rowId": "42067144-e204-4fd4-838f-6c3860712cf6",
+              "headerId": "f8c92837-7a9d-473c-b66d-da0acd49fbe4",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;d6&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "5a7d596c-92d0-43ed-8b28-bf52e6ce1282",
+              "rowId": "42067144-e204-4fd4-838f-6c3860712cf6",
+              "headerId": "1e2e9c91-ca90-480e-b722-060b6c6c5d55",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;1&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "1b0f230e-b892-4a39-8d84-2e53fa57edd2",
+              "rowId": "42067144-e204-4fd4-838f-6c3860712cf6",
+              "headerId": "bcc4da46-3fb3-415b-ae7f-57a3762f9e3f",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "09b312f1-e133-47d7-afc5-7ea3deab46e4",
+              "rowId": "42067144-e204-4fd4-838f-6c3860712cf6",
+              "headerId": "18221230-d2ee-4f82-9ca5-c4f37609b8b5",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__checkbox-cell\"&gt;&lt;input class=\"task-list-item-checkbox\" type=\"checkbox\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "b72c3509-fee6-4f74-ad03-0d1ccf507719",
+              "rowId": "42067144-e204-4fd4-838f-6c3860712cf6",
+              "headerId": "c1e4bc51-07ac-4ec7-aeaf-e3dd04477b07",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__checkbox-cell\"&gt;&lt;input class=\"task-list-item-checkbox\" type=\"checkbox\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "cae694ce-c4e5-487d-8527-08c26138a8f4",
+              "rowId": "42067144-e204-4fd4-838f-6c3860712cf6",
+              "headerId": "14c6557f-d721-4241-93a7-4b6e3a576b66",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__auto-width\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "0a1b0f65-8ba5-4dba-9254-d0d4c428d27f",
+              "rowId": "42067144-e204-4fd4-838f-6c3860712cf6",
+              "headerId": "963091f9-139f-4538-8cb4-1029709bb5a5",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div&gt;&lt;button class=\"NLT__button NLT__button--icon\" tabindex=\"-1\" aria-hidden=\"true\"&gt;&lt;svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium NLT__icon--md css-i4bv87-MuiSvgIcon-root\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"MoreVertIcon\"&gt;&lt;path d=\"M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z\"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/button&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "afeb1cab-bced-4450-9315-49640579d46e",
+              "rowId": "59a72f49-21d9-4f6c-a4b9-c7a557bd157b",
+              "headerId": "95257eb3-bb58-471e-bd87-e343949450c8",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;4&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "2f3bdc3a-89cf-481e-8a20-20e62090068b",
+              "rowId": "59a72f49-21d9-4f6c-a4b9-c7a557bd157b",
+              "headerId": "20c30c9d-7335-474b-b83c-6bc392bc203b",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;Spell Attack&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "4db5ff6c-9d5b-4f32-b49c-fa480335b879",
+              "rowId": "59a72f49-21d9-4f6c-a4b9-c7a557bd157b",
+              "headerId": "f8c92837-7a9d-473c-b66d-da0acd49fbe4",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;d20&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "370feeb4-5584-4441-a2dd-aa7bf738a18e",
+              "rowId": "59a72f49-21d9-4f6c-a4b9-c7a557bd157b",
+              "headerId": "1e2e9c91-ca90-480e-b722-060b6c6c5d55",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;10&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "981bd16c-24e2-4870-9fb1-48f1a19b9fbb",
+              "rowId": "59a72f49-21d9-4f6c-a4b9-c7a557bd157b",
+              "headerId": "bcc4da46-3fb3-415b-ae7f-57a3762f9e3f",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "baa8684a-d368-4683-8996-83d8e5ba939c",
+              "rowId": "59a72f49-21d9-4f6c-a4b9-c7a557bd157b",
+              "headerId": "18221230-d2ee-4f82-9ca5-c4f37609b8b5",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__checkbox-cell\"&gt;&lt;input class=\"task-list-item-checkbox\" type=\"checkbox\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "abb6af74-5c89-46dd-9080-0c1b2a7ad45d",
+              "rowId": "59a72f49-21d9-4f6c-a4b9-c7a557bd157b",
+              "headerId": "c1e4bc51-07ac-4ec7-aeaf-e3dd04477b07",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__checkbox-cell\"&gt;&lt;input class=\"task-list-item-checkbox\" type=\"checkbox\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "918fbcc0-92b5-4d1b-94c9-60a8438ba547",
+              "rowId": "59a72f49-21d9-4f6c-a4b9-c7a557bd157b",
+              "headerId": "14c6557f-d721-4241-93a7-4b6e3a576b66",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__auto-width\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "5d9ee48e-9d98-4c9f-bd49-df302ae100bf",
+              "rowId": "59a72f49-21d9-4f6c-a4b9-c7a557bd157b",
+              "headerId": "963091f9-139f-4538-8cb4-1029709bb5a5",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div&gt;&lt;button class=\"NLT__button NLT__button--icon\" tabindex=\"-1\" aria-hidden=\"true\"&gt;&lt;svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium NLT__icon--md css-i4bv87-MuiSvgIcon-root\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"MoreVertIcon\"&gt;&lt;path d=\"M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z\"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/button&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "82466715-a21e-458f-9ad4-fac129be5561",
+              "rowId": "1abfae5d-e5c6-4583-867f-c3b9877de67d",
+              "headerId": "95257eb3-bb58-471e-bd87-e343949450c8",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;5&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "3a8f5ddd-f621-4ee2-b921-e4862e2093de",
+              "rowId": "1abfae5d-e5c6-4583-867f-c3b9877de67d",
+              "headerId": "20c30c9d-7335-474b-b83c-6bc392bc203b",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;Eldritch Blast&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "da9affc8-28d3-4f80-89b0-53f7a110cc8f",
+              "rowId": "1abfae5d-e5c6-4583-867f-c3b9877de67d",
+              "headerId": "f8c92837-7a9d-473c-b66d-da0acd49fbe4",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;d10&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "88192847-be83-466d-9141-7c46572d9e55",
+              "rowId": "1abfae5d-e5c6-4583-867f-c3b9877de67d",
+              "headerId": "1e2e9c91-ca90-480e-b722-060b6c6c5d55",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;2&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "0e3a21a9-969b-4bfd-b856-acb6f053b83a",
+              "rowId": "1abfae5d-e5c6-4583-867f-c3b9877de67d",
+              "headerId": "bcc4da46-3fb3-415b-ae7f-57a3762f9e3f",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "0e7ba381-9817-4e8d-9687-1558a99e0621",
+              "rowId": "1abfae5d-e5c6-4583-867f-c3b9877de67d",
+              "headerId": "18221230-d2ee-4f82-9ca5-c4f37609b8b5",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__checkbox-cell\"&gt;&lt;input class=\"task-list-item-checkbox\" type=\"checkbox\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "1957f8ba-a4c6-4646-b699-597745ecdb3e",
+              "rowId": "1abfae5d-e5c6-4583-867f-c3b9877de67d",
+              "headerId": "c1e4bc51-07ac-4ec7-aeaf-e3dd04477b07",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__checkbox-cell\"&gt;&lt;input class=\"task-list-item-checkbox\" type=\"checkbox\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "28237a8e-bda0-40df-b034-9665b8e39f97",
+              "rowId": "1abfae5d-e5c6-4583-867f-c3b9877de67d",
+              "headerId": "14c6557f-d721-4241-93a7-4b6e3a576b66",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__auto-width\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "ed345c87-3d4d-4870-9e6e-d4f1341d222a",
+              "rowId": "1abfae5d-e5c6-4583-867f-c3b9877de67d",
+              "headerId": "963091f9-139f-4538-8cb4-1029709bb5a5",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div&gt;&lt;button class=\"NLT__button NLT__button--icon\" tabindex=\"-1\" aria-hidden=\"true\"&gt;&lt;svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium NLT__icon--md css-i4bv87-MuiSvgIcon-root\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"MoreVertIcon\"&gt;&lt;path d=\"M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z\"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/button&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "8eee78c5-2925-470d-9f0e-f26e00e263f5",
+              "rowId": "3868cf08-f1e2-481e-a0c4-c2334efd5d94",
+              "headerId": "95257eb3-bb58-471e-bd87-e343949450c8",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;6&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "65a7b9b0-c1b2-45d1-a939-9e9c4f28f1da",
+              "rowId": "3868cf08-f1e2-481e-a0c4-c2334efd5d94",
+              "headerId": "20c30c9d-7335-474b-b83c-6bc392bc203b",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;Melee Attack&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "74886c31-fe46-418c-a23f-459ce9b75051",
+              "rowId": "3868cf08-f1e2-481e-a0c4-c2334efd5d94",
+              "headerId": "f8c92837-7a9d-473c-b66d-da0acd49fbe4",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;d20&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "5a2faadf-9fd2-46a7-bb73-fe3359aeea19",
+              "rowId": "3868cf08-f1e2-481e-a0c4-c2334efd5d94",
+              "headerId": "1e2e9c91-ca90-480e-b722-060b6c6c5d55",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;12&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "ac7ac221-ccc8-41bd-b4e7-bcefaedb3adc",
+              "rowId": "3868cf08-f1e2-481e-a0c4-c2334efd5d94",
+              "headerId": "bcc4da46-3fb3-415b-ae7f-57a3762f9e3f",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;8&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "df16788c-562e-4f45-a732-1d7e174192d2",
+              "rowId": "3868cf08-f1e2-481e-a0c4-c2334efd5d94",
+              "headerId": "18221230-d2ee-4f82-9ca5-c4f37609b8b5",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__checkbox-cell\"&gt;&lt;input class=\"task-list-item-checkbox\" type=\"checkbox\" checked=\"\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "4551398b-cdf4-49b2-be0c-5b12b9760d75",
+              "rowId": "3868cf08-f1e2-481e-a0c4-c2334efd5d94",
+              "headerId": "c1e4bc51-07ac-4ec7-aeaf-e3dd04477b07",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__checkbox-cell\"&gt;&lt;input class=\"task-list-item-checkbox\" type=\"checkbox\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "d39936d7-0557-478d-849b-04680daaded1",
+              "rowId": "3868cf08-f1e2-481e-a0c4-c2334efd5d94",
+              "headerId": "14c6557f-d721-4241-93a7-4b6e3a576b66",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__auto-width\"&gt;Adv. through Entangle/Restrained&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "b72117e2-ba31-4dad-a829-7b8d73b59540",
+              "rowId": "3868cf08-f1e2-481e-a0c4-c2334efd5d94",
+              "headerId": "963091f9-139f-4538-8cb4-1029709bb5a5",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div&gt;&lt;button class=\"NLT__button NLT__button--icon\" tabindex=\"-1\" aria-hidden=\"true\"&gt;&lt;svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium NLT__icon--md css-i4bv87-MuiSvgIcon-root\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"MoreVertIcon\"&gt;&lt;path d=\"M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z\"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/button&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "d10a462b-2dd0-4c84-90f4-0bb8c1c4f4e5",
+              "rowId": "944c456b-d441-44d8-9d92-a4ec9059426e",
+              "headerId": "95257eb3-bb58-471e-bd87-e343949450c8",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;7&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "0ce28a7a-5324-4bd2-b211-5577e6754fb0",
+              "rowId": "944c456b-d441-44d8-9d92-a4ec9059426e",
+              "headerId": "20c30c9d-7335-474b-b83c-6bc392bc203b",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;Spear&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "2e6de2a7-25b4-46f3-a048-7e98197288df",
+              "rowId": "944c456b-d441-44d8-9d92-a4ec9059426e",
+              "headerId": "f8c92837-7a9d-473c-b66d-da0acd49fbe4",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;d6&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "fc562c3b-e644-401c-b411-535c070baa0a",
+              "rowId": "944c456b-d441-44d8-9d92-a4ec9059426e",
+              "headerId": "1e2e9c91-ca90-480e-b722-060b6c6c5d55",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;2&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "c22d62ad-c836-4b0d-b3c3-429e9e65ceea",
+              "rowId": "944c456b-d441-44d8-9d92-a4ec9059426e",
+              "headerId": "bcc4da46-3fb3-415b-ae7f-57a3762f9e3f",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__wrap-overflow\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "5b5af0ef-aff6-4ac4-87fa-a01744cfc42a",
+              "rowId": "944c456b-d441-44d8-9d92-a4ec9059426e",
+              "headerId": "18221230-d2ee-4f82-9ca5-c4f37609b8b5",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__checkbox-cell\"&gt;&lt;input class=\"task-list-item-checkbox\" type=\"checkbox\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "575bc090-af92-4124-bb58-dc087fe2546a",
+              "rowId": "944c456b-d441-44d8-9d92-a4ec9059426e",
+              "headerId": "c1e4bc51-07ac-4ec7-aeaf-e3dd04477b07",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__checkbox-cell\"&gt;&lt;input class=\"task-list-item-checkbox\" type=\"checkbox\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "90c127f8-d09d-47cd-bd17-e7055ca6efba",
+              "rowId": "944c456b-d441-44d8-9d92-a4ec9059426e",
+              "headerId": "14c6557f-d721-4241-93a7-4b6e3a576b66",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div class=\"NLT__text-cell NLT__auto-width\"&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "9b643226-302d-485d-b503-cc803f4602c0",
+              "rowId": "944c456b-d441-44d8-9d92-a4ec9059426e",
+              "headerId": "963091f9-139f-4538-8cb4-1029709bb5a5",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;div&gt;&lt;button class=\"NLT__button NLT__button--icon\" tabindex=\"-1\" aria-hidden=\"true\"&gt;&lt;svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium NLT__icon--md css-i4bv87-MuiSvgIcon-root\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"MoreVertIcon\"&gt;&lt;path d=\"M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z\"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/button&gt;&lt;/div&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "ac14d2b0-4c2d-4be1-aa8d-be2b60d28d66",
+              "rowId": "115c8ed4-1b6a-4c9b-86a0-9f834aff5db0",
+              "headerId": "95257eb3-bb58-471e-bd87-e343949450c8",
+              "type": "text",
+              "text": "&lt;div class=\"NLT__td-container\"&gt;&lt;button class=\"NLT__button\" tabindex=\"-1\" aria-hidden=\"true\"&gt;New&lt;/button&gt;&lt;/div&gt;"
+            },
+            {
+              "id": "0843ebc8-0a86-4d03-956d-b6c2125e34ec",
+              "rowId": "115c8ed4-1b6a-4c9b-86a0-9f834aff5db0",
+              "headerId": "20c30c9d-7335-474b-b83c-6bc392bc203b",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "17e8846f-873f-450a-a527-c12a4b46dfc7",
+              "rowId": "115c8ed4-1b6a-4c9b-86a0-9f834aff5db0",
+              "headerId": "f8c92837-7a9d-473c-b66d-da0acd49fbe4",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "ae481bb3-9dd0-4323-bc67-d3caa3c5aa03",
+              "rowId": "115c8ed4-1b6a-4c9b-86a0-9f834aff5db0",
+              "headerId": "1e2e9c91-ca90-480e-b722-060b6c6c5d55",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "8dfd519f-3714-4aed-a06e-bb33daff8d17",
+              "rowId": "115c8ed4-1b6a-4c9b-86a0-9f834aff5db0",
+              "headerId": "bcc4da46-3fb3-415b-ae7f-57a3762f9e3f",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "e404834d-23f4-4b55-aedf-563bbce8bdbe",
+              "rowId": "115c8ed4-1b6a-4c9b-86a0-9f834aff5db0",
+              "headerId": "18221230-d2ee-4f82-9ca5-c4f37609b8b5",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "4d708519-4d65-4ea8-88b1-ed76219fada7",
+              "rowId": "115c8ed4-1b6a-4c9b-86a0-9f834aff5db0",
+              "headerId": "c1e4bc51-07ac-4ec7-aeaf-e3dd04477b07",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "64711c8a-9e2e-4c31-9523-815c3ed7aa74",
+              "rowId": "115c8ed4-1b6a-4c9b-86a0-9f834aff5db0",
+              "headerId": "14c6557f-d721-4241-93a7-4b6e3a576b66",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "095443b4-48ad-4c22-ac12-998ae5d378cb",
+              "rowId": "115c8ed4-1b6a-4c9b-86a0-9f834aff5db0",
+              "headerId": "963091f9-139f-4538-8cb4-1029709bb5a5",
+              "type": "text",
+              "text": ""
+            }
+          ],
+          "tags": []
+        },
+        "shouldUpdate": false,
+        "viewType": "reading",
+        "tableCacheVersion": 425
+      }
     }
   },
   "focusedElement": {
