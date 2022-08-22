@@ -1,6 +1,43 @@
 {
-  "userAdmonitions": {},
-  "syntaxHighlight": false,
+  "userAdmonitions": {
+    "combat": {
+      "type": "combat",
+      "color": "50, 32, 31",
+      "icon": {
+        "name": "fire",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "quote": {
+      "type": "quote",
+      "color": "40, 40, 40",
+      "icon": {
+        "type": "obsidian",
+        "name": "quote-glyph"
+      },
+      "command": true,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "note": {
+      "type": "note",
+      "color": "31, 38, 49",
+      "icon": {
+        "name": "pencil-alt",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
+  "syntaxHighlight": true,
   "copyButton": false,
   "version": "9.0.3",
   "autoCollapse": false,
@@ -13,7 +50,7 @@
     "admonitions": true,
     "icons": true,
     "other": true,
-    "advanced": false
+    "advanced": true
   },
   "icons": [],
   "useFontAwesome": true,
