@@ -7,6 +7,7 @@ tags: NPC
 ---
 
 # Clerics of Kelemvor 
+Group of clerics that follow the god Kelemvor
 ___ 
 ## References: - 
 --- 

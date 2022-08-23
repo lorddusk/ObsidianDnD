@@ -7,6 +7,7 @@ tags: NPC
 ---
 
 # Brother Keith 
+Gravekeeper of [[Nimon Gap]]
 ___ 
 ## References: - 
 --- 
