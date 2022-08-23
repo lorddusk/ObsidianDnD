@@ -11,9 +11,10 @@ tags: Party
 # Alton Millbrooke 
 
 ```ad-ooc
-collapse:closed
-24 yo
-from a farmers family
+collapse:open
+Age: 24 years old (physical), 69 years old (mentally).
+Origin: Born into a farmers family.
+
 trouble avoidant
 got lost into the feywild, doesn't remember much
 Ran into several fey entities, one of them caused a shift in his personalty
