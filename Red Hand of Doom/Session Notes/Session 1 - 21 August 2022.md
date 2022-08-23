@@ -46,17 +46,17 @@ collapse: closed
 ![[Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022#^combat]]
 ```
 
+We captured a kobold, and kept him for questioning.
 After combat, we find a note on one of the kobold bodies: 
 ```ad-quote
 title: In Draconic, translated through Comprehend Languages
 collapse: true
-
-Execute an ambush during the
-Voer een hinderlaag uit, tijdens het [[Harvest Festival]], zodat ik ongestoord mijn werk kan doen. 
-Getekend [[Jeralla]]
+Execute an ambush during the [[Harvest Festival]], so I can do my job uninterrupted.
+~ [[Jeralla]]
 ```
 
-Kobold die we gevangen hebben, vastgebonden.
+
+
 Een priest komt ons tegemoet, Broeder Keith groet ons.
 Hij bewaakt het kerkhof in [[Nimon Gap]], zijn taak is dat de doden goed begraven worden, en de geschriften van de overledene bijgehouden worden.
 Hij komt met geruchten dat een van de Clerics van Kelemvor, geen human was maar een groene draak.
