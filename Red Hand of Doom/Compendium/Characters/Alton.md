@@ -15,7 +15,7 @@ collapse:open
 Age: 24 years old (physical), 69 years old (mentally).
 Origin: Born into a farmers family.
 
-trouble avoidant
+History: Got lost in the feywild, ran into several entities there, which caused his personality to change for the worse. Where he was trouble avoidant in the past, he has turned a lot more brash, lost his homesickness, and becams
 got lost into the feywild, doesn't remember much
 Ran into several fey entities, one of them caused a shift in his personalty
 Caused him to become more brash, not feel as homesick as much, and became more combatant
