@@ -26,13 +26,14 @@ Een priest heeft ons gevraagd om mee te gaan, om een crypte te checken waar geru
 
 ## Notes:
 Arrived in [[Nimon Gap]] on a boat.
+
 [[Harvest Festival]] is later in the year than it usually is, because of a heatwave.
 
 [[Alton]] bought a bottle of pear liquor, and a bottle of pale ale in one of the stands.
 
 [[Aelar]] played a game of high-striker misses twice, wins the third time. [[Keth]] had a big laugh over this, and showed [[Aelar]] how it should be done. Succeeded until level 4, unfortunately failed level 5.
 
-[[Bikam]] joined a chili-pepper eating contest, [[Booker]] watched, and aftewards bought the hottest pepper they had, for later usage.
+[[Bikam]] joined a chili-pepper eating contest, [[Booker]] watched, and afterwards bought the hottest pepper they had, for later usage.
 
 [[Booker]] and [[Keth]] are there through the Adventurers Guild as guards.
 
