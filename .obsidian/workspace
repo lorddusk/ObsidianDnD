@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Booker/Background.md",
+            "file": "Red Hand of Doom/Compendium/NPCs/Jeralla.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Booker/Background.md",
+            "file": "Red Hand of Doom/Compendium/NPCs/Jeralla.md",
             "mode": "preview",
             "source": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Background.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/Jeralla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Background.md"
+                "file": "Red Hand of Doom/Compendium/NPCs/Jeralla.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Background.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/Jeralla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,15 +152,15 @@
   },
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium/Characters/Aelar.md",
+    "Red Hand of Doom/Compendium/Characters/- Index.md",
     "Characters/Booker/Background.md",
+    "Red Hand of Doom/Compendium/Characters/Aelar.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Red Hand of Doom/Compendium/Characters/Bikam.md",
     "Red Hand of Doom/Compendium/Characters/Alton.md",
     "Red Hand of Doom/Compendium/Characters/Keth.md",
     "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
     "Characters/Booker/Character Sheet.md",
-    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
-    "Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022.md"
+    "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md"
   ]
 }
