@@ -1,12 +1,12 @@
 ---
 type: npc
-name: Eric ?
+name: Eric Farrsight
 location: Crestbrook?
 desc: Halfbrother
 tags: NPC, Family
 ---
 
-# Eric ?
+# Eric Farrsight
 ___ 
 ## References: 
 - Half-brother of [[Booker]]

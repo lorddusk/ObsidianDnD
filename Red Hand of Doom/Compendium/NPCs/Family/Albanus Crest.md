@@ -11,7 +11,7 @@ ___
 ## References: 
 - Brother of [[Booker]]
 - Brother of [[Chaedi Lia Crest]]
-- Half-brother of [[Eric]]
+- Half-brother of [[Eric Farrsight]]
 - Son of [[Ramose Crest]]
 - Son of [[Titlayo Crest]]
 --- 

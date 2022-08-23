@@ -20,7 +20,7 @@ I have a weakness for the new intoxicants and other pleasures in these new lands
 ![[Booker-Unmasked.jpg]]
 # Backstory :
 Born in [[Crestbrook]] 28 years ago, a child of [[Titlayo Crest]] and [[Ramose Crest]]. 
-Living in a loving family, with 3 siblings. My full siblings: [[Albanus Crest]] and [[Chaedi Lia Crest]]; and my half-brother: [[Eric]].
+Living in a loving family, with 3 siblings. My full siblings: [[Albanus Crest]] and [[Chaedi Lia Crest]]; and my half-brother: [[Eric Farrsight]].
 ^history
 
 Not having a care in the world, going to work, helping out my father on the field, helping my sister and mother out gathering and storing food.

@@ -12,7 +12,7 @@ ___
 - Father of [[Booker]]
 - Father of [[Albanus Crest]]
 - Father of [[Chaedi Lia Crest]]
-- Step-father of [[Eric]]
+- Step-father of [[Eric Farrsight]]
 - Husband of [[Titlayo Crest]]
 --- 
 creation date:: [[2022-08-13]] 22:43
