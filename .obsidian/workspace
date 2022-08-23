@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/House Rules.md",
+            "file": "Red Hand of Doom/Compendium/Characters/Keth.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/House Rules.md",
+                "file": "Red Hand of Doom/Compendium/Characters/Keth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/House Rules.md"
+                "file": "Red Hand of Doom/Compendium/Characters/Keth.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/House Rules.md",
+                "file": "Red Hand of Doom/Compendium/Characters/Keth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a675e60e8360408f",
+  "active": "8a03f92b78731048",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/NPCs/Brother Keith.md",
+    "Red Hand of Doom/House Rules.md",
     "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
     "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
     "Red Hand of Doom/Compendium/Characters/Bikam.md",
     "Red Hand of Doom/Session Notes/Session xx - 23 August 2022.md",
-    "Red Hand of Doom/Compendium/NPCs/Brother Keith.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Ramose Crest.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Eric Farrsight.md",
     "Red Hand of Doom/Compendium/NPCs/- Index.md",
-    "Red Hand of Doom/Compendium/NPCs/Clerics of Kelemvor.md",
-    "Red Hand of Doom/Compendium/NPCs/Kobob.md"
+    "Red Hand of Doom/Compendium/NPCs/Clerics of Kelemvor.md"
   ]
 }
