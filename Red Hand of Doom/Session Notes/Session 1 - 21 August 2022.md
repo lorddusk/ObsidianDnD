@@ -59,7 +59,7 @@ A priest [[Brother Keith]] approaches us.
 He's the guarding of the cemetery in [[Nimon Gap]], his job is to bury the dead, and keep the records of the deceased. He brings rumors that one of the [[Clerics of Kelemvor]] that is buried there, is not really a human, but a disguised Green Dragon.
 And asks us to join him to investigate. We told him that we first needed to interrogate the capture kobold (as there are no prison cells in [[Nimon Gap]]) and will join him afterwards.
 
-The Kobold [[Kobob]] works for [["The Inventory"]] (Kneecap in Draconic), who in turn works for [[Jeralla]]. But currently has no whereabouts of the latter.
+The Kobold [[Kobob]] works for [["The Inventor"]] (Kneecap in Draconic), who in turn works for [[Jeralla]]. But currently has no whereabouts of the latter.
 They received orders from [[Jeralla]] to attack [[Nimon Gap]]. Originating from an outpost just outside the city in the woods. 
 They ride their wasps, because they raised them to be ridden.
-We ([[Booker]] and [[Keth]]) marked Kobob with a small cross under their wings. So that if we ever run into them again, we know it's the kobold we releasedgemarkeerd met een kruisje onder zn vleugel en vrijgelaten met de voorwaarden dat als we hem weer tegen komen, en hij nog steeds met slechte shit bezig is, dat we dan geen genade meer tonen.
+We ([[Booker]] and [[Keth]]) marked Kobob with a small cross under their wings. So that if we ever run into them again, we know it's the kobold we released. Told him that if we ever run into him again, and they were still up to evil stuff, we would kill him without showing mercy again.
