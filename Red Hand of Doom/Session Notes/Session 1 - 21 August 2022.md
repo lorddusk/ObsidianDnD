@@ -29,7 +29,7 @@ Arrived in [[Nimon Gap]] on a boat.
 [[Harvest Festival]] is later in the year than it usually is, because of a heatwave.
 
 [[Alton]] bought a bottle of pear liquor, and a bottle of pale ale in one of the stands.
-[[Aelar]] played a game , [[Keth]] lacht hier hartelijk om.
+[[Aelar]] played a game of high-striker misses twice, wins the third time. [[Keth]] had a big laugh over this, and showed [[Aelar]] how it should be done. Succeeded 
 [[Aelar]] heeft niveau 1 gehaald, [[Keth]] niveau 4, heeft n5 gefaald.
 [[Bikam]] heeft meegedaan aan een peper eet wedstrijd, [[Booker]] heeft dit aanschouwt en de heetste peper gekocht, voor later ;).
 [[Booker]] en [[Keth]] zijn er als een soort beveiliging vanuit de Adventurers Guild.
