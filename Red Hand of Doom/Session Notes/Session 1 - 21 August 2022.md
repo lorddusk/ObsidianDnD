@@ -25,7 +25,7 @@ Een priest heeft ons gevraagd om mee te gaan, om een crypte te checken waar geru
 ![[Session 0 - 23 July 2022#^summary]]
 
 ## Notes:
-Zijn onderweg geweest in een bootje, aangekomen in [[Nimon Gap]].
+Arrived in [[Nimon Gap]] on a boar
 [[Harvest Festival]] is later dan gepland, vanwege de warmte.
 [[Alton]] heeft een flesje ale EN een flesje likeur gekocht.
 [[Aelar]] heeft een hammertje tik spel gespeeld. Mist 2x, [[Keth]] lacht hier hartelijk om.
