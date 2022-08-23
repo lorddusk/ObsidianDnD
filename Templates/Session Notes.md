@@ -14,16 +14,16 @@ let title = await tp.date.now("DD MMMM YYYY");
 await tp.file.rename(`Session xx - ${title}`); 
 %>
 
-## Summary:
+## Summary of This Session:
 
 ^summary
 
-## Housekeeping:
-
-## Recap:
+## Recap of Last Session:
 ![[#^summary]]
 
-## Scenes:
+## Housekeeping:
+
+## Notes:
 
 ## Loot:
 
