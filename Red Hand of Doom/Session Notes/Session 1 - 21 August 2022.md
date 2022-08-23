@@ -55,10 +55,8 @@ Execute an ambush during the [[Harvest Festival]], so I can do my job uninterrup
 ~ [[Jeralla]]
 ```
 
-
-
-Een priest komt ons tegemoet, Broeder Keith groet ons.
-Hij bewaakt het kerkhof in [[Nimon Gap]], zijn taak is dat de doden goed begraven worden, en de geschriften van de overledene bijgehouden worden.
+A priest [[Brother Keith]] approaches us.
+He's the guarding of the cemetery in [[Nimon Gap]], his job is to bury the dead, and keep the records of the deceased. He brings rumors that 
 Hij komt met geruchten dat een van de Clerics van Kelemvor, geen human was maar een groene draak.
 Of we mee willen naar de Crypte van deze persoon, zodat hij kan controleren of dit ook echt zo is.
 
