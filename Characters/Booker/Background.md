@@ -44,5 +44,6 @@ Looking around me for the first time, I did not recognise where I was.
 I wandered aimlessly around for what felt days, before finding my way to [[Waterdeep]]. Asking people where [[Crestbrook]] was, nobody knew. Not the common folk, nor the librarians. They had never heard of it. 
 It became my goal to find my way back home, and I found my way to [[Brindol]] and joined the Adventurers Guild in hopes it would give me the resources to find my way back home...
 
-It has been 15 years now... And I've not heard yet from "[[The Benefactor]]".
-I'm scared.
+It has over been 15 years now. 
+And I've yet to hear from "[[The Benefactor]]".
+I'm scared...
