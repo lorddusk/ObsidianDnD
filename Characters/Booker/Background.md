@@ -1,27 +1,28 @@
-## Personal Overview
-### Personality Traits :
+# Personal Overview
+## Personality Traits :
 I honor my deal through a practice that is seemingly foreign to this land. At the beginning or end of my day I perform a small traditional (for me) ritual.
 
 Through a deal I made, I received a weapon I never thought was possible to handle, and thus I honor this deal by excessively cleaning and oil my weapon every day. This oil is a mixture of several ingredients that I were very commonly found around my home town ([[Crestbrook]]). The method of cleaning is very detailed and no part of the weapon is left uncleaned. 
 
-### Ideals : 
+## Ideals : 
 I have a clear recollection of my youth, but found myself lost without a way home. In these new lands I woke up in, I keep finding new things to learn and see. Joining the Adventure Guild in [[Brindol]] helped me see more, and hopefully will get me the know how to get back home.
 
-### Bonds :
+## Bonds :
 Through no choice of my own, I have no way to return to my home town of [[Crestbrook]]. And thus leaving my parents, and my siblings alone. I hope to see them, alive, again one day...
 
-### Flaws :
+## Flaws :
 I have a weakness for the new intoxicants and other pleasures in these new lands. I'll indulge in more than is good for me, and have often land in fights, or other altercations with local folk.
 
-### Appearance :
-#### Masked:
+## Appearance :
+### Masked:
 ![[Booker-Masked.jpg]]
-#### Unmasked:
+### Unmasked:
 ![[Booker-Unmasked.jpg]]
 
 
-
-## Backstory :
+___
+# Backstory :
+___
 Born in [[Crestbrook]] 28 years ago, a child of [[Titlayo Crest]] and [[Ramose Crest]]. 
 Living in a loving family, with 3 siblings. My full siblings: [[Albanus Crest]] and [[Chaedi Lia Crest]]; and my half-brother: [[Eric]].
 ^history
