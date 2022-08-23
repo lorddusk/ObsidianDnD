@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
+            "file": "Red Hand of Doom/Compendium/NPCs/The Inventor.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
+            "file": "Red Hand of Doom/Compendium/NPCs/The Inventor.md",
             "mode": "preview",
             "source": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/The Inventor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md"
+                "file": "Red Hand of Doom/Compendium/NPCs/The Inventor.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/The Inventor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,15 +152,15 @@
   },
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
+    "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
+    "Red Hand of Doom/Compendium/NPCs/Clerics of Kelemvor.md",
+    "Red Hand of Doom/Compendium/NPCs/The Inventor.md",
     "Red Hand of Doom/Compendium/NPCs/Kobob.md",
     "Red Hand of Doom/Compendium/NPCs/Brother Keith.md",
-    "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
     "Red Hand of Doom/Compendium/NPCs/Jeralla.md",
     "Red Hand of Doom/Compendium/Characters/- Index.md",
     "Characters/Booker/Background.md",
     "Red Hand of Doom/Compendium/Characters/Aelar.md",
-    "Red Hand of Doom/Compendium/Characters/Booker.md",
-    "Red Hand of Doom/Compendium/Characters/Bikam.md",
-    "Red Hand of Doom/Compendium/Characters/Alton.md"
+    "Red Hand of Doom/Compendium/Characters/Booker.md"
   ]
 }
