@@ -9,6 +9,9 @@ tags: Party
 ---
 
 # Alton Millbrooke 
+
+```ad-ooc
+collapse:closed
 24 yo
 from a farmers family
 trouble avoidant
@@ -18,6 +21,8 @@ Caused him to become more brash, not feel as homesick as much, and became more c
 Spend around 2 years there
 Has only been back a couple of years
 To his surprise 47 years went by in his absence
+
+```
 
 ___ 
 ## References: - 
