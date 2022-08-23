@@ -38,19 +38,20 @@ Arrived in [[Nimon Gap]] on a boat.
 
 [[Bikam]] and [[Alton]] join a competition dagger throwing. [[Bikam]] won with 9 points, while [[Alton]] failed considerably, with only 3 points.
 
-Aan het einde van de dag, wordt er door een wachter geroepen dat [[Nimon Gap]] onder aanval is.
-We worden aangevallen door iets wat op kobolds lijken, rijdend op een soort van wespen.
+Nearing end of day, guards shout towards us that [[Nimon Gap]] is under attack.
+We are attacked by kobolds riding some kind of wasp.
 
 ```ad-combat
 collapse: closed
 ![[Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022#^combat]]
 ```
 
-Notitie gevonden op het lijk van een Kobold: 
+After combat, we find a note on one of the kobold bodies: 
 ```ad-quote
-title: In Draconic, vertaald via Comprehend Languages
+title: In Draconic, translated through Comprehend Languages
 collapse: true
 
+Execute an ambush during the
 Voer een hinderlaag uit, tijdens het [[Harvest Festival]], zodat ik ongestoord mijn werk kan doen. 
 Getekend [[Jeralla]]
 ```
