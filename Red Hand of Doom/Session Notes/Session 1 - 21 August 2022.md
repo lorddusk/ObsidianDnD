@@ -34,8 +34,9 @@ Arrived in [[Nimon Gap]] on a boat.
 
 [[Bikam]] joined a chili-pepper eating contest, [[Booker]] watched, and aftewards bought the hottest pepper they had, for later usage.
 
-[[Booker]] and [[Keth]] zijn er als een soort beveiliging vanuit de Adventurers Guild.
-[[Bikam]] en [[Alton]] doen samen een competitie dagger werpen.
+[[Booker]] and [[Keth]] are there through the Adventurers Guild as guards.
+
+[[Bikam]] and [[Alton]] join a competition dagger throwing. [[Bikam]] won with 9 points, while [[Alton]] failed considerably, with only 3 points.
 
 Aan het einde van de dag, wordt er door een wachter geroepen dat [[Nimon Gap]] onder aanval is.
 We worden aangevallen door iets wat op kobolds lijken, rijdend op een soort van wespen.
