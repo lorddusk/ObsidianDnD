@@ -57,6 +57,7 @@ Execute an ambush during the [[Harvest Festival]], so I can do my job uninterrup
 
 A priest [[Brother Keith]] approaches us.
 He's the guarding of the cemetery in [[Nimon Gap]], his job is to bury the dead, and keep the records of the deceased. He brings rumors that one of the [[Clerics of Kelemvor]] that is buried there, is not really a human, but a disguised Green Dragon.
-And asks us to join him to investigate. We told him that we first needed to interrogate the capture kobold (as there are no prison cells in)
+And asks us to join him to investigate. We told him that we first needed to interrogate the capture kobold (as there are no prison cells in [[Nimon Gap]]) and will join him afterwards.
 
+The Kobold [[Kobob]] works for [["The Inventory"]] (Kneecap in Draconic), who in turn works for [[Jeralla]]. But currently has no wearabouts of the latter.
 Kobold (Kobob) werkt voor de Inventor (Knieschijf in Draconic) en die werkt weer voor [[Jeralla]], maar weet niet waar die momenteel is. Orders van de baas om [[Nimon Gap]] aan te vallen. Komen van een outpost uit de bossen net buiten de stad. Ze rijden op de wespen omdat ze ze zo opgevoed hebben. Kobob gemarkeerd met een kruisje onder zn vleugel en vrijgelaten met de voorwaarden dat als we hem weer tegen komen, en hij nog steeds met slechte shit bezig is, dat we dan geen genade meer tonen.
