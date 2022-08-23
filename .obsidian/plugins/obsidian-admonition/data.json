@@ -44,7 +44,7 @@
         "name": "unverified"
       },
       "command": true,
-      "title": "Out of Character Knowledge",
+      "title": "Out of character knowledge",
       "injectColor": true,
       "noTitle": false,
       "copy": false

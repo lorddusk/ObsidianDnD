@@ -10,6 +10,10 @@ tags: Party
 ---
 
 # Bikam Folkor
+
+```ad-ooc
+collapse:closed
+```
 ___ 
 ## References: - 
 --- 
