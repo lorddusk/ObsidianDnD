@@ -29,10 +29,12 @@ Arrived in [[Nimon Gap]] on a boat.
 [[Harvest Festival]] is later in the year than it usually is, because of a heatwave.
 
 [[Alton]] bought a bottle of pear liquor, and a bottle of pale ale in one of the stands.
-[[Aelar]] played a game of high-striker misses twice, wins the third time. [[Keth]] had a big laugh over this, and showed [[Aelar]] how it should be done. Succeeded 
-[[Aelar]] heeft niveau 1 gehaald, [[Keth]] niveau 4, heeft n5 gefaald.
-[[Bikam]] heeft meegedaan aan een peper eet wedstrijd, [[Booker]] heeft dit aanschouwt en de heetste peper gekocht, voor later ;).
-[[Booker]] en [[Keth]] zijn er als een soort beveiliging vanuit de Adventurers Guild.
+
+[[Aelar]] played a game of high-striker misses twice, wins the third time. [[Keth]] had a big laugh over this, and showed [[Aelar]] how it should be done. Succeeded until level 4, unfortunately failed level 5.
+
+[[Bikam]] joined a chili-pepper eating contest, [[Booker]] watched, and aftewards bought the hottest pepper they had, for later usage.
+
+[[Booker]] and [[Keth]] zijn er als een soort beveiliging vanuit de Adventurers Guild.
 [[Bikam]] en [[Alton]] doen samen een competitie dagger werpen.
 
 Aan het einde van de dag, wordt er door een wachter geroepen dat [[Nimon Gap]] onder aanval is.
