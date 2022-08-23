@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Booker/Character Sheet.md",
+            "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Booker/Character Sheet.md",
+            "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
             "mode": "preview",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Character Sheet.md",
+                "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Character Sheet.md"
+                "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Character Sheet.md",
+                "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,6 +152,7 @@
   },
   "active": "cd18738cf77affab",
   "lastOpenFiles": [
+    "Characters/Booker/Character Sheet.md",
     "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
     "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022.md",
@@ -160,7 +161,6 @@
     "Red Hand of Doom/Compendium/Characters/Bikam.md",
     "Red Hand of Doom/Compendium/Characters/Alton.md",
     "Characters/Booker/Background.md",
-    "Red Hand of Doom/Compendium/NPCs/The Benefactor.md",
-    "Red Hand of Doom/Compendium/Characters/- Index.md"
+    "Red Hand of Doom/Compendium/NPCs/The Benefactor.md"
   ]
 }

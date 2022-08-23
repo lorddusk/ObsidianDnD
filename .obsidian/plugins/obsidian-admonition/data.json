@@ -1,77 +1,77 @@
 {
-  "userAdmonitions": {
-    "combat": {
-      "type": "combat",
-      "color": "171, 54, 48",
-      "icon": {
-        "name": "fire",
-        "type": "font-awesome"
-      },
-      "command": true,
-      "injectColor": true,
-      "noTitle": false,
-      "copy": false
-    },
-    "quote": {
-      "type": "quote",
-      "color": "156, 156, 156",
-      "icon": {
-        "type": "obsidian",
-        "name": "quote-glyph"
-      },
-      "command": true,
-      "injectColor": true,
-      "noTitle": false,
-      "copy": false
-    },
-    "note": {
-      "type": "note",
-      "color": "72, 111, 173",
-      "icon": {
-        "name": "pencil-alt",
-        "type": "font-awesome"
-      },
-      "command": true,
-      "injectColor": true,
-      "noTitle": false,
-      "copy": false
-    },
-    "ooc": {
-      "type": "ooc",
-      "color": "191, 193, 51",
-      "icon": {
-        "type": "octicons",
-        "name": "unverified"
-      },
-      "command": true,
-      "title": "Out of Character Knowledge",
-      "injectColor": true,
-      "noTitle": false,
-      "copy": false
-    }
-  },
-  "syntaxHighlight": true,
-  "copyButton": false,
-  "version": "9.0.3",
-  "autoCollapse": false,
-  "defaultCollapseType": "open",
-  "injectColor": true,
-  "parseTitles": true,
-  "dropShadow": true,
-  "hideEmpty": false,
-  "open": {
-    "admonitions": true,
-    "icons": true,
-    "other": true,
-    "advanced": true
-  },
-  "icons": [
-    "octicons",
-    "rpg"
-  ],
-  "useFontAwesome": true,
-  "rpgDownloadedOnce": false,
-  "msDocConverted": false,
-  "useSnippet": false,
-  "snippetPath": "custom-admonitions.8408be"
+"userAdmonitions": {
+"combat": {
+"type": "combat",
+"color": "171, 54, 48",
+"icon": {
+"name": "fire",
+"type": "font-awesome"
+},
+"command": true,
+"injectColor": true,
+"noTitle": false,
+"copy": false
+},
+"quote": {
+"type": "quote",
+"color": "156, 156, 156",
+"icon": {
+"type": "obsidian",
+"name": "quote-glyph"
+},
+"command": true,
+"injectColor": true,
+"noTitle": false,
+"copy": false
+},
+"note": {
+"type": "note",
+"color": "72, 111, 173",
+"icon": {
+"name": "pencil-alt",
+"type": "font-awesome"
+},
+"command": true,
+"injectColor": true,
+"noTitle": false,
+"copy": false
+},
+"ooc": {
+"type": "ooc",
+"color": "191, 193, 51",
+"icon": {
+"type": "octicons",
+"name": "unverified"
+},
+"command": true,
+"title": "Out of Character Knowledge",
+"injectColor": true,
+"noTitle": false,
+"copy": false
+}
+},
+"syntaxHighlight": true,
+"copyButton": false,
+"version": "9.0.3",
+"autoCollapse": false,
+"defaultCollapseType": "open",
+"injectColor": true,
+"parseTitles": true,
+"dropShadow": true,
+"hideEmpty": false,
+"open": {
+"admonitions": true,
+"icons": true,
+"other": true,
+"advanced": true
+},
+"icons": [
+"octicons",
+"rpg"
+],
+"useFontAwesome": true,
+"rpgDownloadedOnce": false,
+"msDocConverted": false,
+"useSnippet": false,
+"snippetPath": "custom-admonitions.8408be"
 }
