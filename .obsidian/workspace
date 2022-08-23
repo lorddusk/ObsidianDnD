@@ -11,7 +11,7 @@
           "state": {
             "file": "Red Hand of Doom/Compendium/Characters/Booker.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         },
         "group": "012608c1bd5d2f39"
@@ -24,7 +24,7 @@
           "state": {
             "file": "Red Hand of Doom/Compendium/Characters/Booker.md",
             "mode": "preview",
-            "source": false
+            "source": true
           }
         },
         "group": "012608c1bd5d2f39"
@@ -150,7 +150,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4cef1e93ca8608ae",
+  "active": "cd18738cf77affab",
   "lastOpenFiles": [
     "Red Hand of Doom/Compendium/Characters/Bikam.md",
     "Red Hand of Doom/Compendium/Characters/Aelar.md",
