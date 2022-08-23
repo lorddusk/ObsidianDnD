@@ -25,10 +25,11 @@ Een priest heeft ons gevraagd om mee te gaan, om een crypte te checken waar geru
 ![[Session 0 - 23 July 2022#^summary]]
 
 ## Notes:
-Arrived in [[Nimon Gap]] on a boar
-[[Harvest Festival]] is later dan gepland, vanwege de warmte.
-[[Alton]] heeft een flesje ale EN een flesje likeur gekocht.
-[[Aelar]] heeft een hammertje tik spel gespeeld. Mist 2x, [[Keth]] lacht hier hartelijk om.
+Arrived in [[Nimon Gap]] on a boat.
+[[Harvest Festival]] is later in the year than it usually is, because of a heatwave.
+
+[[Alton]] bought a bottle of pear liquor, and a bottle of pale ale in one of the stands.
+[[Aelar]] played a game , [[Keth]] lacht hier hartelijk om.
 [[Aelar]] heeft niveau 1 gehaald, [[Keth]] niveau 4, heeft n5 gefaald.
 [[Bikam]] heeft meegedaan aan een peper eet wedstrijd, [[Booker]] heeft dit aanschouwt en de heetste peper gekocht, voor later ;).
 [[Booker]] en [[Keth]] zijn er als een soort beveiliging vanuit de Adventurers Guild.
