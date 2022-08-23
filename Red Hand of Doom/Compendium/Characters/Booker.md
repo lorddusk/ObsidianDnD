@@ -10,7 +10,13 @@ tags: Party
 ---
 
 # Booker Crest
-Home: [[Crestbrook]]
+###### Age:
+28 years old
+
+###### Origin:
+[[Crestbrook]]
+
+
 ___ 
 ## References:
 - [[Character Sheet]]
