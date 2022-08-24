@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasTimeline",
+      "FasNoteSticky",
+      "FasDice",
       "FasMapLocationDot",
-      "FasWandMagicSparkles",
-      "FasUsers",
-      "FasLocationPin",
-      "FasCalendarDay"
+      "FasWandMagicSparkles"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -21,7 +21,10 @@
     }
   },
   "Red Hand of Doom/Compendium": "RiBookFill",
-  "Red Hand of Doom/Compendium/Locations": "FasMapLocationDot",
+  "Red Hand of Doom/Compendium/Locations": {
+    "iconName": "FasMapLocationDot",
+    "inheritanceIcon": "FasMapLocationDot"
+  },
   "Red Hand of Doom/Compendium/Events": "FasCalendarDay",
   "Red Hand of Doom/Compendium/Characters": "FasUser",
   "Red Hand of Doom/Compendium/Deities": "FasBookBible",
@@ -30,5 +33,8 @@
   "Red Hand of Doom/Compendium/Locations/Elsir Vale": {
     "iconName": null,
     "inheritanceIcon": "FasMapLocationDot"
-  }
+  },
+  "Red Hand of Doom/Session Notes/Rolls": "FasDice",
+  "Red Hand of Doom/Session Notes": "FasNoteSticky",
+  "Red Hand of Doom/Timeline": "FasTimeline"
 }
