@@ -13,7 +13,25 @@
               "leaf": "8897794abcdfbffa",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline Entries/1491-10-00 Start Campaign 1.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8897794abcdfbffa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline Entries/1491-10-00 Start Campaign.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":24},\"to\":{\"line\":6,\"ch\":24}}}"
+            },
+            {
+              "leaf": "8897794abcdfbffa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline Entries/1491-10-00 Harvesting Kobolds.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":24},\"to\":{\"line\":6,\"ch\":24}}}"
+            },
+            {
+              "leaf": "8897794abcdfbffa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline Entries/1491-10-00 Start Campaign 1.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":24},\"to\":{\"line\":6,\"ch\":14}}}"
             },
             {
               "leaf": "8897794abcdfbffa",
@@ -109,24 +127,6 @@
               "leaf": "8897794abcdfbffa",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Alton.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8897794abcdfbffa",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Aelar.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8897794abcdfbffa",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8897794abcdfbffa",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Family/Chaedi Lia Crest.md\",\"mode\":\"preview\",\"source\":false}}",
               "eState": "{}"
             }
           ]
@@ -295,15 +295,15 @@
   },
   "active": "a675e60e8360408f",
   "lastOpenFiles": [
-    "Red Hand of Doom/Timeline Entries/Untitled.md",
-    "Red Hand of Doom/Timeline.md",
     "Red Hand of Doom/Timeline Entries/1491-10-00 Start Campaign.md",
     "Red Hand of Doom/Timeline Entries/1491-10-00 Harvesting Kobolds.md",
+    "Red Hand of Doom/Timeline Entries/1491-10-00 Start Campaign 1.md",
+    "Red Hand of Doom/Timeline Entries/Untitled.md",
+    "Red Hand of Doom/Timeline.md",
     "Templates/Timeline.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Red Hand of Doom/Compendium/Characters/Keth.md",
     "Red Hand of Doom/Compendium/Characters/Bikam.md",
-    "Red Hand of Doom/Compendium/Characters/Alton.md",
-    "Red Hand of Doom/Compendium/Characters/Aelar.md"
+    "Red Hand of Doom/Compendium/Characters/Alton.md"
   ]
 }

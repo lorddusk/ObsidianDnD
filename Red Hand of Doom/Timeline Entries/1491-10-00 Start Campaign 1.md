@@ -4,8 +4,8 @@ tags: [timeline, campaign]
  
 <span 
 	  class='ob-timelines' 
-	  data-date='14-10-00-00' 
-	  data-title='Start Campaign [Red Hand of Doom]' 
+	  data-date='1463-07-20' 
+	  data-title='Date of Birth: Booker Crest' 
 	  data-era='DR'
-	  data-class='orange'>
+	  data-class='blue'>
 </span>

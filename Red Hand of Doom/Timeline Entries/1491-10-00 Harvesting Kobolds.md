@@ -4,7 +4,7 @@ tags: [timeline, campaign]
  
 <span 
 	  class='ob-timelines' 
-	  data-date='1491-10-00-00' 
+	  data-date='1491-10-00' 
 	  data-title='Harvesting Kobolds' 
 	  data-era='DR'
 	  data-class='orange'> 	  
