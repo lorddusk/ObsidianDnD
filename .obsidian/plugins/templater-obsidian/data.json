@@ -37,6 +37,10 @@
     {
       "folder": "Red Hand of Doom/Session Notes/Rolls",
       "template": "Templates/Rolls.md"
+    },
+    {
+      "folder": "Red Hand of Doom/Compendium/Deities",
+      "template": "Templates/Deities.md"
     }
   ],
   "syntax_highlighting": true,
