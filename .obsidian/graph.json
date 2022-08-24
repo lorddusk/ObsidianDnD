@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "(-path: \"Timeline Entries\") (-path: \"House Rules\") (-path: \"Templates\") (-path: \"Rolls\") (file: -index) (file: -Tags) (file: -Background)(file: -\"Character Sheet\")(file: -\"Timeline\")(file: -\"Worldmpa\")",
+  "collapse-filter": true,
+  "search": "(-path: \"Timeline Entries\") (-path: \"House Rules\") (-path: \"Templates\") (-path: \"Rolls\") (file: -index) (file: -Tags) (file: -Background)(file: -\"Character Sheet\")(file: -\"Timeline\")(file: -\"Worldmap\")",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -71,9 +71,9 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.6,
+  "textFadeMultiplier": -0.5,
   "nodeSizeMultiplier": 1.49677483974359,
   "lineSizeMultiplier": 1.00842696629213,
   "collapse-forces": true,
@@ -81,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5218052642714702,
+  "scale": 0.5218052642714714,
   "close": false
 }
