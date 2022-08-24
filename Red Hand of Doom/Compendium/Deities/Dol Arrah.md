@@ -8,7 +8,7 @@ domains: [Light, Twilight, War]
 # Dol Arrah 
 
 ###### Symbol:
-![[Pasted image 20220824094041.png]]
+![[DolArrah.png]]
 
 ```ad-ooc
 collapse:closed
