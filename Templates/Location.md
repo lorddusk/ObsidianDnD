@@ -10,6 +10,11 @@ tags: Location
 	} 
 %>
 # <%* tR += `${title}` %> 
+
+```ad-ooc
+collapse:closed
+```
+
 ___ 
 ## References: - 
 --- 

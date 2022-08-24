@@ -10,6 +10,11 @@ tags: Party
 	} 
 %>
 # <%* tR += `${title}` %> 
+
+```ad-ooc
+collapse:closed
+```
+
 ___ 
 ## References: - 
 --- 
