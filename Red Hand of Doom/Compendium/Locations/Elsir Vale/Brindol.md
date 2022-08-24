@@ -16,5 +16,3 @@ tags: Location
 - 2% Half-Orc
 - 2% Gnome
 - 1% Elf
-
-creation date:: [[2022-07-23]] 21:30

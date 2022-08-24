@@ -20,5 +20,3 @@ scale: 1
 darkMode: false
 ```
 - Stretches 250 miles by 70 miles
-
-creation date:: [[2022-07-25]] 22:35

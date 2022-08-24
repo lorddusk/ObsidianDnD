@@ -13,5 +13,3 @@ Known for their apple orchards and sheep herders.
 ### Population
 - 35% Halfling
 - 65% Human
-
-creation date:: [[2022-07-23]] 21:30

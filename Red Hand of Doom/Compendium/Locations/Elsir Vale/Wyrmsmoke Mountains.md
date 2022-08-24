@@ -6,5 +6,3 @@ tags: Location
 
 # Wyrmsmoke Mountains 
 - Houses multiple Goblinoid Tribes
-
-creation date:: [[2022-07-25]] 23:25
