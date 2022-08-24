@@ -41,6 +41,10 @@
     {
       "folder": "Red Hand of Doom/Compendium/Deities",
       "template": "Templates/Deities.md"
+    },
+    {
+      "folder": "Red Hand of Doom/Compendium/Groups",
+      "template": "Templates/Group.md"
     }
   ],
   "syntax_highlighting": true,
