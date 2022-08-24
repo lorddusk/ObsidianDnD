@@ -1,7 +1,7 @@
 ---
 type: npc
 name: Albanus Crest
-location: Crestbrook?
+location: [[Crestbrook]]
 desc: Brother
 tags: NPC, Family
 ---
