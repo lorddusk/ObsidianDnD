@@ -12,8 +12,8 @@
             {
               "leaf": "8897794abcdfbffa",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Character Sheet.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Character Sheet.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "8897794abcdfbffa",
@@ -24,7 +24,7 @@
             {
               "leaf": "8897794abcdfbffa",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline/Harvesting Kobolds.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline Entries/1491-10-00 Harvesting Kobolds.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
@@ -33,7 +33,7 @@
           "type": "markdown",
           "state": {
             "file": "Characters/Booker/Character Sheet.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -92,8 +92,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,10 +191,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8897794abcdfbffa",
+  "active": "a675e60e8360408f",
   "lastOpenFiles": [
     "Templates/Timeline.md",
-    "Red Hand of Doom/Timeline/Harvesting Kobolds.md",
+    "Red Hand of Doom/Timeline Entries/1491-10-00 Harvesting Kobolds.md",
     "2022-08-13.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
     "Compendium Index.md",

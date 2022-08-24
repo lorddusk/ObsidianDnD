@@ -36,7 +36,6 @@
   },
   "Red Hand of Doom/Session Notes/Rolls": "FasDice",
   "Red Hand of Doom/Session Notes": "FasNoteSticky",
-  "Red Hand of Doom/Timeline": "FasTimeline",
   "Red Hand of Doom/Compendium/Characters/Index.md": "FasList",
   "Red Hand of Doom/Compendium/Deities/Index.md": "FasList",
   "Red Hand of Doom/Compendium/Events/Index.md": "FasList",
@@ -47,5 +46,6 @@
   "Red Hand of Doom/Timeline.md": "FasTimeline",
   "Red Hand of Doom/House Rules.md": "FasRuler",
   "Tags.md": "FasTags",
-  "Compendium Index.md": "FasList"
+  "Compendium Index.md": "FasList",
+  "Red Hand of Doom/Timeline Entries": "FasTimeline"
 }
