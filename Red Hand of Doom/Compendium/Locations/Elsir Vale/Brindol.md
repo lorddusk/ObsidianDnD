@@ -17,7 +17,4 @@ tags: Location
 - 2% Gnome
 - 1% Elf
 
-___ 
-## References: - 
---- 
 creation date:: [[2022-07-23]] 21:30
