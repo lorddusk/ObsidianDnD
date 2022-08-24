@@ -12,8 +12,14 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Groups/Index.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Index.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -90,8 +96,12 @@
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Red Hand of Doom/Compendium/Groups/Index.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -172,6 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Red Hand of Doom/Compendium/Groups/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +217,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Red Hand of Doom/Compendium/Groups/Index.md"
+              }
             }
           },
           {
@@ -231,6 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Red Hand of Doom/Compendium/Groups/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -256,8 +270,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "841bf2def27d6860",
+  "active": "a675e60e8360408f",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/NPCs/Index.md",
     "Red Hand of Doom/Compendium/Locations/Crestbrook.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/The Witchwood.md",
@@ -266,7 +281,6 @@
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Rhest.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Wyrmsmoke Mountains.md",
-    "Red Hand of Doom/Compendium/Characters/Index.md"
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Wyrmsmoke Mountains.md"
   ]
 }
