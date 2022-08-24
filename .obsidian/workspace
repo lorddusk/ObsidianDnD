@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "Red Hand of Doom/Timeline.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Timeline/Harvesting Kobolds.md",
+                "file": "Red Hand of Doom/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Timeline/Harvesting Kobolds.md"
+                "file": "Red Hand of Doom/Timeline.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Timeline/Harvesting Kobolds.md",
+                "file": "Red Hand of Doom/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,8 +148,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a03f92b78731048",
+  "active": "92ee7954133bf823",
   "lastOpenFiles": [
+    "Red Hand of Doom/Timeline/Harvesting Kobolds.md",
     "Red Hand of Doom/Timeline.md",
     "House Rules/Rule of Cool.md",
     "Red Hand of Doom/House Rules.md",
@@ -158,7 +159,6 @@
     "Resources/Character Sheets/Flattened/Booker Crest Lvl 1 Obsidian.pdf",
     "Red Hand of Doom/Compendium/Deities/Dol Arrah.md",
     "Compendium Index.md",
-    "Red Hand of Doom/Compendium/Deities/- Index.md",
-    "Red Hand of Doom/Compendium/Characters/- Index.md"
+    "Red Hand of Doom/Compendium/Deities/- Index.md"
   ]
 }

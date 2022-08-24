@@ -1,8 +1,7 @@
 ---
-tags: timeline
+tags: [timeline, campaign]
 ---
  
-
 <span 
 	  class='ob-timelines' 
 	  data-date='2000-10-10-00' 
