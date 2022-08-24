@@ -12,8 +12,14 @@
             {
               "leaf": "8897794abcdfbffa",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline Entries/1491-10-00 Harvesting Kobolds.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8897794abcdfbffa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline Entries/1491-10-00 Harvesting Kobolds.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":7},\"to\":{\"line\":10,\"ch\":7}}}"
             },
             {
               "leaf": "8897794abcdfbffa",
@@ -44,7 +50,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Timeline Entries/1491-10-00 Harvesting Kobolds.md",
+            "file": "Red Hand of Doom/Timeline.md",
             "mode": "source",
             "source": false
           }
@@ -128,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Timeline Entries/1491-10-00 Harvesting Kobolds.md",
+                "file": "Red Hand of Doom/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Timeline Entries/1491-10-00 Harvesting Kobolds.md"
+                "file": "Red Hand of Doom/Timeline.md"
               }
             }
           },
@@ -190,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Timeline Entries/1491-10-00 Harvesting Kobolds.md",
+                "file": "Red Hand of Doom/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,10 +211,10 @@
   },
   "active": "8897794abcdfbffa",
   "lastOpenFiles": [
+    "Red Hand of Doom/Timeline Entries/1491-10-00 Harvesting Kobolds.md",
     "Red Hand of Doom/Timeline.md",
     "Characters/Booker/Character Sheet.md",
     "Templates/Timeline.md",
-    "Red Hand of Doom/Timeline Entries/1491-10-00 Harvesting Kobolds.md",
     "2022-08-13.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
     "Compendium Index.md",
