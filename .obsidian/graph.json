@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 11621088
       }
+    },
+    {
+      "query": "tag:#Deity",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": false,
@@ -75,5 +82,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.5218052642714691,
-  "close": true
+  "close": false
 }
