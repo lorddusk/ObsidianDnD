@@ -17,4 +17,4 @@ tags: [timeline, campaign]
 	  data-type='range' 
 	  data-end='2000-10-20-00'> 
 	INSERT TIMELINE TEXT HERE
-'<%* tR += `</span>` %>'
+</<%* `span` %>>

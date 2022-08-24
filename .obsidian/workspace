@@ -18,6 +18,30 @@
             {
               "leaf": "8897794abcdfbffa",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Timeline.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":16},\"to\":{\"line\":19,\"ch\":16}}}"
+            },
+            {
+              "leaf": "8897794abcdfbffa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8897794abcdfbffa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Timeline.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":23},\"to\":{\"line\":19,\"ch\":23}}}"
+            },
+            {
+              "leaf": "8897794abcdfbffa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8897794abcdfbffa",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Booker.md\",\"mode\":\"preview\",\"source\":false}}",
               "eState": "{}"
             },
@@ -104,30 +128,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Jeralla.md\",\"mode\":\"preview\",\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "8897794abcdfbffa",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8897794abcdfbffa",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline Entries/1491-10-00 Harvesting Kobolds.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":16},\"to\":{\"line\":8,\"ch\":16}}}"
-            },
-            {
-              "leaf": "8897794abcdfbffa",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8897794abcdfbffa",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline Entries/1491-10-00 Harvesting Kobolds.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":7},\"to\":{\"line\":10,\"ch\":7}}}"
             }
           ]
         },
@@ -295,6 +295,8 @@
   },
   "active": "8897794abcdfbffa",
   "lastOpenFiles": [
+    "Templates/Timeline.md",
+    "Red Hand of Doom/Timeline.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Red Hand of Doom/Compendium/Characters/Keth.md",
     "Red Hand of Doom/Compendium/Characters/Bikam.md",
@@ -302,8 +304,6 @@
     "Red Hand of Doom/Compendium/Characters/Aelar.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Chaedi Lia Crest.md",
-    "Red Hand of Doom/Compendium/NPCs/Family/Ramose Crest.md",
-    "Red Hand of Doom/Compendium/NPCs/Family/Titlayo Crest.md",
-    "Red Hand of Doom/Compendium/NPCs/Brother Keith.md"
+    "Red Hand of Doom/Compendium/NPCs/Family/Ramose Crest.md"
   ]
 }
