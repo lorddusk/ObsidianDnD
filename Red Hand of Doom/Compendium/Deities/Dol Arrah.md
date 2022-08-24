@@ -1,7 +1,7 @@
 ---
 type: deity
 tags: Deity
-name: Dol 
+name: Dol Arrah
 pantheon: Eberron
 domains: [Light, Twilight, War]
 ---

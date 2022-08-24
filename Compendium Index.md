@@ -41,3 +41,10 @@ list from "Red Hand of Doom/Compendium"
 where type="event"
 sort file.name asc
 ```
+
+## Deities
+```dataview
+list from "Red Hand of Doom/Compendium"
+where type="deity"
+sort file.name asc
+```
