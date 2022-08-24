@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd18738cf77affab",
+        "id": "8a03f92b78731048",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Characters/Alton.md",
+            "file": "Red Hand of Doom/Compendium/Characters/Keth.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "012608c1bd5d2f39"
-      },
-      {
-        "id": "4cef1e93ca8608ae",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Red Hand of Doom/Compendium/Characters/Alton.md",
-            "mode": "preview",
-            "source": false
-          }
-        },
-        "group": "012608c1bd5d2f39"
+        }
       }
     ],
     "direction": "vertical"
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Alton.md",
+                "file": "Red Hand of Doom/Compendium/Characters/Keth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Alton.md"
+                "file": "Red Hand of Doom/Compendium/Characters/Keth.md"
               }
             }
           },
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Alton.md",
+                "file": "Red Hand of Doom/Compendium/Characters/Keth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cd18738cf77affab",
+  "active": "8a03f92b78731048",
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium/Characters/Aelar.md",
+    "Red Hand of Doom/Compendium/NPCs/Clerics of Kelemvor.md",
+    "Red Hand of Doom/Compendium/Characters/Keth.md",
     "Red Hand of Doom/Compendium/NPCs/Brother Keith.md",
-    "Red Hand of Doom/Compendium/NPCs/The Benefactor.md",
-    "Red Hand of Doom/Compendium/NPCs/Jeralla.md",
-    "Characters/Booker/Character Sheet.md",
+    "Red Hand of Doom/House Rules.md",
     "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
     "Red Hand of Doom/Session Notes/Session 0 - 23 July 2022.md",
-    "Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022.md",
-    "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
-    "Red Hand of Doom/Compendium/Characters/Bikam.md"
+    "Red Hand of Doom/Compendium/Characters/Bikam.md",
+    "Red Hand of Doom/Session Notes/Session xx - 23 August 2022.md",
+    "Red Hand of Doom/Compendium/NPCs/Family/Ramose Crest.md",
+    "Red Hand of Doom/Compendium/NPCs/Family/Eric Farrsight.md"
   ]
 }

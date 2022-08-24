@@ -13,6 +13,11 @@ tags: NPC
 	} 
 %>
 # <%* tR += `${title}` %> 
+
+```ad-ooc
+collapse:closed
+```
+
 ___ 
 ## References: - 
 --- 
