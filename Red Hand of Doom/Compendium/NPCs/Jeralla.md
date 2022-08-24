@@ -2,7 +2,7 @@
 type: npc
 name: unknown
 location: unknown
-desc: tbd
+desc: 
 tags: NPC
 ---
 

@@ -1,8 +1,8 @@
 ---
 type: npc
-name: unknown
+name: Clerics of Kelemvor
 location: unknown
-desc: tbd
+desc:
 tags: NPC
 ---
 

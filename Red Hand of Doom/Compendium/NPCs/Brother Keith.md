@@ -1,8 +1,8 @@
 ---
 type: npc
-name: unknown
-location: unknown
-desc: tbd
+name: Keith
+location: Nimon Gap
+desc: Priest
 tags: NPC
 ---
 

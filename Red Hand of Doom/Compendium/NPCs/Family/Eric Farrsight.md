@@ -1,7 +1,7 @@
 ---
 type: npc
 name: Eric Farrsight
-location: Crestbrook?
+location: Crestbrook
 desc: Halfbrother
 tags: NPC, Family
 ---

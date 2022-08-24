@@ -1,8 +1,8 @@
 ---
 type: npc
-name: unknown
+name: Kobob
 location: unknown
-desc: tbd
+desc: Mark under wing
 tags: NPC
 ---
 
