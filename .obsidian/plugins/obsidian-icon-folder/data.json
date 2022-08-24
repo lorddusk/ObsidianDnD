@@ -5,6 +5,7 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarUser",
       "RiCalendarEventLine",
       "IbPin",
       "RiBookFill"
@@ -20,5 +21,6 @@
   },
   "Red Hand of Doom/Compendium": "RiBookFill",
   "Red Hand of Doom/Compendium/Locations": "IbPin",
-  "Red Hand of Doom/Compendium/Events": "RiCalendarEventLine"
+  "Red Hand of Doom/Compendium/Events": "RiCalendarEventLine",
+  "Red Hand of Doom/Compendium/Characters": "FarUser"
 }
