@@ -4,7 +4,9 @@
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "RiBookFill"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraPadding": {
@@ -13,5 +15,6 @@
       "bottom": 2,
       "left": 2
     }
-  }
+  },
+  "Red Hand of Doom/Compendium": "RiBookFill"
 }
