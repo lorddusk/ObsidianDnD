@@ -1,21 +1,20 @@
 ---
-type: character
-tags: Party
+tags: timeline
 ---
 <%* 
 	let title = tp.file.title 
 	if (title.startsWith("Untitled")) { 
-		title = await tp.system.prompt("Character Name?"); 
+		title = await tp.system.prompt("Timeline title?"); 
 		await tp.file.rename(`${title}`); 
 	} 
-%>
-# <%* tR += `${title}` %> 
+%> 
 
-```ad-ooc
-collapse:closed
-```
-
-___ 
-## References: - 
---- 
-creation date:: [[<%tp.file.creation_date("YYYY-MM-DD")%>]] <%tp.file.creation_date("HH:mm")%>
+<span 
+	  class='ob-timelines' 
+	  data-date='2000-10-10-00' 
+	  data-title='# <%* tR += `${title}` %>' 
+	  data-class='orange' 
+	  data-type='range' 
+	  data-end='2000-10-20-00'> 
+	INSERT TIMELINE TEXT HERE
+</span>
