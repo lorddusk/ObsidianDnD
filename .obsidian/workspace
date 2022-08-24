@@ -141,14 +141,14 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "8a03f92b78731048",
+  "active": "c7d7ccbed6f94a3b",
   "lastOpenFiles": [
     "Red Hand of Doom/Timeline.md",
     "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
