@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:Booker",
@@ -78,16 +78,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.5,
-  "nodeSizeMultiplier": 0.95119841718485,
+  "nodeSizeMultiplier": 0.986653476540418,
   "lineSizeMultiplier": 1.50075183719616,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0,
+  "repelStrength": 10.4300213675214,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.5218052642714717,
+  "linkDistance": 30,
+  "scale": 0.3721908912720601,
   "close": false
 }
