@@ -20,5 +20,6 @@
     "en-GB"
   ],
   "showLineNumber": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "fileSortOrder": "byModifiedTime"
 }
