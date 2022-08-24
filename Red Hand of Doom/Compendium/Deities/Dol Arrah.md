@@ -9,7 +9,7 @@ domains: [Light, Twilight, War]
 # Dol Arrah 
 
 ###### Symbol:
-![[DolArrah.png]]
+A Rising Sun
 
 ```ad-ooc
 collapse:closed
