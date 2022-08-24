@@ -12,8 +12,8 @@
             {
               "leaf": "8897794abcdfbffa",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline Entries/1481 DR/Meeting with The Benefactor.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline Entries/1481 DR/Met with The Benefactor.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":7},\"to\":{\"line\":9,\"ch\":7}}}"
             },
             {
               "leaf": "8897794abcdfbffa",
@@ -134,7 +134,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Timeline Entries/1481 DR/Meeting with The Benefactor.md",
+            "file": "Red Hand of Doom/Timeline Entries/1481 DR/Met with The Benefactor.md",
             "mode": "source",
             "source": false
           }
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Timeline Entries/1481 DR/Meeting with The Benefactor.md",
+                "file": "Red Hand of Doom/Timeline Entries/1481 DR/Met with The Benefactor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Timeline Entries/1481 DR/Meeting with The Benefactor.md"
+                "file": "Red Hand of Doom/Timeline Entries/1481 DR/Met with The Benefactor.md"
               }
             }
           },
@@ -333,7 +333,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Timeline Entries/1481 DR/Meeting with The Benefactor.md",
+                "file": "Red Hand of Doom/Timeline Entries/1481 DR/Met with The Benefactor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +346,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a675e60e8360408f",
+  "active": "8897794abcdfbffa",
   "lastOpenFiles": [
     "Red Hand of Doom/Timeline Entries/Untitled.md",
     "Characters/Booker/Background.md",

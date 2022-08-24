@@ -4,7 +4,8 @@ tags: [timeline, campaign]
  
 <span 
 	  class='ob-timelines' 
-	  data-date='1463-07-20' 
-	  data-title='Date of Birth: Booker Crest' 
+	  data-date='1481-03-20' 
+	  data-title='Met with The Benefactor' 
 	  data-era='DR'>
+	  Near death experience, got impaled by a boar, and met [[The be
 </span>
