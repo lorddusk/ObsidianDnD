@@ -19,5 +19,6 @@
     "nl",
     "en-GB"
   ],
-  "showLineNumber": true
+  "showLineNumber": true,
+  "readableLineLength": false
 }
