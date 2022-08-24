@@ -1,7 +1,7 @@
 ---
 type: npc
 name: Clerics of Kelemvor
-location: unknown
+location: 
 desc:
 tags: NPC
 ---

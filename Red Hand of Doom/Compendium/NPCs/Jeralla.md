@@ -1,7 +1,7 @@
 ---
 type: npc
 name: unknown
-location: unknown
+location: 
 desc: 
 tags: NPC
 ---

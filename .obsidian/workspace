@@ -12,6 +12,30 @@
             {
               "leaf": "8897794abcdfbffa",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Jeralla.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8897794abcdfbffa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Family/Titlayo Crest.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8897794abcdfbffa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Brother Keith.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8897794abcdfbffa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Clerics of Kelemvor.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":10},\"to\":{\"line\":3,\"ch\":10}}}"
+            },
+            {
+              "leaf": "8897794abcdfbffa",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Index.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
@@ -104,38 +128,14 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Jeralla.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":6},\"to\":{\"line\":4,\"ch\":6}}}"
-            },
-            {
-              "leaf": "8897794abcdfbffa",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Kobob.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":21},\"to\":{\"line\":4,\"ch\":21}}}"
-            },
-            {
-              "leaf": "8897794abcdfbffa",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/The Benefactor.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":20},\"to\":{\"line\":2,\"ch\":20}}}"
-            },
-            {
-              "leaf": "8897794abcdfbffa",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/The Inventor.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":9},\"to\":{\"line\":5,\"ch\":9}}}"
-            },
-            {
-              "leaf": "8897794abcdfbffa",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/The Benefactor.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/NPCs/Index.md",
-            "mode": "preview",
+            "file": "Red Hand of Doom/Compendium/NPCs/Jeralla.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/Index.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/Jeralla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/Index.md"
+                "file": "Red Hand of Doom/Compendium/NPCs/Jeralla.md"
               }
             }
           },
@@ -280,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/Index.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/Jeralla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,15 +295,15 @@
   },
   "active": "8897794abcdfbffa",
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium/NPCs/The Inventor.md",
+    "Red Hand of Doom/Compendium/NPCs/Family/Titlayo Crest.md",
+    "Red Hand of Doom/Compendium/NPCs/Brother Keith.md",
+    "Red Hand of Doom/Compendium/NPCs/Clerics of Kelemvor.md",
     "Red Hand of Doom/Compendium/NPCs/Index.md",
+    "Red Hand of Doom/Compendium/NPCs/The Inventor.md",
     "Red Hand of Doom/Compendium/Locations/Index.md",
     "Red Hand of Doom/Compendium/Characters/Index.md",
     "Compendium Index.md",
-    "Red Hand of Doom/Compendium/NPCs/Family/Titlayo Crest.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Ramose Crest.md",
-    "Red Hand of Doom/Compendium/NPCs/Family/Eric Farrsight.md",
-    "Red Hand of Doom/Compendium/NPCs/Family/Chaedi Lia Crest.md",
-    "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md"
+    "Red Hand of Doom/Compendium/NPCs/Family/Eric Farrsight.md"
   ]
 }
