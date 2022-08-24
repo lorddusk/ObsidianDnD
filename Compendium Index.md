@@ -28,6 +28,13 @@ where type="npc"
 sort file.name asc
 ```
 
+## Groups
+```dataview
+list from "Red Hand of Doom/Compendium"
+where type="group"
+sort file.name asc
+```
+
 ## Items
 ```dataview
 list from "Red Hand of Doom/Compendium"

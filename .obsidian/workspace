@@ -12,6 +12,18 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Groups/Index.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Compendium Index.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.496551724137931}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Groups/Clerics of Kelemvor.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
             },
@@ -122,8 +134,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Groups/Clerics of Kelemvor.md",
-            "mode": "source",
+            "file": "Red Hand of Doom/Compendium/Groups/Index.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Groups/Clerics of Kelemvor.md",
+                "file": "Red Hand of Doom/Compendium/Groups/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Groups/Clerics of Kelemvor.md"
+                "file": "Red Hand of Doom/Compendium/Groups/Index.md"
               }
             }
           },
@@ -268,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Groups/Clerics of Kelemvor.md",
+                "file": "Red Hand of Doom/Compendium/Groups/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -296,9 +308,9 @@
   },
   "active": "841bf2def27d6860",
   "lastOpenFiles": [
+    "Compendium Index.md",
+    "Red Hand of Doom/Compendium/Groups/Clerics of Kelemvor.md",
     "Red Hand of Doom/Compendium/Groups/Index.md",
-    "Red Hand of Doom/Compendium/Groups/Clerics of Kelemvor.md",
-    "Red Hand of Doom/Compendium/Groups/Clerics of Kelemvor.md",
     "Red Hand of Doom/Compendium/NPCs/Index.md",
     "Red Hand of Doom/Compendium/Locations/Crestbrook.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md",
