@@ -1,5 +1,5 @@
 ---
-tags: timeline
+tags: [timeline, campaign]
 ---
 <%* 
 	let title = tp.file.title 
