@@ -1,6 +1,6 @@
 ---
 type: npc
-name: unknown
+name: Jeralla
 location: 
 desc: 
 tags: NPC

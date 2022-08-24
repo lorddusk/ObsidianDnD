@@ -1,7 +1,7 @@
 ---
 type: npc
 name: The Benefactor
-location: unknown
+location: 
 desc: My Patron
 tags: NPC
 ---
