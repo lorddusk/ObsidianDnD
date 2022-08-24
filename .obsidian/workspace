@@ -12,6 +12,18 @@
             {
               "leaf": "8897794abcdfbffa",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8897794abcdfbffa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline Entries/1479 DR/Left Crestbrook.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":7},\"to\":{\"line\":10,\"ch\":7}}}"
+            },
+            {
+              "leaf": "8897794abcdfbffa",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
@@ -116,18 +128,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline Entries/1463 DR/07-20 Date of Birth Booker Crest.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "8897794abcdfbffa",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline Entries/1491-10-00  - Higharvesttide - Start Campaign.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":24},\"to\":{\"line\":6,\"ch\":24}}}"
-            },
-            {
-              "leaf": "8897794abcdfbffa",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline Entries/1491 DR/Higharvesttide - Harvesting Kobolds.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":24},\"to\":{\"line\":6,\"ch\":24}}}"
             }
           ]
         },
@@ -135,60 +135,7 @@
           "type": "markdown",
           "state": {
             "file": "Red Hand of Doom/Timeline.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "b0598ed0c0118f37",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "b0598ed0c0118f37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline Entries/1491 DR/Higharvesttide - Harvesting Kobolds.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":7},\"to\":{\"line\":18,\"ch\":7}}}"
-            },
-            {
-              "leaf": "b0598ed0c0118f37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b0598ed0c0118f37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline Entries/1463-07-20 Date of Birth Booker Crest.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "b0598ed0c0118f37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b0598ed0c0118f37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/House Rules.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "b0598ed0c0118f37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Red Hand of Doom/Timeline Entries/1491 DR/Higharvesttide - Harvesting Kobolds.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -350,13 +297,13 @@
   "lastOpenFiles": [
     "Red Hand of Doom/Timeline Entries/1491 DR/Higharvesttide - Harvesting Kobolds.md",
     "Red Hand of Doom/Timeline.md",
+    "Red Hand of Doom/Timeline Entries/1479 DR/Left Crestbrook.md",
     "Characters/Booker/Character Sheet.md",
     "Characters/Booker/Background.md",
     "Red Hand of Doom/Timeline Entries/1481 DR/Met with The Benefactor.md",
     "Red Hand of Doom/Timeline Entries/Untitled.md",
     "Red Hand of Doom/Timeline Entries/1463 DR/07-20 Date of Birth Booker Crest.md",
     "Untitled.md",
-    "Red Hand of Doom/Timeline Entries/1463-07-20 Date of Birth Booker Crest.md",
-    "Red Hand of Doom/House Rules.md"
+    "Red Hand of Doom/Timeline Entries/1463-07-20 Date of Birth Booker Crest.md"
   ]
 }
