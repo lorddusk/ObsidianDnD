@@ -12,6 +12,12 @@
             {
               "leaf": "8a03f92b78731048",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Index.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8a03f92b78731048",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Booker.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
@@ -78,7 +84,7 @@
             {
               "leaf": "8a03f92b78731048",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/- Index.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Index.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
@@ -92,7 +98,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Characters/Booker.md",
+            "file": "Red Hand of Doom/Compendium/NPCs/Index.md",
             "mode": "preview",
             "source": true
           }
@@ -124,6 +130,10 @@
           {
             "id": "cf55e326298d89e2",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "search",
               "state": {
@@ -139,6 +149,10 @@
           {
             "id": "695bebb0d8c86231",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "starred",
               "state": {}
@@ -161,10 +175,14 @@
           {
             "id": "8446899718c9cc2c",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Booker.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +196,10 @@
           {
             "id": "5ef1f854eb311f57",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -189,16 +211,24 @@
           {
             "id": "5a1eb1cffe94f75a",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Booker.md"
+                "file": "Red Hand of Doom/Compendium/NPCs/Index.md"
               }
             }
           },
           {
             "id": "c7d7ccbed6f94a3b",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "FANTASY_CALENDAR",
               "state": {}
@@ -207,10 +237,14 @@
           {
             "id": "f76d6a9f4cd2dbc2",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Booker.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,6 +253,10 @@
           {
             "id": "3919f3fa9cdfc810",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
@@ -233,12 +271,12 @@
   },
   "active": "a675e60e8360408f",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Red Hand of Doom/Compendium/Characters/Keth.md",
     "Red Hand of Doom/Compendium/Characters/Alton.md",
     "Red Hand of Doom/Compendium/Characters/Aelar.md",
-    "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Red Hand of Doom/Compendium/Characters/Bikam.md",
-    "Red Hand of Doom/Compendium/Characters/- Index.md",
+    "Red Hand of Doom/Compendium/Characters/Index.md",
     "Characters/Booker/Background.md",
     "Characters/Booker/Character Sheet.md",
     "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",

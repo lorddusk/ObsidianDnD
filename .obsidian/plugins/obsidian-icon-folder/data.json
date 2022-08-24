@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasList",
       "FasTimeline",
       "FasNoteSticky",
       "FasDice",
-      "FasMapLocationDot",
-      "FasWandMagicSparkles"
+      "FasMapLocationDot"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +36,11 @@
   },
   "Red Hand of Doom/Session Notes/Rolls": "FasDice",
   "Red Hand of Doom/Session Notes": "FasNoteSticky",
-  "Red Hand of Doom/Timeline": "FasTimeline"
+  "Red Hand of Doom/Timeline": "FasTimeline",
+  "Red Hand of Doom/Compendium/Characters/Index.md": "FasList",
+  "Red Hand of Doom/Compendium/Deities/Index.md": "FasList",
+  "Red Hand of Doom/Compendium/Events/Index.md": "FasList",
+  "Red Hand of Doom/Compendium/Items/Index.md": "FasList",
+  "Red Hand of Doom/Compendium/Locations/Index.md": "FasList",
+  "Red Hand of Doom/Compendium/NPCs/Index.md": "FasList"
 }
