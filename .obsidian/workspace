@@ -14,18 +14,6 @@
             "source": true
           }
         }
-      },
-      {
-        "id": "92ee7954133bf823",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -151,8 +139,8 @@
   "active": "8a03f92b78731048",
   "lastOpenFiles": [
     "Red Hand of Doom/Timeline.md",
-    "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
     "Red Hand of Doom/Timeline/Harvesting Kobolds.md",
+    "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
     "House Rules/Rule of Cool.md",
     "Red Hand of Doom/House Rules.md",
     "Characters/Booker/Background.md",
