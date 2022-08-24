@@ -17,8 +17,3 @@ tags: NPC
 ```ad-ooc
 collapse:closed
 ```
-
-___ 
-## References: - 
---- 
-creation date:: [[<%tp.file.creation_date("YYYY-MM-DD")%>]] <%tp.file.creation_date("HH:mm")%>
