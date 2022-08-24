@@ -10,7 +10,7 @@ tags: Party
 ---
 
 # Keth Bar'dag
-Wears a symbol of [[Dol Arrah]]
+Wears a symbol of [[Red Hand of Doom/Compendium/Deities/Index]]
 
 ```ad-ooc
 collapse:closed
