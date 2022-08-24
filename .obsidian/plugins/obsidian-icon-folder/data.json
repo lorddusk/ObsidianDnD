@@ -5,10 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FarUser",
-      "RiCalendarEventLine",
-      "IbPin",
-      "RiBookFill"
+      "FasLocationPin",
+      "FasCalendarDay",
+      "FasUser",
+      "FasBookBible",
+      "FarUser"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,7 +21,8 @@
     }
   },
   "Red Hand of Doom/Compendium": "RiBookFill",
-  "Red Hand of Doom/Compendium/Locations": "IbPin",
-  "Red Hand of Doom/Compendium/Events": "RiCalendarEventLine",
-  "Red Hand of Doom/Compendium/Characters": "FarUser"
+  "Red Hand of Doom/Compendium/Locations": "FasLocationPin",
+  "Red Hand of Doom/Compendium/Events": "FasCalendarDay",
+  "Red Hand of Doom/Compendium/Characters": "FasUser",
+  "Red Hand of Doom/Compendium/Deities": "FasBookBible"
 }
