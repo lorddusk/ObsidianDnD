@@ -1,9 +1,9 @@
 ---
-type: npc
+type: group
 name: Clerics of Kelemvor
 location: 
 desc:
-tags: NPC
+tags: Group
 ---
 
 # Clerics of Kelemvor 
