@@ -1,6 +1,7 @@
 ---
 type: deity
 tags: Deity
+name: Dol 
 pantheon: Eberron
 domains: [Light, Twilight, War]
 ---

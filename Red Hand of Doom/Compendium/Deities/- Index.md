@@ -1,6 +1,6 @@
 
 ```dataview
-TABLE WITHOUT ID player as Player, file.link as Name, surname as Surname, desc as Description, race as Race, class as Class from "Red Hand of Doom/Compendium/Characters"
-WHERE contains(type, "character")
+TABLE WITHOUT ID file.link as Deity, pantheon as Pantheon, domains as Domains from "Red Hand of Doom/Compendium/Deities"
+WHERE contains(type, "deity")
 SORT file.name asc
 ```
