@@ -7,8 +7,12 @@ domains: [Light, Twilight, War]
 
 # Dol Arrah 
 
+###### Symbol:
+![[Pasted image 20220824094041.png]]
+
 ```ad-ooc
 collapse:closed
+Dol Arrah is the sun that drives away the darkness. She stands for wisdom in war and for those who fight with honor, pursue justice, and make sacrifices for the greater good.
 ```
 
 ___ 

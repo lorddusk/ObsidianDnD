@@ -13,6 +13,9 @@ domains: [XX]
 %>
 # <%* tR += `${title}` %> 
 
+###### Symbol:
+
+
 ```ad-ooc
 collapse:closed
 ```
