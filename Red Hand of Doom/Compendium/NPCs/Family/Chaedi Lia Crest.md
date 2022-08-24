@@ -15,4 +15,3 @@ ___
 - Daughter of [[Ramose Crest]]
 - Daughter of [[Titlayo Crest]]
 --- 
-creation date:: [[2022-08-13]] 22:49

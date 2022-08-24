@@ -15,4 +15,3 @@ ___
 - Son of [[Ramose Crest]]
 - Son of [[Titlayo Crest]]
 --- 
-creation date:: [[2022-08-13]] 22:49

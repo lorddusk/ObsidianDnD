@@ -15,4 +15,3 @@ ___
 - Mother of [[Eric Farrsight]]
 - Wife of [[Ramose Crest]]
 --- 
-creation date:: [[2022-08-13]] 22:43
