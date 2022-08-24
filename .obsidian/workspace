@@ -11,7 +11,7 @@
           "state": {
             "file": "Red Hand of Doom/Timeline.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       },
@@ -148,7 +148,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a03f92b78731048",
+  "active": "92ee7954133bf823",
   "lastOpenFiles": [
     "Characters/Booker/Background.md",
     "Characters/Booker/Character Sheet.md",
