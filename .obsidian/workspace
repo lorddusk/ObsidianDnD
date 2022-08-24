@@ -12,8 +12,20 @@
             {
               "leaf": "8897794abcdfbffa",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline.md\",\"mode\":\"preview\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline Entries/1491-10-00 Start Campaign.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "8897794abcdfbffa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline Entries/1491-10-00 Harvesting Kobolds.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8897794abcdfbffa",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":3},\"to\":{\"line\":2,\"ch\":3}}}"
             },
             {
               "leaf": "8897794abcdfbffa",
@@ -116,26 +128,14 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/The Benefactor.md\",\"mode\":\"preview\",\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "8897794abcdfbffa",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Kobob.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8897794abcdfbffa",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Jeralla.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Timeline.md",
-            "mode": "preview",
+            "file": "Red Hand of Doom/Timeline Entries/1491-10-00 Start Campaign.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Timeline.md",
+                "file": "Red Hand of Doom/Timeline Entries/1491-10-00 Start Campaign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Timeline.md"
+                "file": "Red Hand of Doom/Timeline Entries/1491-10-00 Start Campaign.md"
               }
             }
           },
@@ -280,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Timeline.md",
+                "file": "Red Hand of Doom/Timeline Entries/1491-10-00 Start Campaign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,17 +293,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8897794abcdfbffa",
+  "active": "a675e60e8360408f",
   "lastOpenFiles": [
-    "Templates/Timeline.md",
+    "Red Hand of Doom/Timeline Entries/1491-10-00 Harvesting Kobolds.md",
     "Red Hand of Doom/Timeline.md",
+    "Templates/Timeline.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Red Hand of Doom/Compendium/Characters/Keth.md",
     "Red Hand of Doom/Compendium/Characters/Bikam.md",
     "Red Hand of Doom/Compendium/Characters/Alton.md",
     "Red Hand of Doom/Compendium/Characters/Aelar.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
-    "Red Hand of Doom/Compendium/NPCs/Family/Chaedi Lia Crest.md",
-    "Red Hand of Doom/Compendium/NPCs/Family/Ramose Crest.md"
+    "Red Hand of Doom/Compendium/NPCs/Family/Chaedi Lia Crest.md"
   ]
 }
