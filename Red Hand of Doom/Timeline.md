@@ -1,3 +1,3 @@
-```timeline
-test;now
-```
+<!--TIMELINE BEGIN-->
+
+<!--TIMELINE END-->
