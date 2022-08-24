@@ -6,10 +6,75 @@
       {
         "id": "8a03f92b78731048",
         "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "8a03f92b78731048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Aelar.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8a03f92b78731048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Keth.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8a03f92b78731048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Booker.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8a03f92b78731048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Keth.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8a03f92b78731048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Booker.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8a03f92b78731048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Bikam.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8a03f92b78731048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Alton.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8a03f92b78731048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Aelar.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8a03f92b78731048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/- Index.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8a03f92b78731048",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Background.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            }
+          ]
+        },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Booker/Background.md",
+            "file": "Red Hand of Doom/Compendium/Characters/Aelar.md",
             "mode": "preview",
             "source": true
           }
@@ -29,6 +94,10 @@
           {
             "id": "a675e60e8360408f",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "file-explorer",
               "state": {}
@@ -77,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Background.md",
+                "file": "Red Hand of Doom/Compendium/Characters/Aelar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Background.md"
+                "file": "Red Hand of Doom/Compendium/Characters/Aelar.md"
               }
             }
           },
@@ -123,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Background.md",
+                "file": "Red Hand of Doom/Compendium/Characters/Aelar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +215,15 @@
   },
   "active": "8a03f92b78731048",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Characters/Keth.md",
+    "Red Hand of Doom/Compendium/Characters/Booker.md",
+    "Red Hand of Doom/Compendium/Characters/Bikam.md",
+    "Red Hand of Doom/Compendium/Characters/Alton.md",
+    "Red Hand of Doom/Compendium/Characters/Aelar.md",
+    "Red Hand of Doom/Compendium/Characters/- Index.md",
+    "Characters/Booker/Background.md",
     "Characters/Booker/Character Sheet.md",
     "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
-    "Red Hand of Doom/Timeline/Harvesting Kobolds.md",
-    "Red Hand of Doom/Timeline.md",
-    "House Rules/Rule of Cool.md",
-    "Red Hand of Doom/House Rules.md",
-    "Characters/Booker/Background.md",
-    "Resources/Character Sheets/Flattened/Booker Crest Lvl 1 Obsidian.pdf",
-    "Red Hand of Doom/Compendium/Deities/Dol Arrah.md",
-    "Compendium Index.md"
+    "Red Hand of Doom/Timeline/Harvesting Kobolds.md"
   ]
 }
