@@ -6,6 +6,8 @@ tags: Location
 ---
 
 # Brindol 
+Resides in [[Elsir Vale]]
+
 ### Points of Interest
 - Adventurers Guild
 

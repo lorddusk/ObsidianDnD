@@ -5,6 +5,7 @@ tags: Location
 ---
 
 # Nimon Gap 
+Resides in [[Elsir Vale]]
 Known for their apple orchards and sheep herders.
 
 ### Points of Interest

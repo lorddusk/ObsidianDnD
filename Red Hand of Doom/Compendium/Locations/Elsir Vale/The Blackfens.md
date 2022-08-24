@@ -6,3 +6,4 @@ tags: Location
 ---
 
 # Blackfens 
+Resides in [[Elsir Vale]]

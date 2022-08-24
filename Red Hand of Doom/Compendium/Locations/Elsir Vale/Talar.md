@@ -5,3 +5,4 @@ tags: Location
 ---
 
 # Talar 
+Resides in [[Elsir Vale]]
