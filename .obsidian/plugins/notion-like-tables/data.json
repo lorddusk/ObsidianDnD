@@ -149,7 +149,7 @@
               "id": "8748e35b-88b5-4aff-8130-83bf3e52ab6a",
               "content": "Dis.",
               "sortDir": "default",
-              "width": "50px",
+              "width": "65px",
               "shouldWrapOverflow": true,
               "useAutoWidth": false,
               "type": "checkbox"
