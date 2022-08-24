@@ -1,8 +1,8 @@
 ---
 type: npc
 name: The Inventor
-location: deceased
-desc: deceased
+location: †
+desc: †
 tags: NPC
 ---
 
