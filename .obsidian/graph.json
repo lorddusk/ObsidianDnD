@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "(-path: \"House Rules\") (-path: \"Templates\") (-path: \"Rolls\") (file: -index) (file: -Tags) (file: -Background)(file: -\"Character Sheet\")",
+  "collapse-filter": false,
+  "search": "(-path: \"House Rules\") (-path: \"House Rules\") (-path: \"Templates\") (-path: \"Rolls\") (file: -index) (file: -Tags) (file: -Background)(file: -\"Character Sheet\")",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -81,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.52180526427147,
-  "close": true
+  "scale": 0.7315620564781399,
+  "close": false
 }
