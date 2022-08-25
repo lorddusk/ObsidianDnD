@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBookOpen",
       "FasUserGroup",
       "FasTags",
       "FasRuler",
-      "FasGlobe",
-      "FasList"
+      "FasGlobe"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,7 +20,7 @@
       "left": 2
     }
   },
-  "Red Hand of Doom/Compendium": "RiBookFill",
+  "Red Hand of Doom/Compendium": "FasBookOpen",
   "Red Hand of Doom/Compendium/Locations": {
     "iconName": "FasMapLocationDot",
     "inheritanceIcon": "FasMapLocationDot"
