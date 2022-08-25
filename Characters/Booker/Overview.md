@@ -46,10 +46,14 @@
 | Radiant  | Aasimar        |
 
 ### Attacks
-| Name              | Range       | Roll | DMG  | Mod | Type     | Effect                                     |
-| ----------------- | ----------- | ---- | ---- | --- | -------- | ------------------------------------------ |
-| Spear             | Melee/20/60 | +5   | 1d6  | +3  | Piercing |                                            |
-| Spear (Hexed)     | Melee/20/60 | +5   | 1d6  | +5  | Piercing |                                            |
-| Eldritch Blast    | 120         | +5   | 1d10 |     | Force    |                                            |
-| Green-Flame Blade | Melee       | +5   | 1d6  | +3  | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg   |
-|                   |             |      |      |     |          |                                            |
+#### Melee
+| Name                      | Roll | DMG | Mod | Type     | Effect                                   |
+| ------------------------- | ---- | --- | --- | -------- | ---------------------------------------- |
+| Spear                     | +5   | 1d6 | +3  | Piercing |                                          |
+| Spear (Hexed)             | +5   | 1d6 | +5  | Piercing |                                          |
+| Green-Flame Blade         | +5   | 1d6 | +3  | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg |
+| Green-Flame Blade (Hexed) | +5   | 1d6 | +5  | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg |
+#### Ranged
+| Name | Range | Roll | DMG | Mod | Type | Effect |
+| ---- | ----- | ---- | --- | --- | ---- | ------ |
+| Eldritch Blast            | 120         | +5   | 1d10 |     | Force    |                                          |
