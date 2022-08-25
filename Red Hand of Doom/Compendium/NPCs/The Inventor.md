@@ -7,5 +7,5 @@ tags: NPC
 ---
 
 # The Inventor 
-Dead kobold that attacked [[Nimon Gap]] in [[Red Hand of Doom/Session Notes/Session 1 - 21 August 2022]]
+Dead kobold that attacked [[Nimon Gap]] in [[Red Hand of Doom/Session Notes/Session 1]]
 Worked for [[Jeralla]]

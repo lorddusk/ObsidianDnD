@@ -18,7 +18,7 @@ Deze ondervraagd en daarna vrijgelaten met een kleine safeguard.
 Een priest heeft ons gevraagd om mee te gaan, om een crypte te checken waar geruchten over naar boven zijn gekomen, dat er niet ligt wat er zou moeten liggen.
 ^summary
 ## Recap of Last Session:
-![[Session 0 - 23 July 2022#^summary]]
+![[Session 0#^summary]]
 
 ## Housekeeping:
 - Joe afgemeld vanwege ziekte.
