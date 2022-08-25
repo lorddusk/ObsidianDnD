@@ -12,8 +12,8 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -132,8 +132,12 @@
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -214,6 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +253,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md"
+              }
             }
           },
           {
@@ -273,6 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -295,10 +303,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "841bf2def27d6860",
+  "active": "a675e60e8360408f",
   "lastOpenFiles": [
     "Red Hand of Doom/Compendium/Groups/Index.md",
     "Red Hand of Doom/Compendium/Groups/Test.md",
