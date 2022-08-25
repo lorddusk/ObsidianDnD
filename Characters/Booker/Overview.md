@@ -50,13 +50,18 @@
 | Name              | Roll | DMG | Mod | Type     | Effect                                   |
 | ----------------- | ---- | --- | --- | -------- | ---------------------------------------- |
 | Spear             | +5   | 1d6 | +3  | Piercing | If Hexed, Mod +5                                         |
-| Green-Flame Blade | +5   | 1d6 | +3  | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg. If Hexed, Mod +5 |
+| [[Green-Flame Blade]] | +5   | 1d6 | +3  | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg. If Hexed, Mod +5 |
 #### Ranged
 | Name           | Range | Roll | DMG  | Mod | Type     | Effect           |
 | -------------- | ----- | ---- | ---- | --- | -------- | ---------------- |
-| Eldritch Blast | 120   | +5   | 1d10 |     | Force    |                  |
+| [[Eldritch Blast]] | 120   | +5   | 1d10 |     | Force    |                  |
 | Spear          | 20/60 | +5   | 1d6  | +3  | Piercing | If Hexed, Mod +5 |
  
 ### Spells
-- [[Armor of Agathys]]
-- [[Comprehend Languages]]
+- Cantrips:
+	- [[Eldritch Blast]]
+	- [[Green-Flame Blade]]
+
+- 1st Level:
+	- [[Armor of Agathys]]
+	- [[Comprehend Languages]]
