@@ -46,6 +46,7 @@
 | Radiant  | Aasimar        |
 
 ### Attacks
-| Name  | Roll | Mod | DMG | Effect |
-| ----- | ---- | --- | --- | ------ |
-| Spear |      |     |     |        |
+| Name          | Roll | DMG | Mod | Type     | Effect |
+| ------------- | ---- | --- | --- | -------- | ------ |
+| Spear         | +5   | 1d6 | +3  | Piercing |        |
+| Spear (Hexed) | +5   | 1d6 | +5  | Piercing |        |
