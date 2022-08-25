@@ -11,8 +11,8 @@
 ### Skills
 | Name            | Stat | Mod | Prof |
 | --------------- | ---- | --- | ---- |
-| Acrobatics      | DEX  | +2  | [ ]  |
-| Animal Handling | WIS  | +2  | [ ]  |
+| Acrobatics      | DEX  | +2  |      |
+| Animal Handling | WIS  | +2  | [   |
 | Arcana          | INT  | -1  | [ ]  |
 | Athletics       | STR  | +1  | [ ]  |
 | Deception       | CHA  | +5  | [x]  |

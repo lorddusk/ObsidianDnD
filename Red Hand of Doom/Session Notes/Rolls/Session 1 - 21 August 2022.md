@@ -8,9 +8,9 @@
 | --- | -------------- | ---- | ---- | ----- | ---- | ---- | -------------------------------- |
 | 1   | Initiative     | d20  | 8    |       |      |      |                                  |
 | 2   | Melee Attack   | d20  | 10   | 4     | X    |      | Adv. through Faerie Fire         |
-| 3   | Spear          | d6   | 1    |       |      |   |                                  |  
-| 4   | Spell Attack   | d20  | 10   |       |      |   |                                  |
-| 5   | Eldritch Blast | d10  | 2    |       |      |   |                                  |
-| 6   | Melee Attack   | d20  | 12   | 8     | X    |   | Adv. through Entangle/Restrained |
-| 7   | Spear          | d6   | 2    |       |      |   |                                  |
+| 3   | Spear          | d6   | 1    |       |      |      |                                  | 
+| 4   | Spell Attack   | d20  | 10   |       |      |      |                                  |
+| 5   | Eldritch Blast | d10  | 2    |       |      |      |                                  |
+| 6   | Melee Attack   | d20  | 12   | 8     | X    |      | Adv. through Entangle/Restrained |
+| 7   | Spear          | d6   | 2    |       |      |      |                                  |
 ^combat
