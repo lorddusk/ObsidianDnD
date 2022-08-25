@@ -1334,7 +1334,7 @@
         "data": {
           "headers": [
             {
-              "id": "7d93beac-0d2a-4def-94a1-cc00fbf481b3",
+              "id": "8694a3ee-a8aa-494a-8f5e-5cdee000f463",
               "content": "Name",
               "sortDir": "default",
               "width": "100px",
@@ -1343,7 +1343,7 @@
               "type": "text"
             },
             {
-              "id": "0811040a-7184-44c5-ac40-f6cc9e1f6285",
+              "id": "f4cd340b-4f72-4b87-b255-2be99494f305",
               "content": "Stat",
               "sortDir": "default",
               "width": "100px",
@@ -1352,173 +1352,587 @@
               "type": "text"
             },
             {
-              "id": "bd915b2c-3882-4733-8df3-54e7a2c1e4a0",
+              "id": "2de6dcf2-7b26-43d7-bae3-3eada6603552",
               "content": "Mod",
               "sortDir": "default",
               "width": "100px",
               "shouldWrapOverflow": true,
               "useAutoWidth": false,
               "type": "text"
+            },
+            {
+              "id": "e1f5099f-351c-4ff8-a53a-3839a8fbeb2b",
+              "content": "Prof",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "checkbox"
             }
           ],
           "rows": [
             {
-              "id": "46450e9e-3365-4438-9af0-ed4c13e10b4c",
+              "id": "336b0e06-ff6b-47c4-a4cb-a278452d2704",
               "initialIndex": 0,
               "creationTime": 1661415075164
             },
             {
-              "id": "ad8692af-a48a-4fe3-a6e1-97caebe96d9a",
+              "id": "cd0c49c8-eb96-4d80-86cd-444717a9cc1f",
               "initialIndex": 1,
               "creationTime": 1661415075686
             },
             {
-              "id": "a0b2b1d3-0b88-462c-b3ba-230e5512fb0b",
+              "id": "0c932601-078b-4b01-834f-ad1157f0db8c",
               "initialIndex": 2,
               "creationTime": 1661415077947
             },
             {
-              "id": "e9a4176d-706e-424f-a44e-a941eb72aed1",
+              "id": "5c25c75f-cbfa-40ac-8ee5-49f6eb0ea189",
               "initialIndex": 3,
               "creationTime": 1661415087397
             },
             {
-              "id": "9ead2db5-66c4-454f-87a6-cec95e85cc6e",
+              "id": "f84f21be-9a42-4f12-b837-2b32e621f901",
               "initialIndex": 4,
               "creationTime": 1661415097677
             },
             {
-              "id": "3cc1b236-b62b-45ce-8617-4a4cfc8a9f19",
+              "id": "565b7e28-e2f2-4983-aa52-d6b377fbcb2e",
               "initialIndex": 5,
               "creationTime": 1661415106163
+            },
+            {
+              "id": "bb12e6e4-6119-4f1c-802e-fdb2c682f83d",
+              "initialIndex": 6,
+              "creationTime": 1661415287757
+            },
+            {
+              "id": "53cb9a87-2d29-4255-ac4a-d2f5b265585a",
+              "initialIndex": 7,
+              "creationTime": 1661415287766
+            },
+            {
+              "id": "cfd980c1-8857-4e4b-abd1-9ffa35335e3a",
+              "initialIndex": 8,
+              "creationTime": 1661415287522
+            },
+            {
+              "id": "33ba8c23-0ff7-4492-a8dc-4667fe9ec221",
+              "initialIndex": 9,
+              "creationTime": 1661415287549
+            },
+            {
+              "id": "04bba10f-2e5a-4ca4-970f-18c3cfbbfc78",
+              "initialIndex": 10,
+              "creationTime": 1661415287838
+            },
+            {
+              "id": "2fe021ca-91dc-4ffe-9016-28fe1a780bcc",
+              "initialIndex": 11,
+              "creationTime": 1661415287633
+            },
+            {
+              "id": "8f05cb0e-0eea-4d87-8dc1-2eb3ff48adc4",
+              "initialIndex": 12,
+              "creationTime": 1661415287978
+            },
+            {
+              "id": "b4849cf2-41e1-41de-b7ee-0a9a77975baa",
+              "initialIndex": 13,
+              "creationTime": 1661415287831
+            },
+            {
+              "id": "5b4db6df-6837-44de-b700-80e26facc89f",
+              "initialIndex": 14,
+              "creationTime": 1661415287342
+            },
+            {
+              "id": "2b351b5d-51c0-4897-8e4a-085c7abba951",
+              "initialIndex": 15,
+              "creationTime": 1661415288107
+            },
+            {
+              "id": "2450003d-7adc-4635-8677-0ed15d1523a3",
+              "initialIndex": 16,
+              "creationTime": 1661415287400
             }
           ],
           "cells": [
             {
-              "id": "a19c9d58-fb49-48e6-b84d-eae1baebfdcb",
-              "rowId": "46450e9e-3365-4438-9af0-ed4c13e10b4c",
-              "headerId": "7d93beac-0d2a-4def-94a1-cc00fbf481b3",
+              "id": "6e247e12-2abb-4407-82f4-fa456e75e2ac",
+              "rowId": "336b0e06-ff6b-47c4-a4cb-a278452d2704",
+              "headerId": "8694a3ee-a8aa-494a-8f5e-5cdee000f463",
               "type": "text",
-              "text": "STR"
+              "text": "Acrobatics"
             },
             {
-              "id": "090438d3-962c-4e13-be10-78acf8a6085c",
-              "rowId": "46450e9e-3365-4438-9af0-ed4c13e10b4c",
-              "headerId": "0811040a-7184-44c5-ac40-f6cc9e1f6285",
-              "type": "text",
-              "text": "13"
-            },
-            {
-              "id": "787a8038-1f4f-4041-a0b0-d44f0c242ae1",
-              "rowId": "46450e9e-3365-4438-9af0-ed4c13e10b4c",
-              "headerId": "bd915b2c-3882-4733-8df3-54e7a2c1e4a0",
-              "type": "text",
-              "text": "+1"
-            },
-            {
-              "id": "1260af4f-033d-4b82-90df-aa6ea453e80c",
-              "rowId": "ad8692af-a48a-4fe3-a6e1-97caebe96d9a",
-              "headerId": "7d93beac-0d2a-4def-94a1-cc00fbf481b3",
+              "id": "7c4da8bd-8dc5-4f62-97a0-53799149b36f",
+              "rowId": "336b0e06-ff6b-47c4-a4cb-a278452d2704",
+              "headerId": "f4cd340b-4f72-4b87-b255-2be99494f305",
               "type": "text",
               "text": "DEX"
             },
             {
-              "id": "9ed9415e-def0-44f4-9eaa-8dc78ae65b90",
-              "rowId": "ad8692af-a48a-4fe3-a6e1-97caebe96d9a",
-              "headerId": "0811040a-7184-44c5-ac40-f6cc9e1f6285",
-              "type": "text",
-              "text": "14"
-            },
-            {
-              "id": "6b071154-8fae-44e8-8735-de0418416f11",
-              "rowId": "ad8692af-a48a-4fe3-a6e1-97caebe96d9a",
-              "headerId": "bd915b2c-3882-4733-8df3-54e7a2c1e4a0",
+              "id": "797e58e0-f6a8-4a51-ad03-bf1990f7c4bb",
+              "rowId": "336b0e06-ff6b-47c4-a4cb-a278452d2704",
+              "headerId": "2de6dcf2-7b26-43d7-bae3-3eada6603552",
               "type": "text",
               "text": "+2"
             },
             {
-              "id": "46f07d95-0896-4b67-9236-fcae5cf727b1",
-              "rowId": "a0b2b1d3-0b88-462c-b3ba-230e5512fb0b",
-              "headerId": "7d93beac-0d2a-4def-94a1-cc00fbf481b3",
-              "type": "text",
-              "text": "CON"
+              "id": "520570f3-4be0-4b6b-91bc-4a6fe6500f84",
+              "rowId": "336b0e06-ff6b-47c4-a4cb-a278452d2704",
+              "headerId": "e1f5099f-351c-4ff8-a53a-3839a8fbeb2b",
+              "type": "checkbox",
+              "isChecked": false
             },
             {
-              "id": "45410b39-69e4-4f12-87b4-ac91a669b37d",
-              "rowId": "a0b2b1d3-0b88-462c-b3ba-230e5512fb0b",
-              "headerId": "0811040a-7184-44c5-ac40-f6cc9e1f6285",
+              "id": "25a1c950-82dd-41c5-9f0b-105a85888e95",
+              "rowId": "cd0c49c8-eb96-4d80-86cd-444717a9cc1f",
+              "headerId": "8694a3ee-a8aa-494a-8f5e-5cdee000f463",
               "type": "text",
-              "text": "16"
+              "text": "Animal Handling"
             },
             {
-              "id": "93228768-c579-4fec-bf9b-1c419583daf7",
-              "rowId": "a0b2b1d3-0b88-462c-b3ba-230e5512fb0b",
-              "headerId": "bd915b2c-3882-4733-8df3-54e7a2c1e4a0",
-              "type": "text",
-              "text": "+3"
-            },
-            {
-              "id": "04ea711b-468d-42c8-b226-249d7e5ae239",
-              "rowId": "e9a4176d-706e-424f-a44e-a941eb72aed1",
-              "headerId": "7d93beac-0d2a-4def-94a1-cc00fbf481b3",
-              "type": "text",
-              "text": "INT"
-            },
-            {
-              "id": "f7c0fa78-34ae-496a-8a4e-64781ca4811f",
-              "rowId": "e9a4176d-706e-424f-a44e-a941eb72aed1",
-              "headerId": "0811040a-7184-44c5-ac40-f6cc9e1f6285",
-              "type": "text",
-              "text": "9"
-            },
-            {
-              "id": "763dd325-dbd5-465f-aff6-49279d7e6fdd",
-              "rowId": "e9a4176d-706e-424f-a44e-a941eb72aed1",
-              "headerId": "bd915b2c-3882-4733-8df3-54e7a2c1e4a0",
-              "type": "text",
-              "text": "-1"
-            },
-            {
-              "id": "65b86f04-f336-41e6-9523-d8801800979d",
-              "rowId": "9ead2db5-66c4-454f-87a6-cec95e85cc6e",
-              "headerId": "7d93beac-0d2a-4def-94a1-cc00fbf481b3",
+              "id": "e16079f3-6c6e-4234-a423-d379039055e8",
+              "rowId": "cd0c49c8-eb96-4d80-86cd-444717a9cc1f",
+              "headerId": "f4cd340b-4f72-4b87-b255-2be99494f305",
               "type": "text",
               "text": "WIS"
             },
             {
-              "id": "35e6e07a-a2b1-471f-b96a-98e52961a561",
-              "rowId": "9ead2db5-66c4-454f-87a6-cec95e85cc6e",
-              "headerId": "0811040a-7184-44c5-ac40-f6cc9e1f6285",
-              "type": "text",
-              "text": "14"
-            },
-            {
-              "id": "58c5bec6-fe2d-40a6-8b1e-5e3953b386e6",
-              "rowId": "9ead2db5-66c4-454f-87a6-cec95e85cc6e",
-              "headerId": "bd915b2c-3882-4733-8df3-54e7a2c1e4a0",
+              "id": "1c8c6e5e-a02b-4def-a937-b670f947d95e",
+              "rowId": "cd0c49c8-eb96-4d80-86cd-444717a9cc1f",
+              "headerId": "2de6dcf2-7b26-43d7-bae3-3eada6603552",
               "type": "text",
               "text": "+2"
             },
             {
-              "id": "cc0b1c6f-26af-45a8-b7b2-700e7ceb3c9a",
-              "rowId": "3cc1b236-b62b-45ce-8617-4a4cfc8a9f19",
-              "headerId": "7d93beac-0d2a-4def-94a1-cc00fbf481b3",
+              "id": "3cb743b8-fbb3-4116-97dd-28250e4a0f40",
+              "rowId": "cd0c49c8-eb96-4d80-86cd-444717a9cc1f",
+              "headerId": "e1f5099f-351c-4ff8-a53a-3839a8fbeb2b",
+              "type": "checkbox",
+              "isChecked": false
+            },
+            {
+              "id": "ff84b30b-b856-477b-b019-ecfecda5c396",
+              "rowId": "0c932601-078b-4b01-834f-ad1157f0db8c",
+              "headerId": "8694a3ee-a8aa-494a-8f5e-5cdee000f463",
+              "type": "text",
+              "text": "Arcana"
+            },
+            {
+              "id": "253029e5-fbca-4315-8826-7618889b6f56",
+              "rowId": "0c932601-078b-4b01-834f-ad1157f0db8c",
+              "headerId": "f4cd340b-4f72-4b87-b255-2be99494f305",
+              "type": "text",
+              "text": "INT"
+            },
+            {
+              "id": "d09546c5-c822-4f10-ad33-959893a57763",
+              "rowId": "0c932601-078b-4b01-834f-ad1157f0db8c",
+              "headerId": "2de6dcf2-7b26-43d7-bae3-3eada6603552",
+              "type": "text",
+              "text": "-1"
+            },
+            {
+              "id": "92c36f63-df33-4bec-a23e-e98101f44c60",
+              "rowId": "0c932601-078b-4b01-834f-ad1157f0db8c",
+              "headerId": "e1f5099f-351c-4ff8-a53a-3839a8fbeb2b",
+              "type": "checkbox",
+              "isChecked": false
+            },
+            {
+              "id": "120f6ed9-3903-464f-bd7f-cec91d0d21bf",
+              "rowId": "5c25c75f-cbfa-40ac-8ee5-49f6eb0ea189",
+              "headerId": "8694a3ee-a8aa-494a-8f5e-5cdee000f463",
+              "type": "text",
+              "text": "Athletics"
+            },
+            {
+              "id": "17242558-9dbf-4bc3-b657-ffee2a3456cf",
+              "rowId": "5c25c75f-cbfa-40ac-8ee5-49f6eb0ea189",
+              "headerId": "f4cd340b-4f72-4b87-b255-2be99494f305",
+              "type": "text",
+              "text": "STR"
+            },
+            {
+              "id": "181b28c8-2a3f-4ad7-82f9-36aff9e91a66",
+              "rowId": "5c25c75f-cbfa-40ac-8ee5-49f6eb0ea189",
+              "headerId": "2de6dcf2-7b26-43d7-bae3-3eada6603552",
+              "type": "text",
+              "text": "+1"
+            },
+            {
+              "id": "69b4e2b5-ef95-4113-959a-89ab6e0b7366",
+              "rowId": "5c25c75f-cbfa-40ac-8ee5-49f6eb0ea189",
+              "headerId": "e1f5099f-351c-4ff8-a53a-3839a8fbeb2b",
+              "type": "checkbox",
+              "isChecked": false
+            },
+            {
+              "id": "4c94a721-cdd7-423c-bded-66c7194f0b2e",
+              "rowId": "f84f21be-9a42-4f12-b837-2b32e621f901",
+              "headerId": "8694a3ee-a8aa-494a-8f5e-5cdee000f463",
+              "type": "text",
+              "text": "Deception"
+            },
+            {
+              "id": "c04f9d1b-c92f-45d2-a522-a512fac1db2c",
+              "rowId": "f84f21be-9a42-4f12-b837-2b32e621f901",
+              "headerId": "f4cd340b-4f72-4b87-b255-2be99494f305",
               "type": "text",
               "text": "CHA"
             },
             {
-              "id": "19bc46c0-dd1b-45ae-b8f3-c8d638b60aaa",
-              "rowId": "3cc1b236-b62b-45ce-8617-4a4cfc8a9f19",
-              "headerId": "0811040a-7184-44c5-ac40-f6cc9e1f6285",
+              "id": "fa59436c-ab9d-4863-af45-8c5c6eaf65ac",
+              "rowId": "f84f21be-9a42-4f12-b837-2b32e621f901",
+              "headerId": "2de6dcf2-7b26-43d7-bae3-3eada6603552",
               "type": "text",
-              "text": "16"
+              "text": "+5"
             },
             {
-              "id": "71a2f759-916c-4ea9-ae0a-ca9c9a604ffb",
-              "rowId": "3cc1b236-b62b-45ce-8617-4a4cfc8a9f19",
-              "headerId": "bd915b2c-3882-4733-8df3-54e7a2c1e4a0",
+              "id": "2bf1a47e-8f05-4665-92c6-dced71fdcb5e",
+              "rowId": "f84f21be-9a42-4f12-b837-2b32e621f901",
+              "headerId": "e1f5099f-351c-4ff8-a53a-3839a8fbeb2b",
+              "type": "checkbox",
+              "isChecked": true
+            },
+            {
+              "id": "4ebf0e59-7ca6-40a3-ab47-120b79010536",
+              "rowId": "565b7e28-e2f2-4983-aa52-d6b377fbcb2e",
+              "headerId": "8694a3ee-a8aa-494a-8f5e-5cdee000f463",
+              "type": "text",
+              "text": "History"
+            },
+            {
+              "id": "9c91e5df-2a94-4faf-b382-2b0b0bcb448d",
+              "rowId": "565b7e28-e2f2-4983-aa52-d6b377fbcb2e",
+              "headerId": "f4cd340b-4f72-4b87-b255-2be99494f305",
+              "type": "text",
+              "text": "INT"
+            },
+            {
+              "id": "e947050d-9cfe-4919-8671-5b42581cff55",
+              "rowId": "565b7e28-e2f2-4983-aa52-d6b377fbcb2e",
+              "headerId": "2de6dcf2-7b26-43d7-bae3-3eada6603552",
+              "type": "text",
+              "text": "-1"
+            },
+            {
+              "id": "1edad532-eba2-44d4-953e-952eafd102ff",
+              "rowId": "565b7e28-e2f2-4983-aa52-d6b377fbcb2e",
+              "headerId": "e1f5099f-351c-4ff8-a53a-3839a8fbeb2b",
+              "type": "checkbox",
+              "isChecked": false
+            },
+            {
+              "id": "5dd43159-fb8e-4cf1-a511-aedc74b40bd7",
+              "rowId": "bb12e6e4-6119-4f1c-802e-fdb2c682f83d",
+              "headerId": "8694a3ee-a8aa-494a-8f5e-5cdee000f463",
+              "type": "text",
+              "text": "Insight"
+            },
+            {
+              "id": "85609dc9-352d-488f-9071-81ab81f3b67e",
+              "rowId": "bb12e6e4-6119-4f1c-802e-fdb2c682f83d",
+              "headerId": "f4cd340b-4f72-4b87-b255-2be99494f305",
+              "type": "text",
+              "text": "WIS"
+            },
+            {
+              "id": "7ec14163-5adf-4868-b76b-82b7bc2c2a72",
+              "rowId": "bb12e6e4-6119-4f1c-802e-fdb2c682f83d",
+              "headerId": "2de6dcf2-7b26-43d7-bae3-3eada6603552",
+              "type": "text",
+              "text": "+4"
+            },
+            {
+              "id": "a23cb57d-7bf8-491d-a01b-4017736e1a28",
+              "rowId": "bb12e6e4-6119-4f1c-802e-fdb2c682f83d",
+              "headerId": "e1f5099f-351c-4ff8-a53a-3839a8fbeb2b",
+              "type": "checkbox",
+              "isChecked": true
+            },
+            {
+              "id": "fd48f0bc-d426-4c0a-baf7-e96f0fecad8a",
+              "rowId": "53cb9a87-2d29-4255-ac4a-d2f5b265585a",
+              "headerId": "8694a3ee-a8aa-494a-8f5e-5cdee000f463",
+              "type": "text",
+              "text": "Intimidation"
+            },
+            {
+              "id": "b291b573-2a40-45fb-8e18-42e160bbfb21",
+              "rowId": "53cb9a87-2d29-4255-ac4a-d2f5b265585a",
+              "headerId": "f4cd340b-4f72-4b87-b255-2be99494f305",
+              "type": "text",
+              "text": "CHA"
+            },
+            {
+              "id": "7d233615-f546-4f5b-81df-15e78ca31305",
+              "rowId": "53cb9a87-2d29-4255-ac4a-d2f5b265585a",
+              "headerId": "2de6dcf2-7b26-43d7-bae3-3eada6603552",
               "type": "text",
               "text": "+3"
+            },
+            {
+              "id": "a32a2120-0b61-40eb-879d-2bffe7e04d43",
+              "rowId": "53cb9a87-2d29-4255-ac4a-d2f5b265585a",
+              "headerId": "e1f5099f-351c-4ff8-a53a-3839a8fbeb2b",
+              "type": "checkbox",
+              "isChecked": false
+            },
+            {
+              "id": "d2185811-9079-481c-8564-d46f007309be",
+              "rowId": "cfd980c1-8857-4e4b-abd1-9ffa35335e3a",
+              "headerId": "8694a3ee-a8aa-494a-8f5e-5cdee000f463",
+              "type": "text",
+              "text": "Investigation"
+            },
+            {
+              "id": "6986451a-2891-4319-8d6d-c00d44f2d6d6",
+              "rowId": "cfd980c1-8857-4e4b-abd1-9ffa35335e3a",
+              "headerId": "f4cd340b-4f72-4b87-b255-2be99494f305",
+              "type": "text",
+              "text": "INT"
+            },
+            {
+              "id": "ab42847e-60b3-4f8a-9ec1-d7aeac379317",
+              "rowId": "cfd980c1-8857-4e4b-abd1-9ffa35335e3a",
+              "headerId": "2de6dcf2-7b26-43d7-bae3-3eada6603552",
+              "type": "text",
+              "text": "+1"
+            },
+            {
+              "id": "e92f89da-6f29-4aab-a830-1148eb93999e",
+              "rowId": "cfd980c1-8857-4e4b-abd1-9ffa35335e3a",
+              "headerId": "e1f5099f-351c-4ff8-a53a-3839a8fbeb2b",
+              "type": "checkbox",
+              "isChecked": true
+            },
+            {
+              "id": "14f5c1ea-6b5b-4227-9ad6-ab13375400f2",
+              "rowId": "33ba8c23-0ff7-4492-a8dc-4667fe9ec221",
+              "headerId": "8694a3ee-a8aa-494a-8f5e-5cdee000f463",
+              "type": "text",
+              "text": "Medicine"
+            },
+            {
+              "id": "d71968dc-05de-4000-83c9-dac02ca9b678",
+              "rowId": "33ba8c23-0ff7-4492-a8dc-4667fe9ec221",
+              "headerId": "f4cd340b-4f72-4b87-b255-2be99494f305",
+              "type": "text",
+              "text": "WIS"
+            },
+            {
+              "id": "d007a983-d4b0-4ece-9d9c-949373000296",
+              "rowId": "33ba8c23-0ff7-4492-a8dc-4667fe9ec221",
+              "headerId": "2de6dcf2-7b26-43d7-bae3-3eada6603552",
+              "type": "text",
+              "text": "+2"
+            },
+            {
+              "id": "246f4b49-af5d-4267-ace3-14befdcb0fba",
+              "rowId": "33ba8c23-0ff7-4492-a8dc-4667fe9ec221",
+              "headerId": "e1f5099f-351c-4ff8-a53a-3839a8fbeb2b",
+              "type": "checkbox",
+              "isChecked": false
+            },
+            {
+              "id": "51950575-f0cf-445f-a59d-11bd48295398",
+              "rowId": "04bba10f-2e5a-4ca4-970f-18c3cfbbfc78",
+              "headerId": "8694a3ee-a8aa-494a-8f5e-5cdee000f463",
+              "type": "text",
+              "text": "Perception"
+            },
+            {
+              "id": "431eb8c7-2dc3-404f-843c-66911fe8a512",
+              "rowId": "04bba10f-2e5a-4ca4-970f-18c3cfbbfc78",
+              "headerId": "f4cd340b-4f72-4b87-b255-2be99494f305",
+              "type": "text",
+              "text": "WIS"
+            },
+            {
+              "id": "1416bfb3-88cd-4d1c-8133-434287ff36b4",
+              "rowId": "04bba10f-2e5a-4ca4-970f-18c3cfbbfc78",
+              "headerId": "2de6dcf2-7b26-43d7-bae3-3eada6603552",
+              "type": "text",
+              "text": "+4"
+            },
+            {
+              "id": "90c9526f-7316-48cc-83f0-6539aea23ce3",
+              "rowId": "04bba10f-2e5a-4ca4-970f-18c3cfbbfc78",
+              "headerId": "e1f5099f-351c-4ff8-a53a-3839a8fbeb2b",
+              "type": "checkbox",
+              "isChecked": true
+            },
+            {
+              "id": "e1b3c3b6-8492-4698-9374-2cfec5f91aa3",
+              "rowId": "2fe021ca-91dc-4ffe-9016-28fe1a780bcc",
+              "headerId": "8694a3ee-a8aa-494a-8f5e-5cdee000f463",
+              "type": "text",
+              "text": "Performance"
+            },
+            {
+              "id": "1dfb9192-6381-4258-b8da-9e66cbbf90ac",
+              "rowId": "2fe021ca-91dc-4ffe-9016-28fe1a780bcc",
+              "headerId": "f4cd340b-4f72-4b87-b255-2be99494f305",
+              "type": "text",
+              "text": "CHA"
+            },
+            {
+              "id": "90219863-fbc8-4bcd-9e8e-c503fee42fd4",
+              "rowId": "2fe021ca-91dc-4ffe-9016-28fe1a780bcc",
+              "headerId": "2de6dcf2-7b26-43d7-bae3-3eada6603552",
+              "type": "text",
+              "text": "+3"
+            },
+            {
+              "id": "901ffabe-302f-4fb5-ae00-5562ff23b4f1",
+              "rowId": "2fe021ca-91dc-4ffe-9016-28fe1a780bcc",
+              "headerId": "e1f5099f-351c-4ff8-a53a-3839a8fbeb2b",
+              "type": "checkbox",
+              "isChecked": false
+            },
+            {
+              "id": "0388356f-8e74-408d-bb79-f764260396d8",
+              "rowId": "8f05cb0e-0eea-4d87-8dc1-2eb3ff48adc4",
+              "headerId": "8694a3ee-a8aa-494a-8f5e-5cdee000f463",
+              "type": "text",
+              "text": "Persuasion"
+            },
+            {
+              "id": "71b63a68-fddc-4f63-a194-d878cebee893",
+              "rowId": "8f05cb0e-0eea-4d87-8dc1-2eb3ff48adc4",
+              "headerId": "f4cd340b-4f72-4b87-b255-2be99494f305",
+              "type": "text",
+              "text": "CHA"
+            },
+            {
+              "id": "66699e7c-513a-4935-82f3-c3f53f7b2666",
+              "rowId": "8f05cb0e-0eea-4d87-8dc1-2eb3ff48adc4",
+              "headerId": "2de6dcf2-7b26-43d7-bae3-3eada6603552",
+              "type": "text",
+              "text": "+3"
+            },
+            {
+              "id": "7f199b92-7aa9-4677-af19-09cfe1beb22b",
+              "rowId": "8f05cb0e-0eea-4d87-8dc1-2eb3ff48adc4",
+              "headerId": "e1f5099f-351c-4ff8-a53a-3839a8fbeb2b",
+              "type": "checkbox",
+              "isChecked": false
+            },
+            {
+              "id": "1bb66591-3b79-4e58-b40a-fe68495c477b",
+              "rowId": "b4849cf2-41e1-41de-b7ee-0a9a77975baa",
+              "headerId": "8694a3ee-a8aa-494a-8f5e-5cdee000f463",
+              "type": "text",
+              "text": "Religion"
+            },
+            {
+              "id": "26955bcb-8109-4437-87dd-306f644bf603",
+              "rowId": "b4849cf2-41e1-41de-b7ee-0a9a77975baa",
+              "headerId": "f4cd340b-4f72-4b87-b255-2be99494f305",
+              "type": "text",
+              "text": "INT"
+            },
+            {
+              "id": "53560496-fdd5-4548-8aeb-a02eb2d7c348",
+              "rowId": "b4849cf2-41e1-41de-b7ee-0a9a77975baa",
+              "headerId": "2de6dcf2-7b26-43d7-bae3-3eada6603552",
+              "type": "text",
+              "text": "-1"
+            },
+            {
+              "id": "ba67b07e-41d6-4611-871a-33d6d0f505e8",
+              "rowId": "b4849cf2-41e1-41de-b7ee-0a9a77975baa",
+              "headerId": "e1f5099f-351c-4ff8-a53a-3839a8fbeb2b",
+              "type": "checkbox",
+              "isChecked": false
+            },
+            {
+              "id": "88e5b5f5-7652-441e-89bf-bbac9cb7b37e",
+              "rowId": "5b4db6df-6837-44de-b700-80e26facc89f",
+              "headerId": "8694a3ee-a8aa-494a-8f5e-5cdee000f463",
+              "type": "text",
+              "text": "Sleight of Hand"
+            },
+            {
+              "id": "1b785c2a-b591-418f-9e86-db1dcd78d58f",
+              "rowId": "5b4db6df-6837-44de-b700-80e26facc89f",
+              "headerId": "f4cd340b-4f72-4b87-b255-2be99494f305",
+              "type": "text",
+              "text": "DEX"
+            },
+            {
+              "id": "fabfc3af-90cc-40da-a40a-aa2eeee9582e",
+              "rowId": "5b4db6df-6837-44de-b700-80e26facc89f",
+              "headerId": "2de6dcf2-7b26-43d7-bae3-3eada6603552",
+              "type": "text",
+              "text": "+2"
+            },
+            {
+              "id": "74fcd045-c2ec-40e5-bba4-4c9900fc3d14",
+              "rowId": "5b4db6df-6837-44de-b700-80e26facc89f",
+              "headerId": "e1f5099f-351c-4ff8-a53a-3839a8fbeb2b",
+              "type": "checkbox",
+              "isChecked": false
+            },
+            {
+              "id": "2afc738c-2cf6-420b-b4ee-b82969669290",
+              "rowId": "2b351b5d-51c0-4897-8e4a-085c7abba951",
+              "headerId": "8694a3ee-a8aa-494a-8f5e-5cdee000f463",
+              "type": "text",
+              "text": "Stealth"
+            },
+            {
+              "id": "55dad2d1-6899-4f40-94b7-b7cda182a411",
+              "rowId": "2b351b5d-51c0-4897-8e4a-085c7abba951",
+              "headerId": "f4cd340b-4f72-4b87-b255-2be99494f305",
+              "type": "text",
+              "text": "DEX"
+            },
+            {
+              "id": "a7f59745-8adb-4c41-8ac7-c07ce4a37540",
+              "rowId": "2b351b5d-51c0-4897-8e4a-085c7abba951",
+              "headerId": "2de6dcf2-7b26-43d7-bae3-3eada6603552",
+              "type": "text",
+              "text": "+2"
+            },
+            {
+              "id": "b038223a-7be8-44e3-aa34-b77da7616bd8",
+              "rowId": "2b351b5d-51c0-4897-8e4a-085c7abba951",
+              "headerId": "e1f5099f-351c-4ff8-a53a-3839a8fbeb2b",
+              "type": "checkbox",
+              "isChecked": false
+            },
+            {
+              "id": "db62940e-564f-46e2-99d4-1a3ad04a583c",
+              "rowId": "2450003d-7adc-4635-8677-0ed15d1523a3",
+              "headerId": "8694a3ee-a8aa-494a-8f5e-5cdee000f463",
+              "type": "text",
+              "text": "Survival"
+            },
+            {
+              "id": "14778822-8438-4477-848b-6b6760b85f64",
+              "rowId": "2450003d-7adc-4635-8677-0ed15d1523a3",
+              "headerId": "f4cd340b-4f72-4b87-b255-2be99494f305",
+              "type": "text",
+              "text": "WIS"
+            },
+            {
+              "id": "0d7b025b-abd3-4cd7-857f-0ba17b7eeb3e",
+              "rowId": "2450003d-7adc-4635-8677-0ed15d1523a3",
+              "headerId": "2de6dcf2-7b26-43d7-bae3-3eada6603552",
+              "type": "text",
+              "text": "+2"
+            },
+            {
+              "id": "4fa3d527-82b8-42cf-a1b3-2a4bbe5ef031",
+              "rowId": "2450003d-7adc-4635-8677-0ed15d1523a3",
+              "headerId": "e1f5099f-351c-4ff8-a53a-3839a8fbeb2b",
+              "type": "checkbox",
+              "isChecked": false
             }
           ],
           "tags": []
