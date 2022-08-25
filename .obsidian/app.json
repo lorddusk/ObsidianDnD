@@ -21,5 +21,6 @@
   ],
   "showLineNumber": true,
   "readableLineLength": false,
-  "fileSortOrder": "byCreatedTime"
+  "fileSortOrder": "byCreatedTime",
+  "strictLineBreaks": false
 }
