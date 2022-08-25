@@ -12,19 +12,37 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":47.329861111111114}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Cantrip/Green-Flame Blade.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Comprehend Languages.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Cantrip/Eldritch Blast.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":256},\"to\":{\"line\":10,\"ch\":256}},\"scroll\":0}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":26},\"to\":{\"line\":61,\"ch\":26}},\"scroll\":47.329861111111114}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Comprehend Languages.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":127},\"to\":{\"line\":10,\"ch\":127}}}"
             },
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":3},\"to\":{\"line\":7,\"ch\":3}},\"scroll\":0}"
             },
             {
@@ -36,19 +54,19 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":186},\"to\":{\"line\":10,\"ch\":186}}}"
             },
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Comprehend Languages.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Comprehend Languages.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":127},\"to\":{\"line\":10,\"ch\":127}}}"
             },
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":186},\"to\":{\"line\":8,\"ch\":186}},\"scroll\":0}"
             },
             {
@@ -60,81 +78,63 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Comprehend Languages.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Comprehend Languages.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Comprehend Languages.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Comprehend Languages.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":186},\"to\":{\"line\":10,\"ch\":186}}}"
             },
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Comprehend Languages.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Comprehend Languages.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":186},\"to\":{\"line\":10,\"ch\":186}}}"
             },
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Comprehend Languages.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Comprehend Languages.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Comprehend Languages.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Comprehend Languages.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":10},\"to\":{\"line\":10,\"ch\":10}},\"scroll\":43.33757383007724}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":29.43923611111111}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":7},\"to\":{\"line\":15,\"ch\":7}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Booker/Overview.md",
+            "file": "Characters/Booker/Spells/Cantrip/Green-Flame Blade.md",
             "mode": "source",
             "source": false
           }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Characters/Booker/Spells/Cantrip/Green-Flame Blade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Overview.md"
+                "file": "Characters/Booker/Spells/Cantrip/Green-Flame Blade.md"
               }
             }
           },
@@ -280,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Characters/Booker/Spells/Cantrip/Green-Flame Blade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -308,15 +308,15 @@
   },
   "active": "841bf2def27d6860",
   "lastOpenFiles": [
-    "Characters/Booker/Spells/Comprehend Languages.md",
-    "Characters/Booker/Spells/Armor of Agathys.md",
     "Characters/Booker/Overview.md",
+    "Characters/Booker/Spells/Cantrip/Eldritch Blast.md",
+    "Characters/Booker/Spells/1st Level/Comprehend Languages.md",
+    "Characters/Booker/Spells/1st Level/Armor of Agathys.md",
     "Characters/Booker/Character Sheet.md",
     "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022.md",
     "Characters/Booker/Background.md",
     "Compendium Index.md",
-    "Red Hand of Doom/Timeline.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md"
+    "Red Hand of Doom/Timeline.md"
   ]
 }
