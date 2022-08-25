@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"Compendium\" -file(\"Index\")",
+  "search": "(path:-\"Characters\")(path:-\"Templates\")(file:-\"Index\")(file:-\"Tags\")(file:-\"Compendium Index\")",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -88,6 +88,6 @@
   "repelStrength": 10.4300213675214,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3213363860503592,
+  "scale": 0.4505081176757824,
   "close": false
 }
