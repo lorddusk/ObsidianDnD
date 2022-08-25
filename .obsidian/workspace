@@ -12,6 +12,18 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Booker.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":4},\"to\":{\"line\":26,\"ch\":4}}}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Character Sheet.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
@@ -116,28 +128,12 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Comprehend Languages.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":186},\"to\":{\"line\":10,\"ch\":186}}}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/Booker/Character Sheet.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -218,7 +214,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Character Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,9 +248,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Characters/Booker/Character Sheet.md"
-              }
+              "state": {}
             }
           },
           {
@@ -280,7 +273,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Character Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -308,15 +300,15 @@
   },
   "active": "841bf2def27d6860",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Characters/Booker.md",
+    "Characters/Booker/Character Sheet.md",
     "Characters/Booker/Overview.md",
     "Characters/Booker/Spells/1st Level/Comprehend Languages.md",
     "Characters/Booker/Spells/Cantrip/Eldritch Blast.md",
     "Characters/Booker/Spells/Cantrip/Green-Flame Blade.md",
     "Characters/Booker/Spells/1st Level/Armor of Agathys.md",
-    "Characters/Booker/Character Sheet.md",
     "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022.md",
-    "Characters/Booker/Background.md",
-    "Compendium Index.md"
+    "Characters/Booker/Background.md"
   ]
 }

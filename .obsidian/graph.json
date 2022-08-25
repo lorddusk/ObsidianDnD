@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "(-path: \"Timeline Entries\") (-path: \"House Rules\") (-path: \"Templates\") (-path: \"Rolls\") (file: -index) (file: -Tags) (file: -Background)(file: -\"Character Sheet\")(file: -\"Timeline\")(file: -\"Worldmap\")",
+  "collapse-filter": false,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -88,6 +88,6 @@
   "repelStrength": 10.4300213675214,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.2654746301559378,
-  "close": false
+  "scale": 0.2654746301559383,
+  "close": true
 }
