@@ -12,8 +12,20 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 1.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":26.03584844030704}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 1.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -116,25 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Comprehend Languages.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":127},\"to\":{\"line\":10,\"ch\":127}}}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":186},\"to\":{\"line\":8,\"ch\":186}},\"scroll\":0}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":19},\"to\":{\"line\":60,\"ch\":3}},\"scroll\":50.059518400726944}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Session Notes/Session 1.md",
+            "file": "Characters/Booker/Overview.md",
             "mode": "source",
             "source": false
           }
@@ -194,7 +194,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -218,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 1.md",
+                "file": "Characters/Booker/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 1.md"
+                "file": "Characters/Booker/Overview.md"
               }
             }
           },
@@ -280,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 1.md",
+                "file": "Characters/Booker/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -306,8 +307,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "841bf2def27d6860",
+  "active": "695bebb0d8c86231",
   "lastOpenFiles": [
+    "Characters/Booker/Spells/1st Level/Armor of Agathys.md",
+    "Red Hand of Doom/Session Notes/Session 1.md",
     "Red Hand of Doom/Session Notes/Session 0.md",
     "Filters.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
@@ -315,8 +318,6 @@
     "Characters/Booker/Overview.md",
     "Characters/Booker/Spells/1st Level/Comprehend Languages.md",
     "Characters/Booker/Spells/Cantrip/Eldritch Blast.md",
-    "Characters/Booker/Spells/Cantrip/Green-Flame Blade.md",
-    "Characters/Booker/Spells/1st Level/Armor of Agathys.md",
-    "Red Hand of Doom/Session Notes/Session 1.md"
+    "Characters/Booker/Spells/Cantrip/Green-Flame Blade.md"
   ]
 }
