@@ -31,13 +31,19 @@
 
 ### Saves
 | Name | Mod | Prof |
-| ---- |:---:| ---- |
-| STR  | +1  ||
-| DEX  | +2  ||
-| CON  | +3  ||
-| INT  | -1  ||
-| WIS  | +2  ||
-| CHA  | +3  ||
+| ---- |:---:|:----:|
+| STR  | +1  |      |
+| DEX  | +2  |      |
+| CON  | +3  |      |
+| INT  | -1  |      |
+| WIS  | +4  |  ✔️  |
+| CHA  | +5  |  ✔️  |
+
+### Resistances
+| Name     |
+| -------- |
+| Necrotic |
+| Radiant         |
 
 ### Attacks
 | Name | Roll | Mod | DMG | Effect |
