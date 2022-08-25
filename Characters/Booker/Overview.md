@@ -1,8 +1,9 @@
 ### Overview
-| What | Amount |
-| ---- | ------ |
-| HP   | 16     |
-| AC   | 15     |
+| What          | Amount | Remaining |     |
+| ------------- |:------:|:---------:| --- |
+| HP            |   16   |    16     |     |
+| Hitdice (1d8) |   1    |     0     |     | 
+| AC            |   15   |     -     |     |
 
 ### Stats
 | Name | Stat | Mod |
