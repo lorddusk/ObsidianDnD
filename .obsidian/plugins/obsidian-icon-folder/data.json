@@ -21,10 +21,7 @@
     }
   },
   "Red Hand of Doom/Compendium": "FasBookOpen",
-  "Red Hand of Doom/Compendium/Locations": {
-    "iconName": "FasMapLocationDot",
-    "inheritanceIcon": "FasMapLocationDot"
-  },
+  "Red Hand of Doom/Compendium/Locations": "FasMapLocationDot",
   "Red Hand of Doom/Compendium/Events": "FasCalendarDay",
   "Red Hand of Doom/Compendium/Characters": "FasUser",
   "Red Hand of Doom/Compendium/Deities": "FasBookBible",
