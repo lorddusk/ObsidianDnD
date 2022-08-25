@@ -1,4 +1,4 @@
-# Red Hand of Doom
+# Red Hand of Doom Compendium
 
 ## Session Notes
 ```dataview
