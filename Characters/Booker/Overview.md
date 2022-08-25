@@ -58,7 +58,7 @@
 | Spear          | 20/60 | +5   | 1d6  | +3  | Piercing | If Hexed, Mod +5 |
  
 ### Spells
-- Cantrips:
+- Cantrip:
 	- [[Eldritch Blast]]
 	- [[Green-Flame Blade]]
 
