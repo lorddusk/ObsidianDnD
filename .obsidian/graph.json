@@ -1,52 +1,17 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "(path:-\"Timeline Entries\") (path:-\"House Rules\") (path:-\"Characters/Booker/Spells\") (path:-\"Templates\") (path:-\"Rolls\")  (file:-\"Index\") (file:-\"Tags\") (file:-\"Worldmap\") (file:-\"Timeline\") (file:-\"Compendium Index\") (file:-\"Overview\") (file:-\"Background\") (file:-\"Character Sheet\") (file:-\"Filters\")",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:Booker",
       "color": {
         "a": 1,
         "rgb": 16777215
-      }
-    },
-    {
-      "query": "tag:#Location",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "tag:#Item",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "tag:#Family",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "tag:#NPC",
-      "color": {
-        "a": 1,
-        "rgb": 4183359
-      }
-    },
-    {
-      "query": "tag:#Event",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
       }
     },
     {
@@ -57,10 +22,24 @@
       }
     },
     {
-      "query": "tag:#Session",
+      "query": "tag:#NPC",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 4183359
+      }
+    },
+    {
+      "query": "tag:#Group",
+      "color": {
+        "a": 1,
+        "rgb": 13529971
+      }
+    },
+    {
+      "query": "tag:#Family",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     },
     {
@@ -71,10 +50,31 @@
       }
     },
     {
-      "query": "tag:#Group",
+      "query": "tag:#Item",
       "color": {
         "a": 1,
-        "rgb": 13529971
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Location",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#Event",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#Session",
+      "color": {
+        "a": 1,
+        "rgb": 0
       }
     }
   ],
