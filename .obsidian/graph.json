@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:Booker",
@@ -22,10 +22,10 @@
       }
     },
     {
-      "query": "tag:#NPC",
+      "query": "tag:#Family",
       "color": {
         "a": 1,
-        "rgb": 4183359
+        "rgb": 5419488
       }
     },
     {
@@ -36,10 +36,10 @@
       }
     },
     {
-      "query": "tag:#Family",
+      "query": "tag:#NPC",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 4183359
       }
     },
     {
@@ -84,10 +84,10 @@
   "nodeSizeMultiplier": 0.986653476540418,
   "lineSizeMultiplier": 1.50075183719616,
   "collapse-forces": false,
-  "centerStrength": 0,
+  "centerStrength": 0.119446014697569,
   "repelStrength": 10.4300213675214,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.32133638605036247,
+  "scale": 0.4505081176757879,
   "close": false
 }
