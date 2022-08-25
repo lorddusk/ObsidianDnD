@@ -1,0 +1,36 @@
+/******* HEADING COLORS *******/
+.markdown-preview-view h1,
+.cm-header-1
+{
+  color: #DC143C;
+}
+
+.markdown-preview-view h2,
+.cm-header-2
+{
+  color: #c82848;
+}
+
+.markdown-preview-view h3,
+.cm-header-3
+{
+  color: #b83852;
+}
+
+.markdown-preview-view h4,
+.cm-header-4
+{
+  color: #ab455a
+}
+
+.markdown-preview-view h5,
+.cm-header-5
+{
+  color: #a14f60;
+}
+
+.markdown-preview-view h6,
+.cm-header-6
+{
+  color: #995765;
+}

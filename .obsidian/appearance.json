@@ -4,10 +4,10 @@
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
     "larger popup",
-    "headercolors",
     "hide folders",
     "custom-admonitions.8408be",
-    "ITS Snipper"
+    "ITS Snipper",
+    "headercolors red desat"
   ],
   "translucency": false,
   "baseFontSize": 12
