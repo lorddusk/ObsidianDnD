@@ -7,19 +7,31 @@
         "id": "841bf2def27d6860",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Cantrip/Eldritch Blast.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Index.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Deities/Dol Arrah.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "841bf2def27d6860",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Compendium Index.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":28.91745283018868}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":63,\"ch\":0},\"to\":{\"line\":63,\"ch\":0}},\"scroll\":39.44039893435344}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":63,\"ch\":0},\"to\":{\"line\":63,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -116,25 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":3},\"to\":{\"line\":7,\"ch\":3}},\"scroll\":0}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":1},\"to\":{\"line\":58,\"ch\":1}},\"scroll\":43.705891261547784}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":186},\"to\":{\"line\":10,\"ch\":186}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Booker/Overview.md",
+            "file": "Red Hand of Doom/Compendium/NPCs/Index.md",
             "mode": "source",
             "source": false
           }
@@ -194,8 +194,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Overview.md"
+                "file": "Red Hand of Doom/Compendium/NPCs/Index.md"
               }
             }
           },
@@ -281,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -309,15 +308,15 @@
   },
   "active": "841bf2def27d6860",
   "lastOpenFiles": [
-    "Characters/Booker/Spells/Cantrip/Eldritch Blast.md",
+    "Red Hand of Doom/Compendium/Deities/Dol Arrah.md",
+    "Compendium Index.md",
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
     "Characters/Booker/Overview.md",
+    "Characters/Booker/Spells/Cantrip/Eldritch Blast.md",
     "Characters/Booker/Spells/1st Level/Armor of Agathys.md",
     "Red Hand of Doom/Session Notes/Session 1.md",
     "Red Hand of Doom/Session Notes/Session 0.md",
-    "Filters.md",
-    "Red Hand of Doom/Compendium/Characters/Booker.md",
-    "Characters/Booker/Character Sheet.md",
-    "Characters/Booker/Spells/1st Level/Comprehend Languages.md",
-    "Characters/Booker/Spells/Cantrip/Green-Flame Blade.md"
+    "Filters.md"
   ]
 }
