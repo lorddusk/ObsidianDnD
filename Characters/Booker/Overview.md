@@ -59,7 +59,9 @@
 | Spear          | 20/60 | +5   | 1d6  | +3  | Piercing | If Hexed, Mod +5 |
  
 #### Others
- 
+ | Name             | Amount | Recovery | Effect |
+ | ---------------- | ------ | -------- | ------ |
+ | Hexblade's Curse | 1      | Short    |        |
 ### Spells
 - Cantrip:
 	- [[Eldritch Blast]]
