@@ -12,8 +12,14 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 1.md\",\"mode\":\"preview\",\"source\":false}}",
+              "state": "{\"type\":\"graph\",\"state\":{}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 1.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":31.666666666666668}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -122,22 +128,12 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Booker.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":4},\"to\":{\"line\":26,\"ch\":4}}}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Character Sheet.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Red Hand of Doom/Session Notes/Session 1.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -218,7 +214,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,9 +248,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -280,7 +273,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -308,8 +300,8 @@
   },
   "active": "841bf2def27d6860",
   "lastOpenFiles": [
-    "Red Hand of Doom/Session Notes/Rolls/Session 1.md",
     "Red Hand of Doom/Session Notes/Session 1.md",
+    "Red Hand of Doom/Session Notes/Rolls/Session 1.md",
     "Red Hand of Doom/Session Notes/Session 0.md",
     "Red Hand of Doom/Compendium/Deities/Dol Arrah.md",
     "Red Hand of Doom/Compendium/Deities/Chauntea.md",
