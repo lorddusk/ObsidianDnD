@@ -13,7 +13,7 @@
               "leaf": "841bf2def27d6860",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":55,\"ch\":0},\"to\":{\"line\":55,\"ch\":0}},\"scroll\":35.94289227406244}"
+              "eState": "{\"scroll\":35.94289227406244}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -304,48 +304,6 @@
     ],
     "direction": "horizontal",
     "width": 300
-  },
-  "floating": {
-    "id": "811d8ea7e8424018",
-    "type": "floating",
-    "children": [
-      {
-        "id": "59f70513ff708533",
-        "type": "window",
-        "children": [
-          {
-            "id": "57ab03426d9e89fd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "57ab03426d9e89fd",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Character Sheet.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Booker/Character Sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "direction": "vertical",
-        "x": -1167,
-        "y": 264,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
   },
   "active": "841bf2def27d6860",
   "lastOpenFiles": [
