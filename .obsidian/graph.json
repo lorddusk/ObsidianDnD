@@ -18,14 +18,14 @@
       "query": "tag:#Party",
       "color": {
         "a": 1,
-        "rgb": 13421772
+        "rgb": 16777215
       }
     },
     {
       "query": "tag:#Family",
       "color": {
         "a": 1,
-        "rgb": 14709246
+        "rgb": 15909631
       }
     },
     {
@@ -46,7 +46,7 @@
       "query": "tag:#Deity",
       "color": {
         "a": 1,
-        "rgb": 16705890
+        "rgb": 16769044
       }
     },
     {
@@ -74,7 +74,7 @@
       "query": "tag:#Session",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 7368816
       }
     }
   ],
@@ -88,6 +88,6 @@
   "repelStrength": 11.9400791407575,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6316046762907582,
+  "scale": 0.3213363860503641,
   "close": false
 }
