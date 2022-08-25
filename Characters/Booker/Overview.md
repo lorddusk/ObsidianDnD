@@ -29,6 +29,16 @@
 | Stealth         | DEX  | +2  |      |
 | Survival        | WIS  | +2  |      |
 
+### Saves
+| Name | Mod | Prof |
+| ---- |:---:| ---- |
+| STR  | +1  ||
+| DEX  | +2  ||
+| CON  | +3  ||
+| INT  | -1  ||
+| WIS  | +2  ||
+| CHA  | +3  ||
+
 ### Attacks
 | Name | Roll | Mod | DMG | Effect |
 | ---- | ---- | --- | --- | ------ |

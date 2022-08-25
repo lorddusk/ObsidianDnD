@@ -13,7 +13,7 @@
               "leaf": "841bf2def27d6860",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":2.766240863446957}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":39},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":11.197355996222852}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -305,13 +305,55 @@
     "direction": "horizontal",
     "width": 300
   },
+  "floating": {
+    "id": "811d8ea7e8424018",
+    "type": "floating",
+    "children": [
+      {
+        "id": "59f70513ff708533",
+        "type": "window",
+        "children": [
+          {
+            "id": "57ab03426d9e89fd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "57ab03426d9e89fd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Character Sheet.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Booker/Character Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical",
+        "x": -1167,
+        "y": 264,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "841bf2def27d6860",
   "lastOpenFiles": [
+    "Characters/Booker/Character Sheet.md",
+    "Characters/Booker/Overview.md",
     "Red Hand of Doom/Session Notes/Session 1 - 21 August 2022.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022.md",
-    "Characters/Booker/Overview.md",
     "Characters/Booker/Background.md",
-    "Characters/Booker/Character Sheet.md",
     "Compendium Index.md",
     "Red Hand of Doom/Timeline.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md",
