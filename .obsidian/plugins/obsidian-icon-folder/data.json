@@ -1,7 +1,7 @@
 {
   "settings": {
     "migrated": true,
-    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
