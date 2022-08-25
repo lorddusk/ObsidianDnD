@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasList",
       "FasFilter",
       "FasBookOpen",
       "FasUserGroup",
-      "FasTags",
-      "FasRuler"
+      "FasTags"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,7 +33,6 @@
   "Red Hand of Doom/Session Notes/Rolls": "FasDice",
   "Red Hand of Doom/Session Notes": "FasNoteSticky",
   "Red Hand of Doom/Compendium/Characters/Index.md": "FasList",
-  "Red Hand of Doom/Compendium/Events/Index.md": "FasList",
   "Red Hand of Doom/Compendium/Items/Index.md": "FasList",
   "Red Hand of Doom/Compendium/Locations/Index.md": "FasList",
   "Red Hand of Doom/Compendium/NPCs/Index.md": "FasList",
@@ -46,5 +45,6 @@
   "Red Hand of Doom/Compendium/Groups": "FasUserGroup",
   "Red Hand of Doom/Compendium/Groups/Index.md": "FasList",
   "Filters.md": "FasFilter",
-  "Red Hand of Doom/Compendium/Deities/Dol Arrah.md": "FasList"
+  "Red Hand of Doom/Compendium/Deities/Index.md": "FasList",
+  "Red Hand of Doom/Compendium/Events/Index.md": "FasList"
 }

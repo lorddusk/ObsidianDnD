@@ -26,7 +26,7 @@ Een priest heeft ons gevraagd om mee te gaan, om een crypte te checken waar geru
 ## Notes:
 Arrived in [[Nimon Gap]] on a boat.
 
-[[Harvest Festival]] is later in the year than it usually is, because of a heatwave.
+[[Red Hand of Doom/Compendium/Events/Index]] is later in the year than it usually is, because of a heatwave.
 
 [[Alton]] bought a bottle of pear liquor, and a bottle of pale ale in one of the stands.
 

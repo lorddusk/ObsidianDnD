@@ -9,7 +9,7 @@ Resides in [[Elsir Vale]]
 Known for their apple orchards and sheep herders.
 
 ### Points of Interest
-- Home of the [[Harvest Festival]]
+- Home of the [[Red Hand of Doom/Compendium/Events/Index]]
 
 ### Population
 - 35% Halfling
