@@ -1328,6 +1328,179 @@
         "viewType": "reading",
         "tableCacheVersion": 425
       }
+    },
+    "Characters/Booker/Overview.md": {
+      "0": {
+        "data": {
+          "headers": [
+            {
+              "id": "786e535c-7fac-466d-a69f-2bee325dd5ca",
+              "content": "Name",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "f0dd2155-d69a-4509-b370-292f17cbc646",
+              "content": "Stat",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "9ba0b194-14cf-443b-a9ad-7e690f386c70",
+              "content": "Mod",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            }
+          ],
+          "rows": [
+            {
+              "id": "b0c12386-d060-4fe1-b25f-482abc32a8cf",
+              "initialIndex": 0,
+              "creationTime": 1661415075164
+            },
+            {
+              "id": "99f65207-934d-445c-892d-fd04e2285adc",
+              "initialIndex": 1,
+              "creationTime": 1661415075686
+            },
+            {
+              "id": "2f01c1cb-2d09-4684-9c70-f33d00dd9691",
+              "initialIndex": 2,
+              "creationTime": 1661415077947
+            },
+            {
+              "id": "30d6d099-fa6a-491d-945e-bdd0ca364ede",
+              "initialIndex": 3,
+              "creationTime": 1661415087397
+            },
+            {
+              "id": "4f9b5452-b8bc-45c7-9471-13f1156a1bfa",
+              "initialIndex": 4,
+              "creationTime": 1661415097677
+            }
+          ],
+          "cells": [
+            {
+              "id": "ac080973-b871-464f-82e6-0af58999d078",
+              "rowId": "b0c12386-d060-4fe1-b25f-482abc32a8cf",
+              "headerId": "786e535c-7fac-466d-a69f-2bee325dd5ca",
+              "type": "text",
+              "text": "STR"
+            },
+            {
+              "id": "e31931ae-0ee0-4cb4-971c-2b0b650bc232",
+              "rowId": "b0c12386-d060-4fe1-b25f-482abc32a8cf",
+              "headerId": "f0dd2155-d69a-4509-b370-292f17cbc646",
+              "type": "text",
+              "text": "13"
+            },
+            {
+              "id": "71e377ed-eb21-4300-aa1f-39b152965cd6",
+              "rowId": "b0c12386-d060-4fe1-b25f-482abc32a8cf",
+              "headerId": "9ba0b194-14cf-443b-a9ad-7e690f386c70",
+              "type": "text",
+              "text": "+1"
+            },
+            {
+              "id": "e06d9038-dc9a-458c-a400-8e80c9a066eb",
+              "rowId": "99f65207-934d-445c-892d-fd04e2285adc",
+              "headerId": "786e535c-7fac-466d-a69f-2bee325dd5ca",
+              "type": "text",
+              "text": "DEX"
+            },
+            {
+              "id": "d6af382b-b373-4bb0-9886-b4e4b1462d5a",
+              "rowId": "99f65207-934d-445c-892d-fd04e2285adc",
+              "headerId": "f0dd2155-d69a-4509-b370-292f17cbc646",
+              "type": "text",
+              "text": "14"
+            },
+            {
+              "id": "ec3e039b-d118-4f88-8ee4-30eb52f6d150",
+              "rowId": "99f65207-934d-445c-892d-fd04e2285adc",
+              "headerId": "9ba0b194-14cf-443b-a9ad-7e690f386c70",
+              "type": "text",
+              "text": "+2"
+            },
+            {
+              "id": "69050f7e-0063-401b-9688-8fda1fa2cda4",
+              "rowId": "2f01c1cb-2d09-4684-9c70-f33d00dd9691",
+              "headerId": "786e535c-7fac-466d-a69f-2bee325dd5ca",
+              "type": "text",
+              "text": "CON"
+            },
+            {
+              "id": "6aba787a-5b11-4b09-86bd-53123a4f0b22",
+              "rowId": "2f01c1cb-2d09-4684-9c70-f33d00dd9691",
+              "headerId": "f0dd2155-d69a-4509-b370-292f17cbc646",
+              "type": "text",
+              "text": "16"
+            },
+            {
+              "id": "e3640edb-5279-4711-a936-951456b2bd1e",
+              "rowId": "2f01c1cb-2d09-4684-9c70-f33d00dd9691",
+              "headerId": "9ba0b194-14cf-443b-a9ad-7e690f386c70",
+              "type": "text",
+              "text": "+3"
+            },
+            {
+              "id": "ec739642-f7b4-4a62-841e-51236981376b",
+              "rowId": "30d6d099-fa6a-491d-945e-bdd0ca364ede",
+              "headerId": "786e535c-7fac-466d-a69f-2bee325dd5ca",
+              "type": "text",
+              "text": "INT"
+            },
+            {
+              "id": "7fe91e61-2daf-49cb-858b-f2659b851d51",
+              "rowId": "30d6d099-fa6a-491d-945e-bdd0ca364ede",
+              "headerId": "f0dd2155-d69a-4509-b370-292f17cbc646",
+              "type": "text",
+              "text": "9"
+            },
+            {
+              "id": "dcb4fce2-0568-4a05-af1c-cbb7a9597688",
+              "rowId": "30d6d099-fa6a-491d-945e-bdd0ca364ede",
+              "headerId": "9ba0b194-14cf-443b-a9ad-7e690f386c70",
+              "type": "text",
+              "text": "-1"
+            },
+            {
+              "id": "a3f44fba-5ee0-4f77-b54e-823c601c832f",
+              "rowId": "4f9b5452-b8bc-45c7-9471-13f1156a1bfa",
+              "headerId": "786e535c-7fac-466d-a69f-2bee325dd5ca",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "3d295957-353b-4f97-b12c-c534cc364381",
+              "rowId": "4f9b5452-b8bc-45c7-9471-13f1156a1bfa",
+              "headerId": "f0dd2155-d69a-4509-b370-292f17cbc646",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "da8f52c1-185f-4d47-9a48-80a35c93b453",
+              "rowId": "4f9b5452-b8bc-45c7-9471-13f1156a1bfa",
+              "headerId": "9ba0b194-14cf-443b-a9ad-7e690f386c70",
+              "type": "text",
+              "text": ""
+            }
+          ],
+          "tags": []
+        },
+        "viewType": "live-preview",
+        "shouldUpdate": true,
+        "tableCacheVersion": 425
+      }
     }
   },
   "focusedElement": {
