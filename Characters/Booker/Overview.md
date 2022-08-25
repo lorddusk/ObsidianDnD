@@ -1,12 +1,12 @@
 ### Stats
 | Name | Stat | Mod |
-| ---- | ----:|:---:|
-| STR  |   13 | +1  |
-| DEX  |   14 | +2  |
-| CON  |   16 | +3  |
-| INT  |    9 | -1  |
-| WIS  |   14 | +2  |
-| CHA  |   16 | +3  |
+| ---- |:----:|:---:|
+| STR  |  13  | +1  |
+| DEX  |  14  | +2  |
+| CON  |  16  | +3  |
+| INT  |  9   | -1  |
+| WIS  |  14  | +2  |
+| CHA  |  16  | +3  |
 
 ### Skills
 | Name            | Stat | Mod | Prof |
@@ -28,3 +28,8 @@
 | Sleight of Hand | DEX  | +2  |      |
 | Stealth         | DEX  | +2  |      |
 | Survival        | WIS  | +2  |      |
+
+### Attacks
+| Name | Roll | Mod | DMG | Effect |
+| ---- | ---- | --- | --- | ------ |
+|      |      |     |     |        |
