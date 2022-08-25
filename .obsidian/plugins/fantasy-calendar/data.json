@@ -10,7 +10,7 @@
       "syncTimelines": false,
       "timelineTag": "#timeline",
       "static": {
-        "displayDayNumber": true,
+        "displayDayNumber": false,
         "firstWeekDay": 0,
         "incrementDay": false,
         "displayMoons": true,
@@ -339,8 +339,7 @@
           "id": "festivals",
           "color": "#9b2c2c"
         }
-      ],
-      "displayWeeks": true
+      ]
     }
   ],
   "configDirectory": null,
