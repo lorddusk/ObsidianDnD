@@ -13,7 +13,7 @@
               "leaf": "841bf2def27d6860",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":71,\"ch\":0},\"to\":{\"line\":71,\"ch\":0}},\"scroll\":47.107638888888886}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -305,54 +305,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "floating": {
-    "id": "8b2fdfbed4f0b708",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3bc02174e2394d15",
-        "type": "window",
-        "children": [
-          {
-            "id": "62f2fcbfb2113247",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "62f2fcbfb2113247",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Character Sheet.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Booker/Character Sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "direction": "vertical",
-        "x": -1224,
-        "y": 279,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "841bf2def27d6860",
   "lastOpenFiles": [
-    "Characters/Booker/Spells/Cantrip/Armor of Shadows.md",
-    "Characters/Booker/Overview.md",
-    "Characters/Booker/Spells/Cantrip/Light.md",
     "Characters/Booker/Character Sheet.md",
+    "Characters/Booker/Overview.md",
+    "Characters/Booker/Spells/Cantrip/Armor of Shadows.md",
+    "Characters/Booker/Spells/Cantrip/Light.md",
     "Characters/Booker/Spells/Cantrip/Eldritch Blast.md",
     "Red Hand of Doom/Compendium/Compendium.md",
     "Compendium Index.md",
