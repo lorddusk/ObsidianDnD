@@ -32,8 +32,6 @@
   "Red Hand of Doom/Compendium/Items": "FasWandMagicSparkles",
   "Red Hand of Doom/Session Notes/Rolls": "FasDice",
   "Red Hand of Doom/Session Notes": "FasNoteSticky",
-  "Red Hand of Doom/Compendium/Items/Index.md": "FasList",
-  "Red Hand of Doom/Compendium/Locations/Index.md": "FasList",
   "Red Hand of Doom/Compendium/NPCs/Index.md": "FasList",
   "Red Hand of Doom/Worldmap.md": "FasGlobe",
   "Red Hand of Doom/Timeline.md": "FasTimeline",
@@ -42,6 +40,5 @@
   "Compendium Index.md": "FasList",
   "Red Hand of Doom/Timeline Entries": "FasTimeline",
   "Red Hand of Doom/Compendium/Groups": "FasUserGroup",
-  "Red Hand of Doom/Compendium/Groups/Index.md": "FasList",
   "Filters.md": "FasFilter"
 }
