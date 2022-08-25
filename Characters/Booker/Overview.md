@@ -45,8 +45,9 @@
 | Necrotic | Aasimar |
 | Radiant  | Aasimar        |
 
-### Attacks
-#### Melee
+### Actions
+#### Attacks
+##### Melee
 | Name              | Roll | DMG | Mod | Type     | Effect                                   |
 | ----------------- | ---- | --- | --- | -------- | ---------------------------------------- |
 | Spear             | +5   | 1d6 | +3  | Piercing | If Hexed, Mod +5                                         |
