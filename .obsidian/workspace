@@ -12,6 +12,24 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Alton.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Bikam.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":14},\"to\":{\"line\":11,\"ch\":14}}}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Compendium.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/NPCs.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
@@ -110,31 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"scroll\":43.95789792518552}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Cantrip/Light.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":134},\"to\":{\"line\":10,\"ch\":134}}}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":70,\"ch\":3},\"to\":{\"line\":70,\"ch\":3}},\"scroll\":42.911101014690296}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Character Sheet.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/NPCs/NPCs.md",
+            "file": "Red Hand of Doom/Compendium/Characters/Alton.md",
             "mode": "source",
             "source": false
           }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/NPCs.md",
+                "file": "Red Hand of Doom/Compendium/Characters/Alton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/NPCs.md"
+                "file": "Red Hand of Doom/Compendium/Characters/Alton.md"
               }
             }
           },
@@ -280,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/NPCs.md",
+                "file": "Red Hand of Doom/Compendium/Characters/Alton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -307,15 +307,15 @@
   },
   "active": "841bf2def27d6860",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Characters/Bikam.md",
+    "Red Hand of Doom/Compendium/Compendium.md",
+    "Red Hand of Doom/Compendium/NPCs/NPCs.md",
     "Red Hand of Doom/Compendium/NPCs/The Inventor.md",
     "Red Hand of Doom/Compendium/NPCs/Jeralla.md",
     "Red Hand of Doom/Compendium/NPCs/The Benefactor.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 1.md",
     "Red Hand of Doom/Session Notes/Session 1.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
-    "Characters/Booker/Overview.md",
-    "Characters/Booker/Spells/Cantrip/Eldritch Blast.md",
-    "Red Hand of Doom/Timeline.md",
-    "Red Hand of Doom/Compendium/Locations/Locations.md"
+    "Characters/Booker/Overview.md"
   ]
 }
