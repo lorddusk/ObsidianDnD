@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
-  "search": "(path:-\"Timeline Entries\") (path:-\"House Rules\") (path:-\"Characters/Booker/Spells\") (path:-\"Templates\") (path:-\"Rolls\")  (file:-\"Index\") (file:-\"Tags\") (file:-\"Worldmap\") (file:-\"Timeline\") (file:-\"Compendium Index\") (file:-\"Overview\") (file:-\"Background\") (file:-\"Character Sheet\")",
+  "collapse-filter": true,
+  "search": "(path:-\"Timeline Entries\") (path:-\"House Rules\") (path:-\"Characters/Booker/Spells\") (path:-\"Templates\") (path:-\"Rolls\")  (file:-\"Index\") (file:-\"Tags\") (file:-\"Worldmap\") (file:-\"Timeline\") (file:-\"Compendium Index\") (file:-\"Overview\") (file:-\"Background\") (file:-\"Character Sheet\") (file:-\"Filters\")",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:Booker",
@@ -88,6 +88,6 @@
   "repelStrength": 10.4300213675214,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.4505081176757867,
+  "scale": 0.32133638605036247,
   "close": false
 }
