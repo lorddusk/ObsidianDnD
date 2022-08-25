@@ -12,6 +12,24 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Background.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"scroll\":0}"
             },
@@ -110,31 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/The Witchwood.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":25},\"to\":{\"line\":7,\"ch\":25}}}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/The Blackfens.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":25},\"to\":{\"line\":8,\"ch\":25}}}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Talar.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":25},\"to\":{\"line\":7,\"ch\":25}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Booker/Overview.md",
+            "file": "Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022.md",
             "mode": "source",
             "source": false
           }
@@ -241,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Overview.md"
+                "file": "Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022.md"
               }
             }
           },
@@ -303,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -331,15 +331,15 @@
   },
   "active": "841bf2def27d6860",
   "lastOpenFiles": [
-    "Characters/Booker/Character Sheet.md",
     "Characters/Booker/Overview.md",
+    "Characters/Booker/Background.md",
+    "Characters/Booker/Character Sheet.md",
     "Compendium Index.md",
     "Red Hand of Doom/Timeline.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md",
     "Red Hand of Doom/Compendium/Groups/Index.md",
     "Red Hand of Doom/Compendium/Groups/Test.md",
     "Red Hand of Doom/Compendium/Groups/Clerics of Kelemvor.md",
-    "Red Hand of Doom/Compendium/NPCs/Index.md",
-    "Red Hand of Doom/Compendium/Locations/Crestbrook.md"
+    "Red Hand of Doom/Compendium/NPCs/Index.md"
   ]
 }

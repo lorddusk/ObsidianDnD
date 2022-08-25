@@ -28,5 +28,3 @@
 | Sleight of Hand | DEX  | +2  | [ ]  |
 | Stealth         | DEX  | +2  | [ ]  |
 | Survival        | WIS  | +2  | [ ]  |
-| 
-|      |     |      |
