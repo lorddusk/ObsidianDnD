@@ -7,13 +7,19 @@
         "id": "841bf2def27d6860",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "841bf2def27d6860",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Cantrip/Eldritch Blast.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":26.03584844030704}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":63,\"ch\":0},\"to\":{\"line\":63,\"ch\":0}},\"scroll\":39.44039893435344}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -122,12 +128,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Armor of Agathys.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":186},\"to\":{\"line\":10,\"ch\":186}}}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Comprehend Languages.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":127},\"to\":{\"line\":10,\"ch\":127}}}"
             }
           ]
         },
@@ -307,17 +307,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "695bebb0d8c86231",
+  "active": "841bf2def27d6860",
   "lastOpenFiles": [
+    "Characters/Booker/Spells/Cantrip/Eldritch Blast.md",
+    "Characters/Booker/Overview.md",
     "Characters/Booker/Spells/1st Level/Armor of Agathys.md",
     "Red Hand of Doom/Session Notes/Session 1.md",
     "Red Hand of Doom/Session Notes/Session 0.md",
     "Filters.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Characters/Booker/Character Sheet.md",
-    "Characters/Booker/Overview.md",
     "Characters/Booker/Spells/1st Level/Comprehend Languages.md",
-    "Characters/Booker/Spells/Cantrip/Eldritch Blast.md",
     "Characters/Booker/Spells/Cantrip/Green-Flame Blade.md"
   ]
 }
