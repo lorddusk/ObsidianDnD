@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFilter",
       "FasBookOpen",
       "FasUserGroup",
       "FasTags",
-      "FasRuler",
-      "FasGlobe"
+      "FasRuler"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,5 +45,6 @@
   "Red Hand of Doom/Timeline Entries": "FasTimeline",
   "Red Hand of Doom/Compendium/Deities/Index.md": "FasList",
   "Red Hand of Doom/Compendium/Groups": "FasUserGroup",
-  "Red Hand of Doom/Compendium/Groups/Index.md": "FasList"
+  "Red Hand of Doom/Compendium/Groups/Index.md": "FasList",
+  "Filters.md": "FasFilter"
 }

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "(path:-\"Timeline Entries\") (path:-\"House Rules\") (path:-\"Characters/Booker\") (path:-\"Templates\") (path:-\"Rolls\")  (file:-\"Index\") (file:-\"Tags\") (file:-\"Worldmap\") (file:-\"Timeline\") (file:-\"Compendium Index\")",
+  "search": "(path:-\"Timeline Entries\") (path:-\"House Rules\") (path:-\"Characters/Booker/Spells\") (path:-\"Templates\") (path:-\"Rolls\")  (file:-\"Index\") (file:-\"Tags\") (file:-\"Worldmap\") (file:-\"Timeline\") (file:-\"Compendium Index\") (file:-\"Overview\") (file:-\"Background\") (file:-\"Character Sheet\")",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -88,6 +88,6 @@
   "repelStrength": 10.4300213675214,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6316046762907552,
+  "scale": 0.4505081176757867,
   "close": false
 }

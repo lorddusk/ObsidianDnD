@@ -12,8 +12,8 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Filters.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":25},\"to\":{\"line\":13,\"ch\":25}}}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -132,8 +132,12 @@
           ]
         },
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Filters.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -214,6 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +253,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Filters.md"
+              }
             }
           },
           {
@@ -273,6 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
