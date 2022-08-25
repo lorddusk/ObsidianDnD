@@ -43,14 +43,14 @@ We are attacked by kobolds riding some kind of wasp.
 
 ```ad-combat
 collapse: closed
-![[Red Hand of Doom/Session Notes/Rolls/Session 1 - 21 August 2022#^combat]]
+![[Red Hand of Doom/Session Notes/Rolls/Session 1#^combat]]
 ```
 
 We captured a kobold, and kept him for questioning.
 After combat, we find a note on one of the kobold bodies: 
 ```ad-quote
 title: In Draconic, translated through Comprehend Languages
-collapse: true
+collapse: open
 Execute an ambush during the [[Harvest Festival]], so I can do my job uninterrupted.
 ~ [[Jeralla]]
 ```
