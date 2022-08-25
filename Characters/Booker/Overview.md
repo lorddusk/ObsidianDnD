@@ -19,4 +19,11 @@
 | History         | INT  | -1  | []   |
 | Insight         | WIS  | +4  | [x]  |
 | Intimidation    | CHA  | +3  | []   |
-| Investigation   | INT  | +    |      |
+| Investigation   | INT  | +1  | [x]  |
+| Medicine        | WIS  | +2  | []   |
+| Perception      | WIS  | +4  | [x]  |
+| Performance     | CHA  | +3  | []   |
+| Persuasion      | CHA  | +3  | []   |
+| Religion        | INT  | -1  | []   |
+| Sleight of Hand | DEX  | +2  | []   |
+| Stealth         | DEX     |     |      |
