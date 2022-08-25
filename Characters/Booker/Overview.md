@@ -46,8 +46,9 @@
 | Radiant  | Aasimar        |
 
 ### Attacks
-| Name           | Range | Roll | DMG | Mod | Type     | Effect |
-| -------------- | ----- | ---- | --- | --- | -------- | ------ |
-| Spear          | 20/60 | +5   | 1d6 | +3  | Piercing |        |
-| Spear (Hexed)  | 20/60 | +5   | 1d6 | +5  | Piercing |        |
-| Eldritch Blast | 120   | +     |     |     |          |        |
+| Name              | Range       | Roll | DMG  | Mod | Type     | Effect |
+| ----------------- | ----------- | ---- | ---- | --- | -------- | ------ |
+| Spear             | Melee/20/60 | +5   | 1d6  | +3  | Piercing |        |
+| Spear (Hexed)     | Melee/20/60 | +5   | 1d6  | +5  | Piercing |        |
+| Eldritch Blast    | 120         | +5   | 1d10 |     | Force    |        |
+| Green-Flame Blade | Melee       | +5   | 1d6  | +3  |          |        |
