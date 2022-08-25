@@ -68,7 +68,6 @@
 	- [[Eldritch Blast]]
 	- [[Green-Flame Blade]]
 	- [[Light]]
-	- 
 
 - 1st Level:
 	- [[Armor of Agathys]]
