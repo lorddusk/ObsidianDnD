@@ -40,12 +40,12 @@
 | CHA  | +5  |  ✔️  |
 
 ### Resistances
-| Name     |
-| -------- |
-| Necrotic |
-| Radiant         |
+| Name     | Source  |
+| -------- | ------- |
+| Necrotic | Aasimar |
+| Radiant  | Aasimar        |
 
 ### Attacks
-| Name | Roll | Mod | DMG | Effect |
-| ---- | ---- | --- | --- | ------ |
-|      |      |     |     |        |
+| Name  | Roll | Mod | DMG | Effect |
+| ----- | ---- | --- | --- | ------ |
+| Spear |      |     |     |        |
