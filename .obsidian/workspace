@@ -12,8 +12,14 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Timeline.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":49},\"to\":{\"line\":7,\"ch\":49}}}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -122,19 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":25},\"to\":{\"line\":6,\"ch\":25}}}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Wyrmsmoke Mountains.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md",
+            "file": "Red Hand of Doom/Timeline.md",
             "mode": "source",
             "source": false
           }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md",
+                "file": "Red Hand of Doom/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md"
+                "file": "Red Hand of Doom/Timeline.md"
               }
             }
           },
@@ -280,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md",
+                "file": "Red Hand of Doom/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -305,8 +305,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a675e60e8360408f",
+  "active": "841bf2def27d6860",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md",
     "Red Hand of Doom/Compendium/Groups/Index.md",
     "Red Hand of Doom/Compendium/Groups/Test.md",
     "Compendium Index.md",
@@ -315,7 +316,6 @@
     "Red Hand of Doom/Compendium/Locations/Crestbrook.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/The Witchwood.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/The Blackfens.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Talar.md"
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/The Blackfens.md"
   ]
 }

@@ -14,7 +14,7 @@
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraPadding": {
-      "top": 2,
+      "top": 0,
       "right": 2,
       "bottom": 2,
       "left": 2
@@ -30,10 +30,6 @@
   "Red Hand of Doom/Compendium/Deities": "FasBookBible",
   "Red Hand of Doom/Compendium/NPCs": "FasUsers",
   "Red Hand of Doom/Compendium/Items": "FasWandMagicSparkles",
-  "Red Hand of Doom/Compendium/Locations/Elsir Vale": {
-    "iconName": null,
-    "inheritanceIcon": "FasMapLocationDot"
-  },
   "Red Hand of Doom/Session Notes/Rolls": "FasDice",
   "Red Hand of Doom/Session Notes": "FasNoteSticky",
   "Red Hand of Doom/Compendium/Characters/Index.md": "FasList",
