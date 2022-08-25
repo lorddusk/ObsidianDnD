@@ -43,8 +43,8 @@
   "Tags.md": "FasTags",
   "Compendium Index.md": "FasList",
   "Red Hand of Doom/Timeline Entries": "FasTimeline",
-  "Red Hand of Doom/Compendium/Deities/Index.md": "FasList",
   "Red Hand of Doom/Compendium/Groups": "FasUserGroup",
   "Red Hand of Doom/Compendium/Groups/Index.md": "FasList",
-  "Filters.md": "FasFilter"
+  "Filters.md": "FasFilter",
+  "Red Hand of Doom/Compendium/Deities/Dol Arrah.md": "FasList"
 }
