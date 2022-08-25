@@ -12,8 +12,14 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Cantrip/Armor of Shadows.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":259},\"to\":{\"line\":8,\"ch\":259}},\"scroll\":0}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -122,19 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Wyrmsmoke Mountains.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Booker/Spells/Cantrip/Armor of Shadows.md",
+            "file": "Characters/Booker/Overview.md",
             "mode": "source",
             "source": false
           }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Spells/Cantrip/Armor of Shadows.md",
+                "file": "Characters/Booker/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Spells/Cantrip/Armor of Shadows.md"
+                "file": "Characters/Booker/Overview.md"
               }
             }
           },
@@ -280,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Spells/Cantrip/Armor of Shadows.md",
+                "file": "Characters/Booker/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -349,6 +349,7 @@
   },
   "active": "841bf2def27d6860",
   "lastOpenFiles": [
+    "Characters/Booker/Spells/Cantrip/Armor of Shadows.md",
     "Characters/Booker/Overview.md",
     "Characters/Booker/Spells/Cantrip/Light.md",
     "Characters/Booker/Character Sheet.md",
@@ -357,7 +358,6 @@
     "Compendium Index.md",
     "Red Hand of Doom/Compendium/NPCs/NPCs.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Eric Farrsight.md",
-    "Red Hand of Doom/Compendium/NPCs/Family/Titlayo Crest.md",
-    "Red Hand of Doom/Compendium/NPCs/The Inventor.md"
+    "Red Hand of Doom/Compendium/NPCs/Family/Titlayo Crest.md"
   ]
 }

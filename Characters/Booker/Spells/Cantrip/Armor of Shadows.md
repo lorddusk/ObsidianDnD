@@ -1,5 +1,5 @@
 #### Armor of Shadows
-*1st-level abjuration*
+*At-will abjuration*
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch
