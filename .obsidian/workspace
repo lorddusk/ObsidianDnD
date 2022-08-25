@@ -13,7 +13,7 @@
               "leaf": "841bf2def27d6860",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":35.94289227406244}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -303,7 +303,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "841bf2def27d6860",
   "lastOpenFiles": [
