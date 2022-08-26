@@ -158,6 +158,24 @@
                 {
                   "leaf": "de44de68b716a269",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"House Rules/Inspiration/I have a thing for that.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"House Rules/Inspiration.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":19},\"to\":{\"line\":8,\"ch\":19}}}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/House Rules.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
@@ -256,31 +274,13 @@
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Jeralla.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/The Inventor.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":14},\"to\":{\"line\":10,\"ch\":14}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
+                "file": "House Rules/Inspiration/I have a thing for that.md",
                 "mode": "source",
                 "source": false
               }
@@ -297,7 +297,7 @@
                   "leaf": "72c82dda200a03e4",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":81,\"ch\":0},\"to\":{\"line\":81,\"ch\":0}},\"scroll\":66.85483870967742}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":82,\"ch\":0},\"to\":{\"line\":82,\"ch\":0}},\"scroll\":56.774647887323944}"
                 }
               ]
             },
@@ -393,7 +393,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "House Rules/Inspiration/I have a thing for that.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -429,7 +429,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md"
+                "file": "House Rules/Inspiration/I have a thing for that.md"
               }
             }
           },
@@ -455,7 +455,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "House Rules/Inspiration/I have a thing for that.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -481,17 +481,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "72c82dda200a03e4",
+  "active": "de44de68b716a269",
   "lastOpenFiles": [
+    "House Rules/Inspiration.md",
+    "Red Hand of Doom/House Rules.md",
+    "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
     "Characters/Booker/Background.md",
-    "Red Hand of Doom/Session Notes/Session 2.md",
     "Characters/Booker/Overview.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 1.md",
     "Characters/Booker/Spells/Cantrip/Light.md",
     "Characters/Booker/Spells/Cantrip/Armor of Shadows.md",
-    "Characters/Booker/Character Sheet.md",
-    "Characters/Booker/Spells/1st Level/Comprehend Languages.md",
-    "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md"
+    "Characters/Booker/Character Sheet.md"
   ]
 }
