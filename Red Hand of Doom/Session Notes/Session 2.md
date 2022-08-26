@@ -23,7 +23,9 @@ create_date: {{26 August 2022}}
 - Datums voor komende 3 sessies vast gezet.
 - Of Joe nog mee gaat doen is nog maar de vraag
 ## Notes:
-Naar de begraafplaats gegaan met Keefe,
+Naar de begraafplaats gegaan met Keefe.
+Doom Guide : Jovier Glemden (The head priest, and senior of Keefe)
+Most solemn 
 
 ## Loot:
 

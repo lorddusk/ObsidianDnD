@@ -9,6 +9,7 @@ Resides in [[Elsir Vale]]
 Known for their apple orchards and sheep herders.
 
 #### Graveyard
+Very well kept, a bit moody environment
 
 
 ### Points of Interest
