@@ -22,6 +22,9 @@ create_date: {{26 August 2022}}
 - We moeten gaan rollen in dice trays, de rolls waren behoorlijk goed te horen voor de kinderen.
 - Datums voor komende 3 sessies vast gezet.
 - Of Joe nog mee gaat doen is nog maar de vraag
+
+- 5 Inspiration dice were given
+- Currently left : 4
 ## Notes:
 Naar de begraafplaats gegaan met Keefe.
 Doom Guide : Jovier Glemden (The head priest, and senior of Keefe)
@@ -80,7 +83,8 @@ In the north corner, three bodies lie on the floor. Humanlike, but with dragonli
 There is a slight smell of decay in the air.
 In the middle of the room, a circle was drawn. Seemingly a teleportation circle.
 In the corner of the room, a stripper pole is present with purple glyphs inscribed in them.
-
+Inspiration dice was used for buying paper.
+This paper was used to copy the sigils of the teleportation circle.
 
 
 ## Loot:
