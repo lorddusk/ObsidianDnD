@@ -4,7 +4,7 @@
 |            HP |   16   |    16     |
 | Hitdice (1d8) |   1    |     0     |
 |            AC |   15   |     -     |
-|   Spell slots |   1    |     1     |
+|   Spell Slots |   1    |     1     |
 | Healing Hands |   1    |     1     | 
 
 ### Stats
