@@ -76,7 +76,9 @@ North,
 South, 
 East (this one is damaged, and does not give of light)
 West 
-In the north corne
+In the north corner, three bodies lie on the floor. Humanlike, but with dragonlike parts sown unto them.
+
+
 
 ## Loot:
 
