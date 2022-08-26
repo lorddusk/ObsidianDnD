@@ -155,8 +155,26 @@
                 {
                   "leaf": "de44de68b716a269",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Jeralla.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/The Inventor.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":14},\"to\":{\"line\":10,\"ch\":14}}}"
                 },
                 {
                   "leaf": "de44de68b716a269",
@@ -241,7 +259,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
                 "mode": "source",
                 "source": false
               }
@@ -256,18 +274,20 @@
                 {
                   "leaf": "72c82dda200a03e4",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":1},\"to\":{\"line\":26,\"ch\":1}},\"scroll\":19.633680555555557}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":19.633680555555557}"
                 }
               ]
             },
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -441,15 +461,15 @@
   },
   "active": "72c82dda200a03e4",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
+    "Red Hand of Doom/Compendium/NPCs/Jeralla.md",
+    "Red Hand of Doom/Compendium/NPCs/The Inventor.md",
+    "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
     "Red Hand of Doom/Compendium/NPCs/Brother Keefe.md",
-    "Red Hand of Doom/Session Notes/Session 2.md",
     "Characters/Booker/Overview.md",
     "Red Hand of Doom/Compendium/Characters/Keth.md",
     "Red Hand of Doom/Compendium/Characters/Characters.md",
-    "Red Hand of Doom/Compendium/Characters/Aelar.md",
-    "Characters/Booker/Spells/Cantrip/Light.md",
-    "Red Hand of Doom/Compendium/Deities/Chauntea.md",
-    "Red Hand of Doom/Compendium/Deities/Dol Arrah.md"
+    "Red Hand of Doom/Compendium/Characters/Aelar.md"
   ]
 }
