@@ -1,11 +1,11 @@
 # Overview
-|          What | Amount | Remaining |
-| -------------:|:------:|:---------:|
-|            HP |   16   |    16     |
-| Hit dice (1d8) |   1    |     0     |
-|            AC |   15   |     -     |
-|   Spell Slots |   1    |     1     |
-| Healing Hands |   1    |     1     | 
+|           What | Amount | Remaining |
+| --------------:|:------:|:---------:|
+|             HP |   16   |    15     |
+| Hit dice (1d8) |   1    |     0     | 
+|             AC |   15   |     -     |
+|    Spell Slots |   1    |     1     |
+|  Healing Hands |   1    |     1     |
 
 ### Stats
 | Name | Stat | Mod |
