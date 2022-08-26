@@ -74,9 +74,10 @@ A third room is painted like a lair of a dragon. Depictions of Hoards, Cultists,
 Four glyphs, that are lightly lit are also present in the room
 North, 
 South, 
-East (this one is damaged, and does not give of light)
+East (this one is damaged, and does not give of light),
 West 
 In the north corner, three bodies lie on the floor. Humanlike, but with dragonlike parts sown unto them.
+There is a slight smell of decay in the air.
 
 
 
