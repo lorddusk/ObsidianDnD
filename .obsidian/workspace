@@ -158,6 +158,18 @@
                 {
                   "leaf": "de44de68b716a269",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 1.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Cantrip/Light.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
@@ -262,25 +274,13 @@
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Brother Keefe.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Booker/Spells/Cantrip/Light.md",
+                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -393,7 +393,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Spells/Cantrip/Light.md",
+                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -429,7 +429,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Spells/Cantrip/Light.md"
+                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md"
               }
             }
           },
@@ -455,7 +455,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Spells/Cantrip/Light.md",
+                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -483,14 +483,14 @@
   },
   "active": "de44de68b716a269",
   "lastOpenFiles": [
+    "Red Hand of Doom/Session Notes/Rolls/Session 1.md",
+    "Characters/Booker/Spells/Cantrip/Light.md",
     "Characters/Booker/Overview.md",
     "Characters/Booker/Spells/Cantrip/Armor of Shadows.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
     "Characters/Booker/Character Sheet.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
-    "Red Hand of Doom/Session Notes/Rolls/Session 1.md",
     "Characters/Booker/Spells/1st Level/Comprehend Languages.md",
-    "Characters/Booker/Spells/Cantrip/Light.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
     "Red Hand of Doom/Compendium/NPCs/Jeralla.md"
   ]
