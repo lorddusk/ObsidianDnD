@@ -6,7 +6,7 @@
       {
         "id": "841bf2def27d6860",
         "type": "leaf",
-        "dimension": 43.84085692425402,
+        "dimension": 31.216526396327467,
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
@@ -144,7 +144,7 @@
       {
         "id": "72c82dda200a03e4",
         "type": "leaf",
-        "dimension": 56.15914307574599,
+        "dimension": 68.78347360367253,
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
@@ -152,7 +152,7 @@
               "leaf": "72c82dda200a03e4",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":91.991}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":102,\"ch\":39},\"to\":{\"line\":102,\"ch\":39}},\"scroll\":90.31373355263158}"
             }
           ]
         },
@@ -333,9 +333,9 @@
   },
   "active": "72c82dda200a03e4",
   "lastOpenFiles": [
-    "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
-    "Red Hand of Doom/Session Notes/Session 2.md",
     "Characters/Booker/Overview.md",
+    "Red Hand of Doom/Session Notes/Session 2.md",
+    "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
     "House Rules/Mechanics & Combat/Flanking.md",
     "House Rules/Mechanics & Combat.md",
     "Red Hand of Doom/House Rules.md",

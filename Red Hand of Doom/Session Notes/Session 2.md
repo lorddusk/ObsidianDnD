@@ -100,7 +100,8 @@ He wanted to destroy the research. I refrained him from doing so. But he said th
 Received [100gp] for the completion of the quest, [20gp] each.
 
 We go back to The Squinting Beholder Inn, still quite busy.
-A older woman notices us after a while.
+A older woman notices us after a while. We know her.
+She tells us that we did a good job 
 
 ## Loot:
 - Tourmaline [50gp] (Kept to myself)
