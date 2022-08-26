@@ -7,8 +7,9 @@
 | 4   |            |      |      |       |      |      |      |
 
 ###### Combat #1
-| Id. | What       | Dice | Roll | Extra | Adv. | Dis. | Note |
-| --- | ---------- | ---- | ---- | ----- | ---- | ---- | ---- |
-| 1   | Initiative | d20  | 2    |       |      |      |      |
-| 2   |            |      |  14    |       |      |      |      |
+| Id. | What         | Dice | Roll | Extra | Adv. | Dis. | Note |
+| --- | ------------ | ---- | ---- | ----- | ---- | ---- | ---- | 
+| 1   | Initiative   | d20  | 2    |       |      |      |      |     
+| 2   | Melee Attack | d20  | 14   |       |      |      |      |     
+|     |              | d6   | 5    |       |      |      |      |     |     | 
 ^combat
