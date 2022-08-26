@@ -94,7 +94,7 @@ During the copying, 3 zombies resurrect amongst us
 [[Bikam]] has fully copied the sigils of the circle onto paper after an hour.
 In the throne room [[Bikam]] found a hidden compartment, I triggered the trap inside, that was hiding a poison dart, and found some loot.
 
-We showed [[Brother Keefe]] what we found
+We showed [[Brother Keefe]] what we found.
 
 ## Loot:
 - Tourmaline [50gp] (Kept to myself)
