@@ -19,7 +19,7 @@ create_date: {{26 August 2022}}
 ![[Red Hand of Doom/Session Notes/Session 1#^summary]]
 
 ## Housekeeping:
-
+- We moeten gaan rollen in dice trays, de rolls waren behoorlijk goed te horen voor de kinderen.
 ## Notes:
 
 ## Loot:
