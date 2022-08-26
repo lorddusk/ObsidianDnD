@@ -55,7 +55,7 @@ Execute an ambush during the [[Harvest Festival]], so I can do my job uninterrup
 ~ [[Jeralla]]
 ```
 
-A priest named [[Brother Keith]] approaches us, while recovering from the fight.
+A priest named [[Brother Keefe]] approaches us, while recovering from the fight.
 He's the guarding of the cemetery in [[Nimon Gap]], his job is to bury the dead, and keep the records of the deceased. 
 He brings rumors that one of the [[Clerics of Kelemvor]] that is buried there, is not really a human, but a disguised Green Dragon.
 And asks us to join him to investigate. We told him that we first needed to interrogate the capture kobold (as there are no prison cells in [[Nimon Gap]]) and will join him afterwards.

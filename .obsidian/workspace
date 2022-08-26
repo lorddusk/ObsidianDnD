@@ -12,6 +12,12 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Brother Keefe.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":2},\"to\":{\"line\":22,\"ch\":2}}}"
             },
@@ -122,19 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Characters.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":62.8759654702408}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Session Notes/Session 2.md",
+            "file": "Red Hand of Doom/Compendium/NPCs/Brother Keefe.md",
             "mode": "source",
             "source": false
           }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/Brother Keefe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md"
+                "file": "Red Hand of Doom/Compendium/NPCs/Brother Keefe.md"
               }
             }
           },
@@ -280,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/Brother Keefe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -349,8 +349,8 @@
   },
   "active": "841bf2def27d6860",
   "lastOpenFiles": [
-    "Characters/Booker/Overview.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
+    "Characters/Booker/Overview.md",
     "Red Hand of Doom/Session Notes/Session 1.md",
     "Red Hand of Doom/Session Notes/Session 0.md",
     "Red Hand of Doom/Compendium/Items/Items.md",

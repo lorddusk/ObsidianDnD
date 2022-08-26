@@ -1,10 +1,10 @@
 ---
 type: npc
-name: Keith
+name: Keefe
 location: Nimon Gap
 desc: Priest
 tags: NPC
 ---
 
-# Brother Keith 
+# Brother Keefe
 Gravekeeper of [[Nimon Gap]]
