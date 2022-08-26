@@ -151,7 +151,7 @@
           {
             "id": "de44de68b716a269",
             "type": "leaf",
-            "dimension": 34.25309229305423,
+            "dimension": 39.77164605137964,
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
@@ -159,7 +159,7 @@
                   "leaf": "de44de68b716a269",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":86},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":9.899621667067018}"
+                  "eState": "{\"scroll\":10.097714545990408}"
                 },
                 {
                   "leaf": "de44de68b716a269",
@@ -289,7 +289,7 @@
           {
             "id": "72c82dda200a03e4",
             "type": "leaf",
-            "dimension": 65.74690770694576,
+            "dimension": 60.22835394862036,
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
