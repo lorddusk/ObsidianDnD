@@ -76,6 +76,7 @@ North,
 South, 
 East (this one is damaged, and does not give of light)
 West 
+In the north corne
 
 ## Loot:
 
