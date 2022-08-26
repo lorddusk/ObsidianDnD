@@ -5,3 +5,7 @@
 | 2   | Perception | d20  | 14   |       |      |      |      |
 | 3   | Arcana     | d20  | 1    |       |      |      |      |
 | 4   |            |      |      |       |      |      |      |
+
+###### Combat
+| Id. | What       | Dice | Roll | Extra | Adv. | Dis. | Note |
+| --- | ---------- | ---- | ---- | ----- | ---- | ---- | ---- |
