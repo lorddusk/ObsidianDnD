@@ -6,7 +6,7 @@
 |             AC |   15   |    15     | 
 |    Spell Slots |   1    |     1     |
 |  Healing Hands |   1    |     0     |
-|      Hex Curse |   1    |     1     |
+|      Hex Curse |   1    |     0     |
 
 ### Stats
 | Name | Stat | Mod |
