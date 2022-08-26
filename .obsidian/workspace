@@ -18,6 +18,24 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 1.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":11},\"to\":{\"line\":6,\"ch\":36}}}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 0.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":13},\"to\":{\"line\":6,\"ch\":13}}}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 0.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}}}"
             },
@@ -110,24 +128,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Cantrip/Green-Flame Blade.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":336},\"to\":{\"line\":10,\"ch\":336}}}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Background.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":20.453001968503937}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Character Sheet.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
@@ -307,6 +307,7 @@
   },
   "active": "841bf2def27d6860",
   "lastOpenFiles": [
+    "Red Hand of Doom/Session Notes/Session 1.md",
     "Red Hand of Doom/Session Notes/Session 0.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Compendium/Items/Items.md",
@@ -315,7 +316,6 @@
     "Red Hand of Doom/Compendium/Deities/Deities.md",
     "Characters/Booker/Background.md",
     "Red Hand of Doom/Compendium/Characters/Alton.md",
-    "Red Hand of Doom/Compendium/Characters/Keth.md",
-    "Red Hand of Doom/Compendium/Characters/Characters.md"
+    "Red Hand of Doom/Compendium/Characters/Keth.md"
   ]
 }
