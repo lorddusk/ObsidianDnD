@@ -56,7 +56,9 @@ title: Note #1
 ```ad-note
 title: Note #2 
 Dated: Ches 03 1491 DR
-Jeralla, the Artificer has been found, his lab is near the abandon watermill near the tweesprong
+
+[[Jeralla]], the Artificer has been found, his lab is near the abandon watermill near the tweesprong.
+
 ~ [[Raaxil]]
 ```
 ```ad-note
