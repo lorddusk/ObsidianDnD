@@ -30,6 +30,7 @@
 | Intimidation    | CHA  | +3  |      |
 | Investigation   | INT  | +1  |  ✔️  |
 | Medicine        | WIS  | +2  |      |
+| Nature          | INT  | -1  |      |
 | Perception      | WIS  | +4  |  ✔️  |
 | Performance     | CHA  | +3  |      |
 | Persuasion      | CHA  | +3  |      |

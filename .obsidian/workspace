@@ -14,7 +14,7 @@
               "leaf": "841bf2def27d6860",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-              "eState": "{\"scroll\":17.574116441864437}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":9},\"to\":{\"line\":21,\"ch\":9}},\"scroll\":17.574116441864437}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -291,7 +291,7 @@
                   "leaf": "72c82dda200a03e4",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":44},\"to\":{\"line\":36,\"ch\":44}},\"scroll\":21.43923611111111}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":0},\"to\":{\"line\":37,\"ch\":0}},\"scroll\":24.38053097345133}"
                 }
               ]
             },
@@ -387,7 +387,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Character Sheet.md",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -423,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Character Sheet.md"
+                "file": "Red Hand of Doom/Session Notes/Session 2.md"
               }
             }
           },
@@ -449,7 +449,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Character Sheet.md",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -468,16 +468,17 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "de44de68b716a269",
+  "active": "72c82dda200a03e4",
   "lastOpenFiles": [
     "Characters/Booker/Overview.md",
+    "Characters/Booker/Character Sheet.md",
     "Characters/Booker/Spells/Cantrip/Light.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
@@ -485,7 +486,6 @@
     "Red Hand of Doom/Compendium/NPCs/The Inventor.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
     "Red Hand of Doom/Compendium/NPCs/Brother Keefe.md",
-    "Red Hand of Doom/Compendium/Characters/Keth.md",
-    "Red Hand of Doom/Compendium/Characters/Characters.md"
+    "Red Hand of Doom/Compendium/Characters/Keth.md"
   ]
 }
