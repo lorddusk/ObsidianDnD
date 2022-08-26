@@ -14,7 +14,7 @@
               "leaf": "841bf2def27d6860",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":9},\"to\":{\"line\":21,\"ch\":9}},\"scroll\":17.574116441864437}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":2},\"to\":{\"line\":21,\"ch\":2}},\"scroll\":70.99264705882354}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -158,8 +158,14 @@
                 {
                   "leaf": "de44de68b716a269",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Comprehend Languages.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Character Sheet.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "leaf": "de44de68b716a269",
@@ -274,7 +280,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Booker/Character Sheet.md",
+                "file": "Characters/Booker/Spells/1st Level/Comprehend Languages.md",
                 "mode": "source",
                 "source": false
               }
@@ -291,7 +297,7 @@
                   "leaf": "72c82dda200a03e4",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":0},\"to\":{\"line\":37,\"ch\":0}},\"scroll\":24.38053097345133}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":0},\"to\":{\"line\":37,\"ch\":0}},\"scroll\":18.973544973544975}"
                 }
               ]
             },
@@ -387,7 +393,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "Characters/Booker/Spells/1st Level/Comprehend Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -423,7 +429,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md"
+                "file": "Characters/Booker/Spells/1st Level/Comprehend Languages.md"
               }
             }
           },
@@ -449,7 +455,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "Characters/Booker/Spells/1st Level/Comprehend Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -475,13 +481,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "72c82dda200a03e4",
+  "active": "de44de68b716a269",
   "lastOpenFiles": [
     "Characters/Booker/Overview.md",
+    "Red Hand of Doom/Session Notes/Session 2.md",
     "Characters/Booker/Character Sheet.md",
     "Characters/Booker/Spells/Cantrip/Light.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
-    "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Compendium/NPCs/Jeralla.md",
     "Red Hand of Doom/Compendium/NPCs/The Inventor.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
