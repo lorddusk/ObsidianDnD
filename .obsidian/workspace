@@ -159,7 +159,7 @@
                   "leaf": "de44de68b716a269",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"scroll\":3.494093283757707}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":7},\"to\":{\"line\":13,\"ch\":7}},\"scroll\":3.494093283757707}"
                 },
                 {
                   "leaf": "de44de68b716a269",
@@ -297,7 +297,7 @@
                   "leaf": "72c82dda200a03e4",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":87,\"ch\":0},\"to\":{\"line\":87,\"ch\":0}},\"scroll\":60.11267605633803}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":74,\"ch\":0},\"to\":{\"line\":74,\"ch\":0}},\"scroll\":66.66129032258064}"
                 }
               ]
             },
@@ -484,9 +484,9 @@
   "active": "72c82dda200a03e4",
   "lastOpenFiles": [
     "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
+    "Red Hand of Doom/Session Notes/Session 2.md",
     "Characters/Booker/Overview.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 1.md",
-    "Red Hand of Doom/Session Notes/Session 2.md",
     "House Rules/Inspiration/I have a thing for that.md",
     "House Rules/Inspiration.md",
     "Red Hand of Doom/House Rules.md",

@@ -76,8 +76,8 @@ In our room, I look through the books, but don't understand anything in them.
 A third room is painted like a lair of a dragon. Depictions of Hoards, Cultists, Prisoners that are bound and gagged with apples that are being served.
 Four glyphs, that are lightly lit are also present in the room
 North, 
-South, 
-East (this one is damaged, and does not give of light),
+South (this one is damaged, and does not give of light),
+East,
 West 
 In the north corner, three bodies lie on the floor. Humanlike, but with dragonlike parts sown unto them.
 There is a slight smell of decay in the air.
@@ -87,6 +87,9 @@ Inspiration dice was used for buying paper.
 This paper was used to copy the sigils of the teleportation circle.
 During the copying, 3 zombies resurrect amongst us
 
+```ad-combat
+![[Red Hand of Doom/Session Notes/Rolls/Session 2#^combat]]
+```
 
 
 ## Loot:
