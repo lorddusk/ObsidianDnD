@@ -1,25 +1,26 @@
 /******* HEADING COLORS *******/
  .markdown-preview-view h1, .cm-header-1 {
-     color: #bbb;
+     color: #d29a38;
      font-size:140%;
      font-variant:small-caps;
 }
  .markdown-preview-view h2, .cm-header-2 {
-     color: #bbb;
+     color: #d29a38;
      font-size:130%;
 }
  .markdown-preview-view h3, .cm-header-3 {
-     color: #bbb;
+     color: #d29a38;
      font-size:120%;
 }
  .markdown-preview-view h4, .cm-header-4 {
-     color: #bbb font-size:110%;
+     color: #d29a38;
+font-size:110%;
 }
  .markdown-preview-view h5, .cm-header-5 {
-     color: #bbb;
+     color: #d29a38;
      font-size:100%;
 }
  .markdown-preview-view h6, .cm-header-6 {
-     color: #bbb;
+     color: #d29a38;
      font-size:100%;
 }
