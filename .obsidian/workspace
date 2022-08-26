@@ -13,8 +13,8 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":39},\"to\":{\"line\":7,\"ch\":39}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -132,188 +132,38 @@
             }
           ]
         },
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Characters/Booker/Overview.md",
             "mode": "source",
             "source": false
-          },
-          "pinned": true
+          }
         }
       },
       {
-        "id": "d8be902282c7ec0e",
-        "type": "split",
+        "id": "72c82dda200a03e4",
+        "type": "leaf",
         "dimension": 56.15914307574599,
-        "children": [
-          {
-            "id": "de44de68b716a269",
-            "type": "leaf",
-            "dimension": 39.77164605137964,
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":63},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"House Rules/Mechanics & Combat/Flanking.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":7},\"to\":{\"line\":18,\"ch\":7}},\"scroll\":8.17485119047619}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"House Rules/Mechanics & Combat/Flanking.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"House Rules/Mechanics & Combat.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":8},\"to\":{\"line\":12,\"ch\":8}}}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/House Rules.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":10},\"to\":{\"line\":16,\"ch\":10}},\"scroll\":6.078552266202287}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"House Rules/Mechanics & Combat/Flanking.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"House Rules/Mechanics & Combat.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/House Rules.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":80},\"to\":{\"line\":14,\"ch\":80}},\"scroll\":6.837624135172025}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"House Rules/Mechanics & Combat/Heavy Critical Hits.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"House Rules/Mechanics & Combat.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":19},\"to\":{\"line\":6,\"ch\":19}}}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/House Rules.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":11},\"to\":{\"line\":14,\"ch\":11}},\"scroll\":6.078552266202287}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"House Rules/Mechanics & Combat/Flanking.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"House Rules/Mechanics & Combat.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.4444444444444446}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/House Rules.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":8},\"to\":{\"line\":14,\"ch\":8}},\"scroll\":5.066456440909305}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 1.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
-                "mode": "source",
-                "source": false
-              }
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "72c82dda200a03e4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":91.991}"
             }
-          },
-          {
-            "id": "72c82dda200a03e4",
-            "type": "leaf",
-            "dimension": 60.22835394862036,
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "72c82dda200a03e4",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":97,\"ch\":0},\"to\":{\"line\":97,\"ch\":0}},\"scroll\":91.901}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Red Hand of Doom/Session Notes/Session 2.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -484,8 +334,8 @@
   "active": "72c82dda200a03e4",
   "lastOpenFiles": [
     "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
-    "Characters/Booker/Overview.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
+    "Characters/Booker/Overview.md",
     "House Rules/Mechanics & Combat/Flanking.md",
     "House Rules/Mechanics & Combat.md",
     "Red Hand of Doom/House Rules.md",
