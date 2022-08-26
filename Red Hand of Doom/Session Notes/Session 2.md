@@ -66,7 +66,7 @@ title: Scribled under Note 2
 Experiment failed, portal hasnt opened, Artificer is dead, Ichor is leaking through, we are going to use this to empower our army.
 ```
 
-In another room, found by [[Bikam]], skeletons were found in a throne room.
+In another room, found by [[Bikam]], skeletons were found in a throne room. Throne is made from Mahogany wood
 
 
 ## Loot:
