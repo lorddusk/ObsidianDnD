@@ -12,7 +12,7 @@
 | 1   | Initiative    | d20  | 2    |       |      |      |      |
 | 2   | Melee Attack  | d20  | 14   |       |      |      |      |
 | 3   | Spear (Hexed) | d6   | 5    |       |      |      |      |
-| 4   | Melee Attack  | d20  | 19   |       |      |      |      |
+| 4   | Melee Attack  | d20  | 19   |       |      |      | Crit because Hex!     |
 | 5   | Spear (Hexed) | d6   | 3    |       |      |      |      |
 | 6   |               |      |      |       |      |      |      |
 ^combat
