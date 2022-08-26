@@ -14,7 +14,7 @@
               "leaf": "841bf2def27d6860",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":39},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":21},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -152,7 +152,7 @@
               "leaf": "72c82dda200a03e4",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":103,\"ch\":99},\"to\":{\"line\":103,\"ch\":99}},\"scroll\":89.93478618421052}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":98,\"ch\":0},\"to\":{\"line\":98,\"ch\":0}},\"scroll\":89.93478618421052}"
             }
           ]
         },
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Overview.md"
+                "file": "Red Hand of Doom/Session Notes/Session 2.md"
               }
             }
           },
@@ -305,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -331,10 +331,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "841bf2def27d6860",
+  "active": "72c82dda200a03e4",
   "lastOpenFiles": [
-    "Red Hand of Doom/Session Notes/Session 2.md",
     "Characters/Booker/Overview.md",
+    "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
     "House Rules/Mechanics & Combat/Flanking.md",
     "House Rules/Mechanics & Combat.md",
