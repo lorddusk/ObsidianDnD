@@ -48,7 +48,7 @@ It appears to be a door, and we manage to open it. Moving through the door, we g
 We found some notes
 
 ```ad-note
-
+Raaksil, I've figured out how to complete to process, put this in a cauldron, and stir the content, the effect 
 ```
 
 
