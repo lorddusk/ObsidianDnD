@@ -74,8 +74,8 @@ A third room is painted like a lair of a dragon. Depictions of Hoards, Cultists,
 Four glyphs, that are lightly lit are also present in the room
 North, 
 South, 
-East, 
-West
+East (this one is damaged, and does not give of light)
+West 
 
 ## Loot:
 
