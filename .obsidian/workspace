@@ -159,7 +159,7 @@
                   "leaf": "de44de68b716a269",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":8},\"to\":{\"line\":5,\"ch\":8}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 },
                 {
                   "leaf": "de44de68b716a269",
@@ -297,7 +297,7 @@
                   "leaf": "72c82dda200a03e4",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-                  "eState": "{\"scroll\":45.44444444444444}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":67,\"ch\":0},\"to\":{\"line\":67,\"ch\":0}},\"scroll\":46.7890625}"
                 }
               ]
             },
@@ -393,7 +393,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -429,7 +429,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md"
+                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md"
               }
             }
           },
@@ -455,7 +455,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -480,11 +480,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c7d7ccbed6f94a3b",
+  "active": "de44de68b716a269",
   "lastOpenFiles": [
+    "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
     "Characters/Booker/Overview.md",
-    "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 1.md",
     "Characters/Booker/Spells/Cantrip/Light.md",
     "Characters/Booker/Spells/Cantrip/Armor of Shadows.md",
