@@ -95,7 +95,9 @@ During the copying, 3 zombies resurrect amongst us
 
 
 ## Loot:
-
+- Tourmaline [50gp]
+- ![[Pasted image 20220826225915.png]]
+- Scroll
 ## Log:
 
 
