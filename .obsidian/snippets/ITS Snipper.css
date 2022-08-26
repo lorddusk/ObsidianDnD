@@ -964,7 +964,7 @@ settings:
   --inactive: #e2b7a3;
   --f-icon: #ebbd92;
   --file: var(--text);
-  --accent: #c75959;
+  --accent: #eb9e5d;
   --lite-accent: #a35158;
   --dark-accent: #ffefda;
   --bg: var(--dark-sidebar);
@@ -976,7 +976,7 @@ settings:
   --lines: var(--inactive);
   --text: #412f2f;
   --code-text: #681010;
-  --accent2-lite: #df6262;
+  --accent2-lite: #ffbf64;
   --graph-bg: var(--note);
   --graph-lines: #fae0d0;
   --graph-node: var(--headers);
