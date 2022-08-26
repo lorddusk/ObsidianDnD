@@ -16,5 +16,4 @@
 | 5   | Spear (Hexed) | d6   | 3    |       |      |      |                          |
 | 6   | Melee Attack  | d20  | 17   | 3     | ✔️   |      | Adv through [[Flanking]] |
 | 7   | Spear         | d6   | 3    |       |      |      |                          |
-| 8   |               |      |      |       |      |      |                          |
 ^combat
