@@ -95,9 +95,9 @@ During the copying, 3 zombies resurrect amongst us
 
 
 ## Loot:
-- Tourmaline [50gp]
+- Tourmaline [50gp] (Kept to myself)
 - ![[Pasted image 20220826225915.png]]
-- Scroll of  [[Comprehend Languages]]
+- Scroll of  [[Comprehend Languages]] (Given to [[Bikam]])
 ## Log:
 
 
