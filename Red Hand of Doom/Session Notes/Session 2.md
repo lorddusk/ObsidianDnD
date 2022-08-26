@@ -91,6 +91,8 @@ During the copying, 3 zombies resurrect amongst us
 ![[Red Hand of Doom/Session Notes/Rolls/Session 2#^combat]]
 ```
 
+[[Bikam]] has fully copied the sigils of the circle onto paper after an hour.
+
 
 ## Loot:
 
