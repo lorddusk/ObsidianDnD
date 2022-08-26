@@ -43,6 +43,9 @@ Stuck those in the opening above the depictions, and stopped the gas. The crypt 
 Keefe looks as surprised as we do. Asked to make noise if anyone enters the crypt, and we move down the stairs.
 As a safeguard [[Aelar]] sets a beartrap on the stairs, so we know if someone moves down.
 
+A magical plane was seen, but nothing triggered when interacted with, or moved passed.
+
+
 
 
 ## Loot:
