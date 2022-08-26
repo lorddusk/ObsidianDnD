@@ -71,7 +71,11 @@ In our room, I look through the books, but don't understand anything in them.
 [[Bikam]] hearing about books, enters our rooms and is able to tell they are magical books for incantations.
 
 A third room is painted like a lair of a dragon. Depictions of Hoards, Cultists, Prisoners that are bound and gagged with apples that are being served.
-Four glpy
+Four glyphs, that are lightly lit are also present in the room
+North, 
+South, 
+East, 
+West
 
 ## Loot:
 
