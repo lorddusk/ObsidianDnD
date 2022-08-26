@@ -3,18 +3,22 @@
 .cm-header-1
 {
   color: #bbb;
+font-size:140%;
+    font-variant:small-caps
 }
 
 .markdown-preview-view h2,
 .cm-header-2
 {
   color: #bbb;
+font-size:130%
 }
 
 .markdown-preview-view h3,
 .cm-header-3
 {
   color: #bbb;
+font-size:120%
 }
 
 .markdown-preview-view h4,
