@@ -151,7 +151,7 @@
           {
             "id": "de44de68b716a269",
             "type": "leaf",
-            "dimension": 39.46808510638298,
+            "dimension": 26.831588962892482,
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
@@ -159,7 +159,7 @@
                   "leaf": "de44de68b716a269",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                  "eState": "{}"
                 },
                 {
                   "leaf": "de44de68b716a269",
@@ -289,7 +289,7 @@
           {
             "id": "72c82dda200a03e4",
             "type": "leaf",
-            "dimension": 60.53191489361702,
+            "dimension": 73.16841103710752,
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
@@ -297,7 +297,7 @@
                   "leaf": "72c82dda200a03e4",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":69,\"ch\":0},\"to\":{\"line\":69,\"ch\":0}},\"scroll\":52.95070422535211}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":19},\"to\":{\"line\":47,\"ch\":19}},\"scroll\":43.638888888888886}"
                 }
               ]
             },
@@ -484,8 +484,8 @@
   "active": "72c82dda200a03e4",
   "lastOpenFiles": [
     "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
-    "Characters/Booker/Overview.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
+    "Characters/Booker/Overview.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 1.md",
     "Characters/Booker/Spells/Cantrip/Light.md",
     "Characters/Booker/Spells/Cantrip/Armor of Shadows.md",
