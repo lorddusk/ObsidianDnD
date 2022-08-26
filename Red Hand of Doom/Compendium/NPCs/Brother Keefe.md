@@ -8,3 +8,4 @@ tags: NPC
 
 # Brother Keefe
 Gravekeeper of [[Nimon Gap]], member of the [[Clerics of Kelemvor]]
+Np
