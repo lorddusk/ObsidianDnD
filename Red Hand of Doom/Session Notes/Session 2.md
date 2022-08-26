@@ -95,7 +95,7 @@ During the copying, 3 zombies resurrect amongst us
 In the throne room [[Bikam]] found a hidden compartment, I triggered the trap inside, that was hiding a poison dart, and found some loot.
 
 We showed quickly [[Brother Keefe]] what we found. In and out, 20 minute adventure.
-He wanted to destroy the 
+He wanted to destroy the research. I refrained him from doing so. But he said that he was going to fix this himself.
 
 ## Loot:
 - Tourmaline [50gp] (Kept to myself)
