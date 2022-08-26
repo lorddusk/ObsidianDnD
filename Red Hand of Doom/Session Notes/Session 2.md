@@ -20,8 +20,10 @@ create_date: {{26 August 2022}}
 
 ## Housekeeping:
 - We moeten gaan rollen in dice trays, de rolls waren behoorlijk goed te horen voor de kinderen.
-- 
+- Datums voor komende 3 sessies vast gezet.
+- Of Joe nog mee gaat doen is nog maar de vraag
 ## Notes:
+Naar de begraafplaats gegaan met Keefe,
 
 ## Loot:
 
