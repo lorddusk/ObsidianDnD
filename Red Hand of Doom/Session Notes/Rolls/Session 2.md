@@ -6,7 +6,7 @@
 | 3   | Arcana     | d20  | 1    |       |      |      |      |
 | 4   |            |      |      |       |      |      |      |
 
-###### Combat
+###### Combat #1
 | Id. | What       | Dice | Roll | Extra | Adv. | Dis. | Note |
 | --- | ---------- | ---- | ---- | ----- | ---- | ---- | ---- |
 | 1   | Initiative | d20  | 2    |       |      |      |      |
