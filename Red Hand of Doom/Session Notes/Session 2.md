@@ -34,6 +34,8 @@ Walls carved, and painted with scenes of a human woman, in various locations:
 - Holding a snake in a garden
 - Working in a lab, with bubbling vials
 - Various other depictions
+In the middle of the crypt lies a sacrofagh
+
 
 ## Loot:
 
