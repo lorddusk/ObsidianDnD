@@ -83,3 +83,4 @@
 - 1st Level:
 	- [[Armor of Agathys]]
 	- [[Comprehend Languages]]
+	- [[Wrathful Smite]]
