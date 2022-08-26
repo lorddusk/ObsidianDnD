@@ -100,7 +100,8 @@ He wanted to destroy the research. I refrained him from doing so. But he said th
 Received [100gp] for the completion of the quest, [20gp] each.
 
 We go back to The Squinting Beholder Inn, still quite busy.
-A older woman notices us after a while. We know her.
+A older woman notices us after a while. We  [[Crucia Cromwell]]
+She's the owner of this Inn.
 She tells us that we did a good job defending the town. She gives us a small pouch with [50gp] each
 
 ## Loot:
