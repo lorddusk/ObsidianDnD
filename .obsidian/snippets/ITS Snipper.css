@@ -440,7 +440,7 @@ settings:
 }
 
 .theme-dark:is(.dnd, .wotc) {
-  --embed-h: #c93c3c;
+  --embed-h: #d29a38;
   --h1-c: var(--headers);
   --h2-c: sandybrown;
   --h3-c: var(--embed-h);
