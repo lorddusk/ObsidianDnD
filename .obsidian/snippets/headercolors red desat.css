@@ -4,37 +4,40 @@
 {
   color: #bbb;
 font-size:140%;
-    font-variant:small-caps
+    font-variant:small-caps;
 }
 
 .markdown-preview-view h2,
 .cm-header-2
 {
   color: #bbb;
-font-size:130%
+font-size:130%;
 }
 
 .markdown-preview-view h3,
 .cm-header-3
 {
   color: #bbb;
-font-size:120%
+font-size:120%;
 }
 
 .markdown-preview-view h4,
 .cm-header-4
 {
   color: #bbb
+font-size:110%;
 }
 
 .markdown-preview-view h5,
 .cm-header-5
 {
   color: #bbb;
+font-size:100%;
 }
 
 .markdown-preview-view h6,
 .cm-header-6
 {
   color: #bbb;
+font-size:100%;
 }
