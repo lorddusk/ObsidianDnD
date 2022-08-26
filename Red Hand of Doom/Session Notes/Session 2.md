@@ -56,6 +56,9 @@ We found some notes
 title: Note dated - Ches 03 1491 DR
 Jeralla, the Artificer has been found, his lab is near the abandon watermill near the tweesprong
 ~ [[Raaxil]]
+
+
+Experiment failed, portal hasnt opened, Artificer is dead, Ichor is leaking through, we are going to use this to empower our army.
 ```
 
 
