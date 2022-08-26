@@ -1,9 +1,9 @@
 # Overview
 |           What | Amount | Remaining |
 | --------------:|:------:|:---------:|
-|             HP |   16   |     8     | 
+|             HP |   20   |    20     | 
 | Hit dice (1d8) |   2    |     2     |
-|             AC |   15   |    15     |
+|             AC |   17   |    17     |
 |    Spell Slots |   1    |     1     |
 |  Healing Hands |   1    |     1     |
 |      Hex Curse |   1    |     1     |
