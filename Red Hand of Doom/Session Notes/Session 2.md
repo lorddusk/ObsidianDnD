@@ -67,7 +67,7 @@ Experiment failed, portal hasnt opened, Artificer is dead, Ichor is leaking thro
 ```
 
 In another room, found by [[Bikam]], skeletons were found in a throne room. Throne is made from Mahogany wood
-
+I  our room, I look through the books, but don't understand anything in the 
 
 ## Loot:
 
