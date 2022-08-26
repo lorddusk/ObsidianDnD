@@ -101,11 +101,12 @@ Received [100gp] for the completion of the quest, [20gp] each.
 
 We go back to The Squinting Beholder Inn, still quite busy.
 A older woman notices us after a while. We know her.
-She tells us that we did a good job 
+She tells us that we did a good job defending the town. She gives us a small pouch with [50gp] each
 
 ## Loot:
 - Tourmaline [50gp] (Kept to myself)
 - [20gp]
+- [50gp]
 - ![[Pasted image 20220826225915.png]]
 - Scroll of  [[Comprehend Languages]] (Given to [[Bikam]])
 ## Log:
