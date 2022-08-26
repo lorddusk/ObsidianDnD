@@ -70,6 +70,8 @@ In another room, found by [[Bikam]], skeletons were found in a throne room. Thro
 In our room, I look through the books, but don't understand anything in them. 
 [[Bikam]] hearing about books, enters our rooms and is able to tell they are magical books for incantations.
 
+A third room is painted like a lair of a dragon. Depictions of hoards, C
+
 ## Loot:
 
 ## Log:
