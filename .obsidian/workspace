@@ -141,75 +141,111 @@
         }
       },
       {
-        "id": "de44de68b716a269",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "de44de68b716a269",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Brother Keefe.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+        "id": "d8be902282c7ec0e",
+        "type": "split",
+        "children": [
+          {
+            "id": "de44de68b716a269",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Brother Keefe.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":33},\"to\":{\"line\":10,\"ch\":33}}}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Keth.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Characters.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Aelar.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Keth.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Keth.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Characters.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
             },
-            {
-              "leaf": "de44de68b716a269",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Keth.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "de44de68b716a269",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Characters.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "de44de68b716a269",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Aelar.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "de44de68b716a269",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Keth.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "de44de68b716a269",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "de44de68b716a269",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Keth.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "de44de68b716a269",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Characters.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "de44de68b716a269",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Red Hand of Doom/Compendium/NPCs/Brother Keefe.md",
-            "mode": "source",
-            "source": false
+          },
+          {
+            "id": "72c82dda200a03e4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "72c82dda200a03e4",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -289,7 +325,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/Brother Keefe.md",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +361,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/Brother Keefe.md"
+                "file": "Red Hand of Doom/Session Notes/Session 2.md"
               }
             }
           },
@@ -351,7 +387,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/Brother Keefe.md",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -379,11 +415,11 @@
   },
   "active": "de44de68b716a269",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/NPCs/Brother Keefe.md",
     "Red Hand of Doom/Compendium/Characters/Keth.md",
     "Red Hand of Doom/Compendium/Characters/Characters.md",
     "Red Hand of Doom/Compendium/Characters/Aelar.md",
     "Characters/Booker/Overview.md",
-    "Red Hand of Doom/Compendium/NPCs/Brother Keefe.md",
     "Characters/Booker/Spells/Cantrip/Light.md",
     "Red Hand of Doom/Compendium/Deities/Chauntea.md",
     "Red Hand of Doom/Compendium/Deities/Dol Arrah.md",
