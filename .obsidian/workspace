@@ -12,8 +12,26 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Deities/Kelemvor.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Groups/Clerics of Kelemvor.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":68},\"to\":{\"line\":11,\"ch\":68}}}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":11},\"to\":{\"line\":16,\"ch\":11}}}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":9},\"to\":{\"line\":9,\"ch\":9}},\"scroll\":0}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -110,31 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Items/Items.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Groups/Groups.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Events/Events.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Booker/Overview.md",
+            "file": "Red Hand of Doom/Compendium/Deities/Kelemvor.md",
             "mode": "source",
             "source": false
           }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Red Hand of Doom/Compendium/Deities/Kelemvor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Overview.md"
+                "file": "Red Hand of Doom/Compendium/Deities/Kelemvor.md"
               }
             }
           },
@@ -280,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Red Hand of Doom/Compendium/Deities/Kelemvor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -350,14 +350,14 @@
   "active": "841bf2def27d6860",
   "lastOpenFiles": [
     "Red Hand of Doom/Compendium/Groups/Clerics of Kelemvor.md",
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
+    "Characters/Booker/Overview.md",
     "Red Hand of Doom/Compendium/NPCs/Brother Keefe.md",
     "Red Hand of Doom/Compendium/Deities/Kelemvor.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
-    "Characters/Booker/Overview.md",
     "Red Hand of Doom/Session Notes/Session 1.md",
     "Red Hand of Doom/Session Notes/Session 0.md",
     "Red Hand of Doom/Compendium/Items/Items.md",
-    "Red Hand of Doom/Compendium/Groups/Groups.md",
-    "Red Hand of Doom/Compendium/Events/Events.md"
+    "Red Hand of Doom/Compendium/Groups/Groups.md"
   ]
 }
