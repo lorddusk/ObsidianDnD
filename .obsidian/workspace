@@ -159,7 +159,7 @@
                   "leaf": "de44de68b716a269",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":66},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":6.837624135172025}"
                 },
                 {
                   "leaf": "de44de68b716a269",
@@ -483,13 +483,13 @@
   },
   "active": "de44de68b716a269",
   "lastOpenFiles": [
+    "Characters/Booker/Overview.md",
+    "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
     "House Rules/Mechanics & Combat/Heavy Critical Hits.md",
     "House Rules/Mechanics & Combat.md",
     "Red Hand of Doom/House Rules.md",
-    "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
     "House Rules/Mechanics & Combat/Flanking.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 1.md",
-    "Characters/Booker/Overview.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Session Notes/Session 1.md",
     "House Rules/Inspiration/I have a thing for that.md"

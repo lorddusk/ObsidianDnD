@@ -1,7 +1,7 @@
 # Overview
 |           What | Amount | Remaining |
 | --------------:|:------:|:---------:|
-|             HP |   16   |    15     |
+|             HP |   16   |    16     |
 | Hit dice (1d8) |   1    |     0     |
 |             AC |   15   |    15     | 
 |    Spell Slots |   1    |     1     |
