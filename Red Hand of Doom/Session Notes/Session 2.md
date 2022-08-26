@@ -41,6 +41,7 @@ Gas started filling the room.
 Stuck those in the opening above the depictions, and stopped the gas. The crypt moved aside and a stairs down appeared.
 
 Keefe looks as surprised as we do. Asked to make noise if anyone enters the crypt, and we move down the stairs.
+As a safeguard [[Aelar]] sets a beartrap on the stairs, so we know if someone moves down.
 
 
 ## Loot:
