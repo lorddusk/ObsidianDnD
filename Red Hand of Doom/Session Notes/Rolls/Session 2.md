@@ -7,9 +7,10 @@
 | 4   |            |      |      |       |      |      |      |
 
 ###### Combat #1
-| Id. | What         | Dice | Roll | Extra | Adv. | Dis. | Note |
-| --- | ------------ | ---- | ---- | ----- | ---- | ---- | ---- | 
-| 1   | Initiative   | d20  | 2    |       |      |      |      |     
-| 2   | Melee Attack | d20  | 14   |       |      |      |      |     
-|     |              | d6   | 5    |       |      |      |      |     |     | 
+| Id. | What          | Dice | Roll | Extra | Adv. | Dis. | Note |
+| --- | ------------- | ---- | ---- | ----- | ---- | ---- | ---- |
+| 1   | Initiative    | d20  | 2    |       |      |      |      |
+| 2   | Melee Attack  | d20  | 14   |       |      |      |      |
+| 3   | Spear (Hexed) | d6   | 5    |       |      |      |      |
+| 4   |               |      |      |       |      |      |      |
 ^combat
