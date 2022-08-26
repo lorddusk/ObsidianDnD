@@ -44,6 +44,7 @@ Keefe looks as surprised as we do. Asked to make noise if anyone enters the cryp
 As a safeguard [[Aelar]] sets a beartrap on the stairs, so we know if someone moves down.
 
 
+
 ## Loot:
 
 ## Log:
