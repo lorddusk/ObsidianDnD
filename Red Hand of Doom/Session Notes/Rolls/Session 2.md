@@ -9,3 +9,5 @@
 ###### Combat
 | Id. | What       | Dice | Roll | Extra | Adv. | Dis. | Note |
 | --- | ---------- | ---- | ---- | ----- | ---- | ---- | ---- |
+| 1   | Initiative | d20  | 2    |       |      |      |      |
+| 2   |            |      |      |       |      |      |      |
