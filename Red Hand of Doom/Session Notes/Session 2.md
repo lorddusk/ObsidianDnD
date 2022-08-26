@@ -97,7 +97,10 @@ In the throne room [[Bikam]] found a hidden compartment, I triggered the trap in
 We showed quickly [[Brother Keefe]] what we found. In and out, 20 minute adventure.
 He wanted to destroy the research. I refrained him from doing so. But he said that he was going to fix this himself.
 
-Received [100gp] for the completion of the quest, [20gp] each
+Received [100gp] for the completion of the quest, [20gp] each.
+
+We go back to The Squinting Beholder Inn, still quite busy.
+A older woman notices us after a while.
 
 ## Loot:
 - Tourmaline [50gp] (Kept to myself)
