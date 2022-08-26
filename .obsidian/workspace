@@ -14,7 +14,7 @@
               "leaf": "841bf2def27d6860",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":9},\"to\":{\"line\":10,\"ch\":9}},\"scroll\":0}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -151,7 +151,7 @@
           {
             "id": "de44de68b716a269",
             "type": "leaf",
-            "dimension": 26.831588962892482,
+            "dimension": 34.25309229305423,
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
@@ -159,7 +159,7 @@
                   "leaf": "de44de68b716a269",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":8},\"to\":{\"line\":12,\"ch\":8}},\"scroll\":4.325457711676943}"
+                  "eState": "{\"scroll\":3.494093283757707}"
                 },
                 {
                   "leaf": "de44de68b716a269",
@@ -289,7 +289,7 @@
           {
             "id": "72c82dda200a03e4",
             "type": "leaf",
-            "dimension": 73.16841103710752,
+            "dimension": 65.74690770694576,
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
@@ -297,7 +297,7 @@
                   "leaf": "72c82dda200a03e4",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":86,\"ch\":67},\"to\":{\"line\":86,\"ch\":67}},\"scroll\":60.11267605633803}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":87,\"ch\":0},\"to\":{\"line\":87,\"ch\":0}},\"scroll\":60.11267605633803}"
                 }
               ]
             },
@@ -393,7 +393,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -429,7 +429,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Overview.md"
+                "file": "Red Hand of Doom/Session Notes/Session 2.md"
               }
             }
           },
@@ -455,7 +455,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -481,16 +481,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "841bf2def27d6860",
+  "active": "72c82dda200a03e4",
   "lastOpenFiles": [
     "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
+    "Characters/Booker/Overview.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 1.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
     "House Rules/Inspiration/I have a thing for that.md",
     "House Rules/Inspiration.md",
     "Red Hand of Doom/House Rules.md",
     "Characters/Booker/Background.md",
-    "Characters/Booker/Overview.md",
     "Characters/Booker/Spells/Cantrip/Light.md",
     "Characters/Booker/Spells/Cantrip/Armor of Shadows.md"
   ]

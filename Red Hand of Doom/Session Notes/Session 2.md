@@ -85,6 +85,8 @@ In the middle of the room, a circle was drawn. Seemingly a teleportation circle.
 In the corner of the room, a stripper pole is present with purple glyphs inscribed in them.
 Inspiration dice was used for buying paper.
 This paper was used to copy the sigils of the teleportation circle.
+During the copying, 3 zombies resurrect amongst us
+
 
 
 ## Loot:
