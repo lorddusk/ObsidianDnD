@@ -28,7 +28,7 @@ Doom Guide : Jovier Glemden (The head priest, and senior of Keefe)
 Most solemn order of the silent shroud.
 Crypt of Xandria, no traces of magic or burglary found.
 Walls carved, and painted with scenes of a human woman, in various locations:
-- Mountain
+- Snowy Mountain
 - Staring in rain with lighting
 - sitting in a  room behind a fireplace
 - Holding a snake in a garden
@@ -36,7 +36,9 @@ Walls carved, and painted with scenes of a human woman, in various locations:
 - Various other depictions
 In the middle of the crypt lies a sarcophagi
 
-After openi
+After opening the crypt, we saw 5 gems, [Red, Blue, Green, Black, White]
+
+Stuck those in the opening above the depictions, and stopped the gas
 
 
 ## Loot:
