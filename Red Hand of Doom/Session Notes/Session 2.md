@@ -100,7 +100,7 @@ He wanted to destroy the research. I refrained him from doing so. But he said th
 Received [100gp] for the completion of the quest, [20gp] each
 
 ## Loot:
-- Tourmaline [50gp] (Kept to myself)\
+- Tourmaline [50gp] (Kept to myself)
 - [20gp]
 - ![[Pasted image 20220826225915.png]]
 - Scroll of  [[Comprehend Languages]] (Given to [[Bikam]])
