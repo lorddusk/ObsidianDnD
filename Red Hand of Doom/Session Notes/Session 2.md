@@ -40,6 +40,8 @@ After opening the crypt, we saw 5 gems, [Red, Blue, Green, Black, White]
 Gas started filling the room.
 Stuck those in the opening above the depictions, and stopped the gas. The crypt moved aside and a stairs down appeared.
 
+Keefe looks as surprised as we do.
+
 
 ## Loot:
 
