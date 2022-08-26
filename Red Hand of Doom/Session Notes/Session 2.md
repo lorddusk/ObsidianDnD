@@ -36,6 +36,8 @@ Walls carved, and painted with scenes of a human woman, in various locations:
 - Various other depictions
 In the middle of the crypt lies a sarcophagi
 
+After openi
+
 
 ## Loot:
 
