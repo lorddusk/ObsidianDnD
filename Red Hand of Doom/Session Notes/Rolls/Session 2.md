@@ -14,6 +14,7 @@
 | 3   | Spear (Hexed) | d6   | 5    |       |      |      |                          |
 | 4   | Melee Attack  | d20  | 19   |       |      |      | Crit because Hex!        |
 | 5   | Spear (Hexed) | d6   | 3    |       |      |      |                          |
-| 6   | Melee Attack  | d20  | 17   | 3     | x    |      | Adv through [[Flanking]] |
-| 7   | Spear              |      |      |       |      |      |                          |
+| 6   | Melee Attack  | d20  | 17   | 3     | ✔️   |      | Adv through [[Flanking]] |
+| 7   | Spear         | d6   | 3    |       |      |      |                          |
+| 8   |               |      |      |       |      |      |                          |
 ^combat
