@@ -92,7 +92,7 @@ During the copying, 3 zombies resurrect amongst us
 ```
 
 [[Bikam]] has fully copied the sigils of the circle onto paper after an hour.
-
+In the throne room [[Bikam]]
 
 ## Loot:
 - Tourmaline [50gp] (Kept to myself)
