@@ -26,7 +26,7 @@ create_date: {{26 August 2022}}
 Naar de begraafplaats gegaan met Keefe.
 Doom Guide : Jovier Glemden (The head priest, and senior of Keefe)
 Most solemn order of the silent shroud.
-
+Crypt of Xandria.
 
 ## Loot:
 
