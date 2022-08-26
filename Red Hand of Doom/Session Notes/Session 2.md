@@ -79,6 +79,7 @@ West
 In the north corner, three bodies lie on the floor. Humanlike, but with dragonlike parts sown unto them.
 There is a slight smell of decay in the air.
 In the middle of the room, a circle was drawn. Seemingly a teleportation circle.
+In the cornor of the room, a stripper pole is presently with purple glyphs inscribed in them.
 
 
 
