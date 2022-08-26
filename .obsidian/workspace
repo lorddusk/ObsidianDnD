@@ -297,7 +297,7 @@
                   "leaf": "72c82dda200a03e4",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":50},\"to\":{\"line\":46,\"ch\":50}},\"scroll\":24.36283185840708}"
+                  "eState": "{\"scroll\":45.44444444444444}"
                 }
               ]
             },
@@ -474,14 +474,13 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "72c82dda200a03e4",
+  "active": "c7d7ccbed6f94a3b",
   "lastOpenFiles": [
     "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
     "Characters/Booker/Overview.md",

@@ -48,13 +48,14 @@ It appears to be a door, and we manage to open it. Moving through the door, we g
 We found some notes
 
 ```ad-note
-Raaksil, I've figured out how to complete to process, put this in a cauldron, and stir the content, the effect will be instantaneous, but don't drink the content
+[[Raaxil]], I've figured out how to complete to process, put this in a cauldron, and stir the content, the effect will be instantaneous, but don't drink the content
 ~ [[Jeralla]]
 ```
 
 ```ad-note
+title: Note dated - Ches 03 1491 DR
 Jeralla, the Artificer has been found, his lab is near the abandon watermill near the tweesprong
-~ Raaksil
+~ [[Raaxil]]
 ```
 
 
