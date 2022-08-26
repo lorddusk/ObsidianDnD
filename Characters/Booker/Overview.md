@@ -71,8 +71,8 @@
 #### Others
  | Name             | Type         | Amount | Recovery | Effect                                              |
  | ---------------- | ------------ | ------ | -------- | --------------------------------------------------- |
- | Hexblade's Curse | Bonus Action | 1      | Short    | Crits on 19 and 20, Heal HP on Kill Level + Cha Mod | 
- | Healing Hands    | Action       | 1      | Long     | Heals 1 HP                                          |
+ | Hexblade's Curse | Bonus Action | 1      | Short    | Crits on 19 and 20, Heal HP on Kill Level + Cha Mod |
+ | Healing Hands    | Action       | 1      | Long     | Heals Level HP                                      | 
 ### Spells
 - Cantrip:
 	- [[Eldritch Blast]]
