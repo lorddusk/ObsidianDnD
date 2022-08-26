@@ -66,6 +66,7 @@ title: Scribled under Note 2
 Experiment failed, portal hasnt opened, Artificer is dead, Ichor is leaking through, we are going to use this to empower our army.
 ```
 
+In another 
 
 
 ## Loot:
