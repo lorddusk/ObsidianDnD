@@ -27,7 +27,13 @@ Naar de begraafplaats gegaan met Keefe.
 Doom Guide : Jovier Glemden (The head priest, and senior of Keefe)
 Most solemn order of the silent shroud.
 Crypt of Xandria, no traces of magic or burglary found.
-
+Walls carved, and painted with scenes of a human woman, in various locations:
+- Mountain
+- Staring in rain with lighting
+- sitting in a  room behind a fireplace
+- Holding a snake in a garden
+- Working in a lab, with bubbling vials
+- Various other depictions
 
 ## Loot:
 
