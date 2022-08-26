@@ -14,7 +14,7 @@
               "leaf": "841bf2def27d6860",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":2},\"to\":{\"line\":21,\"ch\":2}},\"scroll\":70.99264705882354}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":68,\"ch\":76},\"to\":{\"line\":65,\"ch\":0}},\"scroll\":64.3583733974359}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -159,7 +159,7 @@
                   "leaf": "de44de68b716a269",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Comprehend Languages.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.3225806451612903}"
                 },
                 {
                   "leaf": "de44de68b716a269",
@@ -393,7 +393,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Spells/1st Level/Comprehend Languages.md",
+                "file": "Characters/Booker/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -429,7 +429,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Spells/1st Level/Comprehend Languages.md"
+                "file": "Characters/Booker/Overview.md"
               }
             }
           },
@@ -455,7 +455,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Spells/1st Level/Comprehend Languages.md",
+                "file": "Characters/Booker/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -481,8 +481,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "de44de68b716a269",
+  "active": "841bf2def27d6860",
   "lastOpenFiles": [
+    "Characters/Booker/Spells/1st Level/Comprehend Languages.md",
     "Characters/Booker/Overview.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
     "Characters/Booker/Character Sheet.md",
@@ -491,7 +492,6 @@
     "Red Hand of Doom/Compendium/NPCs/Jeralla.md",
     "Red Hand of Doom/Compendium/NPCs/The Inventor.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
-    "Red Hand of Doom/Compendium/NPCs/Brother Keefe.md",
-    "Red Hand of Doom/Compendium/Characters/Keth.md"
+    "Red Hand of Doom/Compendium/NPCs/Brother Keefe.md"
   ]
 }
