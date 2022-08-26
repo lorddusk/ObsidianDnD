@@ -158,6 +158,24 @@
                 {
                   "leaf": "de44de68b716a269",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"House Rules/Mechanics & Combat/Heavy Critical Hits.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"House Rules/Mechanics & Combat.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":19},\"to\":{\"line\":6,\"ch\":19}}}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/House Rules.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
@@ -256,31 +274,13 @@
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"House Rules/Inspiration/I have a thing for that.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"House Rules/Inspiration.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":19},\"to\":{\"line\":8,\"ch\":19}}}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/House Rules.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "de44de68b716a269",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Hand of Doom/House Rules.md",
+                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -393,7 +393,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/House Rules.md",
+                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -429,7 +429,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/House Rules.md"
+                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md"
               }
             }
           },
@@ -455,7 +455,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/House Rules.md",
+                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -483,15 +483,15 @@
   },
   "active": "de44de68b716a269",
   "lastOpenFiles": [
-    "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
-    "House Rules/Mechanics & Combat/Flanking.md",
+    "House Rules/Mechanics & Combat/Heavy Critical Hits.md",
     "House Rules/Mechanics & Combat.md",
     "Red Hand of Doom/House Rules.md",
+    "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
+    "House Rules/Mechanics & Combat/Flanking.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 1.md",
     "Characters/Booker/Overview.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Session Notes/Session 1.md",
-    "House Rules/Inspiration/I have a thing for that.md",
-    "House Rules/Inspiration.md"
+    "House Rules/Inspiration/I have a thing for that.md"
   ]
 }
