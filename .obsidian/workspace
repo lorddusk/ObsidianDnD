@@ -322,8 +322,8 @@
                 {
                   "leaf": "15c883832181dcd2",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
                 }
               ]
             },
@@ -331,7 +331,7 @@
               "type": "markdown",
               "state": {
                 "file": "Characters/Booker/Overview.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
