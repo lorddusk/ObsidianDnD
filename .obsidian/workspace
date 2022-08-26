@@ -14,7 +14,7 @@
               "leaf": "841bf2def27d6860",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{\"scroll\":17.574116441864437}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -158,6 +158,12 @@
                 {
                   "leaf": "de44de68b716a269",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Character Sheet.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Cantrip/Light.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.15}"
                 },
@@ -268,7 +274,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Booker/Spells/Cantrip/Light.md",
+                "file": "Characters/Booker/Character Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -381,7 +387,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Characters/Booker/Character Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -417,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Overview.md"
+                "file": "Characters/Booker/Character Sheet.md"
               }
             }
           },
@@ -443,7 +449,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Characters/Booker/Character Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -469,10 +475,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "841bf2def27d6860",
+  "active": "de44de68b716a269",
   "lastOpenFiles": [
-    "Characters/Booker/Spells/Cantrip/Light.md",
     "Characters/Booker/Overview.md",
+    "Characters/Booker/Spells/Cantrip/Light.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Compendium/NPCs/Jeralla.md",
