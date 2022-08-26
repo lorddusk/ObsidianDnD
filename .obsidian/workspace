@@ -6,14 +6,15 @@
       {
         "id": "841bf2def27d6860",
         "type": "leaf",
+        "dimension": 43.84085692425402,
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
               "leaf": "841bf2def27d6860",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"preview\",\"source\":false},\"pinned\":true}",
-              "eState": "{\"scroll\":11.071428571428571}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -136,7 +137,7 @@
           "type": "markdown",
           "state": {
             "file": "Characters/Booker/Overview.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           },
           "pinned": true
@@ -145,18 +146,26 @@
       {
         "id": "d8be902282c7ec0e",
         "type": "split",
+        "dimension": 56.15914307574599,
         "children": [
           {
             "id": "de44de68b716a269",
             "type": "leaf",
+            "dimension": 39.46808510638298,
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
                   "leaf": "de44de68b716a269",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Cantrip/Light.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.15}"
+                },
+                {
+                  "leaf": "de44de68b716a269",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                  "eState": "{}"
                 },
                 {
                   "leaf": "de44de68b716a269",
@@ -259,7 +268,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
+                "file": "Characters/Booker/Spells/Cantrip/Light.md",
                 "mode": "source",
                 "source": false
               }
@@ -268,6 +277,7 @@
           {
             "id": "72c82dda200a03e4",
             "type": "leaf",
+            "dimension": 60.53191489361702,
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
@@ -275,7 +285,7 @@
                   "leaf": "72c82dda200a03e4",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":17},\"to\":{\"line\":28,\"ch\":17}},\"scroll\":19.633680555555557}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":44},\"to\":{\"line\":36,\"ch\":44}},\"scroll\":21.43923611111111}"
                 }
               ]
             },
@@ -371,7 +381,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "Characters/Booker/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -407,7 +417,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md"
+                "file": "Characters/Booker/Overview.md"
               }
             }
           },
@@ -433,7 +443,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "Characters/Booker/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -459,8 +469,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "72c82dda200a03e4",
+  "active": "841bf2def27d6860",
   "lastOpenFiles": [
+    "Characters/Booker/Spells/Cantrip/Light.md",
     "Characters/Booker/Overview.md",
     "Red Hand of Doom/Compendium/NPCs/Family/Albanus Crest.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
@@ -469,7 +480,6 @@
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
     "Red Hand of Doom/Compendium/NPCs/Brother Keefe.md",
     "Red Hand of Doom/Compendium/Characters/Keth.md",
-    "Red Hand of Doom/Compendium/Characters/Characters.md",
-    "Red Hand of Doom/Compendium/Characters/Aelar.md"
+    "Red Hand of Doom/Compendium/Characters/Characters.md"
   ]
 }
