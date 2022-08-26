@@ -20,6 +20,7 @@ create_date: {{26 August 2022}}
 
 ## Housekeeping:
 - We moeten gaan rollen in dice trays, de rolls waren behoorlijk goed te horen voor de kinderen.
+- 
 ## Notes:
 
 ## Loot:
