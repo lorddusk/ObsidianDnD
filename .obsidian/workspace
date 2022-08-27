@@ -12,6 +12,12 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/The Artificer.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Xandria.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":26},\"to\":{\"line\":17,\"ch\":26}}}"
             },
@@ -122,19 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Cantrip/Armor of Shadows.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":259},\"to\":{\"line\":8,\"ch\":259}}}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Cantrip/Green-Flame Blade.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":336},\"to\":{\"line\":10,\"ch\":336}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/NPCs/Xandria.md",
+            "file": "Red Hand of Doom/Compendium/NPCs/The Artificer.md",
             "mode": "source",
             "source": false
           }
@@ -150,7 +150,7 @@
               "leaf": "66fb70c18103a07d",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":44},\"to\":{\"line\":47,\"ch\":44}},\"scroll\":20.833333333333332}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":82,\"ch\":51},\"to\":{\"line\":82,\"ch\":51}},\"scroll\":34.05034722222222}"
             }
           ]
         },
@@ -332,15 +332,15 @@
   },
   "active": "66fb70c18103a07d",
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium/NPCs/Xandria.md",
+    "Red Hand of Doom/Compendium/NPCs/The Artificer.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
+    "Red Hand of Doom/Compendium/NPCs/Xandria.md",
     "Red Hand of Doom/Compendium/NPCs/Jovier Glemden.md",
     "Red Hand of Doom/Compendium/NPCs/Brother Keefe.md",
     "Characters/Booker/Background.md",
     "Characters/Booker/Character Sheet.md",
     "Characters/Booker/Overview.md",
     "Red Hand of Doom/Compendium/Deities/Deities.md",
-    "Red Hand of Doom/Compendium/Characters/Characters.md",
-    "Red Hand of Doom/Compendium/Characters/Alton.md"
+    "Red Hand of Doom/Compendium/Characters/Characters.md"
   ]
 }
