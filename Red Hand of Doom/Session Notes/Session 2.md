@@ -57,7 +57,7 @@ As a safeguard [[Aelar]] sets a beartrap on the stairs, so we know if someone mo
 
 A magical plane was seen, but nothing triggered when interacted with, or moved passed.
 It appears to be a door, and we manage to open it. Moving through the door, we got damaged by a necrotic trap ([[Booker]] and [[Alton]])
-We found some notes in this new room:
+We found some notes in this new room, written by [[Raaxil]] and [[Jeralla]]:
 
 ```ad-note
 title: Note #1
