@@ -97,6 +97,7 @@ This paper was used to copy the sigils of the teleportation circle.
 During the copying, 3 zombies resurrect amongst us
 
 ```ad-combat
+collapse: closed
 ![[Red Hand of Doom/Session Notes/Rolls/Session 2#^combat]]
 ```
 

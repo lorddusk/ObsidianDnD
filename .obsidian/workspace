@@ -12,6 +12,12 @@
             {
               "leaf": "841bf2def27d6860",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Crucia Cromwell.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "841bf2def27d6860",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/The Artificer.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
             },
@@ -122,19 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"scroll\":39.44319967210875}"
-            },
-            {
-              "leaf": "841bf2def27d6860",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/Cantrip/Armor of Shadows.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":259},\"to\":{\"line\":8,\"ch\":259}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/NPCs/The Artificer.md",
+            "file": "Red Hand of Doom/Compendium/NPCs/Crucia Cromwell.md",
             "mode": "source",
             "source": false
           }
@@ -150,7 +150,7 @@
               "leaf": "66fb70c18103a07d",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":82,\"ch\":51},\"to\":{\"line\":82,\"ch\":51}},\"scroll\":34.05034722222222}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":112,\"ch\":48},\"to\":{\"line\":112,\"ch\":48}},\"scroll\":75.7711693548387}"
             }
           ]
         },
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/Crucia Cromwell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md"
+                "file": "Red Hand of Doom/Compendium/NPCs/Crucia Cromwell.md"
               }
             }
           },
@@ -305,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/Crucia Cromwell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -330,10 +330,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "66fb70c18103a07d",
+  "active": "841bf2def27d6860",
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium/NPCs/The Artificer.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
+    "Red Hand of Doom/Compendium/NPCs/The Artificer.md",
     "Red Hand of Doom/Compendium/NPCs/Xandria.md",
     "Red Hand of Doom/Compendium/NPCs/Jovier Glemden.md",
     "Red Hand of Doom/Compendium/NPCs/Brother Keefe.md",
