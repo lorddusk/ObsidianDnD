@@ -25,14 +25,14 @@
       "query": "tag:#Family",
       "color": {
         "a": 1,
-        "rgb": 15909631
+        "rgb": 13463527
       }
     },
     {
       "query": "tag:#Group",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 14235190
       }
     },
     {
@@ -88,6 +88,6 @@
   "repelStrength": 11.9400791407575,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3213363860503647,
+  "scale": 0.8854989543150578,
   "close": false
 }
