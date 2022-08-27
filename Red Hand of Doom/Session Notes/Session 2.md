@@ -12,7 +12,8 @@ create_date: {{26 August 2022}}
 
 
 ## Summary of This Session:
-
+Na een kleine rust pauze, met broeder Keefe meegegaan naar de begraafplaats, en naar de crypte van Xandria.
+Een oude crypte,
 ^summary
 
 ## Recap of Last Session:
