@@ -6,5 +6,11 @@
   "obsidian-prism-theme@@color-accent-s-dt": 31,
   "ITS-AT@@select": "wotc-beyond",
   "ITS@@select": "wotc-beyond",
-  "ITS@@its-d": false
+  "ITS@@its-d": false,
+  "ITS@@h-exp": false,
+  "ITS@@dv": true,
+  "ITS@@img-zoom": true,
+  "ITS@@slp": true,
+  "ITS@@type-undo": true,
+  "ITS@@starp": true
 }
