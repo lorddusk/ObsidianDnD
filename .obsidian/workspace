@@ -145,20 +145,18 @@
             {
               "leaf": "66fb70c18103a07d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":122,\"ch\":0},\"to\":{\"line\":122,\"ch\":0}},\"scroll\":94.66145833333333}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":11.11111111111111}"
             }
           ]
         },
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Red Hand of Doom/Session Notes/Session 2.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
-          },
-          "pinned": true
+          }
         }
       }
     ],
@@ -326,7 +324,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "841bf2def27d6860",
+  "active": "66fb70c18103a07d",
   "lastOpenFiles": [
     "Red Hand of Doom/Compendium/Characters/Keth.md",
     "Red Hand of Doom/Compendium/Deities/Dol Arrah.md",
