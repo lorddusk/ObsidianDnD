@@ -21,3 +21,4 @@
 (file:-"Groups")
 (file:-"Characters")
 (file:-"Locations")
+(file:-"Session 0")
