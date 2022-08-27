@@ -7,7 +7,7 @@ tags: NPC
 ---
 
 # Crucia Cromwell 
-Priopri
+Proprietor of the Squinting Beholder in [[Nimon Gap]]
 ```ad-ooc
 collapse:closed
 ```
