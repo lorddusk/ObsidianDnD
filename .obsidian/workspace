@@ -149,6 +149,7 @@
           {
             "id": "66fb70c18103a07d",
             "type": "leaf",
+            "dimension": 64.69314079422382,
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
@@ -186,14 +187,15 @@
           {
             "id": "081b6f0244b356ad",
             "type": "leaf",
+            "dimension": 35.30685920577618,
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
                   "leaf": "081b6f0244b356ad",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Filters.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Filters.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":19},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
@@ -376,7 +378,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "66fb70c18103a07d",
+  "active": "081b6f0244b356ad",
   "lastOpenFiles": [
     "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
