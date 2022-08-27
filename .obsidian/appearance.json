@@ -5,9 +5,9 @@
   "enabledCssSnippets": [
     "larger popup",
     "hide folders",
-    "custom-admonitions.8408be",
     "S - Encoded Icons",
-    "Theme - D&D WOTC"
+    "Theme - D&D WOTC",
+    "custom-admonitions.8408be"
   ],
   "translucency": false,
   "baseFontSize": 12
