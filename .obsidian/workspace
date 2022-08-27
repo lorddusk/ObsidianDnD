@@ -145,16 +145,22 @@
             {
               "leaf": "66fb70c18103a07d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":11.11111111111111}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "66fb70c18103a07d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":119,\"ch\":42},\"to\":{\"line\":119,\"ch\":42}},\"scroll\":79.94949494949495}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Session Notes/Session 2.md",
-            "mode": "preview",
+            "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -237,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md"
+                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md"
               }
             }
           },
@@ -299,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -326,9 +332,9 @@
   },
   "active": "66fb70c18103a07d",
   "lastOpenFiles": [
+    "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Compendium/Characters/Keth.md",
     "Red Hand of Doom/Compendium/Deities/Dol Arrah.md",
-    "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Compendium/NPCs/Raaxil.md",
     "Raaxil.md",
     "Red Hand of Doom/Compendium/NPCs/The Artificer.md",

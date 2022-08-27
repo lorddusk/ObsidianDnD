@@ -115,9 +115,9 @@ She tells us that we did a good job defending the town. And gives us a small pou
 
 ## Loot:
 - Tourmaline [50gp] (Kept to myself)
-- [20gp]
-- [50gp]
 - ![[Pasted image 20220826225915.png]]
+- [20gp] (Reward from [[Brother Keefe]])
+- [50gp] (Reward from [[Crucia Cromwell]])
 - Scroll of  [[Comprehend Languages]] (Given to [[Bikam]])
 ## Log:
 
