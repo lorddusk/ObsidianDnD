@@ -13,7 +13,8 @@ create_date: {{26 August 2022}}
 
 ## Summary of This Session:
 Na een kleine rust pauze, met broeder Keefe meegegaan naar de begraafplaats, en naar de crypte van Xandria.
-Een oude crypte,
+Een oude crypte, waar op het eerste gezicht niks mee aan de hand was. Gekozen om deze van binnen te bekijken om de eventuele geruchten te ontkrachten.
+In het midden van de crypte, vol met mooie schilderingen van een vrouw, staat een sacrofaag
 ^summary
 
 ## Recap of Last Session:
