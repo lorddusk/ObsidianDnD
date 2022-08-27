@@ -14,7 +14,9 @@ create_date: {{26 August 2022}}
 ## Summary of This Session:
 Na een kleine rust pauze, met broeder Keefe meegegaan naar de begraafplaats, en naar de crypte van Xandria.
 Een oude crypte, waar op het eerste gezicht niks mee aan de hand was. Gekozen om deze van binnen te bekijken om de eventuele geruchten te ontkrachten.
-In het midden van de crypte, vol met mooie schilderingen van een vrouw, staat een sacrofaag
+In het midden van de crypte, vol met mooie schilderingen van een vrouw, staat een sarcofaag. 
+In deze sarcofaag liggen 5 edelstenen in verschillende kleuren; rood, wit, blauw, groen, en zwart.
+Deze stenen zij
 ^summary
 
 ## Recap of Last Session:
