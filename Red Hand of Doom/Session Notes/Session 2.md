@@ -51,11 +51,12 @@ After opening the crypt, we saw 5 gems, [Red, Blue, Green, Black, White]
 Gas started filling the room.
 Stuck those in the opening above the depictions, and stopped the gas. The crypt moved aside and a stairs down appeared.
 
-Keefe looks as surprised as we do. Asked to make noise if anyone enters the crypt, and we move down the stairs.
+[[Brother Keefe]] looked as surprised as we do. 
+Asked to make noise if anyone enters the crypt, and we move down the stairs.
 As a safeguard [[Aelar]] sets a beartrap on the stairs, so we know if someone moves down.
 
 A magical plane was seen, but nothing triggered when interacted with, or moved passed.
-It appears to be a door, and we manage to open it. Moving through the door, we got damaged by a necrotic trap (Me and [[Alton]])
+It appears to be a door, and we manage to open it. Moving through the door, we got damaged by a necrotic trap ([[Booker]] and [[Alton]])
 We found some notes in this new room:
 
 ```ad-note
