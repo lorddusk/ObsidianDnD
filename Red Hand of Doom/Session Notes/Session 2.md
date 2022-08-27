@@ -16,10 +16,11 @@ Na een kleine rust pauze, met broeder Keefe meegegaan naar de begraafplaats, en 
 Een oude crypte, waar op het eerste gezicht niks mee aan de hand was. Gekozen om deze van binnen te bekijken om de eventuele geruchten te ontkrachten.
 In het midden van de crypte, vol met mooie schilderingen van een vrouw, staat een sarcofaag. 
 In deze sarcofaag liggen 5 edelstenen in verschillende kleuren; rood, wit, blauw, groen, en zwart.
-Deze stenen zijn de oplossing voor de gas puzzel die hieruitvoortkomt.
+Deze stenen zijn de oplossing voor de gas puzzel die hier uitvoort komt.
 Onder de sarcofaag bevindt zich een kelder, met 3 ruimtes. In 1 van deze ruimtes verschijnen 3 zombies, bevochten, en gewonnen.
 Broeder Keefe de kelder laten zien, overlegd wat er gebeurt moest worden verder, en deze gaat de kelder laten opruimen.
-Onze beloning opgehaald, en terugge
+Onze beloning opgehaald, en teruggegaan naar de Schele Beholder, waar ons nog een beloning stond te wachten.
+Morgen gaan we met de uitbaatster praten voor het vervolg!
 ^summary
 
 ## Recap of Last Session:
