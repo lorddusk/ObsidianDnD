@@ -143,35 +143,73 @@
         }
       },
       {
-        "id": "66fb70c18103a07d",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "66fb70c18103a07d",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
+        "id": "129ea5396c3f00ef",
+        "type": "split",
+        "children": [
+          {
+            "id": "66fb70c18103a07d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "66fb70c18103a07d",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "66fb70c18103a07d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Filters.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":17},\"to\":{\"line\":14,\"ch\":17}}}"
+                },
+                {
+                  "leaf": "66fb70c18103a07d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":1},\"to\":{\"line\":5,\"ch\":1}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "66fb70c18103a07d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":119,\"ch\":42},\"to\":{\"line\":119,\"ch\":42}},\"scroll\":79.94949494949495}"
+                }
+              ]
             },
-            {
-              "leaf": "66fb70c18103a07d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":1},\"to\":{\"line\":5,\"ch\":1}},\"scroll\":0}"
-            },
-            {
-              "leaf": "66fb70c18103a07d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":119,\"ch\":42},\"to\":{\"line\":119,\"ch\":42}},\"scroll\":79.94949494949495}"
+            "state": {
+              "type": "graph",
+              "state": {}
             }
-          ]
-        },
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
+          },
+          {
+            "id": "081b6f0244b356ad",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "081b6f0244b356ad",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Filters.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Filters.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -251,6 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +324,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Filters.md"
+              }
             }
           },
           {
@@ -310,6 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }

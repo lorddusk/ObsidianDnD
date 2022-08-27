@@ -13,3 +13,7 @@
 (file:-"Background")
 (file:-"Character Sheet")
 (file:-"Filters")
+(file:-"NPCs")
+(file:-"Items")
+(file:-"Compendium")
+(file:-"Deitie")
