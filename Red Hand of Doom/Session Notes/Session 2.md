@@ -34,8 +34,8 @@ Morgen gaan we met de uitbaatster praten voor het vervolg!
 - 5 Inspiration dice were given
 - Currently left : 4
 ## Notes:
-Naar de begraafplaats gegaan met Keefe.
-Doom Guide : Jovier Glemden (The head priest, and senior of Keefe)
+Went to the cemetery with [[Brother Keefe]]
+Doom Guide : [[Jovier Glemden]] (The head priest, and senior of [[Brother Keefe]])
 Most solemn order of the silent shroud.
 Crypt of Xandria, no traces of magic or burglary found.
 Walls carved, and painted with scenes of a human woman, in various locations:
