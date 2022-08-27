@@ -10,5 +10,7 @@
     "custom-admonitions.8408be"
   ],
   "translucency": false,
-  "baseFontSize": 12
+  "baseFontSize": 18,
+  "textFontFamily": "Fira Code",
+  "baseFontSizeAction": true
 }
