@@ -13,7 +13,7 @@
               "leaf": "841bf2def27d6860",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":15},\"to\":{\"line\":39,\"ch\":15}},\"scroll\":11.11111111111111}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -151,6 +151,30 @@
             {
               "leaf": "66fb70c18103a07d",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66fb70c18103a07d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Comprehend Languages.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66fb70c18103a07d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Wrathful Smite.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66fb70c18103a07d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Comprehend Languages.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66fb70c18103a07d",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Crestbrook.md\",\"mode\":\"preview\",\"source\":false}}",
               "eState": "{}"
             },
@@ -243,37 +267,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "66fb70c18103a07d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Compendium.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66fb70c18103a07d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/NPCs.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66fb70c18103a07d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66fb70c18103a07d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Locations.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/Locations/Crestbrook.md",
+            "file": "Characters/Booker/Overview.md",
             "mode": "preview",
             "source": false
           }
@@ -357,7 +357,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Crestbrook.md",
+                "file": "Characters/Booker/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -393,7 +393,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Crestbrook.md"
+                "file": "Characters/Booker/Overview.md"
               }
             }
           },
@@ -419,7 +419,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Crestbrook.md",
+                "file": "Characters/Booker/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -446,15 +446,15 @@
   },
   "active": "66fb70c18103a07d",
   "lastOpenFiles": [
+    "Red Hand of Doom/Session Notes/Session 2.md",
+    "Characters/Booker/Spells/1st Level/Comprehend Languages.md",
+    "Characters/Booker/Spells/1st Level/Wrathful Smite.md",
+    "Red Hand of Doom/Compendium/Locations/Crestbrook.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
     "Red Hand of Doom/Compendium/NPCs/Xandria.md",
-    "Red Hand of Doom/Session Notes/Session 2.md",
     "Filters.md",
     "Red Hand of Doom/Compendium/Items/Items.md",
     "Red Hand of Doom/Compendium/Locations/Locations.md",
-    "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md",
-    "Red Hand of Doom/Compendium/Compendium.md",
-    "Red Hand of Doom/Compendium/NPCs/NPCs.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md"
+    "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md"
   ]
 }

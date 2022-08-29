@@ -4,10 +4,11 @@
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
     "larger popup",
-    "hide folders",
     "S - Encoded Icons",
+    "custom-admonitions.8408be",
+    "hide folders",
     "Theme - D&D WOTC",
-    "custom-admonitions.8408be"
+    "headercolors"
   ],
   "translucency": false,
   "baseFontSize": 12,
