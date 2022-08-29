@@ -40,5 +40,14 @@
   "ITS@@sphd-ed-fs-3": 26,
   "ITS@@sphd-ed-fs-4": 24,
   "ITS@@link-style": "link-ntn",
-  "ITS@@unset-link-c": false
+  "ITS@@unset-link-c": false,
+  "ITS-AT@@t-d": false,
+  "ITS-AT@@drwn": false,
+  "ITS-AT@@nord": false,
+  "ITS-AT@@notion": false,
+  "ITS-AT@@mini": false,
+  "ITS-AT@@its-d": false,
+  "ITS-AT@@slrvb-b": false,
+  "ITS-AT@@slrvb-g": false,
+  "ITS-AT@@s-d": false
 }
