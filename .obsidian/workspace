@@ -151,8 +151,8 @@
             {
               "leaf": "66fb70c18103a07d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Quests.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Quests.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "66fb70c18103a07d",
@@ -274,7 +274,7 @@
           "type": "markdown",
           "state": {
             "file": "Red Hand of Doom/Quests.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -445,7 +445,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a675e60e8360408f",
+  "active": "66fb70c18103a07d",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
