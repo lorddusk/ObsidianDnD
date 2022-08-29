@@ -13,7 +13,7 @@
               "leaf": "841bf2def27d6860",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":116,\"ch\":40},\"to\":{\"line\":116,\"ch\":40}},\"scroll\":75.7711693548387}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":15},\"to\":{\"line\":39,\"ch\":15}},\"scroll\":11.11111111111111}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -151,8 +151,14 @@
             {
               "leaf": "66fb70c18103a07d",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Xandria.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "66fb70c18103a07d",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":79.04040404040404}"
+              "eState": "{\"scroll\":26.7027027027027}"
             },
             {
               "leaf": "66fb70c18103a07d",
@@ -261,19 +267,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Groups/Clerics of Kelemvor.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "66fb70c18103a07d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Groups/Groups.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Session Notes/Session 2.md",
+            "file": "Red Hand of Doom/Compendium/NPCs/Xandria.md",
             "mode": "preview",
             "source": false
           }
@@ -357,7 +357,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/Xandria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -393,7 +393,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md"
+                "file": "Red Hand of Doom/Compendium/NPCs/Xandria.md"
               }
             }
           },
@@ -419,7 +419,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "Red Hand of Doom/Compendium/NPCs/Xandria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -446,8 +446,8 @@
   },
   "active": "66fb70c18103a07d",
   "lastOpenFiles": [
-    "Filters.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
+    "Filters.md",
     "Red Hand of Doom/Compendium/Items/Items.md",
     "Red Hand of Doom/Compendium/Locations/Locations.md",
     "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md",
