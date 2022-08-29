@@ -14,5 +14,15 @@
   "ITS@@type-undo": true,
   "ITS@@starp": true,
   "ITS@@lig": true,
-  "ITS@@ntsz": false
+  "ITS@@ntsz": false,
+  "ITS@@ed-pre": false,
+  "ITS@@text-spec": false,
+  "ITS@@writing-document": false,
+  "ITS@@justified": true,
+  "ITS@@imgctr": false,
+  "ITS@@unwrap-codeblock": false,
+  "ITS@@dis-tri-quote": true,
+  "ITS@@crop-img": true,
+  "ITS@@Header-Center": "hcl",
+  "ITS@@hash-top": true
 }
