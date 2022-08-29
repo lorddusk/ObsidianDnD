@@ -23,6 +23,20 @@
   "ITS@@unwrap-codeblock": false,
   "ITS@@dis-tri-quote": true,
   "ITS@@crop-img": true,
-  "ITS@@Header-Center": "hcl",
-  "ITS@@hash-top": true
+  "ITS@@Header-Center": "none",
+  "ITS@@hash-top": false,
+  "ITS@@hd-indi": false,
+  "ITS@@hash-reg": true,
+  "ITS@@hd-ovr": true,
+  "ITS@@sphd-und-1": false,
+  "ITS@@sphd-und-2": false,
+  "ITS@@sphd-und-3": true,
+  "ITS@@sphd-und-4": true,
+  "ITS@@sphd-und-5": true,
+  "ITS@@sphd-und-6": true,
+  "ITS@@head-spec": false,
+  "ITS@@head-spec-note": false,
+  "ITS@@sphd-ed-fs-2": 30,
+  "ITS@@sphd-ed-fs-3": 26,
+  "ITS@@sphd-ed-fs-4": 24
 }
