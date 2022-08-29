@@ -13,7 +13,7 @@
               "leaf": "841bf2def27d6860",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -152,7 +152,7 @@
               "leaf": "66fb70c18103a07d",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "66fb70c18103a07d",
@@ -357,7 +357,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -393,7 +393,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Overview.md"
+                "file": "Red Hand of Doom/Session Notes/Session 2.md"
               }
             }
           },
@@ -419,7 +419,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -444,8 +444,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "66fb70c18103a07d",
+  "active": "841bf2def27d6860",
   "lastOpenFiles": [
+    "Characters/Booker/Overview.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
     "Characters/Booker/Spells/1st Level/Comprehend Languages.md",
     "Characters/Booker/Spells/1st Level/Wrathful Smite.md",
@@ -454,7 +455,6 @@
     "Red Hand of Doom/Compendium/NPCs/Xandria.md",
     "Filters.md",
     "Red Hand of Doom/Compendium/Items/Items.md",
-    "Red Hand of Doom/Compendium/Locations/Locations.md",
-    "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md"
+    "Red Hand of Doom/Compendium/Locations/Locations.md"
   ]
 }

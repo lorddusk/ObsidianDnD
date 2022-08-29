@@ -38,5 +38,7 @@
   "ITS@@head-spec-note": false,
   "ITS@@sphd-ed-fs-2": 30,
   "ITS@@sphd-ed-fs-3": 26,
-  "ITS@@sphd-ed-fs-4": 24
+  "ITS@@sphd-ed-fs-4": 24,
+  "ITS@@link-style": "link-ntn",
+  "ITS@@unset-link-c": false
 }
