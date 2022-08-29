@@ -1,6 +1,8 @@
 ---
 type: item
 tags: Item
+magical: false
+description: A transparent pale green, blue, brown, or red gemstone.
 ---
 
 #### Tourmaline (50gp)
