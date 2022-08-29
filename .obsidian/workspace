@@ -13,7 +13,7 @@
               "leaf": "841bf2def27d6860",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-              "eState": "{\"scroll\":34.05034722222222}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":47},\"to\":{\"line\":31,\"ch\":47}}}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -156,6 +156,72 @@
                 {
                   "leaf": "66fb70c18103a07d",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Compendium.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "66fb70c18103a07d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/NPCs.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "66fb70c18103a07d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "66fb70c18103a07d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Locations.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "66fb70c18103a07d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Items/Items.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "66fb70c18103a07d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Groups/Clerics of Kelemvor.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "66fb70c18103a07d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Groups/Groups.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "66fb70c18103a07d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Events/Events.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "66fb70c18103a07d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Characters.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "66fb70c18103a07d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Aelar.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "66fb70c18103a07d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Deities/Deities.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "66fb70c18103a07d",
+                  "group": null,
                   "state": "{\"type\":\"graph\",\"state\":{}}",
                   "eState": "{}"
                 },
@@ -198,8 +264,12 @@
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Red Hand of Doom/Compendium/Compendium.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -309,7 +379,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filters.md",
+                "file": "Red Hand of Doom/Compendium/Compendium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -345,7 +415,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filters.md"
+                "file": "Red Hand of Doom/Compendium/Compendium.md"
               }
             }
           },
@@ -371,7 +441,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filters.md",
+                "file": "Red Hand of Doom/Compendium/Compendium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -398,15 +468,15 @@
   },
   "active": "66fb70c18103a07d",
   "lastOpenFiles": [
-    "Red Hand of Doom/Session Notes/Session 2.md",
-    "Red Hand of Doom/Compendium/Characters/Keth.md",
-    "Red Hand of Doom/Compendium/Characters/Booker.md",
-    "Filters.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
-    "Red Hand of Doom/Compendium/Deities/Dol Arrah.md",
-    "Red Hand of Doom/Compendium/NPCs/Raaxil.md",
-    "Raaxil.md",
-    "Red Hand of Doom/Compendium/NPCs/The Artificer.md",
-    "Red Hand of Doom/Compendium/NPCs/NPCs.md"
+    "Red Hand of Doom/Compendium/NPCs/NPCs.md",
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
+    "Red Hand of Doom/Compendium/Locations/Locations.md",
+    "Red Hand of Doom/Compendium/Items/Items.md",
+    "Red Hand of Doom/Compendium/Groups/Clerics of Kelemvor.md",
+    "Red Hand of Doom/Compendium/Groups/Groups.md",
+    "Red Hand of Doom/Compendium/Events/Events.md",
+    "Red Hand of Doom/Compendium/Characters/Characters.md",
+    "Red Hand of Doom/Compendium/Characters/Aelar.md",
+    "Red Hand of Doom/Compendium/Deities/Deities.md"
   ]
 }
