@@ -151,6 +151,18 @@
             {
               "leaf": "66fb70c18103a07d",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Crestbrook.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66fb70c18103a07d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66fb70c18103a07d",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Xandria.md\",\"mode\":\"preview\",\"source\":false}}",
               "eState": "{\"scroll\":0}"
             },
@@ -255,25 +267,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Locations.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "66fb70c18103a07d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Items/Items.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66fb70c18103a07d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Groups/Clerics of Kelemvor.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Red Hand of Doom/Compendium/NPCs/Xandria.md",
+            "file": "Red Hand of Doom/Compendium/Locations/Crestbrook.md",
             "mode": "preview",
             "source": false
           }
@@ -357,7 +357,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/Xandria.md",
+                "file": "Red Hand of Doom/Compendium/Locations/Crestbrook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -393,7 +393,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/Xandria.md"
+                "file": "Red Hand of Doom/Compendium/Locations/Crestbrook.md"
               }
             }
           },
@@ -419,7 +419,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Compendium/NPCs/Xandria.md",
+                "file": "Red Hand of Doom/Compendium/Locations/Crestbrook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -446,6 +446,8 @@
   },
   "active": "66fb70c18103a07d",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
+    "Red Hand of Doom/Compendium/NPCs/Xandria.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
     "Filters.md",
     "Red Hand of Doom/Compendium/Items/Items.md",
@@ -453,8 +455,6 @@
     "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md",
     "Red Hand of Doom/Compendium/Compendium.md",
     "Red Hand of Doom/Compendium/NPCs/NPCs.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
-    "Red Hand of Doom/Compendium/Groups/Clerics of Kelemvor.md",
-    "Red Hand of Doom/Compendium/Groups/Groups.md"
+    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md"
   ]
 }
