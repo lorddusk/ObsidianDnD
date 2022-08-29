@@ -437,14 +437,14 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "66fb70c18103a07d",
+  "active": "d1bebfe0310a3519",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
