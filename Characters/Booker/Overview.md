@@ -8,7 +8,7 @@
 |  Healing Hands |   1    |     1     |
 |      Hex Curse |   1    |     1     |
 
-### Stats
+## Stats
 | Name | Stat | Mod |
 | ---- |:----:|:---:|
 | STR  |  13  | +1  |
@@ -18,7 +18,7 @@
 | WIS  |  14  | +2  |
 | CHA  |  16  | +3  |
 
-### Skills
+## Skills
 | Name            | Stat | Mod | Prof |
 | --------------- | ---- |:---:|:----:|
 | Acrobatics      | DEX  | +2  |      |
@@ -40,7 +40,7 @@
 | Stealth         | DEX  | +2  |      |
 | Survival        | WIS  | +2  |      |
 
-### Saves
+## Saves
 | Name | Mod | Prof |
 | ---- |:---:|:----:|
 | STR  | +1  |      |
@@ -50,25 +50,24 @@
 | WIS  | +4  |  ✔️  |
 | CHA  | +5  |  ✔️  |
 
-### Resistances
+## Resistances
 | Name     | Source  |
 | -------- | ------- |
 | Necrotic | Aasimar |
 | Radiant  | Aasimar        |
 
-### Actions
-#### Attacks
-##### Melee
+## Actions
+### Melee
 | Name              | Roll | DMG | Mod | Type     | Effect                                   |
 | ----------------- | ---- | --- | --- | -------- | ---------------------------------------- |
 | Spear             | +5   | 1d6 | +3  | Piercing | If Hexed, Mod +5                                         |
 | [[Green-Flame Blade]] | +5   | 1d6 | +3  | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg. If Hexed, Mod +5 |
-##### Ranged
+### Ranged
 | Name           | Range | Roll | DMG  | Mod | Type     | Effect           |
 | -------------- | ----- | ---- | ---- | --- | -------- | ---------------- |
 | [[Eldritch Blast]] | 120   | +5   | 1d10 |     | Force    |                  |
 | Spear          | 20/60 | +5   | 1d6  | +3  | Piercing | If Hexed, Mod +5 |
-#### Others
+### Others
  | Name             | Type         | Amount | Recovery | Effect                                              |
  | ---------------- | ------------ | ------ | -------- | --------------------------------------------------- |
  | Hexblade's Curse | Bonus Action | 1      | Short    | Crits on 19 and 20, Heal HP on Kill Level + Cha Mod |

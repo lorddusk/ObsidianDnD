@@ -13,7 +13,7 @@
               "leaf": "841bf2def27d6860",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"preview\",\"source\":false},\"pinned\":true}",
-              "eState": "{\"scroll\":68.67077464788733}"
+              "eState": "{\"scroll\":60}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -151,8 +151,14 @@
             {
               "leaf": "66fb70c18103a07d",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Booker.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "66fb70c18103a07d",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":39},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":59.96016483516483}"
             },
             {
               "leaf": "66fb70c18103a07d",
@@ -261,19 +267,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "66fb70c18103a07d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Items/Items.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Booker/Overview.md",
+            "file": "Red Hand of Doom/Compendium/Characters/Booker.md",
             "mode": "source",
             "source": false
           }
@@ -357,7 +357,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Red Hand of Doom/Compendium/Characters/Booker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -393,7 +393,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Overview.md"
+                "file": "Red Hand of Doom/Compendium/Characters/Booker.md"
               }
             }
           },
@@ -419,7 +419,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Red Hand of Doom/Compendium/Characters/Booker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -446,15 +446,15 @@
   },
   "active": "66fb70c18103a07d",
   "lastOpenFiles": [
-    "Characters/Booker/Character Sheet.md",
-    "Characters/Booker/Background.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
     "Characters/Booker/Overview.md",
+    "Characters/Booker/Spells/Cantrip/Green-Flame Blade.md",
+    "Characters/Booker/Character Sheet.md",
+    "Characters/Booker/Background.md",
     "Characters/Booker/Spells/1st Level/Comprehend Languages.md",
     "Characters/Booker/Spells/1st Level/Wrathful Smite.md",
     "Red Hand of Doom/Compendium/Locations/Crestbrook.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
-    "Red Hand of Doom/Compendium/NPCs/Xandria.md",
-    "Filters.md"
+    "Red Hand of Doom/Compendium/NPCs/Xandria.md"
   ]
 }
