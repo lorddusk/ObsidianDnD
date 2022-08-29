@@ -151,8 +151,14 @@
             {
               "leaf": "66fb70c18103a07d",
               "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66fb70c18103a07d",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Quests.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "66fb70c18103a07d",
@@ -261,22 +267,12 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Items/Items.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "66fb70c18103a07d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Locations.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Red Hand of Doom/Quests.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -357,7 +353,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -392,9 +387,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Red Hand of Doom/Quests.md"
-              }
+              "state": {}
             }
           },
           {
@@ -419,7 +412,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -450,6 +442,7 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Red Hand of Doom/Quests.md",
     "Red Hand of Doom/Timeline.md",
     "Red Hand of Doom/Compendium/Compendium.md",
     "Characters/Booker/Overview.md",
@@ -458,7 +451,6 @@
     "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
     "Characters/Booker/Spells/Cantrip/Green-Flame Blade.md",
-    "Characters/Booker/Character Sheet.md",
-    "Characters/Booker/Background.md"
+    "Characters/Booker/Character Sheet.md"
   ]
 }
