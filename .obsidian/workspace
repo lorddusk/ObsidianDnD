@@ -151,7 +151,7 @@
             {
               "leaf": "66fb70c18103a07d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"preview\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
             {
@@ -274,7 +274,7 @@
           "type": "markdown",
           "state": {
             "file": "Characters/Booker/Overview.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
