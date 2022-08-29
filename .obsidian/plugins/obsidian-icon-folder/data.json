@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasExclamation",
       "FasList",
       "FasFilter",
       "FasBookOpen",
-      "FasUserGroup",
-      "FasTags"
+      "FasUserGroup"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +35,6 @@
   "Tags.md": "FasTags",
   "Red Hand of Doom/Timeline Entries": "FasTimeline",
   "Red Hand of Doom/Compendium/Groups": "FasUserGroup",
-  "Filters.md": "FasFilter"
+  "Filters.md": "FasFilter",
+  "Red Hand of Doom/Quests.md": "FasExclamation"
 }
