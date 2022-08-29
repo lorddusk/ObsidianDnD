@@ -24,5 +24,7 @@
   "fileSortOrder": "alphabetical",
   "strictLineBreaks": false,
   "showIndentGuide": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "autoPairMarkdown": true,
+  "smartIndentList": true
 }
