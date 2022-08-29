@@ -13,7 +13,7 @@
               "leaf": "841bf2def27d6860",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":47},\"to\":{\"line\":31,\"ch\":47}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":59},\"to\":{\"line\":39,\"ch\":59}}}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -379,7 +379,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Compendium.md",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -415,7 +415,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Compendium.md"
+                "file": "Red Hand of Doom/Session Notes/Session 2.md"
               }
             }
           },
@@ -441,7 +441,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Compendium.md",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -466,8 +466,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "66fb70c18103a07d",
+  "active": "841bf2def27d6860",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Compendium.md",
     "Red Hand of Doom/Compendium/NPCs/NPCs.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
     "Red Hand of Doom/Compendium/Locations/Locations.md",
@@ -476,7 +477,6 @@
     "Red Hand of Doom/Compendium/Groups/Groups.md",
     "Red Hand of Doom/Compendium/Events/Events.md",
     "Red Hand of Doom/Compendium/Characters/Characters.md",
-    "Red Hand of Doom/Compendium/Characters/Aelar.md",
-    "Red Hand of Doom/Compendium/Deities/Deities.md"
+    "Red Hand of Doom/Compendium/Characters/Aelar.md"
   ]
 }

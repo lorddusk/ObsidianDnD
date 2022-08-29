@@ -83,12 +83,12 @@ In our room, I look through the books, but don't understand anything in them.
 [[Bikam]] hearing about books, enters our rooms and is able to tell they are magical books for incantations.
 
 A third room is painted like a lair of a dragon. Depictions of Hoards, Cultists, Prisoners that are bound and gagged with apples that are being served.
-Four glyphs, that are lightly lit are also present in the room
-North, 
-South (this one is damaged, and does not give of light),
-East,
-West 
-In the north corner, three bodies lie on the floor. Humanlike, but with dragonlike parts sown unto them.
+Four glyphs, that are lightly lit are also present in the room:
+- North
+- South (Damaged)
+- East
+- West 
+In the north corner, three bodies lie on the floor. Humanlike, but with dragon-like parts sown unto them.
 There is a slight smell of decay in the air.
 In the middle of the room, a circle was drawn. Seemingly a teleportation circle.
 In the corner of the room, a stripper pole is present with purple glyphs inscribed in them.
