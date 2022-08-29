@@ -87,6 +87,7 @@ Four glyphs, that are lightly lit are also present in the room:
 - South (Damaged)
 - East
 - West 
+
 In the north corner, three bodies lie on the floor. Humanlike, but with dragon-like parts sown unto them.
 There is a slight smell of decay in the air.
 In the middle of the room, a circle was drawn. Seemingly a teleportation circle.
