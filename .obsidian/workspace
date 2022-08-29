@@ -13,7 +13,7 @@
               "leaf": "841bf2def27d6860",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":117,\"ch\":38},\"to\":{\"line\":117,\"ch\":2}},\"scroll\":75.7711693548387}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":116,\"ch\":40},\"to\":{\"line\":116,\"ch\":40}},\"scroll\":75.7711693548387}"
             },
             {
               "leaf": "841bf2def27d6860",
@@ -157,7 +157,31 @@
                   "leaf": "66fb70c18103a07d",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":15},\"to\":{\"line\":11,\"ch\":15}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "66fb70c18103a07d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Items/Items.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "66fb70c18103a07d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "66fb70c18103a07d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Items/Items.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "66fb70c18103a07d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
                 },
                 {
                   "leaf": "66fb70c18103a07d",
@@ -248,24 +272,6 @@
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Booker.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":45},\"to\":{\"line\":21,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "66fb70c18103a07d",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Filters.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":17},\"to\":{\"line\":14,\"ch\":17}}}"
-                },
-                {
-                  "leaf": "66fb70c18103a07d",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":1},\"to\":{\"line\":5,\"ch\":1}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "66fb70c18103a07d",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":119,\"ch\":42},\"to\":{\"line\":119,\"ch\":42}},\"scroll\":79.94949494949495}"
                 }
               ]
             },
@@ -385,7 +391,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -421,7 +427,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md"
+                "file": "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md"
               }
             }
           },
@@ -447,7 +453,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -472,15 +478,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "841bf2def27d6860",
+  "active": "66fb70c18103a07d",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Items/Items.md",
     "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md",
     "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Compendium/Compendium.md",
     "Red Hand of Doom/Compendium/NPCs/NPCs.md",
     "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
     "Red Hand of Doom/Compendium/Locations/Locations.md",
-    "Red Hand of Doom/Compendium/Items/Items.md",
     "Red Hand of Doom/Compendium/Groups/Clerics of Kelemvor.md",
     "Red Hand of Doom/Compendium/Groups/Groups.md",
     "Red Hand of Doom/Compendium/Events/Events.md"
