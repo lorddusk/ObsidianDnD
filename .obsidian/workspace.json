@@ -133,8 +133,30 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "e47bd336218279d2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "e47bd336218279d2",
+                  "group": null,
+                  "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"0.16.1\"}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "0.16.1"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -298,7 +320,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "963b5d28ffaaeae9",
+  "active": "e47bd336218279d2",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },

@@ -13,5 +13,8 @@
   "translucency": false,
   "baseFontSize": 11,
   "textFontFamily": "Bookerly",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "accentColor": "#162279",
+  "showViewHeader": true,
+  "nativeMenus": false
 }
