@@ -49,5 +49,15 @@
   "ITS-AT@@its-d": false,
   "ITS-AT@@slrvb-b": false,
   "ITS-AT@@slrvb-g": false,
-  "ITS-AT@@s-d": false
+  "ITS-AT@@s-d": false,
+  "ITS-AT@@paper": false,
+  "ITS@@its-i": false,
+  "ITS@@op-h": true,
+  "ITS@@rsb-up": false,
+  "ITS@@o-stat-bar": false,
+  "ITS@@btm-nav": false,
+  "ITS@@mbl-sidebar": false,
+  "ITS@@wide-sb-tabs": false,
+  "ITS@@sb-tabs-original": false,
+  "ITS@@thin-ribbon": false
 }
