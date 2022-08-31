@@ -16,6 +16,12 @@
                 {
                   "leaf": "22cf65cba8232319",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "22cf65cba8232319",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Alton.md\",\"mode\":\"preview\",\"source\":false}}",
                   "eState": "{}"
                 },
@@ -42,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Alton.md",
+                "file": "Characters/Booker/Overview.md",
                 "mode": "preview",
                 "source": false
               }
@@ -128,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Alton.md",
+                "file": "Characters/Booker/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Alton.md"
+                "file": "Characters/Booker/Overview.md"
               }
             }
           },
@@ -190,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Alton.md",
+                "file": "Characters/Booker/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -215,8 +221,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a675e60e8360408f",
+  "active": "22cf65cba8232319",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Characters/Alton.md",
     "Red Hand of Doom/Compendium/Characters/Characters.md",
     "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md",
     "Red Hand of Doom/Session Notes/Session 2.md",
@@ -225,7 +232,6 @@
     "Red Hand of Doom/Timeline.md",
     "Red Hand of Doom/Worldmap.md",
     "Red Hand of Doom/Quests.md",
-    "Characters/Booker/Spells/Cantrip/Light.md",
-    "Characters/Booker/Spells/Cantrip/Eldritch Blast.md"
+    "Characters/Booker/Spells/Cantrip/Light.md"
   ]
 }

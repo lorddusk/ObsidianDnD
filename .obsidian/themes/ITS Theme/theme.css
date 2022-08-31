@@ -4053,13 +4053,6 @@ button.mod-cta,
   margin: auto;
 }
 
-/*--Notes Paddings--*/
-.is-readable-line-width.markdown-source-view.mod-cm6 .cm-contentContainer.cm-contentContainer.cm-contentContainer, .is-readable-line-width.markdown-source-view.mod-cm6 .cm-content.cm-content.cm-content, .is-readable-line-width.markdown-source-view.mod-cm6 .cm-line.cm-line.cm-line:not(.HyperMD-table-row), .is-readable-line-width.markdown-source-view.mod-cm6 .markdown-preview-sizer.markdown-preview-sizer, .is-readable-line-width.markdown-preview-view .cm-contentContainer.cm-contentContainer.cm-contentContainer, .is-readable-line-width.markdown-preview-view .cm-content.cm-content.cm-content, .is-readable-line-width.markdown-preview-view .cm-line.cm-line.cm-line:not(.HyperMD-table-row), .is-readable-line-width.markdown-preview-view .markdown-preview-sizer.markdown-preview-sizer {
-  max-width: var(--note-width);
-  margin-left: auto;
-  margin-right: auto;
-}
-
 /* Note Title */
 .view-header {
   align-content: center;
@@ -4159,16 +4152,6 @@ button.mod-cta,
 .workspace-split.mod-root > .workspace-leaf:first-of-type .workspace-leaf-content,
 .workspace-split.mod-root > .workspace-leaf:last-of-type .workspace-leaf-content {
   border-radius: var(--radius);
-}
-
-.workspace-tabs .workspace-leaf.mod-active {
-  border: 1px solid var(--accent);
-  margin-right: 1px;
-}
-
-.workspace-split.mod-right-split .workspace-tabs .workspace-leaf.mod-active {
-  margin-right: 1px;
-  margin-left: 3px;
 }
 
 /*Recolor Top*/
@@ -4470,8 +4453,6 @@ body:not(.type-undo) .nav-file-title {
 .nav-file {
   margin: 0 -2px;
   margin-right: 0px;
-  border: 0;
-  border-left: 2px solid var(--table);
 }
 
 /*Align Folder Line*/
@@ -4972,7 +4953,8 @@ ul > li.task-list-item .task-list-item-checkbox {
 .markdown-source-view:not(.is-live-preview) .cm-formatting-list-ul::before {
   content: var(--bullet);
   font-family: var(--bul-f);
-  margin-right: -11px;
+  margin-right: -10px;
+  margin-left: -6px;
 }
 
 .markdown-source-view.mod-cm6:not(.is-rtl) .list-bullet::after {
@@ -4980,7 +4962,7 @@ ul > li.task-list-item .task-list-item-checkbox {
   margin-right: 0;
 }
 .markdown-source-view.mod-cm6.is-live-preview .list-bullet {
-  padding-right: 0.45em;
+  padding-right: 0.4em;
 }
 .markdown-source-view.mod-cm6:not(.is-live-preview) .list-bullet {
   padding-right: 0.55em;
@@ -4992,7 +4974,7 @@ ul > li.task-list-item .task-list-item-checkbox {
 
 /*Adjust Padding*/
 .cm-s-obsidian:not(.is-live-preview) span.cm-formatting-list-ol {
-  margin-left: 0;
+  margin-left: -7px;
 }
 
 .cm-s-obsidian.is-live-preview span.cm-formatting-list-ol {
@@ -8797,10 +8779,6 @@ body.check-bg .markdown-source-view.mod-cm6 .HyperMD-task-line[data-task] {
   display: none;
 }
 
-.workspace-tabs .markdown-preview-view {
-  padding: 0 0 0 5px;
-}
-
 /*Workspace Tab*/
 .starp .workspace-tab-header[aria-label="Star Pane"] svg {
   color: transparent;
@@ -8953,46 +8931,46 @@ body.check-bg .markdown-source-view.mod-cm6 .HyperMD-task-line[data-task] {
   float: unset;
 }
 
-.callout.callout:not(.is-collapsed)[data-callout-metadata~=wtiny] {
+.callout.callout[data-callout-metadata~=wtiny] {
   width: 20%;
 }
-.callout.callout:not(.is-collapsed)[data-callout-metadata~=wsmall] {
+.callout.callout[data-callout-metadata~=wsmall] {
   width: 30%;
 }
-.callout.callout:not(.is-collapsed)[data-callout-metadata~=ws-med] {
+.callout.callout[data-callout-metadata~=ws-med] {
   width: 40%;
 }
-.callout.callout:not(.is-collapsed)[data-callout-metadata~=wm-sm] {
+.callout.callout[data-callout-metadata~=wm-sm] {
   width: 50%;
 }
-.callout.callout:not(.is-collapsed)[data-callout-metadata~=wmed] {
+.callout.callout[data-callout-metadata~=wmed] {
   width: 60%;
 }
-.callout.callout:not(.is-collapsed)[data-callout-metadata~=wm-tl] {
+.callout.callout[data-callout-metadata~=wm-tl] {
   width: 80%;
 }
-.callout.callout:not(.is-collapsed)[data-callout-metadata~=wtall] {
+.callout.callout[data-callout-metadata~=wtall] {
   width: 95%;
 }
-.callout.callout:not(.is-collapsed)[data-callout-metadata~=wfull] {
+.callout.callout[data-callout-metadata~=wfull] {
   width: 100%;
 }
-.callout.callout:not(.is-collapsed)[data-callout-metadata~=wtiny-c] {
+.callout.callout[data-callout-metadata~=wtiny-c] {
   width: 19%;
 }
-.callout.callout:not(.is-collapsed)[data-callout-metadata~=wsmall-c] {
+.callout.callout[data-callout-metadata~=wsmall-c] {
   width: 32.4%;
 }
-.callout.callout:not(.is-collapsed)[data-callout-metadata~=ws-med-c] {
+.callout.callout[data-callout-metadata~=ws-med-c] {
   width: 39%;
 }
-.callout.callout:not(.is-collapsed)[data-callout-metadata~=wm-sm-c] {
+.callout.callout[data-callout-metadata~=wm-sm-c] {
   width: 49%;
 }
-.callout.callout:not(.is-collapsed)[data-callout-metadata~=wmed-c] {
+.callout.callout[data-callout-metadata~=wmed-c] {
   width: 59%;
 }
-.callout.callout:not(.is-collapsed)[data-callout-metadata~=wm-tl-c] {
+.callout.callout[data-callout-metadata~=wm-tl-c] {
   width: 79%;
 }
 
@@ -9100,6 +9078,68 @@ body .callout.callout.callout:is([data-callout-metadata~=nmg], [data-callout-met
 .callout[data-callout-metadata~=embed] .callout-content, .callout[data-callout-metadata~=embed] p {
   margin: 0;
   padding: 0;
+}
+
+.callout.callout.callout {
+  --callout-blue: 82, 139, 212;
+  --callout-green: 86, 179, 117;
+  --callout-orange: 230, 129, 63;
+  --callout-red: 193, 67, 67;
+  --callout-purple: 153, 97, 218;
+  --callout-gray: 166, 189, 197;
+  --callout-yellow: 208, 181, 48;
+  --callout-pink: 227, 107, 167;
+}
+.callout.callout.callout:is([data-callout-metadata~=color-blue], [data-callout-metadata~=c-blue], [data-callout-metadata~=background-color-blue], [data-callout-metadata~=bg-c-blue]) {
+  --callout-color: var(--callout-blue);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-green], [data-callout-metadata~=c-green], [data-callout-metadata~=background-color-green], [data-callout-metadata~=bg-c-green]) {
+  --callout-color: var(--callout-green);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-orange], [data-callout-metadata~=c-orange], [data-callout-metadata~=background-color-orange], [data-callout-metadata~=bg-c-orange]) {
+  --callout-color: var(--callout-orange);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-red], [data-callout-metadata~=c-red], [data-callout-metadata~=background-color-red], [data-callout-metadata~=bg-c-red]) {
+  --callout-color: var(--callout-red);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-purple], [data-callout-metadata~=c-purple], [data-callout-metadata~=background-color-purple], [data-callout-metadata~=bg-c-purple]) {
+  --callout-color: var(--callout-purple);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-gray], [data-callout-metadata~=c-gray], [data-callout-metadata~=background-color-gray], [data-callout-metadata~=bg-c-gray]) {
+  --callout-color: var(--callout-gray);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-yellow], [data-callout-metadata~=c-yellow], [data-callout-metadata~=background-color-yellow], [data-callout-metadata~=bg-c-yellow]) {
+  --callout-color: var(--callout-yellow);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-pink], [data-callout-metadata~=c-pink], [data-callout-metadata~=background-color-pink], [data-callout-metadata~=bg-c-pink]) {
+  --callout-color: var(--callout-pink);
+}
+.callout.callout.callout:is([data-callout-metadata~=color-], [data-callout-metadata~=c-]) {
+  --callout-color: var(--callout);
+}
+.callout.callout.callout:is([data-callout-metadata~=background-blue], [data-callout-metadata~=bg-blue], [data-callout-metadata~=background-color-blue], [data-callout-metadata~=bg-c-blue]) {
+  background-color: rgba(var(--callout-blue), 10%);
+}
+.callout.callout.callout:is([data-callout-metadata~=background-green], [data-callout-metadata~=bg-green], [data-callout-metadata~=background-color-green], [data-callout-metadata~=bg-c-green]) {
+  background-color: rgba(var(--callout-green), 10%);
+}
+.callout.callout.callout:is([data-callout-metadata~=background-orange], [data-callout-metadata~=bg-orange], [data-callout-metadata~=background-color-orange], [data-callout-metadata~=bg-c-orange]) {
+  background-color: rgba(var(--callout-orange), 10%);
+}
+.callout.callout.callout:is([data-callout-metadata~=background-red], [data-callout-metadata~=bg-red], [data-callout-metadata~=background-color-red], [data-callout-metadata~=bg-c-red]) {
+  background-color: rgba(var(--callout-red), 10%);
+}
+.callout.callout.callout:is([data-callout-metadata~=background-purple], [data-callout-metadata~=bg-purple], [data-callout-metadata~=background-color-purple], [data-callout-metadata~=bg-c-purple]) {
+  background-color: rgba(var(--callout-purple), 10%);
+}
+.callout.callout.callout:is([data-callout-metadata~=background-gray], [data-callout-metadata~=bg-gray], [data-callout-metadata~=background-color-gray], [data-callout-metadata~=bg-c-gray]) {
+  background-color: rgba(var(--callout-gray), 10%);
+}
+.callout.callout.callout:is([data-callout-metadata~=background-yellow], [data-callout-metadata~=bg-yellow], [data-callout-metadata~=background-color-yellow], [data-callout-metadata~=bg-c-yellow]) {
+  background-color: rgba(var(--callout-yellow), 10%);
+}
+.callout.callout.callout:is([data-callout-metadata~=background-pink], [data-callout-metadata~=bg-pink], [data-callout-metadata~=background-color-pink], [data-callout-metadata~=bg-c-pink]) {
+  background-color: rgba(var(--callout-pink), 10%);
 }
 
 /*--Callout Types--*/
@@ -9417,6 +9457,9 @@ body {
   color: rgba(var(--callout-color), 1);
   justify-content: center;
 }
+.callout.callout[data-callout=recite][data-callout-metadata*=bg-]:not([data-callout-metadata*=bg-c]) .callout-title {
+  color: var(--text-normal);
+}
 .callout.callout[data-callout=recite] .callout-title-inner {
   flex: unset;
 }
@@ -9613,6 +9656,9 @@ body {
   padding-inline-start: unset;
 }
 
+.callout[data-callout~=cards][data-callout-metadata~="1"] :is(.dataview.table-view-table tbody, .callout-content) {
+  grid-template-columns: repeat(1, 1fr);
+}
 .callout[data-callout~=cards][data-callout-metadata~="2"] :is(.dataview.table-view-table tbody, .callout-content) {
   grid-template-columns: repeat(2, 1fr);
 }
@@ -15761,4 +15807,183 @@ body .wotc-beyond.theme-dark .HyperMD-hr-bg {
 .its-d .markdown-preview-view .list-collapse-indicator {
   position: absolute;
   padding-left: 25px;
+}
+
+/* Obsidian v0.16 */
+.theme-dark, .theme-light {
+  --radius-s: 0;
+  --radius-m: 0;
+  --radius-l: 0;
+  --tab-radius: var(--radius-m);
+  --tab-radius-active: var(--radius-m);
+  --tab-curve: 0;
+  /* --callout-padding: 0; */
+  --callout-title-padding: 10px;
+  --tag-radius: 0;
+  --list-indent: 20px;
+  --dialog-width: unset;
+  --dialog-max-width: 50vw;
+  --link-decoration: none;
+  --link-decoration-hover: none;
+  --table-border-color: var(--note);
+  --code-background: var(--code-bg);
+  --nav-item-white-space: wrap;
+  --tag-color: var(--text-dl);
+  --tag-background: var(--tag);
+  --tag-opacity: 1;
+  --graph-controls-width: 20vw;
+  --sidebar-markdown-font-size: calc(var(--f-s-nt) - 2px);
+  --background-modifier-hover: var(--text-highlight-bg);
+}
+
+.is-readable-line-width.markdown-source-view.mod-cm6 .cm-contentContainer.cm-contentContainer.cm-contentContainer, .is-readable-line-width.markdown-source-view.mod-cm6 .cm-content.cm-content.cm-content,
+.is-readable-line-width.markdown-source-view.mod-cm6 .cm-line.cm-line.cm-line:not(.HyperMD-table-row),
+.is-readable-line-width.markdown-source-view.mod-cm6 .markdown-preview-sizer.markdown-preview-sizer,
+.is-readable-line-width.markdown-preview-view .cm-line.cm-line.cm-line:not(.HyperMD-table-row) {
+  margin: unset;
+}
+
+.mod-left-split .workspace-tab-container-inner,
+.mod-right-split .workspace-tab-container-inner {
+  gap: 0;
+  padding: 0;
+}
+
+.nav-folder-children {
+  padding: 0;
+}
+
+.nav-folder, .nav-file {
+  border: 0;
+}
+
+.nav-folder.mod-root {
+  margin-left: 0;
+}
+
+.nav-file-title,
+.nav-folder-title.nav-folder-title {
+  margin-left: var(--size-4-3);
+  padding-left: 0;
+  padding-bottom: 2px;
+  padding-top: 4px;
+  margin-bottom: 0;
+}
+
+.nav-folder.mod-root .nav-folder > .nav-folder-children {
+  margin-left: 17px;
+  border-color: var(--lines);
+  border-width: 2px;
+}
+
+.nav-folder.mod-root > .nav-folder-children > .nav-file .nav-file-title {
+  padding-left: 0;
+}
+
+body ul > li::marker {
+  color: transparent;
+}
+
+.list-bullet::after,
+.markdown-source-view:not(.is-live-preview) .cm-formatting-list-ul::before {
+  background-color: transparent;
+  width: 7px;
+  height: 7px;
+}
+
+.markdown-source-view .list-bullet::after {
+  top: 0;
+}
+
+ul > li::before {
+  margin-left: -26px;
+}
+
+.markdown-rendered.show-indentation-guide li > ul::before,
+.markdown-rendered.show-indentation-guide li > ol::before,
+.markdown-rendered.show-indentation-guide li.task-list-item > ul::before,
+.markdown-rendered.show-indentation-guide li.task-list-item > ol::before {
+  left: -19px;
+}
+
+.markdown-source-view.mod-cm6.mod-cm6 .cm-indent::before {
+  margin-left: -1.5px;
+}
+
+.markdown-source-view.mod-cm6.is-live-preview .cm-indent::before {
+  margin-left: 1.5px;
+}
+
+.is-collapsed .list-bullet {
+  display: none;
+}
+
+.cm-fold-indicator.cm-fold-indicator:hover ~ .cm-formatting-list .list-bullet:after,
+.is-collapsed ~ .cm-formatting-list .list-bullet:after,
+.is-collapsed ~ .cm-formatting-list .list-bullet:after {
+  background: transparent;
+  box-shadow: unset;
+}
+
+.markdown-preview-view li .collapse-icon {
+  margin-top: 7px;
+  margin-left: -47px;
+}
+
+.task-list-item-checkbox.task-list-item-checkbox.task-list-item-checkbox::after {
+  display: none;
+}
+
+/* Tabs */
+.workspace-tab-header::before, .workspace-tab-header::after {
+  display: none;
+}
+
+.nav-files-container {
+  padding: 0;
+}
+
+.workspace-tab-header.is-active {
+  background: var(--note);
+}
+
+.mod-left-split .markdown-preview-view {
+  padding: 10px;
+}
+
+.callout {
+  mix-blend-mode: unset;
+}
+
+.callout-fold svg {
+  margin-bottom: unset;
+}
+
+.search-result-file-matches {
+  box-shadow: unset;
+}
+
+.cm-s-obsidian span.cm-hashtag {
+  color: var(--tag-color);
+}
+
+.markdown-rendered blockquote {
+  padding: 10px;
+}
+
+.markdown-rendered thead tr > th:nth-child(2n+2) {
+  background-color: var(--th);
+}
+
+/* kanban */
+.kanban-plugin__item-title-wrapper {
+  align-content: center;
+  align-items: center;
+}
+
+textarea.kanban-plugin__item-input {
+  background: var(--note);
+  /* resize: vertical; */
+  height: unset;
+  border-style: solid;
 }
