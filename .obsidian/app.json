@@ -26,5 +26,6 @@
   "showIndentGuide": false,
   "rightToLeft": false,
   "autoPairMarkdown": true,
-  "smartIndentList": true
+  "smartIndentList": true,
+  "accentColor": ""
 }
