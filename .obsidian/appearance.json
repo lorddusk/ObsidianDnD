@@ -1,6 +1,6 @@
 {
   "interfaceFontFamily": "",
-  "monospaceFontFamily": "",
+  "monospaceFontFamily": "Fira Code",
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
     "larger popup",
