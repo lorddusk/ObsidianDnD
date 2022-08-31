@@ -15,6 +15,6 @@
   "textFontFamily": "Bookerly",
   "baseFontSizeAction": true,
   "accentColor": "#162279",
-  "showViewHeader": true,
+  "showViewHeader": false,
   "nativeMenus": false
 }
