@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "(path:-\"Timeline Entries\") (path:-\"House Rules\") (path:-\"Characters/Booker/Spells\") (path:-\"Templates\") (path:-\"Rolls\")  (file:-\"Index\") (file:-\"Tags\") (file:-\"Worldmap\") (file:-\"Timeline\") (file:-\"Compendium Index\") (file:-\"Overview\") (file:-\"Background\") (file:-\"Character Sheet\") (file:-\"Filters\") (file:-\"NPCs\") (file:-\"Items\") (file:-\"Compendium\") (file:-\"Deities\") (file:-\"Events\") (file:-\"Groups\") (file:-\"Characters\") (file:-\"Locations\") (file:-\"Session 0\")",
+  "search": "(path:-\"Timeline Entries\") (path:-\"House Rules\") (path:-\"Characters/Booker/Spells\") (path:-\"Templates\") (path:-\"Rolls\") (path:-\"Reference\")  (file:-\"Index\") (file:-\"Tags\") (file:-\"Worldmap\") (file:-\"Timeline\") (file:-\"Compendium Index\") (file:-\"Overview\") (file:-\"Background\") (file:-\"Character Sheet\") (file:-\"Filters\") (file:-\"NPCs\") (file:-\"Items\") (file:-\"Compendium\") (file:-\"Deities\") (file:-\"Events\") (file:-\"Groups\") (file:-\"Characters\") (file:-\"Locations\") (file:-\"Session 0\")",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -88,6 +88,6 @@
   "repelStrength": 11.9400791407575,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6316046762907715,
+  "scale": 0.6316046762907729,
   "close": true
 }
