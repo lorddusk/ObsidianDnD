@@ -16,8 +16,14 @@
                 {
                   "leaf": "3022ad7e0ede666b",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Spells/Arcane Hand.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "3022ad7e0ede666b",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":79,\"ch\":0},\"to\":{\"line\":79,\"ch\":0}},\"scroll\":57.16246786632391}"
                 },
                 {
                   "leaf": "3022ad7e0ede666b",
@@ -42,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Reference/Spells/Arcane Hand.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Reference/Spells/Arcane Hand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Overview.md"
+                "file": "Reference/Spells/Arcane Hand.md"
               }
             }
           },
@@ -190,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Reference/Spells/Arcane Hand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -217,15 +223,15 @@
   },
   "active": "3022ad7e0ede666b",
   "lastOpenFiles": [
+    "Characters/Booker/Overview.md",
+    "Untitled.md",
     "Filters.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
     "Reference/spells/Wrathful Smite.md",
-    "Characters/Booker/Overview.md",
     "Reference/spells/Armor of Agathys.md",
     "Reference/spells/Green-Flame Blade.md",
     "Wrathful Smite.md",
-    "Armor of Agathys.md",
-    "Green-Flame Blade.md"
+    "Armor of Agathys.md"
   ]
 }
