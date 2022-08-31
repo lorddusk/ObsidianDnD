@@ -17,7 +17,7 @@
                   "leaf": "841bf2def27d6860",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"preview\",\"source\":false},\"pinned\":true}",
-                  "eState": "{\"scroll\":60}"
+                  "eState": "{}"
                 },
                 {
                   "leaf": "841bf2def27d6860",
@@ -145,8 +145,104 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "772c0403d80ca7d2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "772c0403d80ca7d2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "06f7b9d8b73ab3a2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "06f7b9d8b73ab3a2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7607f5caee24123",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "a7607f5caee24123",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b9f1ae2ebe671b3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "5b9f1ae2ebe671b3",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9cbc5ceab8e621a1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "9cbc5ceab8e621a1",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "a58cf672be0d3121",
@@ -287,56 +383,6 @@
                 "mode": "preview",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c449e44b52700dc2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ac7f41ecd07697fd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "ac7f41ecd07697fd",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "efa0546bedfec3a4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8a33941043b64350",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "8a33941043b64350",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -503,12 +549,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a33941043b64350",
+  "active": "9cbc5ceab8e621a1",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Quests.md",
     "Red Hand of Doom/Timeline.md",
     "Red Hand of Doom/Compendium/Compendium.md",
@@ -516,7 +563,6 @@
     "Red Hand of Doom/Compendium/Items/Items.md",
     "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
-    "Red Hand of Doom/Session Notes/Session 2.md",
     "Characters/Booker/Spells/Cantrip/Green-Flame Blade.md"
   ]
 }

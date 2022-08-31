@@ -76,7 +76,7 @@
 	- [[Eldritch Blast]]
 	- [[Green-Flame Blade]]
 	- [[Light]]
-	- [[Armor of Shadows]] (Mage Armor, but received through Warlock Invocation)
+	- [[Mage Armor]] (Armor of Shadows Invocation)
 
 - 1st Level:
 	- [[Armor of Agathys]]

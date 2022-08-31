@@ -3,6 +3,7 @@
 (path:-"Characters/Booker/Spells")
 (path:-"Templates")
 (path:-"Rolls")
+(path:-"Reference")
 
 (file:-"Index")
 (file:-"Tags")
