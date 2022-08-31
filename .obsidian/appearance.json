@@ -1,13 +1,14 @@
 {
   "interfaceFontFamily": "",
   "monospaceFontFamily": "Fira Code",
-  "cssTheme": "",
+  "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
     "larger popup",
     "S - Encoded Icons",
     "custom-admonitions.8408be",
     "hide folders",
-    "headercolors"
+    "headercolors",
+    "Theme - All Alternate Themes"
   ],
   "translucency": false,
   "baseFontSize": 11,
