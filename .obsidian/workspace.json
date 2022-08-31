@@ -16,6 +16,60 @@
                 {
                   "leaf": "963b5d28ffaaeae9",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 2.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "963b5d28ffaaeae9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":56.666666666666664}"
+                },
+                {
+                  "leaf": "963b5d28ffaaeae9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/NPCs.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "963b5d28ffaaeae9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Locations.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "963b5d28ffaaeae9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Items/Items.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "963b5d28ffaaeae9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Groups/Groups.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "963b5d28ffaaeae9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Events/Events.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "963b5d28ffaaeae9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Deities/Deities.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "963b5d28ffaaeae9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Characters.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "963b5d28ffaaeae9",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md\",\"mode\":\"preview\",\"source\":false}}",
                   "eState": "{}"
                 },
@@ -48,7 +102,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md",
+                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -134,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md",
+                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md"
+                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md"
               }
             }
           },
@@ -196,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md",
+                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -228,14 +282,14 @@
   },
   "lastOpenFiles": [
     "Red Hand of Doom/Session Notes/Session 2.md",
-    "Red Hand of Doom/Compendium/Compendium.md",
-    "Characters/Booker/Overview.md",
-    "Red Hand of Doom/Quests.md",
-    "conflict-files-obsidian-git.md",
-    "Red Hand of Doom/Timeline.md",
+    "Red Hand of Doom/Compendium/NPCs/NPCs.md",
+    "Red Hand of Doom/Compendium/Locations/Locations.md",
     "Red Hand of Doom/Compendium/Items/Items.md",
+    "Red Hand of Doom/Compendium/Groups/Groups.md",
+    "Red Hand of Doom/Compendium/Events/Events.md",
+    "Red Hand of Doom/Compendium/Deities/Deities.md",
+    "Red Hand of Doom/Compendium/Characters/Characters.md",
     "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md",
-    "Red Hand of Doom/Compendium/Characters/Booker.md",
-    "Characters/Booker/Spells/Cantrip/Green-Flame Blade.md"
+    "Red Hand of Doom/Compendium/Compendium.md"
   ]
 }
