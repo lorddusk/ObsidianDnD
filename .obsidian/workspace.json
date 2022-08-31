@@ -16,8 +16,14 @@
                 {
                   "leaf": "22cf65cba8232319",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/spells/Green-Flame Blade.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
                   "eState": "{}"
+                },
+                {
+                  "leaf": "22cf65cba8232319",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/spells/Wrathful Smite.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":368},\"to\":{\"line\":8,\"ch\":368}}}"
                 },
                 {
                   "leaf": "22cf65cba8232319",
@@ -70,12 +76,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference/spells/Green-Flame Blade.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -158,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/spells/Green-Flame Blade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,9 +194,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Reference/spells/Green-Flame Blade.md"
-              }
+              "state": {}
             }
           },
           {
@@ -220,7 +219,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/spells/Green-Flame Blade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -247,15 +245,15 @@
   },
   "active": "22cf65cba8232319",
   "lastOpenFiles": [
+    "Reference/spells/Wrathful Smite.md",
     "Characters/Booker/Overview.md",
+    "Reference/spells/Armor of Agathys.md",
+    "Reference/spells/Green-Flame Blade.md",
     "Wrathful Smite.md",
     "Armor of Agathys.md",
     "Green-Flame Blade.md",
     "Reference/spells/Eldritch Blast.md",
     "Characters/Booker/Spells/1st Level/Comprehend Languages.md",
-    "Characters/Booker/Background.md",
-    "Red Hand of Doom/Compendium/Characters/Alton.md",
-    "Red Hand of Doom/Compendium/Characters/Characters.md",
-    "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md"
+    "Characters/Booker/Background.md"
   ]
 }
