@@ -91,7 +91,7 @@ Four glyphs, that are lightly lit are also present in the room:
 In the north corner, three bodies lie on the floor. Humanlike, but with dragon-like parts sown unto them.
 There is a slight smell of decay in the air.
 In the middle of the room, a circle was drawn. Seemingly a teleportation circle.
-In the corner of the room, a stripper pole is present with purple glyphs inscribed in them.
+In the corner of the room, a [[Teleportation Circle]] is present with purple glyphs inscribed in them.
 Inspiration dice was used for buying paper.
 This paper was used to copy the sigils of the teleportation circle.
 During the copying, 3 zombies resurrect amongst us
