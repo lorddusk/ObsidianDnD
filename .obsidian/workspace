@@ -278,6 +278,44 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "ac7f41ecd07697fd",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "ac7f41ecd07697fd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "8a33941043b64350",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "8a33941043b64350",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -357,7 +395,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -392,9 +429,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Red Hand of Doom/Quests.md"
-              }
+              "state": {}
             }
           },
           {
@@ -419,7 +454,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -445,11 +479,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "66fb70c18103a07d",
+  "active": "8a33941043b64350",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Red Hand of Doom/Quests.md",
     "Red Hand of Doom/Timeline.md",
     "Red Hand of Doom/Compendium/Compendium.md",
@@ -458,7 +493,6 @@
     "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
-    "Characters/Booker/Spells/Cantrip/Green-Flame Blade.md",
-    "Characters/Booker/Character Sheet.md"
+    "Characters/Booker/Spells/Cantrip/Green-Flame Blade.md"
   ]
 }
