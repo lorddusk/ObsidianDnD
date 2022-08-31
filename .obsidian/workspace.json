@@ -16,8 +16,14 @@
                 {
                   "leaf": "963b5d28ffaaeae9",
                   "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "963b5d28ffaaeae9",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":64.30985915492958}"
+                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "leaf": "963b5d28ffaaeae9",
@@ -124,12 +130,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -212,7 +214,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,9 +248,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -274,7 +273,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -305,9 +303,9 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Compendium/Compendium.md",
     "Characters/Booker/Overview.md",
-    "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
     "Red Hand of Doom/Compendium/NPCs/NPCs.md",
     "Red Hand of Doom/Compendium/Locations/Locations.md",
