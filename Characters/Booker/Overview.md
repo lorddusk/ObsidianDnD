@@ -1,4 +1,4 @@
-# Overview D&D WOTC
+# Overview
 |           What | Amount | Remaining |
 | --------------:|:------:|:---------:|
 |             HP |   20   |    20     |

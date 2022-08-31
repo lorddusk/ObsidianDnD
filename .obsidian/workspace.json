@@ -16,8 +16,20 @@
                 {
                   "leaf": "963b5d28ffaaeae9",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "963b5d28ffaaeae9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Compendium.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "963b5d28ffaaeae9",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":58.38297872340426}"
                 },
                 {
                   "leaf": "963b5d28ffaaeae9",
@@ -114,8 +126,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Booker/Overview.md",
-                "mode": "source",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -200,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Overview.md"
+                "file": "Red Hand of Doom/Session Notes/Session 2.md"
               }
             }
           },
@@ -262,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -293,6 +305,8 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Compendium.md",
+    "Characters/Booker/Overview.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
     "Red Hand of Doom/Compendium/NPCs/NPCs.md",
@@ -300,8 +314,6 @@
     "Red Hand of Doom/Compendium/Items/Items.md",
     "Red Hand of Doom/Compendium/Groups/Groups.md",
     "Red Hand of Doom/Compendium/Events/Events.md",
-    "Red Hand of Doom/Compendium/Deities/Deities.md",
-    "Red Hand of Doom/Compendium/Characters/Characters.md",
-    "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md"
+    "Red Hand of Doom/Compendium/Deities/Deities.md"
   ]
 }
