@@ -1,6 +1,6 @@
 {
-  "interfaceFontFamily": "Fira Code",
-  "monospaceFontFamily": "Fira Code",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "",
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
     "larger popup",
@@ -11,6 +11,6 @@
   ],
   "translucency": false,
   "baseFontSize": 11,
-  "textFontFamily": "Fira Code",
+  "textFontFamily": "",
   "baseFontSizeAction": true
 }
