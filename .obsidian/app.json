@@ -28,5 +28,6 @@
   "autoPairMarkdown": true,
   "smartIndentList": true,
   "accentColor": "",
-  "showViewHeader": false
+  "showViewHeader": false,
+  "nativeMenus": false
 }
