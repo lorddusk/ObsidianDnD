@@ -4,80 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "343c0de1186d6bad",
+        "id": "8c8a501e6f0fbee4",
         "type": "tabs",
         "children": [
           {
-            "id": "22cf65cba8232319",
+            "id": "3022ad7e0ede666b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "22cf65cba8232319",
+                  "leaf": "3022ad7e0ede666b",
                   "group": null,
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "22cf65cba8232319",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/spells/Wrathful Smite.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":368},\"to\":{\"line\":8,\"ch\":368}}}"
-                },
-                {
-                  "leaf": "22cf65cba8232319",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":58.072614107883815}"
-                },
-                {
-                  "leaf": "22cf65cba8232319",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Spells/1st Level/Comprehend Languages.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "22cf65cba8232319",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Background.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "22cf65cba8232319",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":10},\"to\":{\"line\":0,\"ch\":10}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "22cf65cba8232319",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Alton.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "22cf65cba8232319",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Characters.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "22cf65cba8232319",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "22cf65cba8232319",
-                  "group": null,
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Events/Harvest Festival.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -160,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +145,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Red Hand of Doom/Compendium/Events/Harvest Festival.md"
+              }
             }
           },
           {
@@ -219,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,7 +197,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "22cf65cba8232319",
+  "active": "3022ad7e0ede666b",
   "lastOpenFiles": [
     "Reference/spells/Wrathful Smite.md",
     "Characters/Booker/Overview.md",
