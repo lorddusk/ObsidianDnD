@@ -57,11 +57,11 @@
 
 ## Actions
 ### Melee
-| Name                  | Roll | DMG | Mod | Type     | Effect                                                     |     |
-| --------------------- | ---- | --- | --- | -------- | ---------------------------------------------------------- | --- |
-| Spear                 | +5   | 1d6 | +3  | Piercing | If Hexed, Mod +5                                           |     |
-| [[Green-Flame Blade]] | +5   | 1d6 | +3  | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg. If Hexed, Mod +5 |     |
-| [[Wrathful Smite]]    | +5   | 1d6 | +3 | Psychic  | Wisdom save, or frightened for 1 minute (concentration)    |     |
+| Name                  | Roll | DMG | Mod | Type     | Effect                                                     |
+| --------------------- | ---- | --- | --- | -------- | ---------------------------------------------------------- |
+| Spear                 | +5   | 1d6 | +3  | Piercing | If Hexed, Mod +5                                           |
+| [[Green-Flame Blade]] | +5   | 1d6 | +3  | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg. If Hexed, Mod +5      |
+| [[Wrathful Smite]]    | Spear   | 1d6 |  | Psychic  | Wisdom save, or frightened for 1 minute (concentration)         |
 ### Ranged
 | Name               | Range | Roll | DMG  | Mod | Type     | Effect           |
 |--------------------|-------|------|------|-----|----------|------------------|
@@ -76,14 +76,14 @@
 ## Spells
 - Cantrip:
 	- [[Eldritch Blast]]
-	- [[Green-Flame Blade]]
+	- [[Green-Flame Blade]] (Bonus Action)
 	- [[Light]]
 	- [[Armor of Shadows]]
 
 - 1st Level:
 	- [[Armor of Agathys]]
 	- [[Comprehend Languages]]
-	- [[Wrathful Smite]]
+	- [[Wrathful Smite]] (Bonus Action)
 
 ## Invocations
 - [[Armor of Shadows]]

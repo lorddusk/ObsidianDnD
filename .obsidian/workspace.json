@@ -16,8 +16,8 @@
                 {
                   "leaf": "149097e342c689b2",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"scroll\":51.07660668380463}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":70}"
                 }
               ]
             },
@@ -25,7 +25,7 @@
               "type": "markdown",
               "state": {
                 "file": "Characters/Booker/Overview.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
