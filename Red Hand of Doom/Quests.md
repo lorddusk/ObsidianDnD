@@ -1,5 +1,5 @@
-- [x] Meet [[Brother Keefe]] at the Graveyard.
-	- [x] Investigate the Crypt of [[Xandria]].
-	- [x] Clear out the Crypt of [[Xandria]]
+- [X] Meet [[Brother Keefe]] at the Graveyard.
+	- [X] Investigate the Crypt of [[Xandria]].
+	- [X] Clear out the Crypt of [[Xandria]]
 
-- [ ] Meet [[Crucia Cromwell]] after a nights sleep.
+- [?] Meet [[Crucia Cromwell]] after a nights sleep.

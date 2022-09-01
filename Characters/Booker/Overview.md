@@ -1,6 +1,6 @@
 # Overview
 |           What | Amount | Remaining |
-| --------------:|:------:|:---------:|
+|---------------:|:------:|:---------:|
 |             HP |   20   |    20     |
 | Hit dice (1d8) |   2    |     2     |
 |             AC |   17   |    17     |
@@ -9,7 +9,7 @@
 |      Hex Curse |   1    |     1     | 
 ## Stats
 | Name | Stat | Mod |
-| ---- |:----:|:---:|
+|------|:----:|:---:|
 | STR  |  13  | +1  |
 | DEX  |  14  | +2  |
 | CON  |  16  | +3  |
@@ -19,7 +19,7 @@
 
 ## Skills
 | Name            | Stat | Mod | Prof |
-| --------------- | ---- |:---:|:----:|
+|-----------------|------|:---:|:----:|
 | Acrobatics      | DEX  | +2  |      |
 | Animal Handling | WIS  | +2  |      |
 | Arcana          | INT  | -1  |      |
@@ -41,7 +41,7 @@
 
 ## Saves
 | Name | Mod | Prof |
-| ---- |:---:|:----:|
+|------|:---:|:----:|
 | STR  | +1  |      |
 | DEX  | +2  |      |
 | CON  | +3  |      |
@@ -51,34 +51,40 @@
 
 ## Resistances
 | Name     | Source  |
-| -------- | ------- |
+|----------|---------|
 | Necrotic | Aasimar |
-| Radiant  | Aasimar        |
+| Radiant  | Aasimar |
 
 ## Actions
 ### Melee
-| Name              | Roll | DMG | Mod | Type     | Effect                                   |
-| ----------------- | ---- | --- | --- | -------- | ---------------------------------------- |
-| Spear             | +5   | 1d6 | +3  | Piercing | If Hexed, Mod +5                                         |
-| [[Green-Flame Blade]] | +5   | 1d6 | +3  | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg. If Hexed, Mod +5 |
+| Name                  | Roll | DMG | Mod | Type     | Effect                                                     |
+| --------------------- | ---- | --- | --- | -------- | ---------------------------------------------------------- |
+| Spear                 | +5   | 1d6 | +3  | Piercing | If Hexed, Mod +5                                           |
+| [[Green-Flame Blade]] | +5   | 1d6 | +3  | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg. If Hexed, Mod +5      |
+| [[Wrathful Smite]]    | Spear   | 1d6 |  | Psychic  | Wisdom save, or frightened for 1 minute (concentration)         |
 ### Ranged
-| Name           | Range | Roll | DMG  | Mod | Type     | Effect           |
-| -------------- | ----- | ---- | ---- | --- | -------- | ---------------- |
+| Name               | Range | Roll | DMG  | Mod | Type     | Effect           |
+|--------------------|-------|------|------|-----|----------|------------------|
 | [[Eldritch Blast]] | 120   | +5   | 1d10 |     | Force    |                  |
-| Spear          | 20/60 | +5   | 1d6  | +3  | Piercing | If Hexed, Mod +5 |
+| Spear              | 20/60 | +5   | 1d6  | +3  | Piercing | If Hexed, Mod +5 |
 ### Others
  | Name             | Type         | Amount | Recovery | Effect                                              |
  | ---------------- | ------------ | ------ | -------- | --------------------------------------------------- |
  | Hexblade's Curse | Bonus Action | 1      | Short    | Crits on 19 and 20, Heal HP on Kill Level + Cha Mod |
  | Healing Hands    | Action       | 1      | Long     | Heals Level HP                                      | 
-### Spells
+
+## Spells
 - Cantrip:
 	- [[Eldritch Blast]]
-	- [[Green-Flame Blade]]
+	- [[Green-Flame Blade]] (Bonus Action)
 	- [[Light]]
-	- [[Mage Armor]] (Armor of Shadows Invocation)
+	- [[Armor of Shadows]]
 
 - 1st Level:
 	- [[Armor of Agathys]]
 	- [[Comprehend Languages]]
-	- [[Wrathful Smite]]
+	- [[Wrathful Smite]] (Bonus Action)
+
+## Invocations
+- [[Armor of Shadows]]
+- [[Devil's Sight]]
