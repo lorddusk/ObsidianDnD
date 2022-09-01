@@ -57,10 +57,11 @@
 
 ## Actions
 ### Melee
-| Name                  | Roll | DMG | Mod | Type     | Effect                                                     |
-|-----------------------|------|-----|-----|----------|------------------------------------------------------------|
-| Spear                 | +5   | 1d6 | +3  | Piercing | If Hexed, Mod +5                                           |
-| [[Green-Flame Blade]] | +5   | 1d6 | +3  | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg. If Hexed, Mod +5 |
+| Name                  | Roll | DMG | Mod     | Type     | Effect                                                     |
+| --------------------- | ---- | --- | ------- | -------- | ---------------------------------------------------------- |
+| Spear                 | +5   | 1d6 | +3      | Piercing | If Hexed, Mod +5                                           |
+| [[Green-Flame Blade]] | +5   | 1d6 | +3      | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg. If Hexed, Mod +5 |
+| [[Wrathful Smite]]    | +5   | 1d6 | Psychic | Wisdom save, or frighti         |                                                            |
 ### Ranged
 | Name               | Range | Roll | DMG  | Mod | Type     | Effect           |
 |--------------------|-------|------|------|-----|----------|------------------|
