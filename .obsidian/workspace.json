@@ -4,32 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c7631a10851c742e",
+        "id": "5900a3d3bf176a90",
         "type": "tabs",
         "children": [
           {
-            "id": "3cc003793ee0b53f",
+            "id": "149097e342c689b2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "3cc003793ee0b53f",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0.1875}"
-                },
-                {
-                  "leaf": "3cc003793ee0b53f",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Booker.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "3cc003793ee0b53f",
+                  "leaf": "149097e342c689b2",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"scroll\":66.634375}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
@@ -37,7 +25,7 @@
               "type": "markdown",
               "state": {
                 "file": "Characters/Booker/Overview.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -208,17 +196,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3cc003793ee0b53f",
+  "active": "149097e342c689b2",
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium/Characters/Booker.md",
+    "Reference/Spells/Eldritch Blast.md",
     "Characters/Booker/Overview.md",
+    "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Reference/Spells/Arcane Hand.md",
     "Red Hand of Doom/Quests.md",
     "Reference/Invocations/Devil's Sight.md",
     "Reference/Invocations/Armor of Shadows.md",
     "Reference/Spells/Abi-Dalzim's Horrid Wilting.md",
     "Filters.md",
-    "Red Hand of Doom/Session Notes/Session 2.md",
-    "Red Hand of Doom/Compendium/NPCs/Crucia Cromwell.md"
+    "Red Hand of Doom/Session Notes/Session 2.md"
   ]
 }
