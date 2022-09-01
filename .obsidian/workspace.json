@@ -58,13 +58,19 @@
             "id": "7dd580d2f24a2ce1",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
                   "leaf": "7dd580d2f24a2ce1",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Quests.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Crucia Cromwell.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "7dd580d2f24a2ce1",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Quests.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":52},\"to\":{\"line\":4,\"ch\":52}}}"
                 },
                 {
                   "leaf": "7dd580d2f24a2ce1",
@@ -84,7 +90,7 @@
               "type": "markdown",
               "state": {
                 "file": "Red Hand of Doom/Quests.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -259,6 +265,8 @@
   },
   "active": "7dd580d2f24a2ce1",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/NPCs/Crucia Cromwell.md",
+    "Red Hand of Doom/Quests.md",
     "Reference/Spells/Abi-Dalzim's Horrid Wilting.md",
     "conflict-files-obsidian-git.md",
     "Reference/Spells/Arcane Hand.md",
@@ -266,8 +274,6 @@
     "Untitled.md",
     "Filters.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
-    "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
-    "Reference/spells/Wrathful Smite.md",
-    "Reference/spells/Armor of Agathys.md"
+    "Red Hand of Doom/Compendium/Events/Harvest Festival.md"
   ]
 }

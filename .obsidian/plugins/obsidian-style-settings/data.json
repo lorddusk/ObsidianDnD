@@ -66,5 +66,17 @@
   "checkbox@@chst-drop": true,
   "checkbox@@chst-chk": true,
   "checkbox@@chst-frwd": true,
-  "checkbox@@chst-defr": true
+  "checkbox@@chst-defr": true,
+  "checkbox@@chst-q": true,
+  "checkbox@@chst-half": true,
+  "checkbox@@chst-add": true,
+  "checkbox@@chst-rsrch": true,
+  "checkbox@@chst-imp": true,
+  "checkbox@@chst-idea": true,
+  "checkbox@@chst-brn": true,
+  "checkbox@@chst-pro": true,
+  "checkbox@@chst-con": true,
+  "checkbox@@chst-quot": true,
+  "checkbox@@chst-book": true,
+  "checkbox@@chst-info": true
 }
