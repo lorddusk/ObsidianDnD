@@ -26,8 +26,5 @@
   "showIndentGuide": false,
   "rightToLeft": false,
   "autoPairMarkdown": true,
-  "smartIndentList": true,
-  "accentColor": "#911d1d",
-  "showViewHeader": false,
-  "nativeMenus": false
+  "smartIndentList": true
 }

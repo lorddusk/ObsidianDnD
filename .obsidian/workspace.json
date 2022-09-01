@@ -118,9 +118,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c11c736a9038d5d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "7c11c736a9038d5d",
+                  "group": null,
+                  "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"0.16.1\"}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "0.16.1"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -287,7 +308,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7dd580d2f24a2ce1",
+  "active": "7c11c736a9038d5d",
   "lastOpenFiles": [
     "Red Hand of Doom/Compendium/Characters/Bikam.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
