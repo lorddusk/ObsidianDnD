@@ -82,3 +82,5 @@
 	- [[Armor of Agathys]]
 	- [[Comprehend Languages]]
 	- [[Wrathful Smite]]
+
+### Invocations
