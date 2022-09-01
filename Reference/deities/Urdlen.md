@@ -1,9 +1,13 @@
 #### Urdlen
+___
+
 - **Pantheon:** Gnome
 - **Alignment:** C, E
 - **Domains:** Death, War
 - **Province:** Greed, murder
 - **Symbol:** White-clawed mole emerging from ground
+___
+
 ### Information
 
 Many pantheons include in their number a miscreant or an outlier-someone not to be emulated in the customary way, and often an entity whose existence serves as an object lesson and an example of what befalls mortals who conduct themselves the same way. For the gnomes, this niche is filled by Urdlen, also known as the Glutton for its selfish and cruel behavior.

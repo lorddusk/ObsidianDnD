@@ -1,9 +1,13 @@
 #### Laduguer
+___
+
 - **Pantheon:** Duergar
 - **Alignment:** L, E
 - **Domains:** Death, Forge
 - **Province:** Labor, slavery
 - **Symbol:** Broken arrow
+___
+
 ### Information
 
 Also known as the Grim One, Laduguer was a mighty duergar warrior who liberated his people from the illithids. Laduguer entered into a pact with Asmodeus, pledging the duergar to an alliance against Lolth and the demons of the Abyss in exchange for which Laduguer received a spark of divinity from Abbathor himself.

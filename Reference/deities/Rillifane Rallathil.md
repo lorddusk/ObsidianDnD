@@ -1,9 +1,13 @@
 #### Rillifane Rallathil
+___
+
 - **Pantheon:** Elven (The Seldarine)
 - **Alignment:** C, G
 - **Domains:** Nature
 - **Province:** Nature, beasts, the seasons
 - **Symbol:** Oak
+___
+
 ### Information
 
 Like the other elven deities, Rillifane Rallathil was once a primal elf sprung from droplets of Corellon's blood. The original primal elves-and indeed, Corellon himself-have no "true form." Their common, elf-like portrayals are a convenience adopted after the elves took on permanent humanoid form.

@@ -1,9 +1,13 @@
 #### Zinzerena
+___
+
 - **Pantheon:** Drow (The Dark Seldarine)
 - **Alignment:** C, N
 - **Domains:** Trickery
 - **Province:** Assassination, illusion, lies
 - **Symbol:** Shortsword draped with cloth
+___
+
 ### Information
 
 As the patron of assassination, illusions, and lies, Zinzerena personifies cruelty, stealth, misdirection, and survival by any means necessary. In some ways, Malyk is her reflection, and in many interpretations of the age-old stories, the two gods are siblings or lovers. But Zinzerena is more palatable to female drow than Malyk, and she condones the study of arcane magic.

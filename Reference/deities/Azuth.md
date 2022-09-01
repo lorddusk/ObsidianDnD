@@ -1,8 +1,12 @@
 #### Azuth, God of wizardry
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** L, N
 - **Domains:** Arcana, Knowledge
 - **Symbol:** Left hand pointing upward, outlined in fire
+___
+
 ### Information
 
 Few pay homage to Azuth aside from wizards. For them, the High One is the ultimate embodiment of all that they hold dear.

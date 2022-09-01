@@ -1,8 +1,12 @@
 #### Desirat, the Twilight Phoenix
+___
+
 - **Pantheon:** Exandria
 - **Alignment:** L, E
 - **Domains:** Light, Trickery
 - **Symbol:** Burning purple feather
+___
+
 ### Information
 
 Desirat was the companion and mount of Asmodeus during the great wars of the Calamity. Before the Divergence, she was torn from her master by the remnants of the original Cerberus Assembly, who wished to study and harvest the phoenix's fiendish form for their own purposes. After the assembly was destroyed in the war and the pantheon was banished from Exandria, the phoenix remained chained beneath the Cyrios Mountains. Her shadowed flames have scalded and scarred the realm above for centuries, giving birth to the thermal phenomena surrounding Mount Metiri in Western Wynandir.

@@ -1,8 +1,12 @@
 #### Lolth (EGW), the Spider Queen
+___
+
 - **Pantheon:** Exandria
 - **Alignment:** C, E
 - **Domains:** Knowledge, Trickery
 - **Symbol:** Jeweled spider
+___
+
 ### Information
 
 The evil god of deceit, shadows, and spiders, Lolth weaves a complicated web of schemes and treachery through her worshipers, deceiving allies and enemies alike to gain power. It is said that the Spider Queen can see through the eyes of all spiders, and that she is truly all-knowing. Lolth's worship is entwined with the society of dark elves across much of Exandria, but she has lost her influence in Wildemount since the Calamity, when her drow rejected her in favor of the ancient entity known as the Luxon. This slight has drawn her venomous hatred, and she now seeks vengeance against those who betrayed her.

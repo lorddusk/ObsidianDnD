@@ -1,9 +1,13 @@
 #### Abbathor
+___
+
 - **Pantheon:** Dwarven (The Mordinsamman)
 - **Alignment:** N, E
 - **Domains:** Trickery
 - **Province:** Greed
 - **Symbol:** Jeweled dagger, point down
+___
+
 ### Information
 
 The Great Master of Greed exerts an influence, no matter how subtle, over every dwarven heart. Abbathor teaches that greed isn't only desirable, but necessary to keep the dwarves in a strong and safe position.

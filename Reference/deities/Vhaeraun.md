@@ -1,9 +1,13 @@
 #### Vhaeraun
+___
+
 - **Pantheon:** Drow (The Dark Seldarine)
 - **Alignment:** C, E
 - **Domains:** Trickery, War
 - **Province:** Arrogance, thieves
 - **Symbol:** Black mask with blue glass lenses inset over eyes
+___
+
 ### Information
 
 Vhaeraun stands for the dark elves' superiority over other races and for the primacy of individual drow over other drow. He is a god of arrogance, and thus he condones all acts of avarice, fair and foul alike. Those who take what they want from whom they wish, whether through stealth or bullying, pay homage to Vhaeraun. He is patron to thieves and often the object of prayer before drow embark on a raid.

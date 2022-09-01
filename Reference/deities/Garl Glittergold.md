@@ -1,9 +1,13 @@
 #### Garl Glittergold
+___
+
 - **Pantheon:** Gnome
 - **Alignment:** L, G
 - **Domains:** Trickery
 - **Province:** Primary god of gnomes
 - **Symbol:** Gold nugget
+___
+
 ### Information
 
 When gnome children hear their first stories about the gods, they are introduced to a gold-skinned gnome with a wide grin and glittering gemstone eyes that shift colors like a kaleidoscope. The youngsters quickly learn to recognize that their favorite character, the god of the gnomes, is about to steal the show.

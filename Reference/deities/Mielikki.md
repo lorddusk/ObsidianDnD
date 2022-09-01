@@ -1,8 +1,12 @@
 #### Mielikki, Goddess of forests
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** N, G
 - **Domains:** Nature
 - **Symbol:** Unicorn's head
+___
+
 ### Information
 
 People rarely speak of Mielikki except in quiet forest spaces. Woodlands that evoke wonder are where she reigns supreme, but she is said to keep watch over good folk in any forest, not matter how dark or cruel. When children are lost in the woods, people beseech Mielikki to protect them until they are found.

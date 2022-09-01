@@ -1,9 +1,13 @@
 #### Cyrrollalee
+___
+
 - **Pantheon:** Halfling
 - **Alignment:** L, G
 - **Domains:** Life, Peace
 - **Province:** Hearth, home
 - **Symbol:** An open door
+___
+
 ### Information
 
 Cyrrollalee embodies the spirit of friendship and hospitality that is part of every halfling's makeup and is represented by one's home and hearth. The home is a welcoming place, but it is also sacrosanct. Halflings honor Cyrrollalee by opening their homes to visitors, and by respecting the home of one's host as if it were one's own.

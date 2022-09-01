@@ -1,9 +1,13 @@
 #### Ceratos
+___
+
 - **Pantheon:** Exandria (Lesser Idols)
 - **Alignment:** C, N
 - **Domains:** Knowledge, Tempest
 - **Province:** The Great Old One
 - **Symbol:** Three mismatched eyes surrounded by teeth
+___
+
 ### Information
 
 A being that slipped from the Far Realm into Exandria before the Founding, Ceratos is one of the oldest creatures in the world. A single creature of many minds, Ceratos reveled in chaos. When the Elemental Chaos was divided into four planes, Ceratos retreated underground, their minds unraveling as they entered a nightmarish slumber.

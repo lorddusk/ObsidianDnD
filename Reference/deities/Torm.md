@@ -1,8 +1,12 @@
 #### Torm, God of courage and self-sacrifice
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** L, G
 - **Domains:** War
 - **Symbol:** White right gauntlet
+___
+
 ### Information
 
 Torm is the god of duty and loyalty, revered by those who face danger to bring about a greater good. Those who favor Torm believe that one's salvation can be found through service, that every failure to perform one's duty diminishes Torm, and that every success adds to his luster. Those who take Torm to heart must strive to fulfill his commandment to go out into the world and be an active force for good, to right wrongs, and to help the hopeless. They must strive to maintain peace and order while opposing unjust laws. Followers of Torm stand ever alert against corruption and are expected to strike quickly and hard against any evidence of rot in the hearts of mortals. As the sword arm of justice, Torm's faithful are expected to bring quick deaths to betrayers. Considering these tenets, it should be no surprise that most human paladins have Torm as their patron.

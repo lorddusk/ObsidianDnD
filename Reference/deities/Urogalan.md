@@ -1,9 +1,13 @@
 #### Urogalan
+___
+
 - **Pantheon:** Halfling
 - **Alignment:** L, N
 - **Domains:** Death, Grave, Knowledge
 - **Province:** Earth, death
 - **Symbol:** Silhouette of a dog's head
+___
+
 ### Information
 
 In ancient times the halfling hero Urogalan left his village with his faithful hound to venture into the afterlife-and then, much to the villagers' amazement, he returned. They could see that Urogalan had been deeply affected by his experiences, since he didn't speak for a long time. He merely sat in a white robe with his hound by his side, watching the world go by. When he did speak at last, he told of a place he called the Green Fields, where the halflings' god-heroes live alongside mortals who have passed on, enjoying lush farmland, bright sunshine, and all the comforts of home.

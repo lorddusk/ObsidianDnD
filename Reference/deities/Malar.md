@@ -1,8 +1,12 @@
 #### Malar, God of the hunt
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** C, E
 - **Domains:** Nature
 - **Symbol:** Clawed paw
+___
+
 ### Information
 
 Malar epitomizes the dark side of nature, the world that is red in tooth and claw. His faithful believe the hunt is the center point between life and death - the facing off of hunter and prey, forcing the issue of who lives and who dies. People believe that Malar can't be propitiated and knows no mercy, so he receives prayers only from those engaging in a hunt. Such supplicants pray to Malar for two reasons: to beg the aid of his peerless skill as a hunter, or to adopt his fearsome mantle and thus ward off other predators. Malar is the god of those who delight in the hunt, don't shy from bloodshed, and savor the fear of their prey.

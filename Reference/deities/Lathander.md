@@ -1,8 +1,12 @@
 #### Lathander, God of dawn and renewal
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** N, G
 - **Domains:** Life, Light
 - **Symbol:** Road traveling into a sunrise
+___
+
 ### Information
 
 Lathander is the god of the spring, birth, and renewal, a deity of conception, vitality, youth, renewal, and self-perfection. He is god not of the sun but of the dawn, which represents the start of a new day filled with potential.

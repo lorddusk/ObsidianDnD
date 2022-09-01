@@ -1,8 +1,12 @@
 #### Gruumsh (EGW), the Ruiner
+___
+
 - **Pantheon:** Exandria
 - **Alignment:** C, E
 - **Domains:** Death, Tempest, War
 - **Symbol:** Single, unblinking eye that bleeds
+___
+
 ### Information
 
 Gruumsh commands hordes of barbaric marauders to destroy, pillage, and slaughter for the sheer joy of it. Orderless and without honor, the creeds of the evil hordemaster urge savage creatures to devour the world around them, giving in to the chaotic and selfish nature of the predator. A number of violent clans of humanoids and beasts across Xhorhas pay homage to Gruumsh, asking him to bless their hunts and gift them with spoils worth ruining.

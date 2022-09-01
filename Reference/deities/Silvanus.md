@@ -1,8 +1,12 @@
 #### Silvanus, God of wild nature
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** N
 - **Domains:** Nature
 - **Symbol:** Oak leaf
+___
+
 ### Information
 
 Silvanus represents the entirety of nature, deserts as well as forests, sharks as much as deer. But folk in the North, who contend with the dangers of forests, mountains, and plains, see Silvanus more as a god of those places. Silvanus is thought of as a grim and severe father figure who metes out flood and drought, fire and ice, and life and death in the wilderness. In legends he often commands other nature deities, dealing out rewards and punishments to them as is fitting.

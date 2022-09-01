@@ -1,9 +1,13 @@
 #### Selvetarm
+___
+
 - **Pantheon:** Drow (The Dark Seldarine)
 - **Alignment:** C, E
 - **Domains:** War
 - **Province:** Warriors, slaughter
 - **Symbol:** Spider over crossed sword and mace
+___
+
 ### Information
 
 Drow regard Selvetarm as the Champion of Lolth and the patron of drow warriors. He is portrayed as an eightarmed drow that represents the epitome of fighting prowess. But Lolth rarely looses her champion to do her bidding, keeping him snared by unbreakable webs that she removes only in times of direst need.

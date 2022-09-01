@@ -1,9 +1,13 @@
 #### Malyk
+___
+
 - **Pantheon:** Drow (The Dark Seldarine)
 - **Alignment:** C, E
 - **Domains:** Tempest, Trickery
 - **Province:** Chaos, rebellion, wild magic
 - **Symbol:** A flame in a tear or a multihued vortex
+___
+
 ### Information
 
 Malyk embodies rebellion and chaos. Drow know of his influence from the appearance of wild mages among their number. Such an individual, possessed of sorcerous powers seemingly bestowed at random, is often seen as a threat to the established order. Many drow, especially males and even females of low station, try to attract Malyk's attention by secretly making sacrifices to him. Meanwhile, house matrons and others steeped in the faith of Lolth attempt to purge Malyk's worship from drow society-at the same time that some of them pray to him for power.

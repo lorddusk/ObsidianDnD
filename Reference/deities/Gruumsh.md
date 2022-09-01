@@ -1,8 +1,12 @@
 #### Gruumsh, He Who Watches
+___
+
 - **Pantheon:** Orc
 - **Alignment:** C, E
 - **Domains:** Tempest, War
 - **Symbol:** Unblinking eye
+___
+
 ### Information
 
 Gruumsh, the undisputed ruler of the orc pantheon, pushes his children to increase their numbers so they may be his instrument of revenge against the realms of elves, humans, and dwarves. In order to spite the gods who spurned him, Gruumsh leads his orcs on a mission of ceaseless slaughter, fueled by an unending rage that seeks to lay waste to the civilized world and revel in its anguish.

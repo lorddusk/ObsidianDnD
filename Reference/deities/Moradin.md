@@ -1,9 +1,13 @@
 #### Moradin
+___
+
 - **Pantheon:** Dwarven (The Mordinsamman)
 - **Alignment:** L, G
 - **Domains:** Forge, Knowledge
 - **Province:** Primary deity of dwarves
 - **Symbol:** Hammer and anvil
+___
+
 ### Information
 
 The father of the dwarves crafted his children from metal and gems and imbued them with souls as he cooled them with his breath.

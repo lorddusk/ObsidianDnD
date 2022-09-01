@@ -1,7 +1,11 @@
 #### Procan, Sailor of Sea and Sky
+___
+
 - **Pantheon:** Unknown
 - **Alignment:** C, N
 - **Domains:** Tempest
+___
+
 ### Information
 
 Procan is a chaotic neutral deity of the sea and weather. He offers his clerics access to the Tempest domain. He is embodied in the sudden storm that overtakes a ship, battering it with monstrous waves and howling winds that give way to peaceful waters and calm weather in the space of a moment.

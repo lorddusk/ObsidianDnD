@@ -1,9 +1,13 @@
 #### Gaerdal Ironhand
+___
+
 - **Pantheon:** Gnome
 - **Alignment:** L, G
 - **Domains:** War, Peace
 - **Province:** Protection
 - **Symbol:** Iron band
+___
+
 ### Information
 
 The Shield of the Golden Hills, Gaerdal Ironhand, has no use for amusements, and she doesn't deign to smile at any prank except those of Garl Glittergold. Gaerdal obsesses about defense and vigilance, and she is an expert in fortification, siege tactics, combat, and traps.

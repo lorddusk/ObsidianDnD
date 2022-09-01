@@ -1,8 +1,12 @@
 #### Gond, God of craft
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** N
 - **Domains:** Forge, Knowledge
 - **Symbol:** Toothed cog with four spokes
+___
+
 ### Information
 
 Gond is the god of artifice, craft, and construction. He is revered by blacksmiths, woodworkers, engineers, and inventors. Anyone who is crafting something might say a prayer to Gond to guide the work, but folk know that Gond smiles most brightly upon new inventions that others find useful.

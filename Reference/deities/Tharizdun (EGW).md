@@ -1,8 +1,12 @@
 #### Tharizdun (EGW), the Chained Oblivion
+___
+
 - **Pantheon:** Exandria
 - **Alignment:** C, E
 - **Domains:** Death, Grave, Trickery
 - **Symbol:** Crooked, seven-pointed star made of chains
+___
+
 ### Information
 
 It is darkness unending, less like a god and more like another world. Life and death do not exist within Tharizdun, only utter destruction and madness. Even the other Betrayer Gods treat this mad god with caution. In its endless imprisonment, Tharizdun dreams the infinite depths of the Abyss into reality, along with all its demonic legions. The Prime Deities had thought it locked away during the Founding until it nearly returned to ruin the world during the conflicts of the Calamity.

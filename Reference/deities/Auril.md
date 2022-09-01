@@ -1,8 +1,12 @@
 #### Auril, Goddess of winter
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** N, E
 - **Domains:** Nature, Tempest
 - **Symbol:** Six-pointed snowflake
+___
+
 ### Information
 
 Auril, the merciless goddess of cold and winter, is worshiped mostly in regions that are affected by deep winters. Folk propitiate Auril with offerings and prayers for mercy. Her priests warn others to prepare for winter, and to stock extra provisions in order to have some to spare as offerings to the goddess.

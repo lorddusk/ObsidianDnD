@@ -1,8 +1,12 @@
 #### Jergal, Scribe of the dead
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** L, N
 - **Domains:** Knowledge, Death
 - **Symbol:** A skull biting a scroll
+___
+
 ### Information
 
 Legend has it that Jergal is an ancient deity. The story goes that in the time of Netheril he was worshiped as the god of death, murder, and strife. Yet with the passing of time, he became bored with his position. Then one day three mortals, each a powerful adventurer, met Jergal in the lands of the dead, determined to destroy him and take his power. Instead, Jergal calmly abdicated his throne of bones and allowed each of the three mortals to take part of his divinity. Thus it was that Bane assumed the portfolio of strife, Myrkul the rulership of the dead, and Bhaal the portfolio of murder. Jergal lost his former stature and became a scribe of the dead.

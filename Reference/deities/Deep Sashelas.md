@@ -1,9 +1,13 @@
 #### Deep Sashelas
+___
+
 - **Pantheon:** Elven (The Seldarine)
 - **Alignment:** C, G
 - **Domains:** Knowledge, Nature, Tempest
 - **Province:** Creativity, knowledge, sea
 - **Symbol:** Dolphin
+___
+
 ### Information
 
 Deep Sashelas, sometimes known just as Sashelas, is the elven deity of the sea, seafaring, and knowledge. Sashelas is called the Knowledgeable One. His awareness of all lore, not only that about the sea, is seemingly limitless. He is especially beloved by sea elves, dolphins, and elf sages.

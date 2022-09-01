@@ -1,9 +1,13 @@
 #### Keptolo
+___
+
 - **Pantheon:** Drow (The Dark Seldarine)
 - **Alignment:** C, E
 - **Domains:** Nature, Trickery
 - **Province:** Beauty, hedonism, fertility
 - **Symbol:** Mushroom
+___
+
 ### Information
 
 The ideal of what a male drow can become, Keptolo is handsome, stylish, witty, hedonistic, an outrageous flatterer, and sought after as a lover. He is also dangerous in his aspects as a subtle assassin and a whisperer of rumors. For those attributes, he is worshiped by ambitious males who hope to emulate him. Some succeed admirably and achieve great things beyond the reach of most males, but many more succumb to excesses of the flesh, dissipation, and disease, or they are ruined or murdered by a rival-who is also a true disciple of Keptolo.

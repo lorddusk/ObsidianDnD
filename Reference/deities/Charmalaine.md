@@ -1,9 +1,13 @@
 #### Charmalaine
+___
+
 - **Pantheon:** Halfling
 - **Alignment:** N
 - **Domains:** Trickery
 - **Province:** Keen senses, luck
 - **Symbol:** Burning boot print
+___
+
 ### Information
 
 Charmalaine is an energetic and spontaneous deity, unafraid of danger, for she expects to be able to detect it as it approaches and evade it before it brings her harm. The stories of her accomplishments read like an adventurer's wildest dreams: she escaped from an army of sahuagin, solved the Chamber of a Thousand Traps, and took treasure from the lair of Tiamat. Halflings envision her as a young adult who moves so fast that her boots smoke and sometimes even catch fire. She carries a mace that has a head that shouts out warnings, and she is accompanied by her ferret friend, Xaphan.

@@ -1,8 +1,12 @@
 #### Ilmater, God of endurance
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** L, G
 - **Domains:** Life, Twilight
 - **Symbol:** Hands bound at the wrist with red cord
+___
+
 ### Information
 
 Ilmater is the god of suffering, martyrdom, and perseverance, renowned for his compassion and endurance. It is he who offers succor and calming words to those who are in pain, victimized, or in great need. He is the willing sufferer, the one who takes the place of another to heft the other's burden, to take the other's pain. He is the god of the oppressed and the unjustly treated.

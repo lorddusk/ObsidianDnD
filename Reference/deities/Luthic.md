@@ -1,8 +1,12 @@
 #### Luthic, the Cave Mother
+___
+
 - **Pantheon:** Orc
 - **Alignment:** L, E
 - **Domains:** Life, Nature
 - **Symbol:** Orcish rune meaning "cave entrance"
+___
+
 ### Information
 
 While Gruumsh is the external force that pushes the orcs to victory over their enemies, it is the influence of Luthic, his wife, that binds them together and makes the orcs internally cohesive. She is the force that keeps the explosive rage of Gruumsh from bursting the orcs apart. If it was not for the followers of Luthic, it is possible that the race of orcs would be no more than small bands of warrior-nomads, scratching out a meager existence, rather than a force capable of great destruction.

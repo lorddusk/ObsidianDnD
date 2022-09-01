@@ -1,8 +1,12 @@
 #### Ilneval, the War Maker
+___
+
 - **Pantheon:** Orc
 - **Alignment:** L, E
 - **Domains:** War
 - **Symbol:** Upright blood-spattered sword
+___
+
 ### Information
 
 Ilneval is the loyal right hand of Gruumsh. He is the god who plans the attacks and devises the strategies that allow the forces of Gruumsh to dominate the battle and fill their war wagons with plunder and severed heads. Ilneval stands with his bloody sword, calling to those who understand the ebb and flow of combat to sit around his council fire and learn the ways of warfare.

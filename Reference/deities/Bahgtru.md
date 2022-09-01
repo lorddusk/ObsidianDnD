@@ -1,8 +1,12 @@
 #### Bahgtru, the Leg Breaker
+___
+
 - **Pantheon:** Orc
 - **Alignment:** L, E
 - **Domains:** War
 - **Symbol:** Broken thigh bone
+___
+
 ### Information
 
 Despite the influence of Ilneval, orcs are and will forever be brutal and feral in how they wage war. Bahgtru is the deity who epitomizes the physical might and ruthlessness that orcs use to overwhelm their foes. He is the one who drives every thrust of an orc's weapon, so that it does as much harm as possible.

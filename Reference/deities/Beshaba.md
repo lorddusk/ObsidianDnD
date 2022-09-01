@@ -1,8 +1,12 @@
 #### Beshaba, Goddess of misfortune
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** C, E
 - **Domains:** Trickery
 - **Symbol:** Black antlers
+___
+
 ### Information
 
 Beshaba is the counterpoint to Tymora and is just as frequently acknowledged in daily life as is her more benevolent "sister." She is seen as a cruel and capricious goddess who must be propitiated to avoid attracting her attention and interest in a negative way.

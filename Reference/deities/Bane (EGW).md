@@ -1,8 +1,12 @@
 #### Bane (EGW), the Strife Emperor
+___
+
 - **Pantheon:** Exandria
 - **Alignment:** L, E
 - **Domains:** Forge, Order, War
 - **Symbol:** Flail of chains, each ending in shackles
+___
+
 ### Information
 
 Blood-drenched armies of brutal warriors oft crush their foes in the name of Bane, the evil patron of war and conquest. To serve his will is to accept the call to conflict, seeking lesser people to break and subjugate. Warmongering nations and goblinoid tribes worship the Strife Emperor as they strike out at the world to bend it beneath them. Bane twists all living things to his iron will, forcing even nature itself to bow to his whims.

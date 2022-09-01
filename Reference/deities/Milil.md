@@ -1,8 +1,12 @@
 #### Milil, God of poetry and song
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** N, G
 - **Domains:** Light
 - **Symbol:** Five-stringed harp made of leaves
+___
+
 ### Information
 
 Milil is the god of poetry, eloquence, and song. He is a god of creativity and inspiration, of the entire song more than just the lyrics or the music. He represents the finished thought, the result of the process that takes an idea from conception to realization. Milil is most venerated by bards, troubadours, and other entertainers, but anyone preparing to entertain or speak before a crowd might offer Milil a brief prayer for a successful performance. Those who seek inspiration in a creative endeavor also pray to Milil.

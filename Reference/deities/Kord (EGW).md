@@ -1,8 +1,12 @@
 #### Kord (EGW), the Storm Lord
+___
+
 - **Pantheon:** Exandria
 - **Alignment:** C, N
 - **Domains:** Tempest, War
 - **Symbol:** Four bolts of lightning radiating from the center of a shield
+___
+
 ### Information
 
 Where thunder booms and conflict rises, prayers to the Storm Lord are shouted into the maelstrom. Reveling in all tests of strength, Kord blesses those who prove themselves on the battlefield. Worshiped by athletes and warriors all across Exandria, he exalts those whose force of spirit and desire for victory call his attention. He brings tumultuous storms over land and sea, and those who wish for clearer skies offer their praises and prayers to appease him.

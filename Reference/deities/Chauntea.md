@@ -1,8 +1,12 @@
 #### Chauntea, Goddess of agriculture
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** N, G
 - **Domains:** Life
 - **Symbol:** Sheaf of grain or a blooming rose over grain
+___
+
 ### Information
 
 Chauntea is goddess of agriculture: sowing and reaping, seeding and harvest, breeding and butchery, shearing and weaving. In this aspect she is a rural deity rarely prayed to behind the walls of a city except by kitchen gardeners. But Chauntea is also the Great Mother, a goddess of crib, hearth, and home. And as such she is welcomed into all homes at mealtimes and at the birth of children, and folk give her thanks whenever they experience the pleasure of settling by a fire and feeling safe and loved.

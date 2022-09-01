@@ -1,11 +1,15 @@
 #### Tymora, Goddess of good fortune
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** C, G
 - **Domains:** Trickery
 - **Symbol:** Face-up coin
+___
+
 ### Information
 
-Tymora is the bright-faced goddess of fortune, the one to whom gamblers and game-players pray in Faerï¿½n. Our Smiling Lady is said to love none so much as those who gamble with the utmost skill and daring. Yet she is thought to watch over all who take risks to better their fortunes.
+Tymora is the bright-faced goddess of fortune, the one to whom gamblers and game-players pray in Faerûn. Our Smiling Lady is said to love none so much as those who gamble with the utmost skill and daring. Yet she is thought to watch over all who take risks to better their fortunes.
 
 The battle cry of the followers of Tymora is "Fortune favors the bold." Someone might say words to Tymora before any endeavor in which a little good luck would help, but not when an incidence of bad luck might occur. (On such occasions folk pray to Beshaba to spare them from bad luck; praying to both is thought to anger both goddesses.) One common method of divining the future is to toss a coin to a stranger (typically a beggar) and ask if it's heads. If it is, the coin is left with the stranger as payment for Tymora's favor. If it's not, the stranger can choose to keep it (and the bad luck) or return it.
 
@@ -17,6 +21,6 @@ Priests of Tymora and temples devoted to Lady Luck are scarce, since her faith t
 
 During her travels, Lady Luck discovered a budding rose of unequaled beauty. Delighted with this fortuitous happenstance, Tyche reached to pluck this delightful token, which she assumed was a peace overture from Lathander, who sought to regain her good graces. Much to her amazement, Lady Luck couldn't pluck the rose from its bush no matter how hard she tried. Frustrated, she cursed the rose with bad luck, and the flower's stem broke in her hands. Tyche put the plucked rose behind her ear and continued on her way. Unknown to Tyche, the rose was a manifestation of Moander, god of corruption and decay. The severed rose stem crept into Tyche's ear and subtly began to rot her from the inside out.
 
-When Tyche returned home, she came across her dear friend, the goddess Selï¿½ne, waiting to speak with her. Also waiting for her were Lathander, who wished to regain her affections, and Azuth, who had come to mediate the dispute between the two. Selï¿½ne wept great tears as she saw the corruption destroying her friend from within, and before Tyche could discern her intent, Selï¿½ne lashed out with a bolt of purifying light. Tyche's rotted core split down the middle and a smaller, brighter version of the goddess of luck stepped out, allowing the goddess of the moon to save that which was good and pure in her friend. However, following this first figure out of the rotten shell was another form stunning to behold, but full of dark malice and capricious ill will. As the two forms emerged, they immediately fell upon each other in hate, struggling madly, and were separated only by the combined efforts of all three visitors.
+When Tyche returned home, she came across her dear friend, the goddess Selûne, waiting to speak with her. Also waiting for her were Lathander, who wished to regain her affections, and Azuth, who had come to mediate the dispute between the two. Selûne wept great tears as she saw the corruption destroying her friend from within, and before Tyche could discern her intent, Selûne lashed out with a bolt of purifying light. Tyche's rotted core split down the middle and a smaller, brighter version of the goddess of luck stepped out, allowing the goddess of the moon to save that which was good and pure in her friend. However, following this first figure out of the rotten shell was another form stunning to behold, but full of dark malice and capricious ill will. As the two forms emerged, they immediately fell upon each other in hate, struggling madly, and were separated only by the combined efforts of all three visitors.
 
 It is said that Tymora, Tyche's Fair-Haired Daughter, embodies all the grace and kindness of her mother, while Beshaba, Tyche's Unpleasant Daughter, got only her looks. Since their birth, the twin aspects of Tyche - Tymora, Lady Luck, and Beshaba, Maid of Misfortune - have battled each other, contesting matters as great as the fate of nations and as small as the flip of a coin.

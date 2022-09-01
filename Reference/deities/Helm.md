@@ -1,8 +1,12 @@
 #### Helm, God of watchfulness
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** L, N
 - **Domains:** Life, Light, Twilight
 - **Symbol:** Staring eye on upright left gauntlet
+___
+
 ### Information
 
 The god of vigilance and protection, Helm is seen as the epitome of the guardian, the watcher, and the guard. He is venerated by those who need to remain watchful for enemies or danger. Helm is a favorite deity of people who make a living by protecting someone or something, such as bodyguards, members of the city watch, and the guards of a treasury vault.

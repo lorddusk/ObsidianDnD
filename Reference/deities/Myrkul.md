@@ -1,8 +1,12 @@
 #### Myrkul, God of death
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** N, E
 - **Domains:** Death
 - **Symbol:** White human skull
+___
+
 ### Information
 
 Myrkul is an ancient god, one of three former mortals who were raised to deityhood when Jergal grew weary of his divine duties and distributed his influence between them. Myrkul became the god of death and the dead, and ruled over the City of the Dead for centuries until he, in turn, was slain. In time Myrkul returned, for can death itself truly ever die? Myrkul's faithful see him as the Reaper, who lays claim to souls and brings them to Kelemvor to be judged.

@@ -1,9 +1,13 @@
 #### Clangeddin Silverbeard
+___
+
 - **Pantheon:** Dwarven (The Mordinsamman)
 - **Alignment:** L, G
 - **Domains:** War
 - **Province:** War, strategy
 - **Symbol:** Crossed silver battleaxes
+___
+
 ### Information
 
 Known as the Father of Battle, Clangeddin Silverbeard is the patron of dwarf warriors. Impetuous and brave yet a cunning strategist, Clangeddin embodies the warrior's spirit that makes dwarven armies such formidable foes.

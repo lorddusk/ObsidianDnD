@@ -1,9 +1,13 @@
 #### Naviask
+___
+
 - **Pantheon:** Exandria (Lesser Idols)
 - **Alignment:** N, G
 - **Domains:** Life, Nature
 - **Province:** The Archfey
 - **Symbol:** Wreath of flowers shaped into demon horns
+___
+
 ### Information
 
 Once a powerful balor pursuing total annihilation of the Feywild, Naviask was transformed into a fey spirit by Queen Titania of the Summer Court after falling into one of her traps. Titania's magic changed Naviask's mission to destroy into a quest to heal scarred lands with nature. After the Calamity, Naviask was drawn to Exandria, where he currently remains, seeking to heal the devastation and ruin that still plague the world.

@@ -1,8 +1,12 @@
 #### Talos, God of storms
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** C, E
 - **Domains:** Tempest
 - **Symbol:** Three lightning bolts radiating from a point
+___
+
 ### Information
 
 Talos is the dark side of nature, the uncaring and destructive force that might strike at any time. He is the god of storms, forest fires, earthquakes, tornadoes, and general destruction. He counts the ravager, the raider, the looter, and the brigand among his followers. Those who favor him see life as a succession of random effects in a sea of chaos, so the devout should grab what they can, when they can - for who can say when Talos will strike and send them into the afterlife?

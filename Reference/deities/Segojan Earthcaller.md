@@ -1,9 +1,13 @@
 #### Segojan Earthcaller
+___
+
 - **Pantheon:** Gnome
 - **Alignment:** N, G
 - **Domains:** Grave, Light
 - **Province:** Earth, the dead
 - **Symbol:** Glowing gemstone
+___
+
 ### Information
 
 The gnomes know Segojan Earthcaller as a kind, modest hero. He is said to be the best cook among the gnome gods and to have the power to heal any sickness, because he knows the medicinal and culinary uses of every creature and plant that lives underground. During the misadventures of the gnome pantheon, Segojan contributes to the group through his healing abilities and the restorative power of his meals, and on many occasions the other gnome gods call upon him to use his ability to burrow through any substance.

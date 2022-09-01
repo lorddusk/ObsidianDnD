@@ -1,9 +1,13 @@
 #### Baravar Cloakshadow
+___
+
 - **Pantheon:** Gnome
 - **Alignment:** N, G
 - **Domains:** Arcana, Trickery
 - **Province:** Illusion, deception
 - **Symbol:** Dagger against a hooded cloak
+___
+
 ### Information
 
 When gnomes arrived in the world, Baravar protected them by teaching them how to hide, use magic, and deceive their foes. She was once entrapped by the goblin god Khurgorbaeyag, and after escaping and gaining her revenge, she began the practice of never wearing the same face twice, and she follows a different routine every day so no one can predict what she might do. When gnomes tell stories of their gods' adventures, Baravar is always the last to be found when the group forms, but she nevertheless swiftly agrees to support Garl's plans.

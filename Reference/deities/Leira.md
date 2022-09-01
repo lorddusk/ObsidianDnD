@@ -1,8 +1,12 @@
 #### Leira, Goddess of illusion
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** C, N
 - **Domains:** Trickery
 - **Symbol:** Point-down triangle containing a swirl of mist
+___
+
 ### Information
 
 Leira has worn many masks, and more than once has been thought to be dead or to be another deity altogether. Perhaps such a reputation is only natural for the goddess of illusion and deception. Her faithful agree that whatever the "truth" might be, their Lady takes great delight in the confusion sown by her various incarnations. Even the faithful of Cyric once taught that their god killed Leira, but now they espouse the strange idea that somehow she is his daughter.

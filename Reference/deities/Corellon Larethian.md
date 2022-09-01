@@ -1,9 +1,13 @@
 #### Corellon Larethian
+___
+
 - **Pantheon:** Elven (The Seldarine)
 - **Alignment:** C, G
 - **Domains:** Arcana, Life, Light, War, Arcana
 - **Province:** Primary god of elves
 - **Symbol:** Quarter moon or starburst
+___
+
 ### Information
 
 The creator of all elves is both chaos and beauty personified. Corellon is as fluid and changeable as a breeze or a brook-quick to anger, but equally quick to forgive and forget. The god loves magic, artistry, nature, and freedom. Anyone who has felt the mystical presence of Corellon describes it as a joy like no other, followed by a deep melancholy when his presence is no longer felt.

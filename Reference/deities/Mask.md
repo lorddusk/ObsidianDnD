@@ -1,8 +1,12 @@
 #### Mask, God of thieves
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** C, N
 - **Domains:** Trickery
 - **Symbol:** Black mask
+___
+
 ### Information
 
 Mask is a trickster god, the patron of ne'er-do-wells, spies, and thieves. All that occurs within shadow is in the purview of Mask. People whisper a prayer to Mask whenever stealth is required or intrigue is afoot. Courtiers and diplomats invoke the god's name in hopes of a smooth negotiation.

@@ -1,8 +1,12 @@
 #### Asmodeus, God of indulgence
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** L, E
 - **Domains:** Knowledge, Trickery, Order
 - **Symbol:** Three inverted triangles arranged in a long triangle
+___
+
 ### Information
 
 Open worship of Asmodeus began roughly a century ago when small cults with charismatic leaders sprang up in the aftermath of the Spellplague. That catastrophe left many asking why the gods were angry or had abandoned them. To those questioners, the faithful of Asmodeus provided answers and a god who would forgive all their faults. Still, for the next few decades, the Cult of Asmodeus struggled for acceptance.

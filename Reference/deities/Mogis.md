@@ -1,18 +1,22 @@
 #### Mogis, God of Slaughter
+___
+
 - **Pantheon:** Theros
 - **Alignment:** C, E
 - **Domains:** War
+___
+
 ### Information
 
 Mogis is the god of slaughter, violence, and war. He is hatred unrestrained, empathy denied, and mercy forgotten, an entity whose very presence incites mortals to violence. Soldiers fear succumbing to his blood lust lest they dishonor themselves, but the vengeful and forsaken call to him for the gift of his rage. He is the brother of Iroas, god of victory, and his antithesis in matters of warfare.
 
-The anger and malice radiating from Mogis is almost palpable. He exercises no control over his temper or his urges and lashes out at subordinates at the slightest provocation. Akroan soldiers are warned that to give in to his seductive battle rage is to risk becoming an *androphage*ï¿½a bloodthirsty killer wholly consumed by Mogis's fury.
+The anger and malice radiating from Mogis is almost palpable. He exercises no control over his temper or his urges and lashes out at subordinates at the slightest provocation. Akroan soldiers are warned that to give in to his seductive battle rage is to risk becoming an *androphage*—a bloodthirsty killer wholly consumed by Mogis's fury.
 
-Mogis cuts a terrifying figure, appearing as a four-horned minotaur of incredible size clad in spiked bronze armor and wielding a massive ebon greataxe. He doesn't debase himself by appearing in other guises to mortalsï¿½to behold him is to behold the cruelty of war personified. He hungers endlessly to defeat his brother Iroas in combat and thus become the sole avatar of war among mortals.
+Mogis cuts a terrifying figure, appearing as a four-horned minotaur of incredible size clad in spiked bronze armor and wielding a massive ebon greataxe. He doesn't debase himself by appearing in other guises to mortals—to behold him is to behold the cruelty of war personified. He hungers endlessly to defeat his brother Iroas in combat and thus become the sole avatar of war among mortals.
 
-**Mogis's Influence**: Mogis, like his brother, governs the sphere of warfare. But while Iroas thrives on the glory of honorable victory, Mogis revels in sadism, destruction, and the utter humiliation of the vanquished. He drives warriors to acts of cruelty and malice in their pursuit of victory. Only those who have experienced the terror and violence of war truly understand the seductive nature of Mogis's power. To feel rage, to be an instrument of wrathï¿½these emotions override the fear of battle. In hatred there is strength, and Mogis revels in this fact. But mortals must beware, for the price he exacts in exchange for this strength is the sacrifice of decency, honor, and compassion.
+**Mogis's Influence**: Mogis, like his brother, governs the sphere of warfare. But while Iroas thrives on the glory of honorable victory, Mogis revels in sadism, destruction, and the utter humiliation of the vanquished. He drives warriors to acts of cruelty and malice in their pursuit of victory. Only those who have experienced the terror and violence of war truly understand the seductive nature of Mogis's power. To feel rage, to be an instrument of wrath—these emotions override the fear of battle. In hatred there is strength, and Mogis revels in this fact. But mortals must beware, for the price he exacts in exchange for this strength is the sacrifice of decency, honor, and compassion.
 
-**Mogis's Goals**: To Mogis, the world is a canvas upon which he paints in blood. His goals are easy to understand, thus easily fulfilled by his minions. Mogis wants to unmake the world through savagery. Let every polis fall and the works of mortals burnï¿½everything comes to ruin in time, and Mogis believes that time should be now. Only the most brutal and savage among the mortals should surviveï¿½his chosen few. Once the world lies in ruin with his brother dead at his feet, Mogis's goals will be achieved.
+**Mogis's Goals**: To Mogis, the world is a canvas upon which he paints in blood. His goals are easy to understand, thus easily fulfilled by his minions. Mogis wants to unmake the world through savagery. Let every polis fall and the works of mortals burn—everything comes to ruin in time, and Mogis believes that time should be now. Only the most brutal and savage among the mortals should survive—his chosen few. Once the world lies in ruin with his brother dead at his feet, Mogis's goals will be achieved.
 
 **Divine Relationships**: Mogis's existence is defined by his eternal struggle against his twin brother, Iroas. (Only a handful of contradictory myths address the parentage of these gods, but they are universally described as twins.) Any of Mogis's actions and endeavors contribute to undermining and ultimately destroying Iroas. Any divine relationships Mogis might enter into are born of convenience and as a means to the end. Mogis is incapable of loyalty and should be expected to break any pact or agreement once it has outlived its usefulness.
 
@@ -20,13 +24,13 @@ Erebos appreciates Mogis's single-minded desire to destroy because it serves as 
 
 Of all his fellow gods, Mogis holds the most respect for Phenax. Mogis can't help but smile at the chaos Phenax is able to cause and the carnage the Returned wreak on the world. Phenax has a talent for inciting conflict, which allows Mogis to revel in the resulting strife.
 
-Mogis harbors an abiding disrespect, verging on hatred, for Ephara and Karametra. Ephara's neat, orderly cities are a delight to destroy, especially given her fussy, precise adherence to rules. Likewise, Ephara's close relationships with Iroas and Heliod provoke Mogis's disgust. Mogis disdains Karametra because she aids mortals and provides succor to the weak. These are acts of foolishness because the weak don't deserve aidï¿½they are fodder for the strong. Setting fertile fields ablaze and witnessing the resulting famine is a source of enjoyment for Mogis, though he has been surprised more than once by the ferocity of Karametra's reprisals.
+Mogis harbors an abiding disrespect, verging on hatred, for Ephara and Karametra. Ephara's neat, orderly cities are a delight to destroy, especially given her fussy, precise adherence to rules. Likewise, Ephara's close relationships with Iroas and Heliod provoke Mogis's disgust. Mogis disdains Karametra because she aids mortals and provides succor to the weak. These are acts of foolishness because the weak don't deserve aid—they are fodder for the strong. Setting fertile fields ablaze and witnessing the resulting famine is a source of enjoyment for Mogis, though he has been surprised more than once by the ferocity of Karametra's reprisals.
 
 **Worshiping Mogis**: Mogis exhorts his followers to channel their hatred and rage into ever greater acts of cruelty and violence. He demands actions over words, making his followers an active and dangerous lot. From the spurned lover thirsting for revenge to the blood-drenched warrior on the battlefield, all honor Mogis with the shedding of blood in anger.
 
 Minotaurs are the most ardent worshipers of Mogis and regularly hold bloody rites in his honor. Warchanters, the minotaur clergy of Mogis, whip their marauders into a near-mindless frenzy before battle; the ensuing slaughter gives glory to Mogis's name.
 
-The appearance of the blood moon is a most holy occasion for the faithful of Mogis, since the moon represents his hateful crimson eye. At such times, his followers prepare and consume a feast of meat, either raw or barely cooked, along with copious amounts of intoxicants, followed by ritual self-mutilationï¿½scarring themselves to demonstrate their devotion to Mogis.
+The appearance of the blood moon is a most holy occasion for the faithful of Mogis, since the moon represents his hateful crimson eye. At such times, his followers prepare and consume a feast of meat, either raw or barely cooked, along with copious amounts of intoxicants, followed by ritual self-mutilation—scarring themselves to demonstrate their devotion to Mogis.
 
 **Mogis's Champions**: **Alignment**: Usually chaotic, often evil
 

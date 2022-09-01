@@ -1,9 +1,13 @@
 #### Sehanine Moonbow
+___
+
 - **Pantheon:** Elven (The Seldarine)
 - **Alignment:** C, G
 - **Domains:** Grave, Knowledge, Light
 - **Province:** Dreams, death, travel
 - **Symbol:** Full moon under a moonbow
+___
+
 ### Information
 
 Sehanine is Corellon's beloved; Corellon is Sehanine's creator. Sehanine is Corellon's shadow; Corellon is Sehanine's reflection. Sehanine is the moon; Corellon is the moon's crescent. Sehanine is the night sky; Corellon is the sun and all the stars.

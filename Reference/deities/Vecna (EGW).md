@@ -1,8 +1,12 @@
 #### Vecna (EGW), the Whispered One
+___
+
 - **Pantheon:** Exandria
 - **Alignment:** N, E
 - **Domains:** Arcana, Death, Grave, Knowledge
 - **Symbol:** Desiccated hand with an eye in the palm
+___
+
 ### Information
 
 The lich lord Vecna presides over villainous mages, conspiring politicians, and envious servants as the dark god of necromancy, undeath, and secrets. Once a dangerously clever and powerful archmage-turned-lich, his hunger for dominion over all mysteries and obsession with conquering the pantheon led to his own dissolution, leaving behind only his left hand and eye. His enduring spirit reformed through the ages and managed to reconstruct the Raven Queen's rites of ascension to become the newest of gods to walk Exandria. Defeated by the legendary heroes Vox Machina and sealed behind the Divine Gate, the Whispered One now quietly rules over that which is not meant to be known.

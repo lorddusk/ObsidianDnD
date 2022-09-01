@@ -1,8 +1,12 @@
 #### Yurtrus, the White Hand
+___
+
 - **Pantheon:** Orc
 - **Alignment:** N, E
 - **Domains:** Death
 - **Symbol:** White hand, palm outward
+___
+
 ### Information
 
 Yurtrus is often depicted as consumed by rot and covered in oozing pustules, utterly repulsive except for his hands, which are pure white and free of any blemish. Yurtrus has no mouth and never utters a sound, so that he may come in absolute silence for his chosen.

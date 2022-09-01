@@ -1,8 +1,12 @@
 #### Melora (EGW), the Wild Mother
+___
+
 - **Pantheon:** Exandria
 - **Alignment:** N
 - **Domains:** Life, Nature, Tempest
 - **Symbol:** Wreath of grass and grain affixed to a crook
+___
+
 ### Information
 
 The realm of Melora extends to wherever the seas shift and the land grows wild. As the keeper of the wilderness, Melora represents the wild creatures of nature, the rush of the angry rapids, and the heat-heavy stillness of the desert. Elves worship her, as do hunters, accepting her guidance to exist harmoniously within savage lands. Those seeking safe passage across dangerous waters pray to her to guide them.

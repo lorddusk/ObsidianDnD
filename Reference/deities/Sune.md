@@ -1,8 +1,12 @@
 #### Sune, Goddess of love and beauty
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** C, G
 - **Domains:** Life, Light
 - **Symbol:** Face of a beautiful red-haired woman
+___
+
 ### Information
 
 Sune Firehair is a deity of passion and the delights of the senses. She is the goddess of beauty in all its forms - not just pleasing sights, but also enchanting sounds, luxurious tastes and scents, and the exquisite pleasures of the flesh, from a lover's caress to the brush of silk on the skin. Her worshipers seek out these pleasures in life, not out of mere decadence, but because the experience of pleasure is the touch of Sune herself.

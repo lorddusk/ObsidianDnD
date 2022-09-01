@@ -1,8 +1,12 @@
 #### The Raven Queen, Matron of Death
+___
+
 - **Pantheon:** Exandria
 - **Alignment:** L, N
 - **Domains:** Death, Grave
 - **Symbol:** White, humanoid mask framed in black feathers
+___
+
 ### Information
 
 Master of the skein of fate and the mistress of winter, the Raven Queen is the god of death. Her gaze follows and marks the end of each mortal life, watching over the border between life and death and ensuring the natural transition is undefiled. Many funerals ask her blessing to protect the deceased from the terrible curse of undeath. Those who study ancient lore believe that the Matron of Death was once mortal herself and is the only known mortal to have ascended to godhood. Her rise instantly obliterated the previous, now-forgotten god of death, and the other gods quickly and fearfully destroyed the secrets to the rites of ascension.

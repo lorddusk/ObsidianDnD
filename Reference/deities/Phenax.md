@@ -1,7 +1,11 @@
 #### Phenax, God of Deception
+___
+
 - **Pantheon:** Theros
 - **Alignment:** C, N
 - **Domains:** Trickery
+___
+
 ### Information
 
 Phenax is the masked patron of lies and cheats. He is Heliod's ethical antithesis, governing the spheres of gambling, deception, and betrayal. Phenax was once a mortal who was trapped in the Underworld, but he learned how to forsake his identity to prevent Erebos from detecting what he was doing. He crossed back over the Rivers That Ring the World wrapped in the tattered cloak of Athreos, the River Guide, who ushers the dead to their final rest. Hidden by illusion as he was, neither Athreos nor Erebos could find Phenax and bring him back.
@@ -10,7 +14,7 @@ Able to play whatever role the situation calls for, Phenax is a consummate actor
 
 Phenax is a shadowy and mysterious figure. When appearing before mortals, he prefers the form of a willowy humanoid with ashen gray skin, clad in elegant robes. He has also been known to appear in a variety of animal forms, including the shapes of asps, mockingbirds, or rats. Regardless of his shape, a mask forever conceals the blank face of the first Returned.
 
-**Phenax's Influence**: Subtlety and manipulationï¿½of mind, word, and deedï¿½are the cornerstones of Phenax's power and his influence over mortals and immortals alike. Even gods enjoy hearing what they prefer to hear instead of the truth, and Phenax is happy to give them what they want.
+**Phenax's Influence**: Subtlety and manipulation—of mind, word, and deed—are the cornerstones of Phenax's power and his influence over mortals and immortals alike. Even gods enjoy hearing what they prefer to hear instead of the truth, and Phenax is happy to give them what they want.
 
 He takes pleasure in finding ways to subvert or corrupt champions of law, order, and justice, turning them to his cause. Whether by feeding the hubris of a champion of Heliod or subverting the moral code of a stalwart of Iroas, he tempts mortals by confronting them with seemingly inconsequential decisions, each of which offers an opportunity for the person to compromise their principles. One by one, these acts move the needle of a person's moral gauge by a small amount. Over time, these choices accumulate until the individual's fall from grace is complete.
 

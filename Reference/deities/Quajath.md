@@ -1,8 +1,12 @@
 #### Quajath, the Undermaw
+___
+
 - **Pantheon:** Exandria
 - **Alignment:** C, N
 - **Domains:** Nature, War
 - **Symbol:** Ring of teeth
+___
+
 ### Information
 
 The mystery of whether Quajath is a creation or the direct progeny of Torog is unknown, but the deranged, gargantuan worm creature that scouted the Crawling King's advances in the Calamity was thought to have been slain in the ferocious final battles. Leaving a sizable portion of its wounded body behind, a slimy fragment of Quajath burrowed deep beneath the surface and slumbered in the cold earth beneath Eiselcross to recover and regrow. When the Undermaw attempted to rise once more, the elemental ice of Eiselcross proved too strong, and Quajath remains entombed within the frozen north to this day.

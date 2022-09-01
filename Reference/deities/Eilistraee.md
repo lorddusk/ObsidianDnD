@@ -1,9 +1,13 @@
 #### Eilistraee
+___
+
 - **Pantheon:** Drow (The Dark Seldarine)
 - **Alignment:** C, G
 - **Domains:** Life, Light, Nature
 - **Province:** Freedom, moonlight, song
 - **Symbol:** Sword-wielding, dancing female drow silhouetted against the full moon
+___
+
 ### Information
 
 Most drow know nothing of Eilistraee. Matron mothers of the most powerful houses closely guard the scrolls that chronicle her existence. They retain them for the sake of remaining aware of the enemy they describe: a drow god who would spirit away all of Lolth's worshipers to the surface world.

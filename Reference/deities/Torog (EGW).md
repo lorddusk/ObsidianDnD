@@ -1,8 +1,12 @@
 #### Torog (EGW), the Crawling King
+___
+
 - **Pantheon:** Exandria
 - **Alignment:** N, E
 - **Domains:** Death, Trickery
 - **Symbol:** Three pale arms clawing from a dark void
+___
+
 ### Information
 
 The dark god of the endless tunnels and caverns beneath Exandria, Torog is the patron of torturers, slavers, and jailers across the realms. His violent tears carved the pathways under the world, and his realm of imprisonment is a network of deadly caves and manacles from which few return. Creatures that wander the desolation of Carceri often construct prisons in his image. Those who rob others of their freedom offer prayers to him in cellars and other subterranean domains, and many creatures who live in the darkness below worship him and seek his guidance.

@@ -1,8 +1,12 @@
 #### Tempus, God of war
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** N
 - **Domains:** War
 - **Symbol:** Upright flaming sword
+___
+
 ### Information
 
 Tempus is a war god concerned with brave conduct during war, using force of arms over talk for settling disputes, and encouraging bloodshed. The god of war is random in his favors, meaning that his chaotic nature favors all sides equally. Lord Tempus might be an army's ally one day, and its enemy the next. He might seem to manifest before a battle, appearing to one side or the other. If he is seen riding a white mare (Veiros), then the army will succeed. If he rides a black stallion (Deiros), then defeat is certain. Most often he appears to be riding with one foot in each mount's stirrup, signifying the unpredictable nature of battle. In such visions, Tempus is always a powerfully built warrior dressed for battle in the style of those who envision him.

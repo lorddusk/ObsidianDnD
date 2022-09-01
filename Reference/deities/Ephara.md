@@ -1,7 +1,11 @@
 #### Ephara, God of the Polis
+___
+
 - **Pantheon:** Theros
 - **Alignment:** L, N
 - **Domains:** Knowledge, Light
+___
+
 ### Information
 
 As god of the polis, Ephara sees herself as the founder of civilization. She watches over cities, protecting them from outside threats. She is credited with establishing the first code of law, which Meletis has preserved and the other poleis have imitated. Even more important, she helps cities reach their highest potential, becoming centers of scholarship, industry, and art.
@@ -10,7 +14,7 @@ Ephara appears as a huge animated statue wearing a stone crown, resembling the c
 
 **Ephara's Influence**: Ephara's sphere of influence is the polis. Although worshiped in many places, she is most beloved in Meletis, whose citizens credit her with the city's founding. Many city walls bear Ephara's face, fashioned thus in the belief that each of her images watches over the part of the city it looks upon.
 
-Ephara is strongly affiliated with the daytime, when cities are awake, alive, and at work. Her followers generally pray at midday, with the sounds of the city forming an appropriate backdrop to their rites, as industry itself is sacred to Ephara. Many aspects of city life and culture fall under Ephara's influence. Scholarship is closely connected to Ephara, as is artï¿½particularly poetry, sculpture, and architecture. Ephara is also highly concerned with civic wisdom and justice, and many politicians and other leaders seek her guidance in how to rule.
+Ephara is strongly affiliated with the daytime, when cities are awake, alive, and at work. Her followers generally pray at midday, with the sounds of the city forming an appropriate backdrop to their rites, as industry itself is sacred to Ephara. Many aspects of city life and culture fall under Ephara's influence. Scholarship is closely connected to Ephara, as is art—particularly poetry, sculpture, and architecture. Ephara is also highly concerned with civic wisdom and justice, and many politicians and other leaders seek her guidance in how to rule.
 
 **Ephara's Goals**: Ephara seeks always to further cities: establishing them, protecting them, and seeing them grow. She supports those who build new cities and those who free others from tyranny. Ephara knows that not all threats to a city come from outside it, and she encourages her followers to watch out for tyranny and injustice from within. She seeks for justice to prevail in civilized lands.
 

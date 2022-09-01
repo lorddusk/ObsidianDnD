@@ -1,8 +1,12 @@
 #### Waukeen, Goddess of trade
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** N
 - **Domains:** Knowledge, Trickery
 - **Symbol:** Upright coin with Waukeen's profile facing left
+___
+
 ### Information
 
 Waukeen is the goddess of wealth and trade, on both sides of the law. Her most ardent worshipers include shopkeepers, members of trading costers, wealthy merchants, caravan guides, itinerant peddlers, moneychangers, and smugglers. She is interested in anything that increases trade and the flow of money, whether new trade routes, new inventions, or the whim of changing fashion. Those who take Waukeen as a patron can be reliably thought of as greedy, but the Coinmaiden is said to frown upon misers and smile upon the industrious and the profligate, and thus priests who bear her holy symbol find themselves welcome in many towns and cities.

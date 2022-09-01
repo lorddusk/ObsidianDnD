@@ -1,9 +1,13 @@
 #### Arvoreen
+___
+
 - **Pantheon:** Halfling
 - **Alignment:** L, G
 - **Domains:** War
 - **Province:** Vigilance, war
 - **Symbol:** Crossed short swords
+___
+
 ### Information
 
 From time to time, halflings must fight to defend their friends or their village. In those moments, the tales of Arvoreen come to the fore in every halfling's memory. Every youth hears over and over again the stories of the hero's bravery and cunning, his clever tactics in battle, and his ability to use speed and smallness to defeat a much larger foe. The elders know that the world outside is dangerous and that their kin must understand how to deal with those dangers. Stories about Arvoreen are told in such a way that youngsters are inspired to act out his epic battles. In this way, the halflings get practical experience in executing measures that are designed to help the halflings defeat kobolds and goblin raiders, or even take down an ogre. When the time comes to put those tactics to use in earnest, everyone will be ready.

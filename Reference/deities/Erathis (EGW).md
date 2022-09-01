@@ -1,8 +1,12 @@
 #### Erathis (EGW), the Law Bearer
+___
+
 - **Pantheon:** Exandria
 - **Alignment:** L, N
 - **Domains:** Knowledge, Order
 - **Symbol:** Double-headed axe inset with a pattern of scales
+___
+
 ### Information
 
 The inspiration behind many great inventions, the creation of vast cities, and law and order within society, Erathis claims dominion over civilization. Judges and rulers pay respect at her temples, which are central structures in many cities across Exandria. Peace and order through structure and law guides the will of her devout followers. The Law Bearer has a tempestuous romance with Melora the Wild Mother, a furious love that is tempered only when civilization and nature are in balance.

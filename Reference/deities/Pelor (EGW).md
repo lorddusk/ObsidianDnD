@@ -1,8 +1,12 @@
 #### Pelor (EGW), the Dawn Father
+___
+
 - **Pantheon:** Exandria
 - **Alignment:** N, G
 - **Domains:** Life, Light, Nature
 - **Symbol:** Bright, eight-pointed star
+___
+
 ### Information
 
 Pelor rules over sun and summer, his vigil encircling the ages as the keeper of time. As lord of agriculture and harbinger of the harvest, he is worshiped by farmers and most common folk, and his priests are welcomed in many lands. Supporter of the needy and destroyer of evil, the Dawn Father is often the patron of paladins and rangers who follow a similar creed. He is also known for his defeat of the Chained Oblivion and is revered by those who hunt aberrations.

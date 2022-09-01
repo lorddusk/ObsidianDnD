@@ -1,8 +1,12 @@
 #### Umberlee, Goddess of the sea
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** C, E
 - **Domains:** Tempest
 - **Symbol:** Wave curling left and right
+___
+
 ### Information
 
 No community that lives by the sea can ignore the influence of Umberlee, the furious goddess whose tempestuous nature reflects and is reflected by the waters of the deep. Any such community makes sure to host festivals to propitiate the Wavemother and seek her favor. Although mercurial in temperament, she can be generous to those who do her honor, as is any great queen.

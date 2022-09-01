@@ -1,8 +1,12 @@
 #### Vesh, the Bloody Siren
+___
+
 - **Pantheon:** Exandria
 - **Alignment:** N, E
 - **Domains:** Death, Life
 - **Symbol:** Crimson ring hanging from a chain
+___
+
 ### Information
 
 None know whether Vesh is a witch or a demigod, but she has walked Exandria for centuries, seducing those who pry into forbidden magics and drawing them to her as possible suitors. Acolytes cultivate sects of worshipers who engage in ritualistic orgies and masochistic rites, these hedonistic rituals culminating with her selection of a mate. Vesh feeds on the unchosen in a bloody massacre before laying with her selected survivor and vanishing to her realm. Their essences intertwined, she then lends her strength to her mate, watching over them for life.

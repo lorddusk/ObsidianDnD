@@ -1,9 +1,13 @@
 #### Berronar Truesilver
+___
+
 - **Pantheon:** Dwarven (The Mordinsamman)
 - **Alignment:** L, G
 - **Domains:** Life, Light, Peace
 - **Province:** Hearth, home, truth
 - **Symbol:** Intertwined silver rings
+___
+
 ### Information
 
 The Matron of Home and Hearth is the patron of family, honor, and law. She lays out the rules for managing a dwarf clan.

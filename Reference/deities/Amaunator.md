@@ -1,8 +1,12 @@
 #### Amaunator, God of the sun
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** L, N
 - **Domains:** Life, Light
 - **Symbol:** Golden sun
+___
+
 ### Information
 
 The rule of law and the glory of the sun are both in Amaunator's dominion. His priests help establish bureaucracies and lawful order in communities. They often witness contracts and signed agreements, stamping such documents with the sun-symbol of Amaunator to signify their validity.

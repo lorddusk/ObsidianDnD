@@ -1,9 +1,13 @@
 #### Deep Duerra
+___
+
 - **Pantheon:** Duergar
 - **Alignment:** L, E
 - **Domains:** Knowledge, War
 - **Province:** Conquest, psionics
 - **Symbol:** Mind flayer skull
+___
+
 ### Information
 
 According to legend, Deep Duerra stole the power of psionics from the mind flayers and gifted it to her people. Her command of it was so great that she dominated a mind flayer colony and turned the illithids into her slaves.

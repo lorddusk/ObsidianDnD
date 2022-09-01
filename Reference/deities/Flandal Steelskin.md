@@ -1,9 +1,13 @@
 #### Flandal Steelskin
+___
+
 - **Pantheon:** Gnome
 - **Alignment:** N, G
 - **Domains:** Forge, Knowledge
 - **Province:** Metalwork
 - **Symbol:** Flaming hammer
+___
+
 ### Information
 
 The stories that gnomes tell of Flandal Steelskin typically feature some perfect item that he crafted or a misadventure that results from following his enormous nose, which can smell ore more easily than a wolf can scent a skunk. The most often told legend of Flandal includes both elements. Before creating Garl's marvelous axe, Arumdina, Flandal sniffed out the purest source of mithral: the heart of Imix. With the aid of the other gnome gods, he stole the heart and turned it into a mithral forge that now burns with an eternal furious flame.

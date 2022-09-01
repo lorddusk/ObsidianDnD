@@ -1,9 +1,13 @@
 #### Sheela Peryroyl
+___
+
 - **Pantheon:** Halfling
 - **Alignment:** N, G
 - **Domains:** Nature, Tempest
 - **Province:** Agriculture, nature, weather
 - **Symbol:** A flower
+___
+
 ### Information
 
 Every halfling village sets aside a place for paying respects to Sheela Peryroyl. In a grove of trees, a raspberry patch, or a swath of wildflowers, villagers leave a small offering whenever they walk by, or tip their caps, or whisper a blessing in her honor. A village counts itself lucky if this place is cared for by a druid. Creatures that attack a village under the protection of the god's druids soon learn the error of their ways when all manner of plants lash out to grapple and sting the intruders, as though nature herself were aiding the halflings' cause.

@@ -1,8 +1,12 @@
 #### Lliira, Goddess of joy
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** C, G
 - **Domains:** Life
 - **Symbol:** Triangle of three six-pointed stars
+___
+
 ### Information
 
 Lliira is a beloved goddess, a deity of contentment, release, joy, happiness, dance, and freedom. As the patron of festivals, she is honored at any celebration, and dance is the primary way to worship her. The Mistress of Revels is said to abhor violence, and any fighting or drawing of weapons (except in ceremony) at a celebration will cause her to withhold her favor. Her priests and priestesses, known as joybringers, take it as their mission to make other people happy, even if just for a moment.

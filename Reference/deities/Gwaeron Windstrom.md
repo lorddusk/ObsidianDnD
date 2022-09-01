@@ -1,8 +1,12 @@
 #### Gwaeron Windstrom, God of tracking
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** N, G
 - **Domains:** Knowledge, Nature
 - **Symbol:** Paw print with a five-pointed star in its center
+___
+
 ### Information
 
 Few aside from rangers of the North pray to Gwaeron Windstrom. Said to have been a mortal man elevated to godhood by Mielikki, Gwaeron serves rangers as their intercessor with Mielikki. He is seen as a master ranger, the perfect tracker, a peerless animal handler, and a dedicated foe of rapacious creatures such as trolls and orcs. He is said to look like an old man with a long white beard who is still hale and mighty, and he is believed to take rest and sleep in a stand of trees near Triboar.

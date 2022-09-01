@@ -1,9 +1,13 @@
 #### Xalicas
+___
+
 - **Pantheon:** Exandria (Lesser Idols)
 - **Alignment:** L, G
 - **Domains:** Life, Light
 - **Province:** The Archfey, the Celestial
 - **Symbol:** Single blackened wing
+___
+
 ### Information
 
 The Calamity took the lives of mortals and immortals alike. Many angels that fought with the Prime Deities were slain, and most that survived were wounded. The solar Xalicas, the right hand of the Arch Heart, was so injured that even the magic of the gods cannot help the angel regain the ability to see, fly, or leave Exandria. For over a century, Xalicas lay broken and blinded in the Greying Wildlands, moss and plants covering her body, until she had the strength to move, blaming herself for the small part she played in the Calamity.

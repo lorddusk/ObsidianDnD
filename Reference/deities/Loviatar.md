@@ -1,8 +1,12 @@
 #### Loviatar, Goddess of pain
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** L, E
 - **Domains:** Death
 - **Symbol:** Nine-tailed barbed scourge
+___
+
 ### Information
 
 Pain isn't a means to an end for Loviatar's faithful, but an end unto itself. To them, nothing is as transcendent as suffering, and all pain is holy, from the crudest barbarism, to the most sublime torture, to the emotional suffering of the heartbroken or the betrayed.

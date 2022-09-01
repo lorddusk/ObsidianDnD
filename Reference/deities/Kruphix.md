@@ -1,7 +1,11 @@
 #### Kruphix, God of Horizons
+___
+
 - **Pantheon:** Theros
 - **Alignment:** N
 - **Domains:** Knowledge, Trickery
+___
+
 ### Information
 
 Kruphix is the enigmatic god of mysteries, horizons, and the passage of time. His followers claim that he knows not only everything that is known at present, but everything that has ever been known by anyone.
@@ -10,9 +14,9 @@ Quiet surrounds Kruphix like a shroud. Standing apart from the other gods, he sp
 
 Kruphix's true form is more abstract than that of any of the other gods. He appears only in star-filled silhouette, usually as a hooded, four-armed figure of indeterminate species and gender. Two of the stars in his "body" often shine brightly, suggesting eyes. Kruphix's starry silhouette sometimes takes the form of a bird or a whale.
 
-**Kruphix's Influence**: Kruphix holds dominion over everything unseen or unknown. He is associated with the horizonï¿½the brink of the unknownï¿½and with navigation. His followers include scholars, sages, and a handful of sailors who have an inclination toward the mystical.
+**Kruphix's Influence**: Kruphix holds dominion over everything unseen or unknown. He is associated with the horizon—the brink of the unknown—and with navigation. His followers include scholars, sages, and a handful of sailors who have an inclination toward the mystical.
 
-Perfect understanding is like the horizon: easy to move toward, but impossible to reach. Kruphix knows everything that has ever been known on Theros, so he and only he decides which secrets should be loosed upon the world, and which must be kept forever hidden. He has existed since before mortals occupied Theros and numbers among the few who understand the role of mortal belief in shaping the younger godsï¿½a concept even most gods don't fully comprehend.
+Perfect understanding is like the horizon: easy to move toward, but impossible to reach. Kruphix knows everything that has ever been known on Theros, so he and only he decides which secrets should be loosed upon the world, and which must be kept forever hidden. He has existed since before mortals occupied Theros and numbers among the few who understand the role of mortal belief in shaping the younger gods—a concept even most gods don't fully comprehend.
 
 Kruphix is the only being who has the ability to seal the borders between the mortal realm and Nyx. He uses this power to safeguard the mortal world from reckless divine meddling and enforce the balance of power among the gods and their faithful.
 

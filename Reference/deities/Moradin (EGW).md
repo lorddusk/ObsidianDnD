@@ -1,8 +1,12 @@
 #### Moradin (EGW), the All-Hammer
+___
+
 - **Pantheon:** Exandria
 - **Alignment:** L, G
 - **Domains:** Forge, Knowledge, War
 - **Symbol:** Hammer with ends carved in the likeness of dwarven heads
+___
+
 ### Information
 
 Moradin is worshiped by smiths, artisans, and miners alike, granting inspiration in exchange for respect and prayer. He shaped the mountains from the chaos of the Founding, and stands as the patron protector of home and family. The devotion to the All-Hammer is strongest in dwarven communities, and many temples to Moradin mark the center of a mighty dwarven stronghold.

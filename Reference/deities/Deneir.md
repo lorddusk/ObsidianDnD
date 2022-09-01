@@ -1,8 +1,12 @@
 #### Deneir, God of writing
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** N, G
 - **Domains:** Arcana, Knowledge
 - **Symbol:** Lit candle above an open eye
+___
+
 ### Information
 
 Deneir is the god of literature and literacy, the patron of the artist and the scribe. His is the power to accurately render and describe, to write and to read, and to pass on information. In legend, Deneir is often portrayed as being a scribe in service to Oghma, and he is sometimes thought of as Oghma's right hand.

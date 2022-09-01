@@ -1,8 +1,12 @@
 #### Eldath, Goddess of peace
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** N, G
 - **Domains:** Life, Nature, Peace
 - **Symbol:** Waterfall plunging into a still pool
+___
+
 ### Information
 
 Eldath is the goddess of waterfalls, springs, pools, stillness, peace, and quiet glades. She is thought to be present at many such places, particularly those that serve as druid groves. Eldath is a goddess of comfort, healing, and calm. Her blessed waters heal the sick, cure madness, and comfort the dying.

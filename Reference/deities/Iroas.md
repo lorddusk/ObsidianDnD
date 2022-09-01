@@ -1,7 +1,11 @@
 #### Iroas, God of Victory
+___
+
 - **Pantheon:** Theros
 - **Alignment:** C, G
 - **Domains:** War
+___
+
 ### Information
 
 Iroas is the steadfast god of honor and victory in war. When soldiers march to battle, his voice is the thunder of their footsteps and the crash of spear on shield. Soldiers, mercenaries, and athletes all pray for Iroas's favor in securing victory. Common folk pray to Iroas for courage and fortitude in times of struggle, for his is the battle nobly fought and won.

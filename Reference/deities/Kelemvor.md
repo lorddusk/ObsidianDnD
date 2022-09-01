@@ -1,8 +1,12 @@
 #### Kelemvor, God of the dead
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** L, N
 - **Domains:** Death, Grave
 - **Symbol:** Upright skeletal arm holding balanced scales
+___
+
 ### Information
 
 Kelemvor is seen as a just, fair, and comforting god of death. Death comes to all, and when it occurs Kelemvor is there to take each soul by the hand and lead it to the proper afterlife. Kelemvor's priests teach that those who revere the gods according to the rites of their religion have done their proper service and will be offered the afterlife they seek.

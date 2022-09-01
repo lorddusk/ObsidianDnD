@@ -1,8 +1,12 @@
 #### The Red Knight, Goddess of strategy
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** L, N
 - **Domains:** War
 - **Symbol:** Red knight lanceboard piece with stars for eyes
+___
+
 ### Information
 
 The Red Knight is the goddess of planning and strategy. Those who favor her call themselves the Red Fellowship. They believe wars are won by the best planning, strategy, and tactics. The worship of the Red Knight is filled with doctrine about strategy, such as: "Every war is a series of battles. Losing one doesn't mean losing the war." "In war, plan for peace. In peace, plan for war." "Seek allies among your enemy's enemies."

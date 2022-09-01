@@ -1,8 +1,12 @@
 #### Bahamut (EGW), the Platinum Dragon
+___
+
 - **Pantheon:** Exandria
 - **Alignment:** L, G
 - **Domains:** Life, Order, War
 - **Symbol:** Silver dragon's head in profile
+___
+
 ### Information
 
 The pillar of justice, protection, nobility, and honor, Bahamut is a beacon to paladins of order and good, and is revered by most metallic dragons as the first of their kind. The crest of the Platinum Dragon adorns many halls of high leadership and justice, invoking his will in all matters of justice. To follow him is to look after those who cannot look after themselves.

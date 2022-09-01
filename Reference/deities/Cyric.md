@@ -1,8 +1,12 @@
 #### Cyric, God of lies
-- **Pantheon:** Faerï¿½nian
+___
+
+- **Pantheon:** Faerûnian
 - **Alignment:** C, E
 - **Domains:** Trickery
 - **Symbol:** White jawless skull on black or purple sunburst
+___
+
 ### Information
 
 The worship of Cyric derives directly from the story of his ascension to godhood. Cyric was a mortal during the Time of Troubles and the key to how that chaotic period resolved, but he was also a selfish traitor and a murderer. When he became a god, Cyric continued to work various plots of deceit and murder - the most famous of which is that, according to legend, Cyric murdered Mystra and thus caused the Spellplague over a century ago.

@@ -1,8 +1,12 @@
 #### Shargaas, the Night Lord
+___
+
 - **Pantheon:** Orc
 - **Alignment:** N, E
 - **Domains:** Trickery
 - **Symbol:** Red crescent moon with a skull between the moon's horns
+___
+
 ### Information
 
 Shargaas is a god of darkness and the unknown. He is a secretive and murderous deity, dangerous to all except Gruumsh. His realm is the darkness that no creatures but those devoted to him can see through.

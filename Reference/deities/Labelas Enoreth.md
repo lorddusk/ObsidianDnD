@@ -1,9 +1,13 @@
 #### Labelas Enoreth
+___
+
 - **Pantheon:** Elven (The Seldarine)
 - **Alignment:** C, G
 - **Domains:** Arcana, Knowledge, Life
 - **Province:** Time, history, memory
 - **Symbol:** Setting sun
+___
+
 ### Information
 
 Even though elves live far longer than most other humanoids, they show few physical signs of aging until they become very old. By the time an elf's hair turns to silver and wrinkles appear around the eyes, the elf has lived for centuries and probably has only a few decades remaining. For this longevity and long-lasting vitality, they thank and revere Labelas Enoreth.

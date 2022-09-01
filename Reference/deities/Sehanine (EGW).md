@@ -1,8 +1,12 @@
 #### Sehanine (EGW), the Moon Weaver
+___
+
 - **Pantheon:** Exandria
 - **Alignment:** C, G
 - **Domains:** Arcana, Nature, Trickery
 - **Symbol:** Crescent moon turned upward, strung like a bow
+___
+
 ### Information
 
 Sehanine is the god of moonlight and the autumn season, as well as the patron of illusions and misdirection. Widely worshiped in halfling and elven cultures, she is considered to be the deity of love, protecting the trysts of lovers with shadows of her own making. Those who work in darkness and trickery often ask for her blessing.

@@ -1,9 +1,13 @@
 #### Hanali Celanil
+___
+
 - **Pantheon:** Elven (The Seldarine)
 - **Alignment:** C, G
 - **Domains:** Life
 - **Province:** Love, beauty, the arts
 - **Symbol:** Golden heart
+___
+
 ### Information
 
 Hanali is the elven god of beauty and love. Usually depicted as a beautiful female, in some stories the god appears to mortals as a gorgeous male. Hanali's gender in a story seldom matters, for no matter how much heartache and confusion the stories contain, they end with affairs of the heart properly sorted out and everyone in love with the person, or persons, they were fated to be with. Stories of Hanali's romantic adventures among elves and other mortals are perennial favorites when sung by elf bards and poets.
