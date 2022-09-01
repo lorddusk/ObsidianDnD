@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "5900a3d3bf176a90",
+        "id": "2f42c78ce31170ed",
         "type": "tabs",
         "children": [
           {
-            "id": "149097e342c689b2",
+            "id": "000feacc0a781001",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "149097e342c689b2",
+                  "leaf": "000feacc0a781001",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":70}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Sheet Test.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Booker/Overview.md",
-                "mode": "preview",
+                "file": "Characters/Booker/Sheet Test.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Characters/Booker/Sheet Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Overview.md"
+                "file": "Characters/Booker/Sheet Test.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Characters/Booker/Sheet Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,23 +190,28 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "149097e342c689b2",
+  "active": "000feacc0a781001",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": false
+  },
   "lastOpenFiles": [
-    "Reference/Spells/Wrathful Smite.md",
-    "Characters/Booker/Overview.md",
-    "Reference/Spells/Eldritch Blast.md",
+    "Red Hand of Doom/Compendium/Characters/Alton.md",
+    "Red Hand of Doom/Compendium/Characters/Characters.md",
+    "Red Hand of Doom/Compendium/Characters/Keth.md",
+    "Red Hand of Doom/Compendium/Characters/Aelar.md",
+    "Red Hand of Doom/Compendium/Characters/Bikam.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
-    "Reference/Spells/Arcane Hand.md",
-    "Red Hand of Doom/Quests.md",
-    "Reference/Invocations/Devil's Sight.md",
-    "Reference/Invocations/Armor of Shadows.md",
-    "Reference/Spells/Abi-Dalzim's Horrid Wilting.md",
-    "Filters.md"
+    "Red Hand of Doom/Session Notes/Session 2.md",
+    "Red Hand of Doom/Session Notes/Rolls/Session 1.md",
+    "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
+    "Red Hand of Doom/Session Notes/Session 0.md"
   ]
 }
