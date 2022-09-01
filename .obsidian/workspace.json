@@ -64,7 +64,7 @@
                   "leaf": "7dd580d2f24a2ce1",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Quests.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
                 },
                 {
                   "leaf": "7dd580d2f24a2ce1",
@@ -130,9 +130,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb47628d34f42f5f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "cb47628d34f42f5f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/CSS/Custom Checkboxes.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":12},\"to\":{\"line\":24,\"ch\":12}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference/CSS/Custom Checkboxes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Quests.md",
+                "file": "Reference/CSS/Custom Checkboxes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Quests.md"
+                "file": "Reference/CSS/Custom Checkboxes.md"
               }
             }
           },
@@ -274,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Quests.md",
+                "file": "Reference/CSS/Custom Checkboxes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -299,17 +322,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7dd580d2f24a2ce1",
+  "active": "cb47628d34f42f5f",
   "lastOpenFiles": [
+    "Red Hand of Doom/Quests.md",
+    "Reference/CSS/Custom Checkboxes.md",
     "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md",
     "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Compendium/Characters/Bikam.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Red Hand of Doom/Compendium/Characters/Characters.md",
     "Red Hand of Doom/Compendium/Characters/Keth.md",
-    "Red Hand of Doom/Quests.md",
     "Red Hand of Doom/Compendium/NPCs/Crucia Cromwell.md",
-    "Reference/Spells/Abi-Dalzim's Horrid Wilting.md",
-    "conflict-files-obsidian-git.md"
+    "Reference/Spells/Abi-Dalzim's Horrid Wilting.md"
   ]
 }
