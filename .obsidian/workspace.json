@@ -4,52 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "8c8a501e6f0fbee4",
+        "id": "2851ca711c8543d0",
         "type": "tabs",
         "children": [
           {
-            "id": "3022ad7e0ede666b",
+            "id": "28d0d3a9e9e04521",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "leaf": "3022ad7e0ede666b",
+                  "leaf": "28d0d3a9e9e04521",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Spells/Arcane Hand.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Spells/Teleportation Circle.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
                 },
                 {
-                  "leaf": "3022ad7e0ede666b",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":79,\"ch\":0},\"to\":{\"line\":79,\"ch\":0}},\"scroll\":57.16246786632391}"
-                },
-                {
-                  "leaf": "3022ad7e0ede666b",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Filters.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":24,\"ch\":19}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "3022ad7e0ede666b",
+                  "leaf": "28d0d3a9e9e04521",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":79.52459016393442}"
+                  "eState": "{\"scroll\":0}"
                 },
                 {
-                  "leaf": "3022ad7e0ede666b",
+                  "leaf": "28d0d3a9e9e04521",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Events/Harvest Festival.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Spells/Arcane Hand.md",
-                "mode": "source",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/Spells/Arcane Hand.md",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/Spells/Arcane Hand.md"
+                "file": "Red Hand of Doom/Session Notes/Session 2.md"
               }
             }
           },
@@ -196,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/Spells/Arcane Hand.md",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -215,23 +203,27 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "3022ad7e0ede666b",
+  "active": "28d0d3a9e9e04521",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": false
+  },
   "lastOpenFiles": [
-    "Characters/Booker/Overview.md",
-    "Untitled.md",
-    "Filters.md",
+    "Reference/Spells/Teleportation Circle.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
-    "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
-    "Reference/spells/Wrathful Smite.md",
-    "Reference/spells/Armor of Agathys.md",
-    "Reference/spells/Green-Flame Blade.md",
-    "Wrathful Smite.md",
-    "Armor of Agathys.md"
+    "Characters/Booker/Overview.md",
+    "Red Hand of Doom/Compendium/Compendium.md",
+    "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
+    "Red Hand of Doom/Compendium/NPCs/NPCs.md",
+    "Red Hand of Doom/Compendium/Locations/Locations.md",
+    "Red Hand of Doom/Compendium/Items/Items.md",
+    "Red Hand of Doom/Compendium/Groups/Groups.md",
+    "Red Hand of Doom/Compendium/Events/Events.md"
   ]
 }

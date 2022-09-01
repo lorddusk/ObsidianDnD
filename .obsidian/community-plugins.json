@@ -12,11 +12,11 @@
   "obsidian-outliner",
   "oz-image-plugin",
   "obsidian-hider",
-  "obsidian-style-settings",
   "obsidian-admonition",
   "table-editor-obsidian",
   "obsidian-timelines",
   "pane-relief",
   "obsidian-icon-folder",
-  "folder-note-plugin"
+  "folder-note-plugin",
+  "obsidian-style-settings"
 ]

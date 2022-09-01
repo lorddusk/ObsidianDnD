@@ -1,5 +1,5 @@
 {
-  "interfaceFontFamily": "Fira Code",
+  "interfaceFontFamily": "",
   "monospaceFontFamily": "Fira Code",
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
@@ -12,6 +12,9 @@
   ],
   "translucency": false,
   "baseFontSize": 11,
-  "textFontFamily": "Fira Code",
-  "baseFontSizeAction": true
+  "textFontFamily": "Bookerly",
+  "baseFontSizeAction": true,
+  "accentColor": "#911d1d",
+  "showViewHeader": false,
+  "nativeMenus": false
 }
