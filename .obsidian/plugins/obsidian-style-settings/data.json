@@ -79,5 +79,5 @@
   "checkbox@@chst-quot": false,
   "checkbox@@chst-book": false,
   "checkbox@@chst-info": false,
-  "checkbox@@check-text": true
+  "checkbox@@check-text": false
 }
