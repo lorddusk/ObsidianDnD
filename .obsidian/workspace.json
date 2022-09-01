@@ -63,8 +63,14 @@
                 {
                   "leaf": "7dd580d2f24a2ce1",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "7dd580d2f24a2ce1",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":86},\"to\":{\"line\":56,\"ch\":86}},\"scroll\":88.8948275862069}"
                 },
                 {
                   "leaf": "7dd580d2f24a2ce1",
@@ -113,35 +119,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "7c11c736a9038d5d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "7c11c736a9038d5d",
-                  "group": null,
-                  "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"0.16.1\"}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "0.16.1"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md"
+                "file": "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md"
               }
             }
           },
@@ -283,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -308,8 +293,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7c11c736a9038d5d",
+  "active": "7dd580d2f24a2ce1",
   "lastOpenFiles": [
+    "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Compendium/Characters/Bikam.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Red Hand of Doom/Compendium/Characters/Characters.md",
@@ -318,7 +304,6 @@
     "Red Hand of Doom/Compendium/NPCs/Crucia Cromwell.md",
     "Reference/Spells/Abi-Dalzim's Horrid Wilting.md",
     "conflict-files-obsidian-git.md",
-    "Reference/Spells/Arcane Hand.md",
-    "Characters/Booker/Overview.md"
+    "Reference/Spells/Arcane Hand.md"
   ]
 }
