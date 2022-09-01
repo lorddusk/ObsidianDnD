@@ -58,13 +58,37 @@
             "id": "7dd580d2f24a2ce1",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
                   "leaf": "7dd580d2f24a2ce1",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Crucia Cromwell.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "7dd580d2f24a2ce1",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Bikam.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "7dd580d2f24a2ce1",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Booker.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "7dd580d2f24a2ce1",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Characters.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "7dd580d2f24a2ce1",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Keth.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
                 },
                 {
                   "leaf": "7dd580d2f24a2ce1",
@@ -89,7 +113,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Hand of Doom/Quests.md",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Quests.md",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Quests.md"
+                "file": "Red Hand of Doom/Session Notes/Session 2.md"
               }
             }
           },
@@ -238,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Quests.md",
+                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -265,15 +289,15 @@
   },
   "active": "7dd580d2f24a2ce1",
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium/NPCs/Crucia Cromwell.md",
+    "Red Hand of Doom/Compendium/Characters/Bikam.md",
+    "Red Hand of Doom/Compendium/Characters/Booker.md",
+    "Red Hand of Doom/Compendium/Characters/Characters.md",
+    "Red Hand of Doom/Compendium/Characters/Keth.md",
     "Red Hand of Doom/Quests.md",
+    "Red Hand of Doom/Compendium/NPCs/Crucia Cromwell.md",
     "Reference/Spells/Abi-Dalzim's Horrid Wilting.md",
     "conflict-files-obsidian-git.md",
     "Reference/Spells/Arcane Hand.md",
-    "Characters/Booker/Overview.md",
-    "Untitled.md",
-    "Filters.md",
-    "Red Hand of Doom/Session Notes/Session 2.md",
-    "Red Hand of Doom/Compendium/Events/Harvest Festival.md"
+    "Characters/Booker/Overview.md"
   ]
 }
