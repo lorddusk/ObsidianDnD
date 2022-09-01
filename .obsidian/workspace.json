@@ -63,14 +63,24 @@
                 {
                   "leaf": "7dd580d2f24a2ce1",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Spells/Abi-Dalzim's Horrid Wilting.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":104},\"to\":{\"line\":10,\"ch\":104}}}"
+                },
+                {
+                  "leaf": "7dd580d2f24a2ce1",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Reference/Spells/Abi-Dalzim's Horrid Wilting.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -154,6 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reference/Spells/Abi-Dalzim's Horrid Wilting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +199,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reference/Spells/Abi-Dalzim's Horrid Wilting.md"
+              }
             }
           },
           {
@@ -213,6 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reference/Spells/Abi-Dalzim's Horrid Wilting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
