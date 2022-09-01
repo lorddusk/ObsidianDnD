@@ -4,45 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "2851ca711c8543d0",
+        "id": "8c8a501e6f0fbee4",
         "type": "tabs",
         "children": [
           {
-            "id": "28d0d3a9e9e04521",
+            "id": "3022ad7e0ede666b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "leaf": "28d0d3a9e9e04521",
+                  "leaf": "3022ad7e0ede666b",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Spells/Teleportation Circle.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Spells/Arcane Hand.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
                 },
                 {
-                  "leaf": "28d0d3a9e9e04521",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "leaf": "28d0d3a9e9e04521",
+                  "leaf": "3022ad7e0ede666b",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":79,\"ch\":0},\"to\":{\"line\":79,\"ch\":0}},\"scroll\":57.16246786632391}"
+                },
+                {
+                  "leaf": "3022ad7e0ede666b",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Filters.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":24,\"ch\":19}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "3022ad7e0ede666b",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":79.52459016393442}"
+                },
+                {
+                  "leaf": "3022ad7e0ede666b",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Events/Harvest Festival.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
-                "mode": "preview",
+                "file": "Reference/Spells/Arcane Hand.md",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "7dd580d2f24a2ce1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "7dd580d2f24a2ce1",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,9 +188,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,7 +213,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -203,27 +231,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "28d0d3a9e9e04521",
-  "ophidian:layout-settings": {
-    "pane-relief:focus-lock": false
-  },
+  "active": "7dd580d2f24a2ce1",
   "lastOpenFiles": [
-    "Reference/Spells/Teleportation Circle.md",
-    "Red Hand of Doom/Session Notes/Session 2.md",
+    "conflict-files-obsidian-git.md",
+    "Reference/Spells/Arcane Hand.md",
     "Characters/Booker/Overview.md",
-    "Red Hand of Doom/Compendium/Compendium.md",
-    "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
-    "Red Hand of Doom/Compendium/NPCs/NPCs.md",
-    "Red Hand of Doom/Compendium/Locations/Locations.md",
-    "Red Hand of Doom/Compendium/Items/Items.md",
-    "Red Hand of Doom/Compendium/Groups/Groups.md",
-    "Red Hand of Doom/Compendium/Events/Events.md"
+    "Untitled.md",
+    "Filters.md",
+    "Red Hand of Doom/Session Notes/Session 2.md",
+    "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
+    "Reference/spells/Wrathful Smite.md",
+    "Reference/spells/Armor of Agathys.md",
+    "Reference/spells/Green-Flame Blade.md"
   ]
 }
