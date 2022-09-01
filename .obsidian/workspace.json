@@ -16,6 +16,96 @@
                 {
                   "leaf": "000feacc0a781001",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Deities/Chauntea.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Events/Harvest Festival.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Deities/Chauntea.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Invocations/Devil's Sight.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":62.739837398373986}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Booker.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/The Benefactor.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/The Inventor.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Xandria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Kobob.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Jeralla.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Kobob.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Jovier Glemden.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Jeralla.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Crucia Cromwell.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Locations.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
@@ -42,104 +132,14 @@
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/The Blackfens.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "000feacc0a781001",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Talar.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "000feacc0a781001",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Rhest.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "000feacc0a781001",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "000feacc0a781001",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "000feacc0a781001",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "000feacc0a781001",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "000feacc0a781001",
-                  "group": null,
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "000feacc0a781001",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Filters.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "000feacc0a781001",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Booker.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "000feacc0a781001",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "000feacc0a781001",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 1.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "000feacc0a781001",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Groups/Clerics of Kelemvor.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "000feacc0a781001",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Deities/Kelemvor.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "000feacc0a781001",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Groups/Clerics of Kelemvor.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "000feacc0a781001",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Deities/Dol Arrah.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Locations.md",
-                "mode": "source",
+                "file": "Reference/Deities/Chauntea.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Locations.md",
+                "file": "Reference/Deities/Chauntea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Locations.md"
+                "file": "Reference/Deities/Chauntea.md"
               }
             }
           },
@@ -286,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Locations/Locations.md",
+                "file": "Reference/Deities/Chauntea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -304,28 +304,26 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "000feacc0a781001",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium/Locations/Crestbrook.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Wyrmsmoke Mountains.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/The Witchwood.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/The Blackfens.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Talar.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Rhest.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Nimon Gap.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Dauth.md",
-    "Red Hand of Doom/Compendium/Locations/Elsir Vale/Brindol.md"
+    "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
+    "Reference/Deities/Chauntea.md",
+    "Reference/Invocations/Devil's Sight.md",
+    "Characters/Booker/Overview.md",
+    "Red Hand of Doom/Compendium/Characters/Booker.md",
+    "Red Hand of Doom/Compendium/NPCs/The Benefactor.md",
+    "Red Hand of Doom/Compendium/NPCs/The Inventor.md",
+    "Red Hand of Doom/Compendium/NPCs/Xandria.md",
+    "Red Hand of Doom/Compendium/NPCs/Kobob.md",
+    "Red Hand of Doom/Compendium/NPCs/Jeralla.md"
   ]
 }
