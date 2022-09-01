@@ -17,7 +17,7 @@
                   "leaf": "149097e342c689b2",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":116},\"to\":{\"line\":59,\"ch\":0}},\"scroll\":51.66889460154242}"
+                  "eState": "{\"scroll\":51.07660668380463}"
                 }
               ]
             },
@@ -25,35 +25,6 @@
               "type": "markdown",
               "state": {
                 "file": "Characters/Booker/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "337c233513fdf14d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "11d68326514effc8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "11d68326514effc8",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Spells/Wrathful Smite.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference/Spells/Wrathful Smite.md",
                 "mode": "source",
                 "source": false
               }
