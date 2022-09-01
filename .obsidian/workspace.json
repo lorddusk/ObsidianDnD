@@ -140,8 +140,62 @@
                 {
                   "leaf": "cb47628d34f42f5f",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Invocations/Armor of Shadows.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "cb47628d34f42f5f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Spells/Abi-Dalzim's Horrid Wilting.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "cb47628d34f42f5f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Filters.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "cb47628d34f42f5f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Invocations/Armor of Shadows.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "cb47628d34f42f5f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Invocations/Devil's Sight.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "cb47628d34f42f5f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Invocations/Armor of Shadows.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "cb47628d34f42f5f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Invocations/Devil's Sight.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "cb47628d34f42f5f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":66.634375}"
+                },
+                {
+                  "leaf": "cb47628d34f42f5f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Invocations/Armor of Shadows.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "cb47628d34f42f5f",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":87,\"ch\":18},\"to\":{\"line\":87,\"ch\":18}},\"scroll\":54.6375}"
                 },
                 {
                   "leaf": "cb47628d34f42f5f",
@@ -172,7 +226,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Reference/Invocations/Armor of Shadows.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,6 +234,35 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "23334776915bc3a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e55e91d49635c1c0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "e55e91d49635c1c0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Spells/Abi-Dalzim's Horrid Wilting.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":32},\"to\":{\"line\":0,\"ch\":32}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference/Spells/Abi-Dalzim's Horrid Wilting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,7 +342,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Reference/Invocations/Armor of Shadows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Overview.md"
+                "file": "Reference/Invocations/Armor of Shadows.md"
               }
             }
           },
@@ -321,7 +404,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Overview.md",
+                "file": "Reference/Invocations/Armor of Shadows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -348,15 +431,15 @@
   },
   "active": "cb47628d34f42f5f",
   "lastOpenFiles": [
+    "Reference/Spells/Abi-Dalzim's Horrid Wilting.md",
+    "Reference/Invocations/Armor of Shadows.md",
+    "Filters.md",
+    "Reference/Invocations/Devil's Sight.md",
+    "Characters/Booker/Overview.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Compendium/NPCs/Crucia Cromwell.md",
     "Red Hand of Doom/Quests.md",
     "Reference/CSS/Custom Checkboxes.md",
-    "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md",
-    "Red Hand of Doom/Compendium/Characters/Bikam.md",
-    "Red Hand of Doom/Compendium/Characters/Booker.md",
-    "Red Hand of Doom/Compendium/Characters/Characters.md",
-    "Red Hand of Doom/Compendium/Characters/Keth.md",
-    "Reference/Spells/Abi-Dalzim's Horrid Wilting.md"
+    "Red Hand of Doom/Compendium/Items/Tourmaline (50gp).md"
   ]
 }

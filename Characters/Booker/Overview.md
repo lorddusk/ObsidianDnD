@@ -84,3 +84,5 @@
 	- [[Wrathful Smite]]
 
 ### Invocations
+- [[Armor of Shadows]]
+- [[Devil's Sight]]
