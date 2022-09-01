@@ -1,564 +1,440 @@
 
 :root
 {
-    --dark0:  #2e3440;
-    --dark1:  #3b4252;
-    --dark2:  #434c5e;
-    --dark3:  #4c566a;
+    --dark0_x:  46,52,64; /* #2e3440 */
+    --dark0:    rgb(var(--dark0_x));
+    --dark1_x:  59,66,82; /* #3b4252 */
+    --dark1:    rgb(var(--dark1_x));
+    --dark2_x:  67,76,94; /* #434c5e */
+    --dark2:    rgb(var(--dark2_x));
+    --dark3_x:  76,86,106; /* #4c566a */
+    --dark3:    rgb(var(--dark3_x));
 
-    --light0: #d8dee9;
-    --light1: #e5e9f0;
-    --light2: #eceff4;
-    --light3: #ffffff;
+    --light0_x: 216,222,233; /* #d8dee9 */
+    --light0:   rgb(var(--light0_x));
+    --light1_x: 229,233,240; /* #e5e9f0 */
+    --light1:   rgb(var(--light1_x));
+    --light2_x: 236,239,244; /* #eceff4 */
+    --light2:   rgb(var(--light2_x));
+    --light3_x: 255,255,255; /* #ffffff */
+    --light3:   rgb(var(--light3_x));
 
-    --frost0: #8fbcbb;
-    --frost1: #88c0d0;
-    --frost2: #81a1c1;
-    --frost3: #5e81ac;
+    --frost0_x: 143,188,187; /* #8fbcbb */
+    --frost0:   rgb(var(--frost0_x));
+    --frost1_x: 136,192,208; /* #88c0d0 */
+    --frost1:   rgb(var(--frost1_x));
+    --frost2_x: 129,161,193; /* #81a1c1 */
+    --frost2:   rgb(var(--frost2_x));
+    --frost3_x: 94,129,172; /* #5e81ac */
+    --frost3:   rgb(var(--frost3_x));
 
-    --red:    #bf616a;
-    --orange: #d08770;
-    --yellow: #ebcb8b;
-    --green:  #a3be8c;
-    --purple: #b48ead;
+    --red_x:    191,97,106; /* #bf616a */
+    --red:      rgb(var(--red_x));
+    --orange_x: 208,135,112; /* #d08770 */
+    --orange:   rgb(var(--orange_x));
+    --yellow_x: 235,203,139; /* #ebcb8b */
+    --yellow:   rgb(var(--yellow_x));
+    --green_x:  163,190,140; /* #a3be8c */
+    --green:    rgb(var(--green_x));
+    --purple_x: 180,142,173; /* #b48ead */
+    --purple:   rgb(var(--purple_x));
+}
+
+body
+{
+    --accent-h: 354; /* --red #bf616a */
+    --accent-s: 42%;
+    --accent-l: 56%;
+
+    --link-decoration:                none;
+    --link-decoration-hover:          none;
+    --link-external-decoration:       none;
+    --link-external-decoration-hover: none;
+
+    --tag-decoration:                 none;
+    --tag-decoration-hover:           underline;
+    --tag-padding-x:                  .5em;
+    --tag-padding-y:                  .2em;
+    --tag-radius:                     .5em;
+
+    --tab-font-weight:                600;
+    --bold-weight:                    600;
+
+    --checkbox-radius:                0;
+
+    --list-indent:                    2em;
+
+    --embed-border-left: 6px double var(--interactive-accent);
 }
 
 .theme-dark
 {
-    --background-primary:         var(--dark0);
-    --background-primary-alt:     var(--dark0);
-    --background-secondary:       var(--dark1);
-    --background-secondary-alt:   var(--dark2);
-    --text-normal:                var(--light2);
-    --text-faint:                 var(--light0);
-    --text-muted:                 var(--light1);
-    --text-title-h1:              var(--red);
-    --text-title-h2:              var(--orange);
-    --text-title-h3:              var(--yellow);
-    --text-title-h4:              var(--green);
-    --text-title-h5:              var(--purple);
-    --text-title-h6:              var(--orange);
-    --text-link:                  var(--frost0);
-    --text-a:                     var(--frost3);
-    --text-a-hover:               var(--frost2);
-    --text-mark:                  rgba(136, 192, 208, 0.3); /* frost1 */
-    --pre-code:                   var(--dark1);
-    --text-highlight-bg:          rgba(163, 190, 140, 0.3); /* green */
-    --text-highlight-bg-active:   var(--green);
-    --interactive-accent:         var(--frost0);
-    --interactive-before:         var(--dark3);
-    --background-modifier-border: var(--dark2);
-    --text-accent:                var(--orange);
-    --interactive-accent-rgb:     var(--orange);
-    --inline-code:                var(--frost1);
-    --code-block:                 var(--frost1);
-    --vim-cursor:                 var(--orange);
-    --text-selection:             var(--dark3);
-    --text-tag:                   var(--frost0);
-    --task-checkbox:              var(--frost0);
-    --table-header:               hsl(220, 16%, 16%);
-    --table-row-even:             hsl(220, 16%, 20%);
-    --table-row-odd:              hsl(220, 16%, 24%);
-    --table-hover:                var(--dark3);
+    --color-red-rgb:                 var(--red_x);
+    --color-red:                     var(--red);
+    --color-purple-rgb:              var(--purple_x);
+    --color-purple:                  var(--purple);
+    --color-green-rgb:               var(--green_x);
+    --color-green:                   var(--green);
+    --color-cyan-rgb:                var(--frost1_x);
+    --color-cyan:                    var(--frost1);
+    --color-blue-rgb:                var(--frost3_x);
+    --color-blue:                    var(--frost3);
+    --color-yellow-rgb:              var(--yellow_x);
+    --color-yellow:                  var(--yellow);
+    --color-orange-rgb:              var(--orange_x);
+    --color-orange:                  var(--orange);
+    /* --color-pink:                    var(--purple); */
+
+    --background-primary:            var(--dark0);
+    --background-primary-alt:        var(--dark0);
+    --background-secondary:          var(--dark1);
+    --background-secondary-alt:      var(--dark2);
+    --background-modifier-border:    var(--dark2);
+
+    --cursor-line-background:        rgba(var(--dark3_x), 0.5);
+
+    --text-normal:                   var(--light2);
+    --text-faint:                    var(--light0);
+    --text-muted:                    var(--light1);
+
+    --h1-color:                      var(--red);
+    --h2-color:                      var(--orange);
+    --h3-color:                      var(--yellow);
+    --h4-color:                      var(--green);
+    --h5-color:                      var(--purple);
+    --h6-color:                      var(--orange);
+
+    --text-highlight-bg:             var(--frost1);
+    --text-highlight-fg:             var(--dark0);
+
+    --text-accent:                   var(--orange);
+    --text-accent-hover:             var(--frost2);
+
+    --tag-color:                     var(--frost0);
+    --tag-background:                var(--dark2);
+    --tag-background-hover:          var(--dark1);
+
+    --titlebar-text-color-focused:   var(--red);
+
+    --inline-title-color:            var(--yellow);
+
+    --bold-color:                    var(--yellow);
+    --italic-color:                  var(--yellow);
+
+    --checkbox-color:                var(--frost0);
+    --checkbox-color-hover:          var(--frost0);
+    --checkbox-border-color:         var(--frost0);
+    --checkbox-border-color-hover:   var(--frost0);
+    --checklist-done-color:          rgba(var(--light2_x), 0.5);
+
+    --table-header-background:       hsl(220, 16%, 16%);
+    --table-header-background-hover: var(--dark3);
+    --table-row-even-background:     hsl(220, 16%, 20%);
+    --table-row-odd-background:      hsl(220, 16%, 24%);
+    --table-row-background-hover:    var(--dark3);
+
+    --text-selection:                rgba(var(--red_x), 0.6);
+    --flashing-background:           rgba(var(--red_x), 0.3);
+
+    --code-background:               var(--dark1);
+
+    --mermaid-note:                  var(--frost3);
+
+    --icon-color-hover:              var(--red);
+    --icon-color-focused:            var(--frost2);
+
+    --nav-item-color-hover:          var(--red);
+    --nav-item-color-active:         var(--frost2);
+    --nav-file-tag:                  rgba(var(--yellow_x), 0.9);
+
+    --graph-line:                    var(--dark3);
+    --graph-node:                    var(--light3);
+    --graph-node-tag:                var(--red);
+    --graph-node-attachment:         var(--green);
+
+    --calendar-hover:                var(--red);
+    --calendar-background-hover:     var(--dark3);
+    --calendar-week:                 var(--yellow);
+    --calendar-today:                var(--yellow);
+
+    --dataview-key:                  var(--text-faint);
+    --dataview-key-background:       rgba(var(--frost2_x), 0.3);
+    --dataview-value:                var(--text-faint);
+    --dataview-value-background:     rgba(var(--red_x), 0.3);
 }
+
 .theme-light
 {
-    --background-primary:         var(--light3);
-    --background-primary-alt:     var(--light3);
-    --background-secondary:       var(--light2);
-    --background-secondary-alt:   var(--light1);
-    --text-normal:                var(--dark1);
-    --text-faint:                 var(--dark3);
-    --text-muted:                 var(--dark2);
-    --text-title-h1:              var(--red);
-    --text-title-h2:              var(--orange);
-    --text-title-h3:              var(--yellow);
-    --text-title-h4:              var(--green);
-    --text-title-h5:              var(--purple);
-    --text-title-h6:              var(--orange);
-    --text-link:                  var(--frost0);
-    --text-a:                     var(--frost3);
-    --text-a-hover:               var(--frost1);
-    --text-mark:                  rgba(136, 192, 208, 0.3); /* frost1 */
-    --pre-code:                   var(--light2);
-    --text-highlight-bg:          rgba(235, 203, 139, 0.6); /* yellow */
-    --text-highlight-bg-active:   var(--yellow);
-    --interactive-accent:         var(--frost0);
-    --interactive-before:         var(--light0);
-    --background-modifier-border: var(--light1);
-    --text-accent:                var(--orange);
-    --interactive-accent-rgb:     var(--orange);
-    --inline-code:                var(--frost1);
-    --code-block:                 var(--frost1);
-    --vim-cursor:                 var(--orange);
-    --text-selection:             var(--light0);
-    --text-tag:                   var(--frost2);
-    --task-checkbox:              var(--frost0);
-    --table-header:               hsl(218, 27%, 48%);
-    --table-row-even:             hsl(220, 16%, 94%);
-    --table-row-odd:              hsl(220, 16%, 98%);
-    --table-hover:                var(--light1);
+    --color-red-rgb:                 var(--red_x);
+    --color-red:                     var(--red);
+    --color-purple-rgb:              var(--purple_x);
+    --color-purple:                  var(--purple);
+    --color-green-rgb:               var(--green_x);
+    --color-green:                   var(--green);
+    --color-cyan-rgb:                var(--frost1_x);
+    --color-cyan:                    var(--frost1);
+    --color-blue-rgb:                var(--frost3_x);
+    --color-blue:                    var(--frost3);
+    --color-yellow-rgb:              var(--yellow_x);
+    --color-yellow:                  var(--yellow);
+    --color-orange-rgb:              var(--orange_x);
+    --color-orange:                  var(--orange);
+    /* --color-pink:                    var(--purple); */
+
+    --background-primary:            var(--light3);
+    --background-primary-alt:        var(--light3);
+    --background-secondary:          var(--light2);
+    --background-secondary-alt:      var(--light1);
+    --background-modifier-border:    var(--light1);
+
+    --cursor-line-background:        rgba(var(--light0_x), 0.2);
+
+    --text-normal:                   var(--dark2);
+    --text-faint:                    var(--dark0);
+    --text-muted:                    var(--dark1);
+
+    --h1-color:                      var(--red);
+    --h2-color:                      var(--orange);
+    --h3-color:                      var(--yellow);
+    --h4-color:                      var(--green);
+    --h5-color:                      var(--purple);
+    --h6-color:                      var(--orange);
+
+    --text-highlight-bg:             var(--yellow);
+    --text-highlight-fg:             var(--dark0);
+
+    --text-accent:                   var(--orange);
+    --text-accent-hover:             var(--frost2);
+
+    --tag-color:                     var(--dark3);
+    --tag-background:                var(--light1);
+    --tag-background-hover:          var(--light0);
+
+    --titlebar-text-color-focused:   var(--red);
+
+    --inline-title-color:            var(--yellow);
+
+    --bold-color:                    var(--green);
+    --italic-color:                  var(--green);
+
+    --checkbox-color:                var(--frost2);
+    --checkbox-color-hover:          var(--frost2);
+    --checkbox-border-color:         var(--frost2);
+    --checkbox-border-color-hover:   var(--frost2);
+    --checklist-done-color:          rgba(var(--dark2_x), 0.4);
+
+    --table-header-background:       rgba(var(--light2_x), 0.2);
+    --table-header-background-hover: var(--frost2);
+    --table-row-even-background:     rgba(var(--light2_x), 0.4);
+    --table-row-odd-background:      rgba(var(--light2_x), 0.8);
+    --table-row-background-hover:    var(--frost2);
+
+    --text-selection:                rgba(var(--red_x), 0.6);
+    --flashing-background:           rgba(var(--red_x), 0.3);
+
+    --code-background:               var(--light2);
+
+    --mermaid-note:                  var(--frost0);
+
+    --icon-color-hover:              var(--red);
+    --icon-color-focused:            var(--frost3);
+
+    --nav-item-color-hover:          var(--red);
+    --nav-item-color-active:         var(--frost2);
+    --nav-file-tag:                  rgba(var(--orange_x), 0.9);
+
+    --graph-line:                    var(--light0);
+    --graph-node:                    var(--dark3);
+    --graph-node-tag:                var(--red);
+    --graph-node-attachment:         var(--green);
+
+    --calendar-hover:                var(--red);
+    --calendar-background-hover:     var(--light0);
+    --calendar-week:                 var(--orange);
+    --calendar-today:                var(--orange);
+
+    --dataview-key:                  var(--text-faint);
+    --dataview-key-background:       rgba(var(--frost2_x), 0.3);
+    --dataview-value:                var(--text-faint);
+    --dataview-value-background:     rgba(var(--red_x), 0.3);
 }
 
-body {
-  --font-text-theme: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
-
-  --font-monospace-theme: 'Hack Nerd Font', 'Source Code Pro', ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
-}
-
-.theme-dark code[class*="language-"],
-.theme-dark pre[class*="language-"],
-.theme-light code[class*="language-"],
-.theme-light pre[class*="language-"]
+table
 {
-    text-shadow: none !important;
-    background-color: var(--pre-code) !important;
-}
-
-.graph-view.color-circle,
-.graph-view.color-fill-highlight,
-.graph-view.color-line-highlight
-{
-    color: var(--interactive-accent-rgb) !important;
-}
-.graph-view.color-text
-{
-    color: var(--text-a-hover) !important;
-}
-/*
-.graph-view.color-fill
-{
-    color: var(--background-secondary);
-}
-.graph-view.color-line
-{
-  color: var(--background-modifier-border);
-}
-*/
-
-html,
-body
-{
-    /* font-size: 16px !important; */
-}
-
-strong
-{
-    font-weight: 600 !important;
-}
-
-a,
-.cm-hmd-internal-link
-{
-    color: var(--text-a) !important;
-    text-decoration: none !important;
-}
-
-a:hover,
-.cm-hmd-internal-link:hover,
-.cm-url
-{
-    color: var(--text-a-hover) !important;
-    text-decoration: none !important;
-}
-
-a.tag, a.tag:hover {
-  color: var(--text-tag) !important;
-  background-color: var(--background-secondary-alt);
-  padding: 2px 4px;
-  border-radius: 4px;
-}
-
-a.tag:hover {
-    text-decoration: underline !important;
-}
-
-mark
-{
-    background-color: var(--text-mark);
-}
-
-.titlebar {
-  background-color: var(--background-secondary-alt);
-}
-
-.titlebar-inner {
-  color: var(--text-normal);
-}
-
-.view-actions a
-{
-    color: var(--text-normal) !important;
-}
-
-.view-actions a:hover
-{
-    color: var(--text-a) !important;
-}
-
-.HyperMD-codeblock-bg
-{
-    background-color: var(--pre-code) !important;
-}
-
-.HyperMD-codeblock
-{
-    line-height: 1.4em !important;
-    color: var(--code-block) !important;
-}
-
-.HyperMD-codeblock-begin
-{
-    border-top-left-radius: 4px !important;
-    border-top-right-radius: 4px !important;
-}
-
-.HyperMD-codeblock-end
-{
-    border-bottom-left-radius: 4px !important;
-    border-bottom-right-radius: 4px !important;
-}
-
-
-table {
     border: 1px solid var(--background-secondary) !important;
     border-collapse: collapse;
 }
+
+thead
+{
+    border-bottom: 2px solid var(--background-modifier-border) !important;
+}
   
-th {
+th
+{
     font-weight: 600 !important;
     border: 0px !important;
-    text-align: left;
-    background-color: var(--table-header);
-    color: var(--frost0);
 }
 
-td {
+td
+{
     border-left: 0px !important;
     border-right: 0px !important;
     border-bottom: 1px solid var(--background-secondary) !important;
 }
 
-tr:nth-child(even){ background-color: var(--table-row-even) }
-tr:nth-child(odd){ background-color: var(--table-row-odd) }
-tr:hover { background-color: var(--table-hover); }
-  
-thead
+.markdown-rendered tbody tr:nth-child(even)
 {
-    border-bottom: 2px solid var(--background-modifier-border) !important;
+    background-color: var(--table-row-even-background) !important;
 }
 
-.HyperMD-table-row
+.markdown-rendered tbody tr:nth-child(odd)
 {
-    line-height: normal !important;
-    padding-left: 4px !important;
-    padding-right: 4px !important;
-    /* background-color: var(--pre-code) !important; */
+    background-color: var(--table-row-odd-background) !important;
 }
 
-.HyperMD-table-row-0
+.markdown-rendered tbody tr:nth-child(even):hover,
+.markdown-rendered tbody tr:nth-child(odd):hover
 {
-    /* padding-top: 4px !important; */
+    background-color: var(--table-row-background-hover) !important;
+}
+.markdown-rendered mark
+{
+    background-color: var(--text-highlight-bg) !important;
+    color: var(--text-highlight-fg) !important;
 }
 
-.CodeMirror-foldgutter-folded,
-.is-collapsed .nav-folder-collapse-indicator
+.markdown-rendered mark a
 {
-    color: var(--text-a) !important;
-}
-
-.nav-file-tag
-{
-    color: var(--text-a) !important;
-}
-
-.is-active .nav-file-title
-{
-    color: var(--text-a) !important;
-    background-color: var(--background-primary-alt) !important;
-}
-
-.nav-file-title
-{
-    border-bottom-left-radius: 0 !important;
-    border-bottom-right-radius: 0 !important;
-    border-top-left-radius: 0 !important;
-    border-top-right-radius: 0 !important;
-}
-
-.HyperMD-list-line
-{
-    padding-top: 0 !important;
-}
-
-.cm-hashtag-begin
-{
-    color: var(--text-tag) !important;
-    background-color: var(--background-secondary-alt);
-    padding: 2px 0 2px 4px;
-    border-top-left-radius: 4px;
-    border-bottom-left-radius: 4px;
-    text-decoration: none !important;
-}
-
-.cm-hashtag-end
-{
-    color: var(--text-tag) !important;
-    background-color: var(--background-secondary-alt);
-    padding: 2px 4px 2px 0;
-    border-top-right-radius: 4px;
-    border-bottom-right-radius: 4px;
-    text-decoration: none !important;
-}
-
-.cm-hashtag-begin:hover, .cm-hashtag-end:hover
-{
-    text-decoration: underline !important;
+    color: var(--red) !important;
+    font-weight: 600;
 }
 
 .search-result-file-matched-text
 {
-    color: var(--light3) !important;
+    color: var(--text-highlight-fg) !important;
 }
 
-.markdown-preview-section pre code,
-.markdown-preview-section code
+.cm-hashtag-begin:hover, .cm-hashtag-end:hover
 {
-    font-size: 0.9em !important;
-    background-color: var(--pre-code) !important;
+    color: var(--text-accent);
+    /* background-color: var(--tag-background-hover); */
+    text-decoration: underline;
 }
 
-.markdown-preview-section pre code
+input[type=checkbox]
 {
-    padding: 4px !important;
-    line-height: 1.4em !important;
-    display: block !important;
-    color: var(--code-block) !important;
+    border: 1px solid var(--checkbox-color);
 }
 
-.markdown-preview-section code
+input[type=checkbox]:checked
 {
-    color: var(--inline-code) !important;
-}
-
-.cm-s-obsidian,
-.cm-inline-code
-{
-    -webkit-font-smoothing: auto !important;
-}
-
-.cm-inline-code
-{
-    color: var(--inline-code) !important;
-    background-color: var(--pre-code) !important;
-    padding: 1px !important;
-}
-
-.workspace-leaf-header-title
-{
-    font-weight: 600 !important;
-}
-
-.side-dock-title
-{
-    padding-top: 15px !important;
-    font-size: 20px !important;
-}
-
-.side-dock-ribbon-tab:hover,
-.side-dock-ribbon-action:hover,
-.side-dock-ribbon-action.is-active:hover,
-.nav-action-button:hover,
-.side-dock-collapse-btn:hover
-{
-    color: var(--text-a);
-}
-
-.side-dock
-{
-    border-right: 0 !important;
-}
-
-/* vertical resize-handle */
-.workspace-split.mod-vertical > * > .workspace-leaf-resize-handle,
-.workspace-split.mod-left-split > .workspace-leaf-resize-handle,
-.workspace-split.mod-right-split > .workspace-leaf-resize-handle
-{
-    width: 1px !important;
-    background-color: var(--background-secondary-alt);
-}
-
-/* horizontal resize-handle */
-.workspace-split.mod-horizontal > * > .workspace-leaf-resize-handle
-{
-    height: 1px !important;
-    background-color: var(--background-secondary-alt);
-}
-
-/* Remove vertical split padding */
-.workspace-split.mod-root .workspace-split.mod-vertical .workspace-leaf-content,
-.workspace-split.mod-vertical > .workspace-split,
-.workspace-split.mod-vertical > .workspace-leaf,
-.workspace-tabs
-{
-    padding-right: 0px;
-}
-
-.markdown-embed-title
-{
-    font-weight: 600 !important;
-}
-
-.markdown-embed
-{
-    padding-left: 10px !important;
-    padding-right: 10px !important;
-    margin-left: 10px !important;
-    margin-right: 10px !important;
-}
-
-.cm-header-1.cm-link,
-h1 a
-{
-    color: var(--text-title-h1) !important;
-}
-
-.cm-header-2.cm-link,
-h2 a
-{
-    color: var(--text-title-h2) !important;
-}
-
-.cm-header-3.cm-link,
-h3 a
-{
-    color: var(--text-title-h3) !important;
-}
-.cm-header-4.cm-link,
-h4 a
-{
-    color: var(--text-title-h4) !important;
-}
-.cm-header-5.cm-link,
-h5 a
-{
-    color: var(--text-title-h5) !important;
-}
-.cm-header-6.cm-link,
-h6 a
-{
-    color: var(--text-title-h6) !important;
-}
-
-.cm-header {
-    font-weight: 500 !important;
-}
-
-.HyperMD-header-1,
-.markdown-preview-section h1
-{
-    font-weight: 500 !important;
-    font-size: 2.2em !important;
-    color: var(--text-title-h1) !important;
-}
-
-.HyperMD-header-2,
-.markdown-preview-section h2
-{
-    font-weight: 500 !important;
-    font-size: 2.0em !important;
-    color: var(--text-title-h2) !important;
-}
-
-.HyperMD-header-3,
-.markdown-preview-section h3
-{
-    font-weight: 500 !important;
-    font-size: 1.8em !important;
-    color: var(--text-title-h3) !important;
-}
-
-.HyperMD-header-4,
-.markdown-preview-section h4
-{
-    font-weight: 500 !important;
-    font-size: 1.6em !important;
-    color: var(--text-title-h4) !important;
-}
-
-.HyperMD-header-5,
-.markdown-preview-section h5
-{
-    font-weight: 500 !important;
-    font-size: 1.4em !important;
-    color: var(--text-title-h5) !important;
-}
-
-.HyperMD-header-6,
-.markdown-preview-section h6
-{
-    font-weight: 500 !important;
-    font-size: 1.2em !important;
-    color: var(--text-title-h6) !important;
-}
-
-.suggestion-item.is-selected
-{
-    background-color: var(--background-secondary);
-}
-
-.empty-state-action:hover
-{
-    color: var(--interactive-accent);
-}
-
-.checkbox-container
-{
-    background-color: var(--interactive-before);
-}
-
-.checkbox-container:after
-{
-    background-color: var(--background-secondary-alt);
-}
-
-.mod-cta
-{
-    color: var(--background-secondary-alt) !important;
-    font-weight: 600 !important;
-}
-
-.mod-cta:hover
-{
-    background-color: var(--interactive-before) !important;
-    font-weight: 600 !important;
-}
-
-.CodeMirror-cursor
-{
-    background-color: var(--vim-cursor) !important;
-    opacity: 60% !important;
-}
-
-input.task-list-item-checkbox {
-    border: 1px solid var(--task-checkbox);
-    appearance: none;
-    -webkit-appearance: none;
-}
-
-input.task-list-item-checkbox:checked {
-    background-color: var(--task-checkbox);
+    background-color: var(--checkbox-color);
     box-shadow: inset 0 0 0 2px var(--background-primary);
+}
+
+input[type=checkbox]:checked:after
+{
+    display: none;
+}
+
+code[class*="language-"],
+pre[class*="language-"]
+{
+    line-height: var(--line-height-tight) !important;
+}
+
+/* Keep highlight/marks the same between viewer and editor. */
+.cm-highlight
+{
+    color: var(--text-highlight-fg) !important;
+}
+
+/* Keep inline code the same between viewer and editor. */
+.cm-inline-code
+{
+    border-radius: var(--radius-s);
+    font-size: var(--code-size);
+    padding: 0.1em 0.25em;
+}
+
+/* Keep list bullet padding the same between viewer and editor. */
+.cm-formatting-list
+{
+    padding-right: 4px !important;
+}
+
+/*
+ * Keep sub-list indenting the same between viewer and editor.
+ * This assumes --list-indent is default at 2em.
+ */
+.cm-indent 
+{
+    text-indent: 1em !important;
 }
 
 .mermaid .note
 {
-    fill: var(--frost3) !important;
+    fill: var(--mermaid-note) !important;
 }
 
-.setting-item-control input[type="text"] {
-    color: var(--text-normal);
+.calendar .week-num
+{
+    color: var(--calendar-week) !important;
 }
-.setting-item-control input[type="text"]::placeholder {
-    color: var(--dark3);
+
+.calendar .today
+{
+    color: var(--calendar-today) !important;
 }
+
+.calendar .week-num:hover,
+.calendar .day:hover
+{
+    color: var(--calendar-hover) !important;
+    background-color: var(--calendar-background-hover) !important;
+}
+
+.markdown-embed-title
+{
+    color: var(--yellow);
+    font-weight: 600 !important;
+}
+
+.cm-active
+{
+    background-color: var(--cursor-line-background) !important;
+}
+
+.nav-file-tag
+{
+    color: var(--nav-file-tag) !important;
+}
+
+.is-flashing
+{
+    background-color: var(--flashing-background) !important;
+}
+
+.dataview.inline-field-key
+{
+    border-top-left-radius: var(--radius-s);
+    border-bottom-left-radius: var(--radius-s);
+    padding-left: 4px;
+    font-family: var(--font-monospace);
+    font-size: var(--font-smaller);
+    color: var(--dataview-key) !important;
+    background-color: var(--dataview-key-background) !important;
+}
+
+.dataview.inline-field-value
+{
+    border-top-right-radius: var(--radius-s);
+    border-bottom-right-radius: var(--radius-s);
+    padding-right: 4px;
+    font-family: var(--font-monospace);
+    font-size: var(--font-smaller);
+    color: var(--dataview-value) !important;
+    background-color: var(--dataview-value-background) !important;
+}
+
