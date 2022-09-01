@@ -1,5 +1,5 @@
 #### Lathander, God of dawn and renewal
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** N, G
 - **Domains:** Life, Light
 - **Symbol:** Road traveling into a sunrise

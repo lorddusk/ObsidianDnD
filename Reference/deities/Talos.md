@@ -1,5 +1,5 @@
 #### Talos, God of storms
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** C, E
 - **Domains:** Tempest
 - **Symbol:** Three lightning bolts radiating from a point

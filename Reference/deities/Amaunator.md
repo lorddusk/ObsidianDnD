@@ -1,5 +1,5 @@
 #### Amaunator, God of the sun
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** L, N
 - **Domains:** Life, Light
 - **Symbol:** Golden sun

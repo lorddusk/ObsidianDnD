@@ -1,5 +1,5 @@
 #### Chauntea, Goddess of agriculture
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** N, G
 - **Domains:** Life
 - **Symbol:** Sheaf of grain or a blooming rose over grain

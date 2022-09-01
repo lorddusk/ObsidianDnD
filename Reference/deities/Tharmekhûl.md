@@ -1,4 +1,4 @@
-#### Tharmekhûl
+#### Tharmekhï¿½l
 - **Pantheon:** Dwarven (The Mordinsamman)
 - **Alignment:** N
 - **Domains:** Forge, Light

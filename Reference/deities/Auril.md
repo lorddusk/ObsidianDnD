@@ -1,5 +1,5 @@
 #### Auril, Goddess of winter
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** N, E
 - **Domains:** Nature, Tempest
 - **Symbol:** Six-pointed snowflake

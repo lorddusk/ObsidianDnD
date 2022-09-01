@@ -1,5 +1,5 @@
 #### Lliira, Goddess of joy
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** C, G
 - **Domains:** Life
 - **Symbol:** Triangle of three six-pointed stars

@@ -1,5 +1,5 @@
 #### Tempus, God of war
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** N
 - **Domains:** War
 - **Symbol:** Upright flaming sword

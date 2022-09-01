@@ -1,5 +1,5 @@
 #### Eldath, Goddess of peace
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** N, G
 - **Domains:** Life, Nature, Peace
 - **Symbol:** Waterfall plunging into a still pool

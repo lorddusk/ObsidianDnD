@@ -1,5 +1,5 @@
 #### Gwaeron Windstrom, God of tracking
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** N, G
 - **Domains:** Knowledge, Nature
 - **Symbol:** Paw print with a five-pointed star in its center

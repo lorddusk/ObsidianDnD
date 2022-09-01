@@ -1,5 +1,5 @@
 #### Deneir, God of writing
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** N, G
 - **Domains:** Arcana, Knowledge
 - **Symbol:** Lit candle above an open eye

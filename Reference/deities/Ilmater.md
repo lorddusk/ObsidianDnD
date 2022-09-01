@@ -1,5 +1,5 @@
 #### Ilmater, God of endurance
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** L, G
 - **Domains:** Life, Twilight
 - **Symbol:** Hands bound at the wrist with red cord

@@ -1,5 +1,5 @@
 #### Helm, God of watchfulness
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** L, N
 - **Domains:** Life, Light, Twilight
 - **Symbol:** Staring eye on upright left gauntlet

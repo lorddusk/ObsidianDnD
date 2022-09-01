@@ -1,5 +1,5 @@
 #### Silvanus, God of wild nature
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** N
 - **Domains:** Nature
 - **Symbol:** Oak leaf

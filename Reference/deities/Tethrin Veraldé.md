@@ -1,4 +1,4 @@
-#### Tethrin Veraldé
+#### Tethrin Veraldï¿½
 - **Pantheon:** Elven (The Seldarine)
 - **Alignment:** N, G
 - **Domains:** War

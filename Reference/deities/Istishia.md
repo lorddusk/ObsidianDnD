@@ -1,5 +1,5 @@
 #### Istishia, God of water
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** N
 - **Domains:** Tempest
 - **Symbol:** Wave

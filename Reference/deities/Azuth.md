@@ -1,5 +1,5 @@
 #### Azuth, God of wizardry
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** L, N
 - **Domains:** Arcana, Knowledge
 - **Symbol:** Left hand pointing upward, outlined in fire

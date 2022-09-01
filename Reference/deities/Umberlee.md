@@ -1,5 +1,5 @@
 #### Umberlee, Goddess of the sea
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** C, E
 - **Domains:** Tempest
 - **Symbol:** Wave curling left and right

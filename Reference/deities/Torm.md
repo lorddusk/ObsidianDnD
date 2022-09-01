@@ -1,5 +1,5 @@
 #### Torm, God of courage and self-sacrifice
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** L, G
 - **Domains:** War
 - **Symbol:** White right gauntlet

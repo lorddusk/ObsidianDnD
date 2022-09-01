@@ -1,5 +1,5 @@
 #### Kelemvor, God of the dead
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** L, N
 - **Domains:** Death, Grave
 - **Symbol:** Upright skeletal arm holding balanced scales

@@ -1,5 +1,5 @@
 #### Mask, God of thieves
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** C, N
 - **Domains:** Trickery
 - **Symbol:** Black mask

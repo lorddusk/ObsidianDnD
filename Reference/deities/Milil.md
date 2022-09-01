@@ -1,5 +1,5 @@
 #### Milil, God of poetry and song
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** N, G
 - **Domains:** Light
 - **Symbol:** Five-stringed harp made of leaves

@@ -1,5 +1,5 @@
 #### Sune, Goddess of love and beauty
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** C, G
 - **Domains:** Life, Light
 - **Symbol:** Face of a beautiful red-haired woman

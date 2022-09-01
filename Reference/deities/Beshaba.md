@@ -1,5 +1,5 @@
 #### Beshaba, Goddess of misfortune
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** C, E
 - **Domains:** Trickery
 - **Symbol:** Black antlers

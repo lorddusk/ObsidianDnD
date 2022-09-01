@@ -1,5 +1,5 @@
 #### Jergal, Scribe of the dead
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** L, N
 - **Domains:** Knowledge, Death
 - **Symbol:** A skull biting a scroll

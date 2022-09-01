@@ -1,5 +1,5 @@
 #### Leira, Goddess of illusion
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** C, N
 - **Domains:** Trickery
 - **Symbol:** Point-down triangle containing a swirl of mist

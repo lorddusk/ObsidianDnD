@@ -1,5 +1,5 @@
 #### The Red Knight, Goddess of strategy
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** L, N
 - **Domains:** War
 - **Symbol:** Red knight lanceboard piece with stars for eyes

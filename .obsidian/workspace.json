@@ -16,6 +16,18 @@
                 {
                   "leaf": "000feacc0a781001",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Deities/Dol Arrah.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Keth.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Sheet Test.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
@@ -24,8 +36,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Booker/Sheet Test.md",
-                "mode": "source",
+                "file": "Reference/Deities/Dol Arrah.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Sheet Test.md",
+                "file": "Reference/Deities/Dol Arrah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Booker/Sheet Test.md"
+                "file": "Reference/Deities/Dol Arrah.md"
               }
             }
           },
@@ -172,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Sheet Test.md",
+                "file": "Reference/Deities/Dol Arrah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -203,15 +215,15 @@
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Characters/Keth.md",
+    "Characters/Booker/Sheet Test.md",
     "Red Hand of Doom/Compendium/Characters/Alton.md",
     "Red Hand of Doom/Compendium/Characters/Characters.md",
-    "Red Hand of Doom/Compendium/Characters/Keth.md",
     "Red Hand of Doom/Compendium/Characters/Aelar.md",
     "Red Hand of Doom/Compendium/Characters/Bikam.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 1.md",
-    "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
-    "Red Hand of Doom/Session Notes/Session 0.md"
+    "Red Hand of Doom/Session Notes/Rolls/Session 2.md"
   ]
 }

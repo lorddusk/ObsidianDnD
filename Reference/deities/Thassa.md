@@ -10,7 +10,7 @@ Impassive and slow to anger, Thassa is secure in the knowledge that there are no
 
 Thassa usually appears to mortals in the form of a female triton-like being with octopus-tentacle hair and a crown of crab legs. She seldom adopts the same size as her followers, preferring to be seen from a distance as she towers over the ocean. When she moves closer to the view of mortals, she takes many other forms, often shifting from one to another: a giant squid, an ocean storm, a school of sharks, a fog bank, or a crab, her favored animal. She sometimes speaks out of the ocean itself, in droplets hissing across the surface of the waves.
 
-**Thassa's Influence**: To most mortals, Thassa is the sea, and the sea is Thassa. The wind and waves, the tides, and the ocean's bounty, ranging from small fish to the enormous krakens—all these are Thassa's dominion. The sea has many metaphorical aspects that Thassa oversees as well: ancient knowledge, long-term change, introspection, voyaging, and repetitive patterns such as the tides.
+**Thassa's Influence**: To most mortals, Thassa is the sea, and the sea is Thassa. The wind and waves, the tides, and the ocean's bounty, ranging from small fish to the enormous krakensï¿½all these are Thassa's dominion. The sea has many metaphorical aspects that Thassa oversees as well: ancient knowledge, long-term change, introspection, voyaging, and repetitive patterns such as the tides.
 
 Thassa governs the slow changes wrought by the passage of time, such as the weathering of rocks and the erosion of beaches. Where Nylea controls the eternal cycle of the seasons and Kruphix monitors the flow of time, Thassa holds sway over the slow-acting but irresistible forces that alter the world over hundreds or thousands of years.
 

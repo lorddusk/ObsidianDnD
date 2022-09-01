@@ -18,7 +18,7 @@ Nylea's association with metamorphosis makes her the target of prayers from thos
 
 Birth falls under Nylea's influence as well, and her priests often double as midwives in their communities, blessing babies as they come into the world.
 
-**Nylea's Goals**: Compared to the other gods, Nylea's goals are modest. She wants only to keep the natural world free and healthy, shepherd the seasons through their yearly cycle, and enjoy the beauty of the land. But in her darker moments, she realizes that the very existence of civilization on Theros is a mounting threat to nature—perhaps even an effort by the rest of the pantheon to destroy her. If it were up to her, she might well wipe away all the poleis and larger communities, leaving only scattered tribes of mortals to live in an enforced balance with nature. She isn't out to eradicate sapient beings, blaming her fellow gods for the spread of civilization rather than the mortals themselves.
+**Nylea's Goals**: Compared to the other gods, Nylea's goals are modest. She wants only to keep the natural world free and healthy, shepherd the seasons through their yearly cycle, and enjoy the beauty of the land. But in her darker moments, she realizes that the very existence of civilization on Theros is a mounting threat to natureï¿½perhaps even an effort by the rest of the pantheon to destroy her. If it were up to her, she might well wipe away all the poleis and larger communities, leaving only scattered tribes of mortals to live in an enforced balance with nature. She isn't out to eradicate sapient beings, blaming her fellow gods for the spread of civilization rather than the mortals themselves.
 
 **Divine Relationships**: Nylea seldom comes into open conflict with the other gods, and she would say that all her clashes with them result from their encroachment on her territory. The most frequent targets of her irritation are the gods who encourage the spread of civilization. Heliod and Ephara brought law and ambition to mortals, persuading them to congregate in stone-walled cities and consider themselves separate from her realm.
 
@@ -42,9 +42,9 @@ Nylea blesses those who are kind to animals, considering such acts as wordless p
 
 **Suggested Backgrounds**: Folk hero, hermit, outlander
 
-Most champions of Nylea understand the cycles of nature—embracing life, death, and rebirth. They might commit violence when necessary but never revel in it, advocating for the proper treatment of animals, plants, and the natural world.
+Most champions of Nylea understand the cycles of natureï¿½embracing life, death, and rebirth. They might commit violence when necessary but never revel in it, advocating for the proper treatment of animals, plants, and the natural world.
 
-**Nylea's Favor**: Nylea chooses champions who will tirelessly defend the natural world, regardless of their mortal ties and associations. She cares more for consistency of actions than for vows of loyalty and expressions of devotion. Whether you are silently devoted to her or vociferous in your praise, it is your actions in her name that will prompt her to continue her support—or withdraw it.
+**Nylea's Favor**: Nylea chooses champions who will tirelessly defend the natural world, regardless of their mortal ties and associations. She cares more for consistency of actions than for vows of loyalty and expressions of devotion. Whether you are silently devoted to her or vociferous in your praise, it is your actions in her name that will prompt her to continue her supportï¿½or withdraw it.
 
 Because her interests are often tied to natural forces, Nylea's attentions can be unpredictable. What made the god turn her attention to you? What act of charity or feat of skill made her think you would be a good champion? The Nylea's Favor table offers a handful of suggestions.
 

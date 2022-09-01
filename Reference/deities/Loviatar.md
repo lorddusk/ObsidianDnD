@@ -1,5 +1,5 @@
 #### Loviatar, Goddess of pain
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** L, E
 - **Domains:** Death
 - **Symbol:** Nine-tailed barbed scourge

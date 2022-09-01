@@ -1,5 +1,5 @@
 #### Myrkul, God of death
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** N, E
 - **Domains:** Death
 - **Symbol:** White human skull

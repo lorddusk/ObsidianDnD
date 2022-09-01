@@ -1,5 +1,5 @@
 #### Waukeen, Goddess of trade
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** N
 - **Domains:** Knowledge, Trickery
 - **Symbol:** Upright coin with Waukeen's profile facing left

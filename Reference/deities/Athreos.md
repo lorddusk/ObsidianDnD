@@ -4,13 +4,13 @@
 - **Domains:** Death, Grave
 ### Information
 
-All mortals are destined to face Athreos, the River Guide, when their lives come to an end. The god of passage ferries the dead across the Tartyx River, conveying each mortal soul to its destiny in the Underworld. For most people, Athreos embodies the greatest mysteries of existence—the terror and wonder of life's last moment and the revelation of one's ultimate fate in the afterlife. Athreos is no judge, though. The veiled, silent god undergoes no deliberations and makes no exceptions. The River Guide reads the truth of each soul and bears it unfailingly to its proper place in the Underworld. There is no haggling and no sympathy on Athreos's skiff, the god having heard and denied every conceivable mortal plea.
+All mortals are destined to face Athreos, the River Guide, when their lives come to an end. The god of passage ferries the dead across the Tartyx River, conveying each mortal soul to its destiny in the Underworld. For most people, Athreos embodies the greatest mysteries of existenceï¿½the terror and wonder of life's last moment and the revelation of one's ultimate fate in the afterlife. Athreos is no judge, though. The veiled, silent god undergoes no deliberations and makes no exceptions. The River Guide reads the truth of each soul and bears it unfailingly to its proper place in the Underworld. There is no haggling and no sympathy on Athreos's skiff, the god having heard and denied every conceivable mortal plea.
 
 Athreos appears as a gaunt figure cloaked in ragged robes and a collection of golden masks. What little can be seen of his body is unsettling, its gray flesh stretched thin over a barely human skeleton. The River Guide is never without his ancient staff, Katabasis, which he transforms into the ferryboat he uses to ply the Rivers That Ring the World. Though the deity's shrouded form gives no clue, many mortals consider Athreos to be male, but the River Guide cares for terms or labels no more than any other force of nature. Athreos can change shape but rarely, if ever, takes on other forms.
 
 **Athreos's Influence**: Most mortals focus on the River Guide's role in their own deaths. Countless mortal superstitions prescribe ways to garner Athreos's favor, but all Athreos demands of those he transports is payment: a single coin of any minting or value. The River Guide has an expansive definition of what constitutes a coin, from actual stamped currency and jewelry to shiny beads or opalescent shells. Ultimately, he seems most concerned with whether a mortal has prepared for death, keeping payment ready out of respect and as a personal memento mori. Those whose bodies are burned, buried, or otherwise disposed of along with valuables deliberately intended for the River Guide discover that they can make use of such items when trading for Athreos's services. Spirits that reach the shores of the Tartyx River unprepared, though, risk being stranded, as Athreos refuses to ferry those who can't pay.
 
-Athreos is also invoked as the god of passage, as well as the deity with dominion over borders, boundaries, and that which is "neither." Those who undertake journeys, especially dangerous ones, often drop a coin into a fountain or a body of water in apotropaic acknowledgment of the River Guide. Bridges and borders are also places where Athreos is commonly remembered, with many such sites being marked by motifs of rivers or spirits. Additionally, phenomena that are neither one thing nor another, defying simple classification, are often considered to be within Athreos's province—most notably the state between life and death, but also echoes, phantom sensations, and the feeling of déjà vu.
+Athreos is also invoked as the god of passage, as well as the deity with dominion over borders, boundaries, and that which is "neither." Those who undertake journeys, especially dangerous ones, often drop a coin into a fountain or a body of water in apotropaic acknowledgment of the River Guide. Bridges and borders are also places where Athreos is commonly remembered, with many such sites being marked by motifs of rivers or spirits. Additionally, phenomena that are neither one thing nor another, defying simple classification, are often considered to be within Athreos's provinceï¿½most notably the state between life and death, but also echoes, phantom sensations, and the feeling of dï¿½jï¿½ vu.
 
 **Athreos's Goals**: Athreos endlessly works to maintain the balance between Nyx, the Underworld, and the lands of the living. The River Guide sees himself as a servant of the mortal world and knows nothing of the glamor, honor, or mystery mortals often ascribe such to him. Rather, he does what must be done, and should some cosmological condition fall out of sorts, the River Guide and his servants work with silent efficiency to restore balance.
 
@@ -54,7 +54,7 @@ d6|Circumstance
 
 3 |In a brazen or desperate moment, you dared death to take  
 
-  |you—and in a way, it has.                                 
+  |youï¿½and in a way, it has.                                 
 
 --+----------------------------------------------------------
 
@@ -110,7 +110,7 @@ d6|Ideal
 
 --+----------------------------------------------------------
 
-5 |Succor. I offer balm to the dying—which, to varying       
+5 |Succor. I offer balm to the dyingï¿½which, to varying       
 
   |degrees, includes all of us. (Good or neutral)            
 

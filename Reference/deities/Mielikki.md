@@ -1,5 +1,5 @@
 #### Mielikki, Goddess of forests
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** N, G
 - **Domains:** Nature
 - **Symbol:** Unicorn's head

@@ -1,5 +1,5 @@
 #### Malar, God of the hunt
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** C, E
 - **Domains:** Nature
 - **Symbol:** Clawed paw

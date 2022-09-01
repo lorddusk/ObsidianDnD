@@ -1,5 +1,5 @@
 #### Cyric, God of lies
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** C, E
 - **Domains:** Trickery
 - **Symbol:** White jawless skull on black or purple sunburst

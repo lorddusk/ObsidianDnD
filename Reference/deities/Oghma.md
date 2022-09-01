@@ -1,5 +1,5 @@
 #### Oghma, God of knowledge
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** N
 - **Domains:** Knowledge
 - **Symbol:** Blank scroll
@@ -9,4 +9,4 @@ Oghma is the god of inspiration, invention, and knowledge. Above all else, Oghma
 
 Oghma's faithful spread knowledge and literacy as widely as possible, believing that minds ought never to be shackled by ignorance and thus not be able to bequeath the benefit they might otherwise provide their fellows. Not surprisingly, those who follow Oghma oppose those who foster deceit, trickery, and ignorance.
 
-Folk of many professions favor the Binder: wizards, cartographers, artists, bards, clerks, inventors, sages, scribes, and all manner of others who uncover, preserve, and create knowledge and learning. The worship of Oghma was, at one point, one of the few organized faiths in Faerûn that had an established orthodoxy and a complete network of temples that adhered to that orthodoxy. Schisms during the Time of Troubles shattered that network, and now the structures that house the faith are individual temples or small networks of allied temples, much in the manner of other faiths.
+Folk of many professions favor the Binder: wizards, cartographers, artists, bards, clerks, inventors, sages, scribes, and all manner of others who uncover, preserve, and create knowledge and learning. The worship of Oghma was, at one point, one of the few organized faiths in Faerï¿½n that had an established orthodoxy and a complete network of temples that adhered to that orthodoxy. Schisms during the Time of Troubles shattered that network, and now the structures that house the faith are individual temples or small networks of allied temples, much in the manner of other faiths.

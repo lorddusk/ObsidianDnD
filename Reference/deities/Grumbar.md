@@ -1,5 +1,5 @@
 #### Grumbar, God of earth
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** N
 - **Domains:** Knowledge
 - **Symbol:** Mountain

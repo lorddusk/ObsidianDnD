@@ -1,5 +1,5 @@
 #### Gond, God of craft
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** N
 - **Domains:** Forge, Knowledge
 - **Symbol:** Toothed cog with four spokes
