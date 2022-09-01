@@ -4,6 +4,7 @@
   "obsidian-prism-theme@@color-accent-h-dt": 251,
   "obsidian-prism-theme@@color-accent-l-base-dt": 29,
   "obsidian-prism-theme@@color-accent-s-dt": 31,
+  "ITS-AT@@select": "wotc-beyond",
   "ITS@@select": "wotc-beyond",
   "ITS@@its-d": false,
   "ITS@@h-exp": false,
@@ -58,5 +59,12 @@
   "ITS@@mbl-sidebar": false,
   "ITS@@wide-sb-tabs": false,
   "ITS@@sb-tabs-original": false,
-  "ITS@@thin-ribbon": false
+  "ITS@@thin-ribbon": false,
+  "checkbox@@check-bg": true,
+  "checkbox@@check-color": true,
+  "checkbox@@chst-reg": true,
+  "checkbox@@chst-drop": true,
+  "checkbox@@chst-chk": true,
+  "checkbox@@chst-frwd": true,
+  "checkbox@@chst-defr": true
 }

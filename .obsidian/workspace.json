@@ -63,6 +63,12 @@
                 {
                   "leaf": "7dd580d2f24a2ce1",
                   "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Quests.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "7dd580d2f24a2ce1",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Spells/Abi-Dalzim's Horrid Wilting.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":104},\"to\":{\"line\":10,\"ch\":104}}}"
                 },
@@ -77,8 +83,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/Spells/Abi-Dalzim's Horrid Wilting.md",
-                "mode": "source",
+                "file": "Red Hand of Doom/Quests.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -164,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/Spells/Abi-Dalzim's Horrid Wilting.md",
+                "file": "Red Hand of Doom/Quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/Spells/Abi-Dalzim's Horrid Wilting.md"
+                "file": "Red Hand of Doom/Quests.md"
               }
             }
           },
@@ -226,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/Spells/Abi-Dalzim's Horrid Wilting.md",
+                "file": "Red Hand of Doom/Quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -253,6 +259,7 @@
   },
   "active": "7dd580d2f24a2ce1",
   "lastOpenFiles": [
+    "Reference/Spells/Abi-Dalzim's Horrid Wilting.md",
     "conflict-files-obsidian-git.md",
     "Reference/Spells/Arcane Hand.md",
     "Characters/Booker/Overview.md",
@@ -261,7 +268,6 @@
     "Red Hand of Doom/Session Notes/Session 2.md",
     "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
     "Reference/spells/Wrathful Smite.md",
-    "Reference/spells/Armor of Agathys.md",
-    "Reference/spells/Green-Flame Blade.md"
+    "Reference/spells/Armor of Agathys.md"
   ]
 }
