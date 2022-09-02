@@ -1,7 +1,7 @@
 #### Asmodeus, God of indulgence
 ___
 
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Alignment:** L, E
 - **Domains:** Knowledge, Trickery, Order
 - **Symbol:** Three inverted triangles arranged in a long triangle

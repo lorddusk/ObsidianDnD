@@ -1,7 +1,7 @@
 #### Akadi, Goddess of air
 ___
 
-- **Pantheon:** Faerûnian
+- **Pantheon:** FaerÃ»nian
 - **Alignment:** N
 - **Domains:** Tempest
 - **Symbol:** Cloud
