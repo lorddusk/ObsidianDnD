@@ -5,7 +5,7 @@ ___
 - **Alignment:** L, E  
 - **Domains:** Knowledge, Trickery, Order  
 - **Symbol:** Three inverted triangles arranged in a long triangle  
-![[https://5e.tools/img/deities/Symbol of Asmodeus.jpg|500]]  
+![Asmodeus|500](https://5e.tools/img/deities/Symbol of Asmodeus.jpg)  
 ___  
   
 ### Information  
