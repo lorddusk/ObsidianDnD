@@ -3,6 +3,7 @@ ___
   
 - **Pantheon:** Faerûnian  
 - **Alignment:** L, E  
+- **Alternate Names:** The Lord of the Ninth, The Cloven, Old Hoof and Horn  
 - **Domains:** Knowledge, Trickery, Order  
 - **Symbol:** Three inverted triangles arranged in a long triangle  
   
