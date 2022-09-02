@@ -57,21 +57,21 @@
 
 ## Actions
 ### Melee
-| Name                  | Roll | DMG | Mod | Type     | Effect                                                     |
-| --------------------- | ---- | --- | --- | -------- | ---------------------------------------------------------- |
-| Spear                 | +5   | 1d6 | +3  | Piercing | If Hexed, Mod +5                                           |
-| [[Green-Flame Blade]] | +5   | 1d6 | +3  | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg. If Hexed, Mod +5      |
-| [[Wrathful Smite]]    | Spear   | 1d6 |  | Psychic  | Wisdom save, or frightened for 1 minute (concentration)         |
+| Name                  | Roll  | DMG | Mod | Type     | Effect                                                     |
+|-----------------------|-------|-----|-----|----------|------------------------------------------------------------|
+| Spear                 | +5    | 1d6 | +3  | Piercing | If Hexed, Mod +5                                           |
+| [[Green-Flame Blade]] | +5    | 1d6 | +3  | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg. If Hexed, Mod +5 |
+| [[Wrathful Smite]]    | Spear | 1d6 |     | Psychic  | Wisdom save, or frightened for 1 minute (concentration)    |
 ### Ranged
 | Name               | Range | Roll | DMG  | Mod | Type     | Effect           |
 |--------------------|-------|------|------|-----|----------|------------------|
 | [[Eldritch Blast]] | 120   | +5   | 1d10 |     | Force    |                  |
 | Spear              | 20/60 | +5   | 1d6  | +3  | Piercing | If Hexed, Mod +5 |
 ### Others
- | Name             | Type         | Amount | Recovery | Effect                                              |
- | ---------------- | ------------ | ------ | -------- | --------------------------------------------------- |
- | Hexblade's Curse | Bonus Action | 1      | Short    | Crits on 19 and 20, Heal HP on Kill Level + Cha Mod |
- | Healing Hands    | Action       | 1      | Long     | Heals Level HP                                      | 
+ | Name             | Type             | Amount           | Recovery         | Effect                                              |
+ |------------------|------------------|------------------|------------------|-----------------------------------------------------|
+ | Hexblade's Curse | Bonus Action     | 1                | Short            | Crits on 19 and 20, Heal HP on Kill Level + Cha Mod |
+ | Healing Hands    | Action           | 1                | Long             | Heals Level HP                                      | 
 
 ## Spells
 - Cantrip:
@@ -79,6 +79,7 @@
 	- [[Green-Flame Blade]] (Bonus Action)
 	- [[Light]]
 	- [[Armor of Shadows]]
+
 
 - 1st Level:
 	- [[Armor of Agathys]]
