@@ -1,8 +1,8 @@
 #### Heimdall, God of watchfulness and loyalty
 ___
 
-- **Pantheon:** Norse
 - **Alignment:** L, G
 - **Domains:** Light, War
+- **Pantheon:** Norse
 - **Symbol:** Curling musical horn
 ___

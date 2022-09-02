@@ -1,8 +1,8 @@
 #### Bast, Goddess of cats and vengeance
 ___
 
-- **Pantheon:** Egyptian
 - **Alignment:** C, G
 - **Domains:** War
+- **Pantheon:** Egyptian
 - **Symbol:** Cat
 ___

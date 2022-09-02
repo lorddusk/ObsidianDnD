@@ -1,9 +1,9 @@
 #### Sheela Peryroyl
 ___
 
-- **Pantheon:** Halfling
 - **Alignment:** N, G
 - **Domains:** Nature, Tempest
+- **Pantheon:** Halfling
 - **Province:** Agriculture, nature, weather
 - **Symbol:** A flower
 ___

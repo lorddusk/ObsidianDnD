@@ -1,10 +1,13 @@
 #### The Red Knight, Goddess of strategy
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** L, N
+- **Alternate Names:** The Lady of Strategy, The Crimson General, The Grandmaster of the Lanceboard
 - **Domains:** War
+- **Pantheon:** Faerûnian
 - **Symbol:** Red knight lanceboard piece with stars for eyes
+
+![The Red Knight|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20The%20Red%20Knight.jpg)
 ___
 
 ### Information

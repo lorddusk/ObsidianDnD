@@ -1,9 +1,11 @@
 #### Klothys, God of Destiny
 ___
 
-- **Pantheon:** Theros
 - **Alignment:** N
 - **Domains:** Knowledge, War
+- **Pantheon:** Theros
+
+![Klothys|250](https://5etools-mirror-1.github.io/img/deities/MOT/038-02-03-klothys.png)
 ___
 
 ### Information

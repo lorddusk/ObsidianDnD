@@ -1,9 +1,9 @@
 #### The Traveler
 ___
 
-- **Pantheon:** Exandria (Lesser Idols)
 - **Alignment:** C, N
 - **Domains:** Nature, Trickery
+- **Pantheon:** Exandria (Lesser Idols)
 - **Province:** The Archfey
 - **Symbol:** Arched doorway over a road that vanishes into the distance
 ___

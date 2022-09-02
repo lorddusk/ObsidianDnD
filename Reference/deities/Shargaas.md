@@ -1,9 +1,9 @@
 #### Shargaas, the Night Lord
 ___
 
-- **Pantheon:** Orc
 - **Alignment:** N, E
 - **Domains:** Trickery
+- **Pantheon:** Orc
 - **Symbol:** Red crescent moon with a skull between the moon's horns
 ___
 

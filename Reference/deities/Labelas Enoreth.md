@@ -1,9 +1,9 @@
 #### Labelas Enoreth
 ___
 
-- **Pantheon:** Elven (The Seldarine)
 - **Alignment:** C, G
 - **Domains:** Arcana, Knowledge, Life
+- **Pantheon:** Elven (The Seldarine)
 - **Province:** Time, history, memory
 - **Symbol:** Setting sun
 ___

@@ -1,8 +1,8 @@
 #### Sune (PHB), Goddess of love and beauty
 ___
 
-- **Pantheon:** Forgotten Realms
 - **Alignment:** C, G
 - **Domains:** Life, Light
+- **Pantheon:** Forgotten Realms
 - **Symbol:** Face of a beautiful red-haired woman
 ___

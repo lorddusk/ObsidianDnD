@@ -1,11 +1,13 @@
 #### Balinor
 ___
 
-- **Pantheon:** Eberron (The Sovereign Host)
 - **Alignment:** None
 - **Domains:** Nature, War
+- **Pantheon:** Eberron (The Sovereign Host)
 - **Province:** Beasts, the hunt
 - **Symbol:** Pair of antlers {@i or} green dragon
+
+![Balinor|250](https://5etools-mirror-1.github.io/img/deities/ERLW/The%20Sovereign%20Host.png)
 ___
 
 ### Information

@@ -1,8 +1,8 @@
 #### Avandra, Goddess of change and luck
 ___
 
-- **Pantheon:** Dawn War
 - **Alignment:** C, G
 - **Domains:** Trickery
+- **Pantheon:** Dawn War
 - **Symbol:** Three stacked wavy lines
 ___

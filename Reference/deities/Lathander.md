@@ -1,10 +1,13 @@
 #### Lathander, God of dawn and renewal
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** N, G
+- **Alternate Names:** The Morninglord, Inspiration's Dawn, The Rose-and-Gold God
 - **Domains:** Life, Light
+- **Pantheon:** Faerûnian
 - **Symbol:** Road traveling into a sunrise
+
+![Lathander|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Lathander.jpg)
 ___
 
 ### Information

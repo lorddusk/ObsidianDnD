@@ -1,9 +1,9 @@
 #### Ezra, God of the mists
 ___
 
-- **Pantheon:** Unknown
 - **Alignment:** None
 - **Domains:** Unknown
+- **Pantheon:** Unknown
 - **Symbol:** Sprig of belladonna atop a silver kite shield
 ___
 

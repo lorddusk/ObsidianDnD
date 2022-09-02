@@ -1,10 +1,12 @@
 #### Melora (EGW), the Wild Mother
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** N
 - **Domains:** Life, Nature, Tempest
+- **Pantheon:** Exandria
 - **Symbol:** Wreath of grass and grain affixed to a crook
+
+![Melora (EGW)|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Melora.png)
 ___
 
 ### Information

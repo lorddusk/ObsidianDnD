@@ -1,10 +1,13 @@
 #### Tyr, God of justice
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** L, G
+- **Alternate Names:** Grimjaws, The Maimed God, The Evenhanded
 - **Domains:** War, Order
+- **Pantheon:** Faerûnian
 - **Symbol:** Balanced scales resting on a warhammer
+
+![Tyr|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Tyr.jpg)
 ___
 
 ### Information

@@ -1,8 +1,8 @@
 #### Flandal Steelskin (SCAG), God of metalwork
 ___
 
-- **Pantheon:** Gnomish
 - **Alignment:** N, G
 - **Domains:** Knowledge
+- **Pantheon:** Gnomish
 - **Symbol:** Flaming hammer
 ___

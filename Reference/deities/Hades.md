@@ -1,8 +1,8 @@
 #### Hades, God of the underworld
 ___
 
-- **Pantheon:** Greek
 - **Alignment:** L, E
 - **Domains:** Death, Grave
+- **Pantheon:** Greek
 - **Symbol:** Black ram
 ___

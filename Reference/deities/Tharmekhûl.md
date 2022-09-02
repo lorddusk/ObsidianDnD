@@ -1,9 +1,9 @@
 #### Tharmekhûl
 ___
 
-- **Pantheon:** Dwarven (The Mordinsamman)
 - **Alignment:** N
 - **Domains:** Forge, Light
+- **Pantheon:** Dwarven (The Mordinsamman)
 - **Province:** Fire, forges, molten rock
 - **Symbol:** Fiery axe
 ___

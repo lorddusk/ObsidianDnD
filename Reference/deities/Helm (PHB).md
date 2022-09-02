@@ -1,8 +1,8 @@
 #### Helm (PHB), God of protection
 ___
 
-- **Pantheon:** Forgotten Realms
 - **Alignment:** L, N
 - **Domains:** Life, Light, Twilight
+- **Pantheon:** Forgotten Realms
 - **Symbol:** Staring eye on upright left gauntlet
 ___

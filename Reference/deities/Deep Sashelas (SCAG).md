@@ -1,8 +1,8 @@
 #### Deep Sashelas (SCAG), God of the sea
 ___
 
-- **Pantheon:** Elven
 - **Alignment:** C, G
 - **Domains:** Nature
+- **Pantheon:** Elven
 - **Symbol:** Dolphin
 ___

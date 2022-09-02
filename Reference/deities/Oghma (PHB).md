@@ -1,8 +1,8 @@
 #### Oghma (PHB), God of speech and writing
 ___
 
-- **Pantheon:** Celtic
 - **Alignment:** N, G
 - **Domains:** Knowledge
+- **Pantheon:** Celtic
 - **Symbol:** Unfurled scroll
 ___

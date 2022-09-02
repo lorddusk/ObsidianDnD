@@ -1,9 +1,9 @@
 #### Lolth
 ___
 
-- **Pantheon:** Drow (The Dark Seldarine)
 - **Alignment:** C, E
 - **Domains:** Trickery, War
+- **Pantheon:** Drow (The Dark Seldarine)
 - **Province:** Primary god of drow, spiders
 - **Symbol:** Spider
 ___

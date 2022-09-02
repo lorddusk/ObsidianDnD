@@ -1,8 +1,8 @@
 #### Deep Duerra (SCAG), Duergar goddess of conquest and psionics
 ___
 
-- **Pantheon:** Dwarven
 - **Alignment:** L, E
 - **Domains:** Arcana, War
+- **Pantheon:** Dwarven
 - **Symbol:** Mind flayer skull
 ___

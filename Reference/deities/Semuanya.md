@@ -1,8 +1,8 @@
 #### Semuanya, Lizardfolk deity of survival
 ___
 
-- **Pantheon:** Nonhuman
 - **Alignment:** N
 - **Domains:** Life
+- **Pantheon:** Nonhuman
 - **Symbol:** Egg
 ___

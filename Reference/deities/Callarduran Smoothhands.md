@@ -1,9 +1,9 @@
 #### Callarduran Smoothhands
 ___
 
-- **Pantheon:** Gnome
 - **Alignment:** N
 - **Domains:** Knowledge, Nature
+- **Pantheon:** Gnome
 - **Province:** Mining, stone carving
 - **Symbol:** Golden signet ring with six pointed star
 ___

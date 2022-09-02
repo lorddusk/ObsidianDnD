@@ -1,8 +1,8 @@
 #### Freya, Goddess of fertility and love
 ___
 
-- **Pantheon:** Norse
 - **Alignment:** N, G
 - **Domains:** Life
+- **Pantheon:** Norse
 - **Symbol:** Falcon
 ___

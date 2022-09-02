@@ -1,9 +1,11 @@
 #### Athreos, God of Passage
 ___
 
-- **Pantheon:** Theros
 - **Alignment:** L, E
 - **Domains:** Death, Grave
+- **Pantheon:** Theros
+
+![Athreos|250](https://5etools-mirror-1.github.io/img/deities/MOT/024-02-03-athreos.png)
 ___
 
 ### Information

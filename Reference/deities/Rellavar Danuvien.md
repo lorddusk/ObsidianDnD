@@ -1,9 +1,9 @@
 #### Rellavar Danuvien
 ___
 
-- **Pantheon:** Elven (The Seldarine)
 - **Alignment:** N, G
 - **Domains:** Tempest
+- **Pantheon:** Elven (The Seldarine)
 - **Province:** Winter, harsh weather
 - **Symbol:** Spear between two circles
 ___

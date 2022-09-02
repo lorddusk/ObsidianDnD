@@ -1,9 +1,9 @@
 #### Brandobaris
 ___
 
-- **Pantheon:** Halfling
 - **Alignment:** N
 - **Domains:** Trickery
+- **Pantheon:** Halfling
 - **Province:** Adventure, thievery
 - **Symbol:** Halfling footprint
 ___

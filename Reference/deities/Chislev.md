@@ -1,8 +1,8 @@
 #### Chislev, Goddess of nature
 ___
 
-- **Pantheon:** Dragonlance
 - **Alignment:** N
 - **Domains:** Nature
+- **Pantheon:** Dragonlance
 - **Symbol:** Feather
 ___

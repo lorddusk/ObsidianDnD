@@ -1,9 +1,11 @@
 #### Kruphix, God of Horizons
 ___
 
-- **Pantheon:** Theros
 - **Alignment:** N
 - **Domains:** Knowledge, Trickery
+- **Pantheon:** Theros
+
+![Kruphix|250](https://5etools-mirror-1.github.io/img/deities/MOT/040-02-03-kruphix.png)
 ___
 
 ### Information

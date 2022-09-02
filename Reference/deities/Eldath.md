@@ -1,10 +1,13 @@
 #### Eldath, Goddess of peace
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** N, G
+- **Alternate Names:** The Quiet One, The Guardian of Groves, The Mother of the Waters
 - **Domains:** Life, Nature, Peace
+- **Pantheon:** Faerûnian
 - **Symbol:** Waterfall plunging into a still pool
+
+![Eldath|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Eldath.jpg)
 ___
 
 ### Information

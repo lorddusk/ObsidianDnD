@@ -1,8 +1,8 @@
 #### Loki, God of thieves and trickery
 ___
 
-- **Pantheon:** Norse
 - **Alignment:** C, E
 - **Domains:** Trickery
+- **Pantheon:** Norse
 - **Symbol:** Flame
 ___

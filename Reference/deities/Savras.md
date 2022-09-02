@@ -1,10 +1,13 @@
 #### Savras, God of divination and fate
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** L, N
+- **Alternate Names:** The All-Seeing, The Third Eye, Divination's Lord
 - **Domains:** Arcana, Knowledge
+- **Pantheon:** Faerûnian
 - **Symbol:** Crystal ball containing many kinds of eyes
+
+![Savras|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Savras.jpg)
 ___
 
 ### Information

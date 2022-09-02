@@ -1,8 +1,8 @@
 #### Pan, God of nature
 ___
 
-- **Pantheon:** Greek
 - **Alignment:** C, N
 - **Domains:** Nature
+- **Pantheon:** Greek
 - **Symbol:** Syrinx (pan pipes)
 ___

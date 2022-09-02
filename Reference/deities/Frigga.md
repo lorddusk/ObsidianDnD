@@ -1,8 +1,8 @@
 #### Frigga, Goddess of birth and fertility
 ___
 
-- **Pantheon:** Norse
 - **Alignment:** N
 - **Domains:** Life, Light
+- **Pantheon:** Norse
 - **Symbol:** Cat
 ___

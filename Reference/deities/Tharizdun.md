@@ -1,8 +1,8 @@
 #### Tharizdun, God of madness
 ___
 
-- **Pantheon:** Dawn War
 - **Alignment:** C, E
 - **Domains:** Trickery
+- **Pantheon:** Dawn War
 - **Symbol:** Jagged counter-clockwise spiral
 ___

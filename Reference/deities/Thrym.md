@@ -1,8 +1,8 @@
 #### Thrym, God of frost giants and strength
 ___
 
-- **Pantheon:** Nonhuman
 - **Alignment:** C, E
 - **Domains:** War
+- **Pantheon:** Nonhuman
 - **Symbol:** White double-bladed axe
 ___

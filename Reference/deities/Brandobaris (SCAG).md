@@ -1,8 +1,8 @@
 #### Brandobaris (SCAG), God of thievery and adventure
 ___
 
-- **Pantheon:** Halfling
 - **Alignment:** N
 - **Domains:** Trickery
+- **Pantheon:** Halfling
 - **Symbol:** Halfling footprint
 ___

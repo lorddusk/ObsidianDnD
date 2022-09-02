@@ -1,9 +1,9 @@
 #### Xalicas
 ___
 
-- **Pantheon:** Exandria (Lesser Idols)
 - **Alignment:** L, G
 - **Domains:** Life, Light
+- **Pantheon:** Exandria (Lesser Idols)
 - **Province:** The Archfey, the Celestial
 - **Symbol:** Single blackened wing
 ___

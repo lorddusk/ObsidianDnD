@@ -1,9 +1,9 @@
 #### Gelf Darkhearth
 ___
 
-- **Pantheon:** Gnome
 - **Alignment:** C, N
 - **Domains:** War
+- **Pantheon:** Gnome
 - **Province:** Frustration, destruction
 - **Symbol:** Broken anvil
 ___

@@ -1,9 +1,9 @@
 #### The Luxon, the First Radiance
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** N
 - **Domains:** Arcana, Light
+- **Pantheon:** Exandria
 - **Symbol:** Hollow dodecahedron
 ___
 

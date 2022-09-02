@@ -1,9 +1,10 @@
 #### Tymora, Goddess of good fortune
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** C, G
+- **Alternate Names:** Lady Luck, Our Smiling Lady
 - **Domains:** Trickery
+- **Pantheon:** Faerûnian
 - **Symbol:** Face-up coin
 ___
 

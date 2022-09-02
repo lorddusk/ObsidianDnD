@@ -1,9 +1,9 @@
 #### Hanali Celanil
 ___
 
-- **Pantheon:** Elven (The Seldarine)
 - **Alignment:** C, G
 - **Domains:** Life
+- **Pantheon:** Elven (The Seldarine)
 - **Province:** Love, beauty, the arts
 - **Symbol:** Golden heart
 ___

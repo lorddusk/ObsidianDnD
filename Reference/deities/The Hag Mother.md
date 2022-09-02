@@ -1,9 +1,9 @@
 #### The Hag Mother
 ___
 
-- **Pantheon:** Exandria (Lesser Idols)
 - **Alignment:** N, E
 - **Domains:** Knowledge, Trickery
+- **Pantheon:** Exandria (Lesser Idols)
 - **Province:** The Fiend
 - **Symbol:** Single red horn
 ___

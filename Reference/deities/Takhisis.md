@@ -1,8 +1,8 @@
 #### Takhisis, Goddess of night and hatred
 ___
 
-- **Pantheon:** Dragonlance
 - **Alignment:** L, E
 - **Domains:** Death
+- **Pantheon:** Dragonlance
 - **Symbol:** Black crescent
 ___

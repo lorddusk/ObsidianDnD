@@ -1,8 +1,8 @@
 #### Tyr (PHB), God of justice
 ___
 
-- **Pantheon:** Forgotten Realms
 - **Alignment:** L, G
 - **Domains:** War, Order
+- **Pantheon:** Forgotten Realms
 - **Symbol:** Balanced scales resting on a warhammer
 ___

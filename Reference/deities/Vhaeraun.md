@@ -1,9 +1,9 @@
 #### Vhaeraun
 ___
 
-- **Pantheon:** Drow (The Dark Seldarine)
 - **Alignment:** C, E
 - **Domains:** Trickery, War
+- **Pantheon:** Drow (The Dark Seldarine)
 - **Province:** Arrogance, thieves
 - **Symbol:** Black mask with blue glass lenses inset over eyes
 ___

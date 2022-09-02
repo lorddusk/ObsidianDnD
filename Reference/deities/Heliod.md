@@ -1,9 +1,11 @@
 #### Heliod, God of the Sun
 ___
 
-- **Pantheon:** Theros
 - **Alignment:** L, G
 - **Domains:** Light
+- **Pantheon:** Theros
+
+![Heliod|250](https://5etools-mirror-1.github.io/img/deities/MOT/030-02-03-heliod.png)
 ___
 
 ### Information

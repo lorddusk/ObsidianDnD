@@ -1,8 +1,8 @@
 #### Zeboim, Goddess of the sea and storms
 ___
 
-- **Pantheon:** Dragonlance
 - **Alignment:** C, E
 - **Domains:** Tempest
+- **Pantheon:** Dragonlance
 - **Symbol:** Turtle shell
 ___

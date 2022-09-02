@@ -1,9 +1,9 @@
 #### Gruumsh, He Who Watches
 ___
 
-- **Pantheon:** Orc
 - **Alignment:** C, E
 - **Domains:** Tempest, War
+- **Pantheon:** Orc
 - **Symbol:** Unblinking eye
 ___
 

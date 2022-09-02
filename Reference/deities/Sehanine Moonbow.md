@@ -1,9 +1,9 @@
 #### Sehanine Moonbow
 ___
 
-- **Pantheon:** Elven (The Seldarine)
 - **Alignment:** C, G
 - **Domains:** Grave, Knowledge, Light
+- **Pantheon:** Elven (The Seldarine)
 - **Province:** Dreams, death, travel
 - **Symbol:** Full moon under a moonbow
 ___

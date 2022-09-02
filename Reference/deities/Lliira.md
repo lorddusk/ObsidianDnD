@@ -1,10 +1,13 @@
 #### Lliira, Goddess of joy
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** C, G
+- **Alternate Names:** Our Lady of Joy, Joybringer, The Mistress of Revels
 - **Domains:** Life
+- **Pantheon:** Faerûnian
 - **Symbol:** Triangle of three six-pointed stars
+
+![Lliira|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Lliira.jpg)
 ___
 
 ### Information

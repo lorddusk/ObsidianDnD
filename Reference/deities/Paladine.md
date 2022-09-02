@@ -1,8 +1,8 @@
 #### Paladine, God of rulers and guardians
 ___
 
-- **Pantheon:** Dragonlance
 - **Alignment:** L, G
 - **Domains:** War, Peace
+- **Pantheon:** Dragonlance
 - **Symbol:** Silver triangle
 ___

@@ -1,9 +1,9 @@
 #### Baravar Cloakshadow
 ___
 
-- **Pantheon:** Gnome
 - **Alignment:** N, G
 - **Domains:** Arcana, Trickery
+- **Pantheon:** Gnome
 - **Province:** Illusion, deception
 - **Symbol:** Dagger against a hooded cloak
 ___

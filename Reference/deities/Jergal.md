@@ -1,10 +1,13 @@
 #### Jergal, Scribe of the dead
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** L, N
+- **Alternate Names:** The Final Scribe, The Pitiless One, The Bleak Seneschal
 - **Domains:** Knowledge, Death
+- **Pantheon:** Faerûnian
 - **Symbol:** A skull biting a scroll
+
+![Jergal|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Jergal.jpg)
 ___
 
 ### Information

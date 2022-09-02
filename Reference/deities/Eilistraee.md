@@ -1,9 +1,9 @@
 #### Eilistraee
 ___
 
-- **Pantheon:** Drow (The Dark Seldarine)
 - **Alignment:** C, G
 - **Domains:** Life, Light, Nature
+- **Pantheon:** Drow (The Dark Seldarine)
 - **Province:** Freedom, moonlight, song
 - **Symbol:** Sword-wielding, dancing female drow silhouetted against the full moon
 ___

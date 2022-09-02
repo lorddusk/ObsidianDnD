@@ -1,10 +1,13 @@
 #### Myrkul, God of death
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** N, E
+- **Alternate Names:** The Lord of Bones, Old Lord Skull, The Reaper
 - **Domains:** Death
+- **Pantheon:** Faerûnian
 - **Symbol:** White human skull
+
+![Myrkul|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Myrkul.jpg)
 ___
 
 ### Information

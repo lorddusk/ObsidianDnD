@@ -1,9 +1,9 @@
 #### Charmalaine
 ___
 
-- **Pantheon:** Halfling
 - **Alignment:** N
 - **Domains:** Trickery
+- **Pantheon:** Halfling
 - **Province:** Keen senses, luck
 - **Symbol:** Burning boot print
 ___

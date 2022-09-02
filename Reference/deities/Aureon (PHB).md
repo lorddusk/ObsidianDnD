@@ -1,8 +1,8 @@
 #### Aureon (PHB), God of law and knowledge
 ___
 
-- **Pantheon:** Eberron
 - **Alignment:** L, N
 - **Domains:** Knowledge, Order
+- **Pantheon:** Eberron
 - **Symbol:** Open tome
 ___

@@ -1,8 +1,8 @@
 #### Gilean, God of knowledge
 ___
 
-- **Pantheon:** Dragonlance
 - **Alignment:** N
 - **Domains:** Knowledge
+- **Pantheon:** Dragonlance
 - **Symbol:** Open book
 ___

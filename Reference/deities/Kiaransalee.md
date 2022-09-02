@@ -1,9 +1,9 @@
 #### Kiaransalee
 ___
 
-- **Pantheon:** Drow (The Dark Seldarine)
 - **Alignment:** C, E
 - **Domains:** Arcana, Death
+- **Pantheon:** Drow (The Dark Seldarine)
 - **Province:** Necromancy
 - **Symbol:** Drow hand wearing many silver rings
 ___

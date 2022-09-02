@@ -1,9 +1,9 @@
 #### Corellon Larethian
 ___
 
-- **Pantheon:** Elven (The Seldarine)
 - **Alignment:** C, G
 - **Domains:** Arcana, Life, Light, War, Arcana
+- **Pantheon:** Elven (The Seldarine)
 - **Province:** Primary god of elves
 - **Symbol:** Quarter moon or starburst
 ___

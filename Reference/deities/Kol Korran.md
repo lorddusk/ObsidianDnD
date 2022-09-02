@@ -1,11 +1,13 @@
 #### Kol Korran
 ___
 
-- **Pantheon:** Eberron (The Sovereign Host)
 - **Alignment:** None
 - **Domains:** Trickery
+- **Pantheon:** Eberron (The Sovereign Host)
 - **Province:** Trade, travel
 - **Symbol:** Nine-sided gold coin {@i or} white dragon
+
+![Kol Korran|250](https://5etools-mirror-1.github.io/img/deities/ERLW/The%20Sovereign%20Host.png)
 ___
 
 ### Information

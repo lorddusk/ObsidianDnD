@@ -1,11 +1,13 @@
 #### Aureon
 ___
 
-- **Pantheon:** Eberron (The Sovereign Host)
 - **Alignment:** None
 - **Domains:** Knowledge, Order
+- **Pantheon:** Eberron (The Sovereign Host)
 - **Province:** Knowledge, law
 - **Symbol:** Open tome {@i or} blue dragon
+
+![Aureon|250](https://5etools-mirror-1.github.io/img/deities/ERLW/The%20Sovereign%20Host.png)
 ___
 
 ### Information

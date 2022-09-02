@@ -1,9 +1,11 @@
 #### Karametra, God of Harvests
 ___
 
-- **Pantheon:** Theros
 - **Alignment:** N, G
 - **Domains:** Life, Nature
+- **Pantheon:** Theros
+
+![Karametra|250](https://5etools-mirror-1.github.io/img/deities/MOT/034-02-03-karametra.png)
 ___
 
 ### Information

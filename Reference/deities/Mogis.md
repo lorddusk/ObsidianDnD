@@ -1,9 +1,11 @@
 #### Mogis, God of Slaughter
 ___
 
-- **Pantheon:** Theros
 - **Alignment:** C, E
 - **Domains:** War
+- **Pantheon:** Theros
+
+![Mogis|250](https://5etools-mirror-1.github.io/img/deities/MOT/042-02-03-mogis.png)
 ___
 
 ### Information

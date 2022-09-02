@@ -1,9 +1,9 @@
 #### Garl Glittergold
 ___
 
-- **Pantheon:** Gnome
 - **Alignment:** L, G
 - **Domains:** Trickery
+- **Pantheon:** Gnome
 - **Province:** Primary god of gnomes
 - **Symbol:** Gold nugget
 ___

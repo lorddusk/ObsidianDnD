@@ -1,10 +1,12 @@
 #### Tiamat (EGW), the Scaled Tyrant
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** L, E
 - **Domains:** Order, Trickery, War
+- **Pantheon:** Exandria
 - **Symbol:** Taloned dragon claw
+
+![Tiamat (EGW)|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Tiamat.png)
 ___
 
 ### Information

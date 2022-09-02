@@ -1,8 +1,8 @@
 #### Hiddukel, God of lies and greed
 ___
 
-- **Pantheon:** Dragonlance
 - **Alignment:** C, E
 - **Domains:** Trickery
+- **Pantheon:** Dragonlance
 - **Symbol:** Broken merchant's scales
 ___

@@ -1,9 +1,9 @@
 #### Laduguer
 ___
 
-- **Pantheon:** Duergar
 - **Alignment:** L, E
 - **Domains:** Death, Forge
+- **Pantheon:** Duergar
 - **Province:** Labor, slavery
 - **Symbol:** Broken arrow
 ___

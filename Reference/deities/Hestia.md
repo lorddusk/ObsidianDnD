@@ -1,8 +1,8 @@
 #### Hestia, Goddess of home and family
 ___
 
-- **Pantheon:** Greek
 - **Alignment:** N, G
 - **Domains:** Life
+- **Pantheon:** Greek
 - **Symbol:** Hearth
 ___

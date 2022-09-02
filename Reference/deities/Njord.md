@@ -1,8 +1,8 @@
 #### Njord, God of sea and wind
 ___
 
-- **Pantheon:** Norse
 - **Alignment:** N, G
 - **Domains:** Nature, Tempest
+- **Pantheon:** Norse
 - **Symbol:** Gold coin
 ___

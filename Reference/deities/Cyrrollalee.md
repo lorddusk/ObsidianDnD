@@ -1,9 +1,9 @@
 #### Cyrrollalee
 ___
 
-- **Pantheon:** Halfling
 - **Alignment:** L, G
 - **Domains:** Life, Peace
+- **Pantheon:** Halfling
 - **Province:** Hearth, home
 - **Symbol:** An open door
 ___

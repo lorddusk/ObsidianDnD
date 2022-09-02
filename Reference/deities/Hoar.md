@@ -1,10 +1,13 @@
 #### Hoar, God of revenge and retribution
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** L, N
+- **Alternate Names:** The Doombringer, Poet of Justice
 - **Domains:** War
+- **Pantheon:** Faerûnian
 - **Symbol:** A coin with a two-faced head
+
+![Hoar|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Hoar.jpg)
 ___
 
 ### Information

@@ -1,9 +1,9 @@
 #### Urdlen
 ___
 
-- **Pantheon:** Gnome
 - **Alignment:** C, E
 - **Domains:** Death, War
+- **Pantheon:** Gnome
 - **Province:** Greed, murder
 - **Symbol:** White-clawed mole emerging from ground
 ___

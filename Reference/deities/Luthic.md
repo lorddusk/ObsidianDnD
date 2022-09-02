@@ -1,9 +1,9 @@
 #### Luthic, the Cave Mother
 ___
 
-- **Pantheon:** Orc
 - **Alignment:** L, E
 - **Domains:** Life, Nature
+- **Pantheon:** Orc
 - **Symbol:** Orcish rune meaning "cave entrance"
 ___
 

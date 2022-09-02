@@ -1,9 +1,9 @@
 #### Zinzerena
 ___
 
-- **Pantheon:** Drow (The Dark Seldarine)
 - **Alignment:** C, N
 - **Domains:** Trickery
+- **Pantheon:** Drow (The Dark Seldarine)
 - **Province:** Assassination, illusion, lies
 - **Symbol:** Shortsword draped with cloth
 ___

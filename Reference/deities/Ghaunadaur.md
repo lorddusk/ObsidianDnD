@@ -1,9 +1,9 @@
 #### Ghaunadaur
 ___
 
-- **Pantheon:** Drow (The Dark Seldarine)
 - **Alignment:** C, E
 - **Domains:** War
+- **Pantheon:** Drow (The Dark Seldarine)
 - **Province:** Oozes, slimes, outcasts
 - **Symbol:** Purple eye with black sclera
 ___

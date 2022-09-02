@@ -1,8 +1,8 @@
 #### Nike, Goddess of victory
 ___
 
-- **Pantheon:** Greek
 - **Alignment:** L, N
 - **Domains:** War
+- **Pantheon:** Greek
 - **Symbol:** Winged woman
 ___

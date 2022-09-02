@@ -1,10 +1,12 @@
 #### Asmodeus (EGW), the Lord of the Nine Hells
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** L, E
 - **Domains:** Trickery, War
+- **Pantheon:** Exandria
 - **Symbol:** Crown of spiked onyx and curved horns
+
+![Asmodeus (EGW)|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Asmodeus.png)
 ___
 
 ### Information

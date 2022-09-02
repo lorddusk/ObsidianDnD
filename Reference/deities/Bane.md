@@ -1,10 +1,13 @@
 #### Bane, God of tyranny
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** L, E
+- **Alternate Names:** The Black Hand, The Lord of Darkness
 - **Domains:** War, Order
+- **Pantheon:** Faerûnian
 - **Symbol:** Upright black hand, thumb and fingers together
+
+![Bane|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Bane.jpg)
 ___
 
 ### Information

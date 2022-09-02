@@ -1,10 +1,12 @@
 #### Moradin (EGW), the All-Hammer
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** L, G
 - **Domains:** Forge, Knowledge, War
+- **Pantheon:** Exandria
 - **Symbol:** Hammer with ends carved in the likeness of dwarven heads
+
+![Moradin (EGW)|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Moradin.png)
 ___
 
 ### Information

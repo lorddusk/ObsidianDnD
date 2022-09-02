@@ -1,9 +1,11 @@
 #### Purphoros, God of the Forge
 ___
 
-- **Pantheon:** Theros
 - **Alignment:** C, N
 - **Domains:** Forge, Knowledge
+- **Pantheon:** Theros
+
+![Purphoros|250](https://5etools-mirror-1.github.io/img/deities/MOT/050-02-03-purphoros.png)
 ___
 
 ### Information

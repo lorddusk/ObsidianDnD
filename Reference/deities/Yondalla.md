@@ -1,9 +1,9 @@
 #### Yondalla
 ___
 
-- **Pantheon:** Halfling
 - **Alignment:** L, G
 - **Domains:** Life, Twilight
+- **Pantheon:** Halfling
 - **Province:** Primary goddess of halflings
 - **Symbol:** Cornucopia
 ___

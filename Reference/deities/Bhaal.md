@@ -1,10 +1,13 @@
 #### Bhaal, God of murder
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** N, E
+- **Alternate Names:** The Lord of Murder
 - **Domains:** Death
+- **Pantheon:** Faerûnian
 - **Symbol:** Skull surrounded by ring of bloody droplets
+
+![Bhaal|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Bhaal.jpg)
 ___
 
 ### Information

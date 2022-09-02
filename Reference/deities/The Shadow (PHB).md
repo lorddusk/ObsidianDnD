@@ -1,8 +1,8 @@
 #### The Shadow (PHB), God of dark magic
 ___
 
-- **Pantheon:** Eberron
 - **Alignment:** C, E
 - **Domains:** Knowledge
+- **Pantheon:** Eberron
 - **Symbol:** Obsidian tower
 ___

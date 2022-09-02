@@ -1,8 +1,8 @@
 #### Talos (PHB), God of storms
 ___
 
-- **Pantheon:** Forgotten Realms
 - **Alignment:** C, E
 - **Domains:** Tempest
+- **Pantheon:** Forgotten Realms
 - **Symbol:** Three lightning bolts radiating from a central point
 ___

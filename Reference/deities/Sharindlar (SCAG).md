@@ -1,8 +1,8 @@
 #### Sharindlar (SCAG), Goddess of healing
 ___
 
-- **Pantheon:** Dwarven
 - **Alignment:** C, G
 - **Domains:** Life
+- **Pantheon:** Dwarven
 - **Symbol:** Burning needle
 ___

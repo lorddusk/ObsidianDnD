@@ -1,8 +1,8 @@
 #### Ehlonna, Goddess of woodlands
 ___
 
-- **Pantheon:** Greyhawk
 - **Alignment:** N, G
 - **Domains:** Life, Nature
+- **Pantheon:** Greyhawk
 - **Symbol:** Unicorn horn
 ___

@@ -1,9 +1,11 @@
 #### Thassa, God of the Sea
 ___
 
-- **Pantheon:** Theros
 - **Alignment:** N
 - **Domains:** Knowledge, Tempest
+- **Pantheon:** Theros
+
+![Thassa|250](https://5etools-mirror-1.github.io/img/deities/MOT/052-02-03-Thassa.png)
 ___
 
 ### Information

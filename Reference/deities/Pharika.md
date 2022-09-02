@@ -1,9 +1,11 @@
 #### Pharika, God of Affliction
 ___
 
-- **Pantheon:** Theros
 - **Alignment:** N, E
 - **Domains:** Death, Knowledge, Life
+- **Pantheon:** Theros
+
+![Pharika|250](https://5etools-mirror-1.github.io/img/deities/MOT/046-02-03-pharika.png)
 ___
 
 ### Information

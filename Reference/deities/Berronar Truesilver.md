@@ -1,9 +1,9 @@
 #### Berronar Truesilver
 ___
 
-- **Pantheon:** Dwarven (The Mordinsamman)
 - **Alignment:** L, G
 - **Domains:** Life, Light, Peace
+- **Pantheon:** Dwarven (The Mordinsamman)
 - **Province:** Hearth, home, truth
 - **Symbol:** Intertwined silver rings
 ___

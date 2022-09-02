@@ -1,8 +1,8 @@
 #### Moradin (SCAG), God of creation
 ___
 
-- **Pantheon:** Dwarven
 - **Alignment:** L, G
 - **Domains:** Forge, Knowledge
+- **Pantheon:** Dwarven
 - **Symbol:** Hammer and anvil
 ___

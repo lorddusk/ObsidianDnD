@@ -1,9 +1,9 @@
 #### Uk'otoa, the Leviathan Lord
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** N, E
 - **Domains:** Knowledge, Tempest
+- **Pantheon:** Exandria
 - **Symbol:** Yellow, slitted eye
 ___
 

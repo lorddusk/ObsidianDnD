@@ -1,8 +1,8 @@
 #### The Path of Light (PHB), Philosophy of light and self-improvement
 ___
 
-- **Pantheon:** Eberron
 - **Alignment:** L, N
 - **Domains:** Life, Light
+- **Pantheon:** Eberron
 - **Symbol:** Brilliant crystal
 ___

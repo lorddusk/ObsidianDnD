@@ -1,10 +1,12 @@
 #### Raei, the Everlight
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** N, G
 - **Domains:** Life, Light
+- **Pantheon:** Exandria
 - **Symbol:** Humanoid, feminine phoenix
+
+![Raei|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Raei.png)
 ___
 
 ### Information

@@ -1,10 +1,12 @@
 #### Ioun (EGW), the Knowing Mentor
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** N
 - **Domains:** Arcana, Knowledge
+- **Pantheon:** Exandria
 - **Symbol:** Pair of open eyes crowned with a third open eye
+
+![Ioun (EGW)|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Ioun.png)
 ___
 
 ### Information

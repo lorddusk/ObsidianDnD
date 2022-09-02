@@ -1,9 +1,9 @@
 #### Keptolo
 ___
 
-- **Pantheon:** Drow (The Dark Seldarine)
 - **Alignment:** C, E
 - **Domains:** Nature, Trickery
+- **Pantheon:** Drow (The Dark Seldarine)
 - **Province:** Beauty, hedonism, fertility
 - **Symbol:** Mushroom
 ___

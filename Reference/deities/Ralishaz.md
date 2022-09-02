@@ -1,8 +1,8 @@
 #### Ralishaz, God of ill luck and insanity
 ___
 
-- **Pantheon:** Greyhawk
 - **Alignment:** C, N
 - **Domains:** Trickery
+- **Pantheon:** Greyhawk
 - **Symbol:** Three bone fate-casting sticks
 ___

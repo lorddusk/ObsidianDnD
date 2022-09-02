@@ -1,11 +1,13 @@
 #### The Mockery
 ___
 
-- **Pantheon:** Eberron (The Dark Six)
 - **Alignment:** None
 - **Domains:** Trickery, War
+- **Pantheon:** Eberron (The Dark Six)
 - **Province:** Betrayal, bloodshed
 - **Symbol:** Five blood-spattered blades {@i or} flayed dragon
+
+![The Mockery|250](https://5etools-mirror-1.github.io/img/deities/ERLW/The%20Dark%20Six.png)
 ___
 
 ### Information

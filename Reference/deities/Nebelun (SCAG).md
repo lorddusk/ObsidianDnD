@@ -1,8 +1,8 @@
 #### Nebelun (SCAG), God of invention and luck
 ___
 
-- **Pantheon:** Gnomish
 - **Alignment:** C, G
 - **Domains:** Knowledge, Trickery
+- **Pantheon:** Gnomish
 - **Symbol:** Bellows and a lizard tail
 ___

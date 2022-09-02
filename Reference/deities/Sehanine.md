@@ -1,8 +1,8 @@
 #### Sehanine, Goddess of the moon
 ___
 
-- **Pantheon:** Dawn War
 - **Alignment:** C, G
 - **Domains:** Trickery
+- **Pantheon:** Dawn War
 - **Symbol:** Crescent moon
 ___

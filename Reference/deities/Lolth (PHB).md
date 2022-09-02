@@ -1,8 +1,8 @@
 #### Lolth (PHB), Drow goddess of spiders
 ___
 
-- **Pantheon:** Nonhuman
 - **Alignment:** C, E
 - **Domains:** Trickery
+- **Pantheon:** Nonhuman
 - **Symbol:** Spider
 ___

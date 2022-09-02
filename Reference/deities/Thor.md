@@ -1,8 +1,8 @@
 #### Thor, God of storms and thunder
 ___
 
-- **Pantheon:** Norse
 - **Alignment:** C, G
 - **Domains:** Tempest, War
+- **Pantheon:** Norse
 - **Symbol:** Hammer
 ___

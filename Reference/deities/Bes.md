@@ -1,8 +1,8 @@
 #### Bes, God of luck and music
 ___
 
-- **Pantheon:** Egyptian
 - **Alignment:** C, N
 - **Domains:** Trickery
+- **Pantheon:** Egyptian
 - **Symbol:** Image of the misshapen deity
 ___

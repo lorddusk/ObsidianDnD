@@ -1,8 +1,8 @@
 #### Vecna (PHB), God of evil secrets
 ___
 
-- **Pantheon:** Greyhawk
 - **Alignment:** N, E
 - **Domains:** Knowledge, Arcana
+- **Pantheon:** Greyhawk
 - **Symbol:** Hand with eye in the palm
 ___

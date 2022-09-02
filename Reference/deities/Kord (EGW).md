@@ -1,10 +1,12 @@
 #### Kord (EGW), the Storm Lord
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** C, N
 - **Domains:** Tempest, War
+- **Pantheon:** Exandria
 - **Symbol:** Four bolts of lightning radiating from the center of a shield
+
+![Kord (EGW)|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Kord.png)
 ___
 
 ### Information

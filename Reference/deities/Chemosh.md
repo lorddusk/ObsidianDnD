@@ -1,8 +1,8 @@
 #### Chemosh, God of the undead
 ___
 
-- **Pantheon:** Dragonlance
 - **Alignment:** L, E
 - **Domains:** Death
+- **Pantheon:** Dragonlance
 - **Symbol:** Yellow skull
 ___

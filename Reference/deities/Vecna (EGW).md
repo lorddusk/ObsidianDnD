@@ -1,10 +1,12 @@
 #### Vecna (EGW), the Whispered One
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** N, E
 - **Domains:** Arcana, Death, Grave, Knowledge
+- **Pantheon:** Exandria
 - **Symbol:** Desiccated hand with an eye in the palm
+
+![Vecna (EGW)|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Vecna.png)
 ___
 
 ### Information

@@ -1,10 +1,13 @@
 #### Mask, God of thieves
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** C, N
+- **Alternate Names:** The Lord of Shadows, The Master of All Thieves
 - **Domains:** Trickery
+- **Pantheon:** Faerûnian
 - **Symbol:** Black mask
+
+![Mask|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Mask.jpg)
 ___
 
 ### Information

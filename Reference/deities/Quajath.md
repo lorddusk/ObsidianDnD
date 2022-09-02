@@ -1,9 +1,9 @@
 #### Quajath, the Undermaw
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** C, N
 - **Domains:** Nature, War
+- **Pantheon:** Exandria
 - **Symbol:** Ring of teeth
 ___
 

@@ -1,8 +1,8 @@
 #### Sirrion, God of fire and change
 ___
 
-- **Pantheon:** Dragonlance
 - **Alignment:** N
 - **Domains:** Nature
+- **Pantheon:** Dragonlance
 - **Symbol:** Multi-colored fire
 ___

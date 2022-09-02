@@ -1,8 +1,8 @@
 #### Skoraeus Stonebones, God of stone giants and art
 ___
 
-- **Pantheon:** Nonhuman
 - **Alignment:** N
 - **Domains:** Knowledge
+- **Pantheon:** Nonhuman
 - **Symbol:** Stalactite
 ___

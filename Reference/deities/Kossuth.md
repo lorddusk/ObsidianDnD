@@ -1,8 +1,8 @@
 #### Kossuth, God of fire
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** N
 - **Domains:** Light
+- **Pantheon:** Faerûnian
 - **Symbol:** Flame
 ___

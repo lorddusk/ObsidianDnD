@@ -1,10 +1,12 @@
 #### Lolth (EGW), the Spider Queen
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** C, E
 - **Domains:** Knowledge, Trickery
+- **Pantheon:** Exandria
 - **Symbol:** Jeweled spider
+
+![Lolth (EGW)|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Lolth.png)
 ___
 
 ### Information

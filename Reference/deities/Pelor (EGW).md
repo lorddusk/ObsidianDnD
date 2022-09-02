@@ -1,10 +1,12 @@
 #### Pelor (EGW), the Dawn Father
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** N, G
 - **Domains:** Life, Light, Nature
+- **Pantheon:** Exandria
 - **Symbol:** Bright, eight-pointed star
+
+![Pelor (EGW)|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Pelor.png)
 ___
 
 ### Information

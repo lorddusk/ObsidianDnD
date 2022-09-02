@@ -1,9 +1,9 @@
 #### Abbathor
 ___
 
-- **Pantheon:** Dwarven (The Mordinsamman)
 - **Alignment:** N, E
 - **Domains:** Trickery
+- **Pantheon:** Dwarven (The Mordinsamman)
 - **Province:** Greed
 - **Symbol:** Jeweled dagger, point down
 ___

@@ -1,9 +1,9 @@
 #### Procan, Sailor of Sea and Sky
 ___
 
-- **Pantheon:** Unknown
 - **Alignment:** C, N
 - **Domains:** Tempest
+- **Pantheon:** Unknown
 ___
 
 ### Information

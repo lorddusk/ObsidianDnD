@@ -1,10 +1,13 @@
 #### Oghma, God of knowledge
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** N
+- **Alternate Names:** The Binder, The Lord of Knowledge
 - **Domains:** Knowledge
+- **Pantheon:** Faerûnian
 - **Symbol:** Blank scroll
+
+![Oghma|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Oghma.jpg)
 ___
 
 ### Information

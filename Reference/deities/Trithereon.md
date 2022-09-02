@@ -1,8 +1,8 @@
 #### Trithereon, God of liberty and retribution
 ___
 
-- **Pantheon:** Greyhawk
 - **Alignment:** C, G
 - **Domains:** War
+- **Pantheon:** Greyhawk
 - **Symbol:** Triskelion
 ___

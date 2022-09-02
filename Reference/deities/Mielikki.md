@@ -1,10 +1,13 @@
 #### Mielikki, Goddess of forests
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** N, G
+- **Alternate Names:** Our Lady of the Forest, The Forest Queen
 - **Domains:** Nature
+- **Pantheon:** Faerûnian
 - **Symbol:** Unicorn's head
+
+![Mielikki|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Mielikki.jpg)
 ___
 
 ### Information

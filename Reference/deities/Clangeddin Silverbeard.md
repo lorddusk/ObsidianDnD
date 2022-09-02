@@ -1,9 +1,9 @@
 #### Clangeddin Silverbeard
 ___
 
-- **Pantheon:** Dwarven (The Mordinsamman)
 - **Alignment:** L, G
 - **Domains:** War
+- **Pantheon:** Dwarven (The Mordinsamman)
 - **Province:** War, strategy
 - **Symbol:** Crossed silver battleaxes
 ___

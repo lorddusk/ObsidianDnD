@@ -1,9 +1,9 @@
 #### Selvetarm
 ___
 
-- **Pantheon:** Drow (The Dark Seldarine)
 - **Alignment:** C, E
 - **Domains:** War
+- **Pantheon:** Drow (The Dark Seldarine)
 - **Province:** Warriors, slaughter
 - **Symbol:** Spider over crossed sword and mace
 ___

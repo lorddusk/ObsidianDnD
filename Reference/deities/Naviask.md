@@ -1,9 +1,9 @@
 #### Naviask
 ___
 
-- **Pantheon:** Exandria (Lesser Idols)
 - **Alignment:** N, G
 - **Domains:** Life, Nature
+- **Pantheon:** Exandria (Lesser Idols)
 - **Province:** The Archfey
 - **Symbol:** Wreath of flowers shaped into demon horns
 ___

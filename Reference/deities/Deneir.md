@@ -1,10 +1,13 @@
 #### Deneir, God of writing
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** N, G
+- **Alternate Names:** The Lord of All Glyphs and Images, The First Scribe, The Scribe of Oghma
 - **Domains:** Arcana, Knowledge
+- **Pantheon:** Faerûnian
 - **Symbol:** Lit candle above an open eye
+
+![Deneir|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Deneir.jpg)
 ___
 
 ### Information

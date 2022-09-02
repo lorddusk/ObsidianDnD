@@ -1,9 +1,9 @@
 #### Bahgtru, the Leg Breaker
 ___
 
-- **Pantheon:** Orc
 - **Alignment:** L, E
 - **Domains:** War
+- **Pantheon:** Orc
 - **Symbol:** Broken thigh bone
 ___
 

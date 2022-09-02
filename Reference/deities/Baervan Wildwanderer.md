@@ -1,9 +1,9 @@
 #### Baervan Wildwanderer
 ___
 
-- **Pantheon:** Gnome
 - **Alignment:** N, G
 - **Domains:** Nature
+- **Pantheon:** Gnome
 - **Province:** Woodlands
 - **Symbol:** Face of a raccoon
 ___

@@ -1,10 +1,12 @@
 #### Zehir (EGW), the Cloaked Serpent
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** C, E
 - **Domains:** Nature, Trickery
+- **Pantheon:** Exandria
 - **Symbol:** Coiled serpent
+
+![Zehir (EGW)|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Zehir.png)
 ___
 
 ### Information

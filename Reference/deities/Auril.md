@@ -1,10 +1,13 @@
 #### Auril, Goddess of winter
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** N, E
+- **Alternate Names:** The Frostmaiden, Lady Frostkiss, Icedawn
 - **Domains:** Nature, Tempest
+- **Pantheon:** Faerûnian
 - **Symbol:** Six-pointed snowflake
+
+![Auril|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Auril.jpg)
 ___
 
 ### Information

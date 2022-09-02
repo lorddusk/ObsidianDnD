@@ -1,8 +1,8 @@
 #### Arvoreen (SCAG), God of vigilance and war
 ___
 
-- **Pantheon:** Halfling
 - **Alignment:** L, G
 - **Domains:** War
+- **Pantheon:** Halfling
 - **Symbol:** Crossed short swords
 ___

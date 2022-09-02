@@ -1,10 +1,12 @@
 #### Erathis (EGW), the Law Bearer
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** L, N
 - **Domains:** Knowledge, Order
+- **Pantheon:** Exandria
 - **Symbol:** Double-headed axe inset with a pattern of scales
+
+![Erathis (EGW)|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Erathis.png)
 ___
 
 ### Information

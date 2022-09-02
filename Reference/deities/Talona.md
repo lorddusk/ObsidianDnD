@@ -1,10 +1,13 @@
 #### Talona, Goddess of poison and disease
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** C, E
+- **Alternate Names:** Lady of Poison, Mistress of Disease, The Plague-crone
 - **Domains:** Death
+- **Pantheon:** Faerûnian
 - **Symbol:** Three teardrops in a triangle
+
+![Talona|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Talona.jpg)
 ___
 
 ### Information

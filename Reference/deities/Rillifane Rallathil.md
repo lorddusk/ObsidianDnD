@@ -1,9 +1,9 @@
 #### Rillifane Rallathil
 ___
 
-- **Pantheon:** Elven (The Seldarine)
 - **Alignment:** C, G
 - **Domains:** Nature
+- **Pantheon:** Elven (The Seldarine)
 - **Province:** Nature, beasts, the seasons
 - **Symbol:** Oak
 ___

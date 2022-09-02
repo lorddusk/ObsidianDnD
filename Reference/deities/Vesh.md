@@ -1,9 +1,9 @@
 #### Vesh, the Bloody Siren
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** N, E
 - **Domains:** Death, Life
+- **Pantheon:** Exandria
 - **Symbol:** Crimson ring hanging from a chain
 ___
 

@@ -1,8 +1,8 @@
 #### Eadro, Merfolk deity of the sea
 ___
 
-- **Pantheon:** Nonhuman
 - **Alignment:** N
 - **Domains:** Nature, Tempest
+- **Pantheon:** Nonhuman
 - **Symbol:** Spiral design
 ___

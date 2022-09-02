@@ -1,10 +1,12 @@
 #### Torog (EGW), the Crawling King
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** N, E
 - **Domains:** Death, Trickery
+- **Pantheon:** Exandria
 - **Symbol:** Three pale arms clawing from a dark void
+
+![Torog (EGW)|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Torog.png)
 ___
 
 ### Information

@@ -1,9 +1,9 @@
 #### Deep Duerra
 ___
 
-- **Pantheon:** Duergar
 - **Alignment:** L, E
 - **Domains:** Knowledge, War
+- **Pantheon:** Duergar
 - **Province:** Conquest, psionics
 - **Symbol:** Mind flayer skull
 ___

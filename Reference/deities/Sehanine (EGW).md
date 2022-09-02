@@ -1,10 +1,12 @@
 #### Sehanine (EGW), the Moon Weaver
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** C, G
 - **Domains:** Arcana, Nature, Trickery
+- **Pantheon:** Exandria
 - **Symbol:** Crescent moon turned upward, strung like a bow
+
+![Sehanine (EGW)|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Sehanine.png)
 ___
 
 ### Information

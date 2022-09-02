@@ -1,10 +1,13 @@
 #### Leira, Goddess of illusion
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** C, N
+- **Alternate Names:** The Lady of the Mists, Mistshadow, The Lady of Deception
 - **Domains:** Trickery
+- **Pantheon:** Faerûnian
 - **Symbol:** Point-down triangle containing a swirl of mist
+
+![Leira|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Leira.jpg)
 ___
 
 ### Information

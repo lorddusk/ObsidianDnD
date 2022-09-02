@@ -1,9 +1,11 @@
 #### Keranos, God of Storms
 ___
 
-- **Pantheon:** Theros
 - **Alignment:** C, N
 - **Domains:** Knowledge, Tempest
+- **Pantheon:** Theros
+
+![Keranos|250](https://5etools-mirror-1.github.io/img/deities/MOT/036-02-03-keranos.png)
 ___
 
 ### Information

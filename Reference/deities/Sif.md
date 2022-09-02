@@ -1,8 +1,8 @@
 #### Sif, Goddess of war
 ___
 
-- **Pantheon:** Norse
 - **Alignment:** C, G
 - **Domains:** War
+- **Pantheon:** Norse
 - **Symbol:** Upraised sword
 ___

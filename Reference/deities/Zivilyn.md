@@ -1,8 +1,8 @@
 #### Zivilyn, God of wisdom
 ___
 
-- **Pantheon:** Dragonlance
 - **Alignment:** N
 - **Domains:** Knowledge
+- **Pantheon:** Dragonlance
 - **Symbol:** Great green or gold tree
 ___

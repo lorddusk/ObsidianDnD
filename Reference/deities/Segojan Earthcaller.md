@@ -1,9 +1,9 @@
 #### Segojan Earthcaller
 ___
 
-- **Pantheon:** Gnome
 - **Alignment:** N, G
 - **Domains:** Grave, Light
+- **Pantheon:** Gnome
 - **Province:** Earth, the dead
 - **Symbol:** Glowing gemstone
 ___

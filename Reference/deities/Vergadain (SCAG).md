@@ -1,8 +1,8 @@
 #### Vergadain (SCAG), God of luck and wealth
 ___
 
-- **Pantheon:** Dwarven
 - **Alignment:** N
 - **Domains:** Trickery
+- **Pantheon:** Dwarven
 - **Symbol:** Gold coin with the face of a dwarf
 ___

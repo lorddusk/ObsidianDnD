@@ -1,10 +1,13 @@
 #### Talos, God of storms
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** C, E
+- **Alternate Names:** Stormlord, The Destroyer
 - **Domains:** Tempest
+- **Pantheon:** Faerûnian
 - **Symbol:** Three lightning bolts radiating from a point
+
+![Talos|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Talos.jpg)
 ___
 
 ### Information

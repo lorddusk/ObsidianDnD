@@ -1,10 +1,13 @@
 #### Malar, God of the hunt
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** C, E
+- **Alternate Names:** The Beastlord, The Black-Blooded One
 - **Domains:** Nature
+- **Pantheon:** Faerûnian
 - **Symbol:** Clawed paw
+
+![Malar|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Malar.jpg)
 ___
 
 ### Information

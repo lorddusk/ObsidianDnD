@@ -1,8 +1,8 @@
 #### Olladra (PHB), Goddess of good fortune
 ___
 
-- **Pantheon:** Eberron
 - **Alignment:** N, G
 - **Domains:** Life, Trickery
+- **Pantheon:** Eberron
 - **Symbol:** Domino
 ___

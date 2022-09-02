@@ -1,9 +1,11 @@
 #### Phenax, God of Deception
 ___
 
-- **Pantheon:** Theros
 - **Alignment:** C, N
 - **Domains:** Trickery
+- **Pantheon:** Theros
+
+![Phenax|250](https://5etools-mirror-1.github.io/img/deities/MOT/048-02-03-phenax.png)
 ___
 
 ### Information

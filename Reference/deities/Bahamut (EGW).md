@@ -1,10 +1,12 @@
 #### Bahamut (EGW), the Platinum Dragon
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** L, G
 - **Domains:** Life, Order, War
+- **Pantheon:** Exandria
 - **Symbol:** Silver dragon's head in profile
+
+![Bahamut (EGW)|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Bahamut.png)
 ___
 
 ### Information

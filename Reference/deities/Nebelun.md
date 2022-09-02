@@ -1,9 +1,9 @@
 #### Nebelun
 ___
 
-- **Pantheon:** Gnome
 - **Alignment:** C, G
 - **Domains:** Forge, Knowledge, Trickery
+- **Pantheon:** Gnome
 - **Province:** Invention, luck
 - **Symbol:** Bellows and lizard tail
 ___

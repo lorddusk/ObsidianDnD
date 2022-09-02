@@ -1,8 +1,8 @@
 #### Tiamat (PHB), Dragon goddess of evil
 ___
 
-- **Pantheon:** Nonhuman
 - **Alignment:** L, E
 - **Domains:** Trickery
+- **Pantheon:** Nonhuman
 - **Symbol:** Dragon head with five claw marks
 ___

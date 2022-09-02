@@ -1,9 +1,9 @@
 #### Malyk
 ___
 
-- **Pantheon:** Drow (The Dark Seldarine)
 - **Alignment:** C, E
 - **Domains:** Tempest, Trickery
+- **Pantheon:** Drow (The Dark Seldarine)
 - **Province:** Chaos, rebellion, wild magic
 - **Symbol:** A flame in a tear or a multihued vortex
 ___

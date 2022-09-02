@@ -1,8 +1,8 @@
 #### Demeter, Goddess of agriculture
 ___
 
-- **Pantheon:** Greek
 - **Alignment:** N, G
 - **Domains:** Life
+- **Pantheon:** Greek
 - **Symbol:** Mare's head
 ___

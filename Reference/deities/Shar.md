@@ -1,9 +1,10 @@
 #### Shar, Goddess of darkness and loss
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** N, E
+- **Alternate Names:** The Mistress of the Night, The Dark Lady, Our Lady of Loss
 - **Domains:** Death, Trickery
+- **Pantheon:** Faerûnian
 - **Symbol:** Black disk encircled with a purple border
 ___
 

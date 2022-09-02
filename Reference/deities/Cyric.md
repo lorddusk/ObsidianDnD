@@ -1,10 +1,13 @@
 #### Cyric, God of lies
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** C, E
+- **Alternate Names:** The Prince of Lies, The Dark Sun
 - **Domains:** Trickery
+- **Pantheon:** Faerûnian
 - **Symbol:** White jawless skull on black or purple sunburst
+
+![Cyric|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Cyric.jpg)
 ___
 
 ### Information

@@ -1,10 +1,12 @@
 #### Tharizdun (EGW), the Chained Oblivion
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** C, E
 - **Domains:** Death, Grave, Trickery
+- **Pantheon:** Exandria
 - **Symbol:** Crooked, seven-pointed star made of chains
+
+![Tharizdun (EGW)|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Tharizdun.png)
 ___
 
 ### Information

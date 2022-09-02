@@ -1,10 +1,12 @@
 #### Bane (EGW), the Strife Emperor
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** L, E
 - **Domains:** Forge, Order, War
+- **Pantheon:** Exandria
 - **Symbol:** Flail of chains, each ending in shackles
+
+![Bane (EGW)|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Bane.png)
 ___
 
 ### Information

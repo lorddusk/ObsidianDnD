@@ -1,9 +1,9 @@
 #### Moradin
 ___
 
-- **Pantheon:** Dwarven (The Mordinsamman)
 - **Alignment:** L, G
 - **Domains:** Forge, Knowledge
+- **Pantheon:** Dwarven (The Mordinsamman)
 - **Province:** Primary deity of dwarves
 - **Symbol:** Hammer and anvil
 ___

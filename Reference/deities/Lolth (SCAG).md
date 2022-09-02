@@ -1,8 +1,8 @@
 #### Lolth (SCAG), Goddess of spiders
 ___
 
-- **Pantheon:** Drow
 - **Alignment:** C, E
 - **Domains:** Trickery
+- **Pantheon:** Drow
 - **Symbol:** Spider
 ___

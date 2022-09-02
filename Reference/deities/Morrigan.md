@@ -1,8 +1,8 @@
 #### Morrigan, Goddess of battle
 ___
 
-- **Pantheon:** Celtic
 - **Alignment:** C, E
 - **Domains:** War
+- **Pantheon:** Celtic
 - **Symbol:** Two crossed spears
 ___

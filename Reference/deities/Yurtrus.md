@@ -1,9 +1,9 @@
 #### Yurtrus, the White Hand
 ___
 
-- **Pantheon:** Orc
 - **Alignment:** N, E
 - **Domains:** Death
+- **Pantheon:** Orc
 - **Symbol:** White hand, palm outward
 ___
 

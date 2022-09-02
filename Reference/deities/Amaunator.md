@@ -1,10 +1,13 @@
 #### Amaunator, God of the sun
 ___
 
-- **Pantheon:** FaerÃ»nian
 - **Alignment:** L, N
+- **Alternate Names:** The Keeper of the Eternal Sun, The Light of Law, The Yellow God
 - **Domains:** Life, Light
+- **Pantheon:** Faerûnian
 - **Symbol:** Golden sun
+
+![Amaunator|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Amaunator.jpg)
 ___
 
 ### Information

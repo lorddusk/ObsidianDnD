@@ -1,8 +1,8 @@
 #### Branchala, God of music
 ___
 
-- **Pantheon:** Dragonlance
 - **Alignment:** N, G
 - **Domains:** Light
+- **Pantheon:** Dragonlance
 - **Symbol:** Bard's harp
 ___

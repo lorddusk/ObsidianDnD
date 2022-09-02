@@ -1,8 +1,8 @@
 #### Diancecht, God of medicine and healing
 ___
 
-- **Pantheon:** Celtic
 - **Alignment:** L, G
 - **Domains:** Life
+- **Pantheon:** Celtic
 - **Symbol:** Crossed oak and mistletoe branches
 ___

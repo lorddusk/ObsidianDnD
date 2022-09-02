@@ -1,8 +1,8 @@
 #### Torog, God of the Underdark
 ___
 
-- **Pantheon:** Dawn War
 - **Alignment:** N, E
 - **Domains:** Death
+- **Pantheon:** Dawn War
 - **Symbol:** T attached to a circular shackle
 ___

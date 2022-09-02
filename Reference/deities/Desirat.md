@@ -1,9 +1,9 @@
 #### Desirat, the Twilight Phoenix
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** L, E
 - **Domains:** Light, Trickery
+- **Pantheon:** Exandria
 - **Symbol:** Burning purple feather
 ___
 

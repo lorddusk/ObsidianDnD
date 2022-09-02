@@ -1,11 +1,13 @@
 #### The Traveler (ERLW)
 ___
 
-- **Pantheon:** Eberron (The Dark Six)
 - **Alignment:** None
 - **Domains:** Forge, Knowledge, Trickery
+- **Pantheon:** Eberron (The Dark Six)
 - **Province:** Change, chaos
 - **Symbol:** Four crossed, rune-inscribed bones
+
+![The Traveler (ERLW)|250](https://5etools-mirror-1.github.io/img/deities/ERLW/The%20Dark%20Six.png)
 ___
 
 ### Information

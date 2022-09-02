@@ -1,9 +1,9 @@
 #### Arvoreen
 ___
 
-- **Pantheon:** Halfling
 - **Alignment:** L, G
 - **Domains:** War
+- **Pantheon:** Halfling
 - **Province:** Vigilance, war
 - **Symbol:** Crossed short swords
 ___

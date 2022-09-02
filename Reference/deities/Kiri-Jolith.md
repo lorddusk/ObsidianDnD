@@ -1,8 +1,8 @@
 #### Kiri-Jolith, God of honor and war
 ___
 
-- **Pantheon:** Dragonlance
 - **Alignment:** L, G
 - **Domains:** War
+- **Pantheon:** Dragonlance
 - **Symbol:** Bison's horns
 ___

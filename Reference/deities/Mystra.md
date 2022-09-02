@@ -1,10 +1,13 @@
 #### Mystra, Goddess of magic
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** N, G
+- **Alternate Names:** The Lady of Mysteries, Our Lady of Spells, The Mother of All Magic
 - **Domains:** Arcana, Knowledge
+- **Pantheon:** Faerûnian
 - **Symbol:** Circle of seven stars, nine stars encircling a flowing red mist, or a single star
+
+![Mystra|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Mystra.jpg)
 ___
 
 ### Information

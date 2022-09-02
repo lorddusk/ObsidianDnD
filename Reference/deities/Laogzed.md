@@ -1,8 +1,8 @@
 #### Laogzed, Troglodyte god of hunger
 ___
 
-- **Pantheon:** Nonhuman
 - **Alignment:** C, E
 - **Domains:** Death
+- **Pantheon:** Nonhuman
 - **Symbol:** Image of the lizard/toad god
 ___

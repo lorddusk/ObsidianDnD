@@ -1,9 +1,9 @@
 #### Gaerdal Ironhand
 ___
 
-- **Pantheon:** Gnome
 - **Alignment:** L, G
 - **Domains:** War, Peace
+- **Pantheon:** Gnome
 - **Province:** Protection
 - **Symbol:** Iron band
 ___

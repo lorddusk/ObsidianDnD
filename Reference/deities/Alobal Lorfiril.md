@@ -1,9 +1,9 @@
 #### Alobal Lorfiril
 ___
 
-- **Pantheon:** Elven (The Seldarine)
 - **Alignment:** C, G
 - **Domains:** Life, Trickery
+- **Pantheon:** Elven (The Seldarine)
 - **Province:** Revelry, mirth
 - **Symbol:** Wine glass
 ___

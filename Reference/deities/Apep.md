@@ -1,8 +1,8 @@
 #### Apep, God of evil, fire, and serpents
 ___
 
-- **Pantheon:** Egyptian
 - **Alignment:** N, E
 - **Domains:** Trickery
+- **Pantheon:** Egyptian
 - **Symbol:** Flaming snake
 ___

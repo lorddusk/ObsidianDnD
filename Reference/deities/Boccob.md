@@ -1,8 +1,8 @@
 #### Boccob, God of magic
 ___
 
-- **Pantheon:** Greyhawk
 - **Alignment:** N
 - **Domains:** Knowledge, Arcana
+- **Pantheon:** Greyhawk
 - **Symbol:** Eye within a pentagram
 ___

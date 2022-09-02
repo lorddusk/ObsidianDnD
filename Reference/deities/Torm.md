@@ -1,10 +1,13 @@
 #### Torm, God of courage and self-sacrifice
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** L, G
+- **Alternate Names:** The Loyal Fury, The True, The Hand of Righteousness
 - **Domains:** War
+- **Pantheon:** Faerûnian
 - **Symbol:** White right gauntlet
+
+![Torm|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Torm.jpg)
 ___
 
 ### Information

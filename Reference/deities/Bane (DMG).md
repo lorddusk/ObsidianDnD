@@ -1,8 +1,8 @@
 #### Bane (DMG), God of war and conquest
 ___
 
-- **Pantheon:** Dawn War
 - **Alignment:** L, E
 - **Domains:** War, Order
+- **Pantheon:** Dawn War
 - **Symbol:** Claw with three talons pointing down
 ___

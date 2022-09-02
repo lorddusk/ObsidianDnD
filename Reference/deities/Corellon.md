@@ -1,8 +1,8 @@
 #### Corellon, God of magic and the arts
 ___
 
-- **Pantheon:** Dawn War
 - **Alignment:** C, G
 - **Domains:** Light
+- **Pantheon:** Dawn War
 - **Symbol:** Eight-pointed star
 ___

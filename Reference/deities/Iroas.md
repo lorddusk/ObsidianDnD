@@ -1,9 +1,11 @@
 #### Iroas, God of Victory
 ___
 
-- **Pantheon:** Theros
 - **Alignment:** C, G
 - **Domains:** War
+- **Pantheon:** Theros
+
+![Iroas|250](https://5etools-mirror-1.github.io/img/deities/MOT/032-02-03-iroas.png)
 ___
 
 ### Information

@@ -1,9 +1,9 @@
 #### Gorm Gulthyn
 ___
 
-- **Pantheon:** Dwarven (The Mordinsamman)
 - **Alignment:** L, G
 - **Domains:** War
+- **Pantheon:** Dwarven (The Mordinsamman)
 - **Province:** Vigilance
 - **Symbol:** Bronze half-mask
 ___

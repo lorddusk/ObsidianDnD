@@ -1,9 +1,9 @@
 #### Rill Cleverthrush
 ___
 
-- **Pantheon:** Gnome
 - **Alignment:** L, N
 - **Domains:** Knowledge
+- **Pantheon:** Gnome
 - **Province:** Law, thought
 - **Symbol:** Interlocking gears
 ___

@@ -1,9 +1,9 @@
 #### Muamman Duathal
 ___
 
-- **Pantheon:** Dwarven (The Mordinsamman)
 - **Alignment:** N, G
 - **Domains:** Tempest
+- **Pantheon:** Dwarven (The Mordinsamman)
 - **Province:** Storms, travel
 - **Symbol:** Mace held in gauntlets
 ___

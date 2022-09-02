@@ -1,9 +1,9 @@
 #### Dugmaren Brightmantle
 ___
 
-- **Pantheon:** Dwarven (The Mordinsamman)
 - **Alignment:** C, G
 - **Domains:** Knowledge
+- **Pantheon:** Dwarven (The Mordinsamman)
 - **Province:** Discovery
 - **Symbol:** Open book
 ___

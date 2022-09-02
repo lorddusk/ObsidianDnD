@@ -1,8 +1,8 @@
 #### Math Mathonwy, God of magic
 ___
 
-- **Pantheon:** Celtic
 - **Alignment:** N, E
 - **Domains:** Knowledge, Arcana
+- **Pantheon:** Celtic
 - **Symbol:** Staff
 ___

@@ -1,10 +1,12 @@
 #### Gruumsh (EGW), the Ruiner
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** C, E
 - **Domains:** Death, Tempest, War
+- **Pantheon:** Exandria
 - **Symbol:** Single, unblinking eye that bleeds
+
+![Gruumsh (EGW)|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Gruumsh.png)
 ___
 
 ### Information

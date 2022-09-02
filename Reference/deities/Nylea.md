@@ -1,9 +1,11 @@
 #### Nylea, God of the Hunt
 ___
 
-- **Pantheon:** Theros
 - **Alignment:** N, G
 - **Domains:** Nature
+- **Pantheon:** Theros
+
+![Nylea|250](https://5etools-mirror-1.github.io/img/deities/MOT/044-02-03-nylea.png)
 ___
 
 ### Information

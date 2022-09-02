@@ -1,8 +1,8 @@
 #### Dol Dorn (PHB), God of strength at arms
 ___
 
-- **Pantheon:** Eberron
 - **Alignment:** C, G
 - **Domains:** War
+- **Pantheon:** Eberron
 - **Symbol:** Longsword crossed over a shield
 ___

@@ -1,10 +1,13 @@
 #### Selûne, Goddess of the moon
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** C, G
+- **Alternate Names:** Our Lady of Silver, The Moonmaiden, The Night White Lady
 - **Domains:** Knowledge, Life, Twilight
+- **Pantheon:** Faerûnian
 - **Symbol:** Pair of eyes surrounded by seven stars
+
+![Selûne|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Selune.jpg)
 ___
 
 ### Information

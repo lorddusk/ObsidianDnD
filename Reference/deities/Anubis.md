@@ -1,8 +1,8 @@
 #### Anubis, God of judgment and death
 ___
 
-- **Pantheon:** Egyptian
 - **Alignment:** L, N
 - **Domains:** Death, Grave, Order
+- **Pantheon:** Egyptian
 - **Symbol:** Black jackal
 ___

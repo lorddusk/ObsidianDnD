@@ -1,8 +1,8 @@
 #### Torm (PHB), God of courage and self-sacrifice
 ___
 
-- **Pantheon:** Forgotten Realms
 - **Alignment:** L, G
 - **Domains:** War
+- **Pantheon:** Forgotten Realms
 - **Symbol:** White right gauntlet
 ___

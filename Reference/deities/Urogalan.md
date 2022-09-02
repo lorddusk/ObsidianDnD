@@ -1,9 +1,9 @@
 #### Urogalan
 ___
 
-- **Pantheon:** Halfling
 - **Alignment:** L, N
 - **Domains:** Death, Grave, Knowledge
+- **Pantheon:** Halfling
 - **Province:** Earth, death
 - **Symbol:** Silhouette of a dog's head
 ___

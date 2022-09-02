@@ -1,8 +1,8 @@
 #### Erythnul, God of envy and slaughter
 ___
 
-- **Pantheon:** Greyhawk
 - **Alignment:** C, E
 - **Domains:** War
+- **Pantheon:** Greyhawk
 - **Symbol:** Blood drop
 ___

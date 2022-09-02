@@ -1,9 +1,9 @@
 #### Flandal Steelskin
 ___
 
-- **Pantheon:** Gnome
 - **Alignment:** N, G
 - **Domains:** Forge, Knowledge
+- **Pantheon:** Gnome
 - **Province:** Metalwork
 - **Symbol:** Flaming hammer
 ___

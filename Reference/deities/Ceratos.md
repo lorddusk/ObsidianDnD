@@ -1,9 +1,9 @@
 #### Ceratos
 ___
 
-- **Pantheon:** Exandria (Lesser Idols)
 - **Alignment:** C, N
 - **Domains:** Knowledge, Tempest
+- **Pantheon:** Exandria (Lesser Idols)
 - **Province:** The Great Old One
 - **Symbol:** Three mismatched eyes surrounded by teeth
 ___

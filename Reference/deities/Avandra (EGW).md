@@ -1,10 +1,12 @@
 #### Avandra (EGW), the Change Bringer
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** C, G
 - **Domains:** Nature, Trickery
+- **Pantheon:** Exandria
 - **Symbol:** Woman's profile embossed on a gold coin or pendant
+
+![Avandra (EGW)|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Avandra.png)
 ___
 
 ### Information

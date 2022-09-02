@@ -1,9 +1,11 @@
 #### Ephara, God of the Polis
 ___
 
-- **Pantheon:** Theros
 - **Alignment:** L, N
 - **Domains:** Knowledge, Light
+- **Pantheon:** Theros
+
+![Ephara|250](https://5etools-mirror-1.github.io/img/deities/MOT/026-02-03-ephara.png)
 ___
 
 ### Information

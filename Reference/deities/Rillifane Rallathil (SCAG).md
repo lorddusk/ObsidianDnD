@@ -1,8 +1,8 @@
 #### Rillifane Rallathil (SCAG), God of nature
 ___
 
-- **Pantheon:** Elven
 - **Alignment:** C, G
 - **Domains:** Nature
+- **Pantheon:** Elven
 - **Symbol:** Oak
 ___

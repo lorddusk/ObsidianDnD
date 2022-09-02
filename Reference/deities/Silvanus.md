@@ -1,10 +1,13 @@
 #### Silvanus, God of wild nature
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** N
+- **Alternate Names:** Oak Father, The Old Oak, Old Father Tree
 - **Domains:** Nature
+- **Pantheon:** Faerûnian
 - **Symbol:** Oak leaf
+
+![Silvanus|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Silvanus.jpg)
 ___
 
 ### Information

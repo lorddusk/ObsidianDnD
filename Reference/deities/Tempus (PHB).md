@@ -1,8 +1,8 @@
 #### Tempus (PHB), God of war
 ___
 
-- **Pantheon:** Forgotten Realms
 - **Alignment:** N
 - **Domains:** War
+- **Pantheon:** Forgotten Realms
 - **Symbol:** Upright flaming sword
 ___

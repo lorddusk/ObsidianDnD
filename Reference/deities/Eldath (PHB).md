@@ -1,8 +1,8 @@
 #### Eldath (PHB), Goddess of peace
 ___
 
-- **Pantheon:** Forgotten Realms
 - **Alignment:** N, G
 - **Domains:** Life, Nature, Peace
+- **Pantheon:** Forgotten Realms
 - **Symbol:** Waterfall plunging into still pool
 ___

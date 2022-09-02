@@ -1,9 +1,9 @@
 #### Deep Sashelas
 ___
 
-- **Pantheon:** Elven (The Seldarine)
 - **Alignment:** C, G
 - **Domains:** Knowledge, Nature, Tempest
+- **Pantheon:** Elven (The Seldarine)
 - **Province:** Creativity, knowledge, sea
 - **Symbol:** Dolphin
 ___

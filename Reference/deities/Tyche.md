@@ -1,8 +1,8 @@
 #### Tyche, Goddess of good fortune
 ___
 
-- **Pantheon:** Greek
 - **Alignment:** N
 - **Domains:** Trickery
+- **Pantheon:** Greek
 - **Symbol:** Red pentagram
 ___

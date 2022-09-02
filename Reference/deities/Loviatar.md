@@ -1,10 +1,13 @@
 #### Loviatar, Goddess of pain
 ___
 
-- **Pantheon:** Faerûnian
 - **Alignment:** L, E
+- **Alternate Names:** The Maiden of Pain, The Scourge Mistress, The Willing Whip
 - **Domains:** Death
+- **Pantheon:** Faerûnian
 - **Symbol:** Nine-tailed barbed scourge
+
+![Loviatar|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Loviatar.jpg)
 ___
 
 ### Information

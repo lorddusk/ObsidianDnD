@@ -1,10 +1,12 @@
 #### Corellon (EGW), the Arch Heart
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** C, G
 - **Domains:** Arcana, Light
+- **Pantheon:** Exandria
 - **Symbol:** Two crescent moons facing each other atop a four-pointed star
+
+![Corellon (EGW)|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20Corellon.png)
 ___
 
 ### Information

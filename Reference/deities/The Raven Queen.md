@@ -1,10 +1,12 @@
 #### The Raven Queen, Matron of Death
 ___
 
-- **Pantheon:** Exandria
 - **Alignment:** L, N
 - **Domains:** Death, Grave
+- **Pantheon:** Exandria
 - **Symbol:** White, humanoid mask framed in black feathers
+
+![The Raven Queen|250](https://5etools-mirror-1.github.io/img/deities/EGW/Symbol%20of%20The%20Raven%20Queen.png)
 ___
 
 ### Information

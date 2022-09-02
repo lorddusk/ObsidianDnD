@@ -1,9 +1,11 @@
 #### Erebos, God of the Dead
 ___
 
-- **Pantheon:** Theros
 - **Alignment:** N, E
 - **Domains:** Death, Trickery
+- **Pantheon:** Theros
+
+![Erebos|250](https://5etools-mirror-1.github.io/img/deities/MOT/028-02-03-erebos.png)
 ___
 
 ### Information
