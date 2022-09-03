@@ -10,5 +10,6 @@
     "headercolors red desat"
   ],
   "translucency": false,
-  "baseFontSize": 12
+  "baseFontSize": 12,
+  "accentColor": ""
 }
