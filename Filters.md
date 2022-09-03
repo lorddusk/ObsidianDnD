@@ -23,3 +23,4 @@
 (file:-"Characters")
 (file:-"Locations")
 (file:-"Session 0")
+(file:-"Quests")
