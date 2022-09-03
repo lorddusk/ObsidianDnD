@@ -1,16 +1,15 @@
 # Overview
 |           What | Amount | Remaining |
-| --------------:|:------:|:---------:|
-|             HP |   20   |    20     | 
+|---------------:|:------:|:---------:|
+|             HP |   20   |    20     |
 | Hit dice (1d8) |   2    |     2     |
 |             AC |   17   |    17     |
 |    Spell Slots |   2    |     2     |
 |  Healing Hands |   1    |     1     |
-|      Hex Curse |   1    |     1     |
-
-### Stats
+|      Hex Curse |   1    |     1     | 
+## Stats
 | Name | Stat | Mod |
-| ---- |:----:|:---:|
+|------|:----:|:---:|
 | STR  |  13  | +1  |
 | DEX  |  14  | +2  |
 | CON  |  16  | +3  |
@@ -18,9 +17,9 @@
 | WIS  |  14  | +2  |
 | CHA  |  16  | +3  |
 
-### Skills
+## Skills
 | Name            | Stat | Mod | Prof |
-| --------------- | ---- |:---:|:----:|
+|-----------------|------|:---:|:----:|
 | Acrobatics      | DEX  | +2  |      |
 | Animal Handling | WIS  | +2  |      |
 | Arcana          | INT  | -1  |      |
@@ -40,9 +39,9 @@
 | Stealth         | DEX  | +2  |      |
 | Survival        | WIS  | +2  |      |
 
-### Saves
+## Saves
 | Name | Mod | Prof |
-| ---- |:---:|:----:|
+|------|:---:|:----:|
 | STR  | +1  |      |
 | DEX  | +2  |      |
 | CON  | +3  |      |
@@ -50,37 +49,43 @@
 | WIS  | +4  |  ✔️  |
 | CHA  | +5  |  ✔️  |
 
-### Resistances
+## Resistances
 | Name     | Source  |
-| -------- | ------- |
+|----------|---------|
 | Necrotic | Aasimar |
-| Radiant  | Aasimar        |
+| Radiant  | Aasimar |
 
-### Actions
-#### Attacks
-##### Melee
-| Name              | Roll | DMG | Mod | Type     | Effect                                   |
-| ----------------- | ---- | --- | --- | -------- | ---------------------------------------- |
-| Spear             | +5   | 1d6 | +3  | Piercing | If Hexed, Mod +5                                         |
-| [[Green-Flame Blade]] | +5   | 1d6 | +3  | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg. If Hexed, Mod +5 |
-##### Ranged
-| Name           | Range | Roll | DMG  | Mod | Type     | Effect           |
-| -------------- | ----- | ---- | ---- | --- | -------- | ---------------- |
+## Actions
+### Melee
+| Name                  | Roll  | DMG | Mod | Type     | Effect                                                     |
+|-----------------------|-------|-----|-----|----------|------------------------------------------------------------|
+| Spear                 | +5    | 1d6 | +3  | Piercing | If Hexed, Mod +5                                           |
+| [[Green-Flame Blade]] | +5    | 1d6 | +3  | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg. If Hexed, Mod +5 |
+| [[Wrathful Smite]]    | Spear | 1d6 |     | Psychic  | Wisdom save, or frightened for 1 minute (concentration)    |
+### Ranged
+| Name               | Range | Roll | DMG  | Mod | Type     | Effect           |
+|--------------------|-------|------|------|-----|----------|------------------|
 | [[Eldritch Blast]] | 120   | +5   | 1d10 |     | Force    |                  |
-| Spear          | 20/60 | +5   | 1d6  | +3  | Piercing | If Hexed, Mod +5 |
-#### Others
- | Name             | Type         | Amount | Recovery | Effect                                              |
- | ---------------- | ------------ | ------ | -------- | --------------------------------------------------- |
- | Hexblade's Curse | Bonus Action | 1      | Short    | Crits on 19 and 20, Heal HP on Kill Level + Cha Mod |
- | Healing Hands    | Action       | 1      | Long     | Heals Level HP                                      | 
-### Spells
+| Spear              | 20/60 | +5   | 1d6  | +3  | Piercing | If Hexed, Mod +5 |
+### Others
+ | Name             | Type             | Amount           | Recovery         | Effect                                              |
+ |------------------|------------------|------------------|------------------|-----------------------------------------------------|
+ | Hexblade's Curse | Bonus Action     | 1                | Short            | Crits on 19 and 20, Heal HP on Kill Level + Cha Mod |
+ | Healing Hands    | Action           | 1                | Long             | Heals Level HP                                      | 
+
+## Spells
 - Cantrip:
 	- [[Eldritch Blast]]
-	- [[Green-Flame Blade]]
+	- [[Green-Flame Blade]] (Bonus Action)
 	- [[Light]]
-	- [[Armor of Shadows]] (Mage Armor, but received through Warlock Invocation)
+	- [[Armor of Shadows]]
+
 
 - 1st Level:
 	- [[Armor of Agathys]]
 	- [[Comprehend Languages]]
-	- [[Wrathful Smite]]
+	- [[Wrathful Smite]] (Bonus Action)
+
+## Invocations
+- [[Armor of Shadows]]
+- [[Devil's Sight]]

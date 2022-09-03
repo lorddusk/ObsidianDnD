@@ -17,7 +17,7 @@
                   "leaf": "72c82dda200a03e4",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "leaf": "72c82dda200a03e4",
@@ -67,28 +67,49 @@
             }
           },
           {
-            "id": "93ff65b729daf30e",
+            "id": "13963e111bf0dffb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "93ff65b729daf30e",
+                  "leaf": "13963e111bf0dffb",
                   "group": null,
-                  "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"0.16.2\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "release-notes",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff9b56d3dc2c4bb6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "ff9b56d3dc2c4bb6",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
               "state": {
-                "currentVersion": "0.16.2"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -230,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -256,17 +277,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "93ff65b729daf30e",
+  "active": "ff9b56d3dc2c4bb6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Red Hand of Doom/Session Notes/Session 2.md",
     "Characters/Booker/Overview.md",
     "Characters/Booker/Character Sheet.md",
     "Characters/Booker/Background.md",
-    "Red Hand of Doom/Session Notes/Session 2.md",
     "Characters/Booker/Spells/1st Level/Wrathful Smite.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
     "House Rules/Mechanics & Combat/Flanking.md",
     "House Rules/Mechanics & Combat.md",
-    "Red Hand of Doom/House Rules.md",
-    "House Rules/Mechanics & Combat/Heavy Critical Hits.md"
+    "Red Hand of Doom/House Rules.md"
   ]
 }

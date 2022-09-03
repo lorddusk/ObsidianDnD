@@ -19,8 +19,12 @@
     "nl",
     "en-GB"
   ],
-  "showLineNumber": true,
+  "showLineNumber": false,
   "readableLineLength": false,
   "fileSortOrder": "alphabetical",
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "showIndentGuide": false,
+  "rightToLeft": false,
+  "autoPairMarkdown": true,
+  "smartIndentList": true
 }

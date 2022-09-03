@@ -10,7 +10,8 @@ tags: Party
 ---
 
 # Keth Bar'dag
-Wears a symbol of [[Red Hand of Doom/Compendium/Deities/Index]]
+Wears a symbol of [[Dol Arrah]]
+Member of the Adventures Guild in [[Brindol]]
 
 ```ad-ooc
 collapse:closed

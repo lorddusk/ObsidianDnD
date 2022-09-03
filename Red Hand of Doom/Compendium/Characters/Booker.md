@@ -19,6 +19,8 @@ tags: Party
 ###### History:
 ![[Background#^history]]
 
+Member of the Adventures Guild in [[Brindol]]
+
 ___ 
 ## References:
 - [[Overview]]
