@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "(path:-\"Timeline Entries\") (path:-\"House Rules\") (path:-\"Characters/Booker/Spells\") (path:-\"Templates\") (path:-\"Rolls\") (path:-\"Reference\")  (file:-\"Index\") (file:-\"Tags\") (file:-\"Worldmap\") (file:-\"Timeline\") (file:-\"Compendium Index\") (file:-\"Overview\") (file:-\"Background\") (file:-\"Character Sheet\") (file:-\"Filters\") (file:-\"NPCs\") (file:-\"Items\") (file:-\"Compendium\") (file:-\"Deities\") (file:-\"Events\") (file:-\"Groups\") (file:-\"Characters\") (file:-\"Locations\") (file:-\"Session 0\")",
+  "collapse-filter": true,
+  "search": "(path:-\"Timeline Entries\") (path:-\"House Rules\") (path:-\"Characters/Booker/Spells\") (path:-\"Templates\") (path:-\"Rolls\")  (file:-\"Index\") (file:-\"Tags\") (file:-\"Worldmap\") (file:-\"Timeline\") (file:-\"Compendium Index\") (file:-\"Overview\") (file:-\"Background\") (file:-\"Character Sheet\") (file:-\"Filters\")",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -25,14 +25,14 @@
       "query": "tag:#Family",
       "color": {
         "a": 1,
-        "rgb": 13463527
+        "rgb": 15909631
       }
     },
     {
       "query": "tag:#Group",
       "color": {
         "a": 1,
-        "rgb": 14235190
+        "rgb": 16711680
       }
     },
     {
@@ -78,16 +78,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.5,
-  "nodeSizeMultiplier": 1.2522700814901,
-  "lineSizeMultiplier": 0.60197904540163,
-  "collapse-forces": false,
+  "nodeSizeMultiplier": 0.986653476540418,
+  "lineSizeMultiplier": 1.50075183719616,
+  "collapse-forces": true,
   "centerStrength": 0.29672131147541,
   "repelStrength": 11.9400791407575,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.450508117675782,
+  "scale": 0.6269008621785259,
   "close": false
 }

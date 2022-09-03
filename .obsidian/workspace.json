@@ -16,8 +16,32 @@
                 {
                   "leaf": "72c82dda200a03e4",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Spells/Wrathful Smite.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "72c82dda200a03e4",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":70.02577319587628}"
+                },
+                {
+                  "leaf": "72c82dda200a03e4",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Characters.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "72c82dda200a03e4",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Locations.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "72c82dda200a03e4",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":99.51898734177215}"
                 },
                 {
                   "leaf": "72c82dda200a03e4",
@@ -60,33 +84,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Session 2.md",
-                "mode": "source",
+                "file": "Reference/Spells/Wrathful Smite.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "13963e111bf0dffb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "13963e111bf0dffb",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reference/Spells/Wrathful Smite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +205,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reference/Spells/Wrathful Smite.md"
+              }
             }
           },
           {
@@ -225,6 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reference/Spells/Wrathful Smite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -250,17 +258,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "13963e111bf0dffb",
+  "active": "72c82dda200a03e4",
   "lastOpenFiles": [
+    "Characters/Booker/Overview.md",
+    "Red Hand of Doom/Compendium/Characters/Characters.md",
+    "Red Hand of Doom/Compendium/Locations/Locations.md",
     "conflict-files-obsidian-git.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
-    "Characters/Booker/Overview.md",
     "Characters/Booker/Character Sheet.md",
     "Characters/Booker/Background.md",
     "Characters/Booker/Spells/1st Level/Wrathful Smite.md",
     "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
-    "House Rules/Mechanics & Combat/Flanking.md",
-    "House Rules/Mechanics & Combat.md",
-    "Red Hand of Doom/House Rules.md"
+    "House Rules/Mechanics & Combat/Flanking.md"
   ]
 }
