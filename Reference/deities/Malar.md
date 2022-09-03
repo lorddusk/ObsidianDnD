@@ -4,7 +4,7 @@ ___
 - **Alignment:** C, E
 - **Alternate Names:** The Beastlord, The Black-Blooded One
 - **Domains:** Nature
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** Clawed paw
 
 ![Malar|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Malar.jpg)

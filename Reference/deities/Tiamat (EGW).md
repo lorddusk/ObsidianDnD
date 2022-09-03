@@ -19,7 +19,7 @@ Tiamat remains imprisoned in Avernus, the first of the Nine Hells, influencing t
 
 **Enemies**: The Scaled Tyrant's hatred for Bahamut is as old as the Founding, and her cults are ever hunted by his justice. For centuries, the zealous paladins of Bahamut have limited her worship to the chromatic dragons, but a rise in cult activity in the underbelly of Dwendalian society has priests of the Platinum Dragon on edge.
 
-**Commandments of Tiamat**: - Amass wealth, but spend little. The gold—and the power that comes with it—is sufficient reward in itself.
+**Commandments of Tiamat**: - Amass wealth, but spend little. The goldï¿½and the power that comes with itï¿½is sufficient reward in itself.
 
 - Do not forgive nor forget an indignity to yourself. Let no affront go unpunished.
 

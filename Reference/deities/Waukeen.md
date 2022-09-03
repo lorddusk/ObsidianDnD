@@ -4,7 +4,7 @@ ___
 - **Alignment:** N
 - **Alternate Names:** Our Lady of Gold, The Coinmaiden, The Merchant's Friend
 - **Domains:** Knowledge, Trickery
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** Upright coin with Waukeen's profile facing left
 
 ![Waukeen|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Waukeen.jpg)

@@ -1,4 +1,4 @@
-#### Selûne (PHB), Goddess of the moon
+#### Selï¿½ne (PHB), Goddess of the moon
 ___
 
 - **Alignment:** C, G

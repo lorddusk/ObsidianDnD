@@ -4,7 +4,7 @@ ___
 - **Alignment:** N, E
 - **Alternate Names:** The Lord of Bones, Old Lord Skull, The Reaper
 - **Domains:** Death
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** White human skull
 
 ![Myrkul|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Myrkul.jpg)

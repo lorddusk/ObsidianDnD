@@ -4,7 +4,7 @@ ___
 - **Alignment:** L, G
 - **Alternate Names:** The Crying God, The Rack-Broken Lord, He Who Endures
 - **Domains:** Life, Twilight
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** Hands bound at the wrist with red cord
 
 ![Ilmater|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Ilmater.jpg)

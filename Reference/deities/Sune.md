@@ -4,7 +4,7 @@ ___
 - **Alignment:** C, G
 - **Alternate Names:** Lady Firehair, The Lady of Love, The Princess of Passion
 - **Domains:** Life, Light
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** Face of a beautiful red-haired woman
 
 ![Sune|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Sune.jpg)

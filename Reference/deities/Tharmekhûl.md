@@ -1,4 +1,4 @@
-#### Tharmekhûl
+#### Tharmekhï¿½l
 ___
 
 - **Alignment:** N

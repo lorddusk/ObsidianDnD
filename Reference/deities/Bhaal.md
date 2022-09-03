@@ -4,7 +4,7 @@ ___
 - **Alignment:** N, E
 - **Alternate Names:** The Lord of Murder
 - **Domains:** Death
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** Skull surrounded by ring of bloody droplets
 
 ![Bhaal|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Bhaal.jpg)
@@ -12,7 +12,7 @@ ___
 
 ### Information
 
-The folk of Faerûn don't normally pray to or acknowledge Bhaal. He is seen as a deeply evil and destructive deity who hungers for death - meaning the death of any sentient beings through unlawful means.
+The folk of Faerï¿½n don't normally pray to or acknowledge Bhaal. He is seen as a deeply evil and destructive deity who hungers for death - meaning the death of any sentient beings through unlawful means.
 
 Some people pray to Bhaal when they want to commit murder. A person might have good reason to resort to murder, such as when one is unable to redress some injustice through lawful means. But it's far more common for prayers to Bhaal to be uttered by those who seek to kill someone out of jealousy, greed, or wrath. It's rare for anyone but assassins or compulsive killers to take Bhaal as a patron, and clerics who revere Bhaal often qualify on both counts.
 

@@ -4,7 +4,7 @@ ___
 - **Alignment:** L, N
 - **Alternate Names:** The Watcher, He of the Unsleeping Eyes, The Vigilant One
 - **Domains:** Life, Light, Twilight
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** Staring eye on upright left gauntlet
 
 ![Helm|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Helm.jpg)

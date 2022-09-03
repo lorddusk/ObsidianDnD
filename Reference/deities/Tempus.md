@@ -4,7 +4,7 @@ ___
 - **Alignment:** N
 - **Alternate Names:** The Foehammer, The Lord of Battles
 - **Domains:** War
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** Upright flaming sword
 
 ![Tempus|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Tempus.jpg)

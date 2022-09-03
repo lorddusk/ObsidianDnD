@@ -4,7 +4,7 @@ ___
 - **Alignment:** N
 - **Alternate Names:** The Wonderbringer, The Inspiration Divine, The Holy Maker of All Things
 - **Domains:** Forge, Knowledge
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** Toothed cog with four spokes
 
 ![Gond|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Gond.jpg)

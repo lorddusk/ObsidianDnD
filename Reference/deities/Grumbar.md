@@ -3,6 +3,6 @@ ___
 
 - **Alignment:** N
 - **Domains:** Knowledge
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** Mountain
 ___

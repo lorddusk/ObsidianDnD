@@ -84,32 +84,9 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "ff9b56d3dc2c4bb6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "ff9b56d3dc2c4bb6",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +166,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,9 +200,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -251,7 +225,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -277,7 +250,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff9b56d3dc2c4bb6",
+  "active": "13963e111bf0dffb",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Red Hand of Doom/Session Notes/Session 2.md",

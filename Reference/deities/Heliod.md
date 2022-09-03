@@ -20,11 +20,11 @@ Heliod has appeared to mortals in a variety of forms, but he prefers the appeara
 
 As the sun rises without fail every morning, so Heliod values faithfulness in oaths and bonds. Courtroom testimony and marriage vows are sworn on his name, for he can't tolerate the breaking of a solemn promise. He is the arbiter of morality, virtue, and honor.
 
-The sun's nightly descent into darkness symbolizes bravery and self-sacrifice—the willingness to endure the horrors of the dark for the sake of others. Those who protect innocents in his name receive Heliod's favor.
+The sun's nightly descent into darkness symbolizes bravery and self-sacrificeï¿½the willingness to endure the horrors of the dark for the sake of others. Those who protect innocents in his name receive Heliod's favor.
 
-As sunlight casts out darkness, Heliod's justice casts out chaos and lawlessness. He is the god of the laws that govern society and the laws that punish the wicked. He is interested not only in punitive justice, but also in the establishment of fair and equitable relationships among people and gods, in service to the common good. He also takes an interest in the bonds of family—the relationships that tie people most closely to each other.
+As sunlight casts out darkness, Heliod's justice casts out chaos and lawlessness. He is the god of the laws that govern society and the laws that punish the wicked. He is interested not only in punitive justice, but also in the establishment of fair and equitable relationships among people and gods, in service to the common good. He also takes an interest in the bonds of familyï¿½the relationships that tie people most closely to each other.
 
-**Heliod's Goals**: In Heliod's mind, he is the ruler of the gods, and he wants merely for his rightful place to be recognized. He imagines Nyx rebuilt as his personal palace, where all can witness him in his glory. He considers himself a kind and beneficent ruler—a benign autocrat, not a tyrant—and he doesn't expect abject servility from anyone, god or mortal. He just wants everyone to defer to his will and carry out his orders. He believes that his decisions are always just and right, and that if his sovereignty were properly respected, there would be peace and order in Nyx and the mortal world alike.
+**Heliod's Goals**: In Heliod's mind, he is the ruler of the gods, and he wants merely for his rightful place to be recognized. He imagines Nyx rebuilt as his personal palace, where all can witness him in his glory. He considers himself a kind and beneficent rulerï¿½a benign autocrat, not a tyrantï¿½and he doesn't expect abject servility from anyone, god or mortal. He just wants everyone to defer to his will and carry out his orders. He believes that his decisions are always just and right, and that if his sovereignty were properly respected, there would be peace and order in Nyx and the mortal world alike.
 
 **Divine Relationships**: Heliod's repeated attempts to establish himself as the ruler of the pantheon anger Erebos and Purphoros, who both have a degree of the arrogance he demonstrates.
 
@@ -38,7 +38,7 @@ Heliod is also plagued by a nagging suspicion that the true ruler of the pantheo
 
 **Worshiping Heliod**: The brilliance of Heliod's sun is impossible to ignore. Thus, virtually everyone on Theros pays at least grudging respect to the sun god in forms of worship that range from simple gestures to days-long celebrations.
 
-Some families, particularly in the polis of Meletis, follow a practice of bowing in the direction of dawn's first light—or winking, in a gesture of respect for the sun god's luminous "eye." More dedicated worshipers offer short litanies at dawn, noon, and dusk, acknowledging the sun's passage across the sky.
+Some families, particularly in the polis of Meletis, follow a practice of bowing in the direction of dawn's first lightï¿½or winking, in a gesture of respect for the sun god's luminous "eye." More dedicated worshipers offer short litanies at dawn, noon, and dusk, acknowledging the sun's passage across the sky.
 
 **Heliod's Champions**: **Alignment**: Usually lawful, often good
 
@@ -54,7 +54,7 @@ Champions of Heliod are typically either exemplars of light, law, and truth or c
 
 That said, the reason for his initial interest in a champion isn't always obvious. What made the sun god turn his attention to you? What sets you apart from the masses of people who offer him prayers and sacrifice? What made him think you would be a good champion? The Heliod's Favor table offers a handful of suggestions.
 
-Heliod can be a fickle god, but once you have devoted yourself to him as a champion, he will not desert you—as long as you remain faithful and your actions continue to reflect well on him.
+Heliod can be a fickle god, but once you have devoted yourself to him as a champion, he will not desert youï¿½as long as you remain faithful and your actions continue to reflect well on him.
 
 **Heliod's Favor**
 
@@ -64,7 +64,7 @@ d6|Circumstance
 
 --+----------------------------------------------------------
 
-1 |You were born at noon on the summer solstice—perhaps even 
+1 |You were born at noon on the summer solsticeï¿½perhaps even 
 
   |in the midst of Heliod's great feast.                     
 
@@ -142,7 +142,7 @@ d6|Ideal
 
 --+----------------------------------------------------------
 
-6 |Kinship. It's essential to preserve the bonds of family—my
+6 |Kinship. It's essential to preserve the bonds of familyï¿½my
 
   |own family first, and others after. (Lawful)
 

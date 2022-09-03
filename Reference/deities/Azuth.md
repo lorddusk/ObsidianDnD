@@ -4,7 +4,7 @@ ___
 - **Alignment:** L, N
 - **Alternate Names:** The High One, The Lord of Spellcraft, The First Magister
 - **Domains:** Arcana, Knowledge
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** Left hand pointing upward, outlined in fire
 
 ![Azuth|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Azuth.jpg)

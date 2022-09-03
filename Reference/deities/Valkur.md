@@ -3,6 +3,6 @@ ___
 
 - **Alignment:** C, G
 - **Domains:** Tempest, War
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** A cloud and three lightning bolts
 ___

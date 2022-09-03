@@ -4,7 +4,7 @@ ___
 - **Alignment:** N, G
 - **Alternate Names:** The Great Mother, The Grain Goddess
 - **Domains:** Life
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** Sheaf of grain or a blooming rose over grain
 
 ![Chauntea|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Chauntea.jpg)

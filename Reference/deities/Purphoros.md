@@ -18,7 +18,7 @@ Purphoros's preferred form is that of a muscular man whose coal-hued skin is mos
 
 **Purphoros's Influence**: The raw creative force that Purphoros embodies is chaotic, but Purphoros isn't a god of unbridled chaos. Rather, he shows mortals how to harness that primal energy, shaping it through passion and labor into something usable.
 
-Purphoros is primarily associated with forging, metallurgy, and related activities. It was his followers who first brought bronze to Theros, and a few of his most favored have begun working with a new metal—iron—said to come directly from their god's forge-fires.
+Purphoros is primarily associated with forging, metallurgy, and related activities. It was his followers who first brought bronze to Theros, and a few of his most favored have begun working with a new metalï¿½ironï¿½said to come directly from their god's forge-fires.
 
 Though Purphoros is largely interested in physical craft, he has influence over all forms of creation. Keranos also inspires new ideas, but it is Purphoros who oversees the advancement of the craft that brings these ideas to life in the world.
 
@@ -50,7 +50,7 @@ Naturally, Purphoros is strongly associated with the forge, and nearly every smi
 
 Most champions of Purphoros are unswerving advocates of passion and creativity who change the world by doing what they believe is right in the moment.
 
-**Purphoros's Favor**: Purphoros is notoriously impulsive, often selecting champions based on momentary whims. Despite this seemingly blasé attitude, he is dedicated to all his champions, no matter how they came into his service.
+**Purphoros's Favor**: Purphoros is notoriously impulsive, often selecting champions based on momentary whims. Despite this seemingly blasï¿½ attitude, he is dedicated to all his champions, no matter how they came into his service.
 
 What made the forge god turn his attention to you? What set you apart from the masses of people who offer him prayers and sacrifice? What whim came over him that made you the perfect choice in the moment he tapped you? The Purphoros's Favor table offers a handful of suggestions.
 

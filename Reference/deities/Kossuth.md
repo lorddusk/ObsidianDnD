@@ -3,6 +3,6 @@ ___
 
 - **Alignment:** N
 - **Domains:** Light
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** Flame
 ___

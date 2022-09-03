@@ -4,7 +4,7 @@ ___
 - **Alignment:** C, E
 - **Alternate Names:** The Bitch Queen, The Queen of the Depths, The Wavemother
 - **Domains:** Tempest
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** Wave curling left and right
 
 ![Umberlee|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Umberlee.jpg)

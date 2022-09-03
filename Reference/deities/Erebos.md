@@ -26,7 +26,7 @@ Although Erebos forbids souls from leaving the Underworld, some escape his clutc
 
 Erebos is patient, usually willing to wait for souls to come to him, but he does interfere in the mortal realm on occasion. When the other gods displease him, he sends mortal agents or Nyxborn monsters to kill the worshipers of the offending gods and spread despair.
 
-Many of Erebos's schemes target those who escape his clutches. He regularly sends agents to retrieve the Returned soul or the wayward eidolon of a hero of great renown who has succeeded in returning to Theros. If any of the dead, renowned or otherwise, escape the Underworld fully intact—without identities erased—Erebos will spare nothing to make an example of the fugitive and any who provided assistance.
+Many of Erebos's schemes target those who escape his clutches. He regularly sends agents to retrieve the Returned soul or the wayward eidolon of a hero of great renown who has succeeded in returning to Theros. If any of the dead, renowned or otherwise, escape the Underworld fully intactï¿½without identities erasedï¿½Erebos will spare nothing to make an example of the fugitive and any who provided assistance.
 
 **Divine Relationships**: Erebos loathes Heliod, who banished him to the Underworld eons ago, forever severing him from the world of life and light. Erebos takes particular delight in profaning Heliod's temples, defiling the raiment of his priests, slaughtering his worshipers, and claiming the souls of his champions. Erebos believes that Heliod will one day challenge him for control of the Underworld. He looks forward to that day, certain that his lesser brother can't possibly prevail within Erebos's own territory.
 

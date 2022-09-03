@@ -4,7 +4,7 @@ ___
 - **Alignment:** N, G
 - **Alternate Names:** The Mouth of Mielikki, The Master Tracker, The Tracker Never Led Astray
 - **Domains:** Knowledge, Nature
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** Paw print with a five-pointed star in its center
 ___
 

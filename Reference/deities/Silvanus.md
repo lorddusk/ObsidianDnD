@@ -4,7 +4,7 @@ ___
 - **Alignment:** N
 - **Alternate Names:** Oak Father, The Old Oak, Old Father Tree
 - **Domains:** Nature
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** Oak leaf
 
 ![Silvanus|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Silvanus.jpg)

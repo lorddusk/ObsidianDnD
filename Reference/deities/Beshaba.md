@@ -4,7 +4,7 @@ ___
 - **Alignment:** C, E
 - **Alternate Names:** The Maid of Misfortune, Lady Doom, Black Bess
 - **Domains:** Trickery
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** Black antlers
 
 ![Beshaba|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Beshaba.jpg)

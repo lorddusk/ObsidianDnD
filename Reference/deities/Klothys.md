@@ -10,7 +10,7 @@ ___
 
 ### Information
 
-Believed to have sprung into existence during Theros's earliest days, Klothys is the god of destiny and, along with Kruphix, one of the plane's original deities. She oversees the order of the cosmos, ensuring that all things remain in their proper place, knowing how easily the cosmic balance could be undone if she were not vigilant. On the heels of a near-catastrophic upset of the cosmic order—the rise to godhood and subsequent defeat of the satyr Xenagos—Klothys has emerged from the Underworld for the first time in mortal memory to untangle the strands of destiny and set the world right.
+Believed to have sprung into existence during Theros's earliest days, Klothys is the god of destiny and, along with Kruphix, one of the plane's original deities. She oversees the order of the cosmos, ensuring that all things remain in their proper place, knowing how easily the cosmic balance could be undone if she were not vigilant. On the heels of a near-catastrophic upset of the cosmic orderï¿½the rise to godhood and subsequent defeat of the satyr Xenagosï¿½Klothys has emerged from the Underworld for the first time in mortal memory to untangle the strands of destiny and set the world right.
 
 Klothys typically appears as a woman with six curling horns and an impossibly long mane of pale hair that cascades around her horns, drapes over her eyes, and spools into her spear-like weapon and the various other spindles she carries.
 
@@ -28,7 +28,7 @@ Klothys withdrew to the Underworld ages ago to keep watch over the imprisoned ti
 
 Klothys also clashes with other gods associated with order and progress, seeing their defiance of the natural order as a dangerous affront. Ephara's ravenous colonization, Iroas's passion for overcoming insurmountable odds, and Karametra's taming of nature all run the risk of inspiring ambitious mortals who lust for ever more power and strain to break away from their proper place in the cosmos.
 
-Klothys respects the other gods whose interests balance creation and destruction, such as Thassa, Purphoros, and Nylea, considering them better attuned to Theros's needs and destiny's myriad outcomes. Nylea shares Klothys's delight in the world's natural cycles. Purphoros's willingness to build and demolish appeases Klothys—as well as the fact that he despises Heliod as much as she does.
+Klothys respects the other gods whose interests balance creation and destruction, such as Thassa, Purphoros, and Nylea, considering them better attuned to Theros's needs and destiny's myriad outcomes. Nylea shares Klothys's delight in the world's natural cycles. Purphoros's willingness to build and demolish appeases Klothysï¿½as well as the fact that he despises Heliod as much as she does.
 
 Klothys's relationships with Erebos and Athreos are complicated. Ages spent in the Underworld with Erebos have driven home for her how arrogant and tyrannical he is, as ready to commit the same sins as Heliod if given the opportunity. Even so, Erebos and Klothys maintain a level of mutual respect. Until recently, Klothys and Athreos were unflappable allies. But now her emergence from the Underworld has blurred the borders between the realms, as she draws horrors into the mortal realm with her and thereby raises Athreos's ire.
 

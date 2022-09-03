@@ -4,7 +4,7 @@ ___
 - **Alignment:** L, N
 - **Alternate Names:** The Lord of the Dead, The Judge of the Damned
 - **Domains:** Death, Grave
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** Upright skeletal arm holding balanced scales
 
 ![Kelemvor|250](https://5etools-mirror-1.github.io/img/deities/Symbol%20of%20Kelemvor.jpg)

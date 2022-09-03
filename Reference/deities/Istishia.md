@@ -3,6 +3,6 @@ ___
 
 - **Alignment:** N
 - **Domains:** Tempest
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** Wave
 ___

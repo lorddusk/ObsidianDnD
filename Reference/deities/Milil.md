@@ -4,7 +4,7 @@ ___
 - **Alignment:** N, G
 - **Alternate Names:** The Lord of Song, The One True Hand of All-Wise Oghma
 - **Domains:** Light
-- **Pantheon:** Faerûnian
+- **Pantheon:** Faerï¿½nian
 - **Symbol:** Five-stringed harp made of leaves
 ___
 

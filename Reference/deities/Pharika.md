@@ -10,7 +10,7 @@ ___
 
 ### Information
 
-Pharika is a god of affliction and medicine, alchemy and aging. In the earliest days of Theros, Pharika seeded the world with countless secret truths—mysteries of medicine, minerals with strange properties, nexuses of magic, and the like—which she hid among Nylea's wilds and the shadows of Erebos's Underworld, leaving clues where mortals might find them. It isn't altruism that drives her; she studies the innovation and suffering of mortals, deciphering in them ever greater mysteries as she treats Theros as her personal laboratory.
+Pharika is a god of affliction and medicine, alchemy and aging. In the earliest days of Theros, Pharika seeded the world with countless secret truthsï¿½mysteries of medicine, minerals with strange properties, nexuses of magic, and the likeï¿½which she hid among Nylea's wilds and the shadows of Erebos's Underworld, leaving clues where mortals might find them. It isn't altruism that drives her; she studies the innovation and suffering of mortals, deciphering in them ever greater mysteries as she treats Theros as her personal laboratory.
 
 Pharika typically takes the form of a green-skinned human woman with the lower body of a snake. Her hands are thickly scaled and a pair of bronze-scaled vipers seamlessly emerge from her chest. She is never without her kylix, a drinking cup within which she can produce virtually any medicine or toxin. When her aims require subtlety, Pharika often takes the form of a serpent or a medusa, or sometimes an aged human.
 
