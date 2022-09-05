@@ -121,8 +121,30 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "521b4b9e9cd2153b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "521b4b9e9cd2153b",
+                  "group": null,
+                  "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"0.16.2\"}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "0.16.2"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -286,7 +308,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "72c82dda200a03e4",
+  "active": "521b4b9e9cd2153b",
   "lastOpenFiles": [
     "Filters.md",
     "Red Hand of Doom/Quests.md",
