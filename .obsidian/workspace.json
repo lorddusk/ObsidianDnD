@@ -4,19 +4,133 @@
     "type": "split",
     "children": [
       {
-        "id": "459cf18309899ac8",
+        "id": "2f42c78ce31170ed",
         "type": "tabs",
         "children": [
           {
-            "id": "df9c9e224ce8da10",
+            "id": "000feacc0a781001",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "df9c9e224ce8da10",
+                  "leaf": "000feacc0a781001",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Events/Events.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Background.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"House Rules/Mechanics & Combat/Indentification.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"House Rules/Mechanics & Combat.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/House Rules.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Deities/Chauntea.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Events/Harvest Festival.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Deities/Chauntea.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Invocations/Devil's Sight.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":62.739837398373986}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Booker.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/The Benefactor.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/The Inventor.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Xandria.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Kobob.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Jeralla.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Kobob.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Jovier Glemden.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Jeralla.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/NPCs/Crucia Cromwell.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "000feacc0a781001",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Locations.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
@@ -24,8 +138,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Events/Events.md",
-                "mode": "source",
+                "file": "Characters/Booker/Background.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Events/Events.md",
+                "file": "Characters/Booker/Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Events/Events.md"
+                "file": "Characters/Booker/Background.md"
               }
             }
           },
@@ -172,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Events/Events.md",
+                "file": "Characters/Booker/Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,25 +304,26 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "df9c9e224ce8da10",
+  "active": "000feacc0a781001",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": false
+  },
   "lastOpenFiles": [
-    "Filters.md",
-    "Red Hand of Doom/Quests.md",
-    "Reference/Spells/Wrathful Smite.md",
+    "House Rules/Mechanics & Combat/Indentification.md",
+    "House Rules/Mechanics & Combat.md",
+    "Red Hand of Doom/House Rules.md",
+    "Reference/Deities/Chauntea.md",
+    "Red Hand of Doom/Compendium/Events/Harvest Festival.md",
+    "Reference/Invocations/Devil's Sight.md",
     "Characters/Booker/Overview.md",
-    "Red Hand of Doom/Compendium/Characters/Characters.md",
-    "Red Hand of Doom/Compendium/Locations/Locations.md",
-    "conflict-files-obsidian-git.md",
-    "Red Hand of Doom/Session Notes/Session 2.md",
-    "Characters/Booker/Character Sheet.md",
-    "Characters/Booker/Background.md"
+    "Red Hand of Doom/Compendium/Characters/Booker.md",
+    "Red Hand of Doom/Compendium/NPCs/The Benefactor.md",
+    "Red Hand of Doom/Compendium/NPCs/The Inventor.md"
   ]
 }
