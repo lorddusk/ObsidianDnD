@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "459cf18309899ac8",
+        "id": "fe81aa75edc309e8",
         "type": "tabs",
         "children": [
           {
-            "id": "df9c9e224ce8da10",
+            "id": "eb5801450fd4b8a4",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "leaf": "df9c9e224ce8da10",
+                  "leaf": "eb5801450fd4b8a4",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Spells/Wrathful Smite.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "leaf": "df9c9e224ce8da10",
+                  "leaf": "eb5801450fd4b8a4",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Events/Events.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":41.86272493573265}"
                 }
               ]
             },
@@ -204,14 +204,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "df9c9e224ce8da10",
+  "active": "eb5801450fd4b8a4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Reference/Spells/Wrathful Smite.md",
     "Characters/Booker/Overview.md",
+    "conflict-files-obsidian-git.md",
     "Red Hand of Doom/Compendium/Events/Events.md",
     "Filters.md",
     "Red Hand of Doom/Quests.md",
-    "Reference/Spells/Wrathful Smite.md",
     "Red Hand of Doom/Compendium/Characters/Characters.md",
     "Red Hand of Doom/Compendium/Locations/Locations.md",
     "Red Hand of Doom/Session Notes/Session 2.md",
