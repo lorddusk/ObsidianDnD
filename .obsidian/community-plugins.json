@@ -13,10 +13,10 @@
   "oz-image-plugin",
   "obsidian-hider",
   "obsidian-admonition",
-  "table-editor-obsidian",
   "obsidian-timelines",
   "pane-relief",
   "obsidian-icon-folder",
   "folder-note-plugin",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "ob-table-enhancer"
 ]
