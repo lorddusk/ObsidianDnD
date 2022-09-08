@@ -4,36 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "fe81aa75edc309e8",
+        "id": "31cf6a6776732ea9",
         "type": "tabs",
         "children": [
           {
-            "id": "eb5801450fd4b8a4",
+            "id": "ab88a13461c063ed",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "leaf": "eb5801450fd4b8a4",
+                  "leaf": "ab88a13461c063ed",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Spells/Wrathful Smite.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "eb5801450fd4b8a4",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"empty\",\"state\":{}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Booker/Overview.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -116,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Booker/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,9 +140,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Characters/Booker/Overview.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,7 +165,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Booker/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,10 +190,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb5801450fd4b8a4",
+  "active": "ab88a13461c063ed",
   "lastOpenFiles": [
-    "Reference/Spells/Wrathful Smite.md",
     "Characters/Booker/Overview.md",
+    "Reference/Spells/Wrathful Smite.md",
     "conflict-files-obsidian-git.md",
     "Red Hand of Doom/Compendium/Events/Events.md",
     "Filters.md",
