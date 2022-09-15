@@ -4,85 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "31cf6a6776732ea9",
+        "id": "b6b0483c5395b3c9",
         "type": "tabs",
         "children": [
           {
-            "id": "ab88a13461c063ed",
+            "id": "4c580a84b70217bd",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "ab88a13461c063ed",
+                  "leaf": "4c580a84b70217bd",
                   "group": null,
                   "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Index.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "ab88a13461c063ed",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Booker.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "ab88a13461c063ed",
-                  "group": null,
-                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Index.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "ab88a13461c063ed",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Booker.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "ab88a13461c063ed",
-                  "group": null,
-                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Index.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "ab88a13461c063ed",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Booker.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "ab88a13461c063ed",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Characters.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "ab88a13461c063ed",
-                  "group": null,
-                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Index.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "ab88a13461c063ed",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Characters.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "ab88a13461c063ed",
-                  "group": null,
-                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Index.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "ab88a13461c063ed",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Characters.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "ab88a13461c063ed",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Compendium.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{}"
                 }
               ]
@@ -261,17 +195,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ab88a13461c063ed",
+  "active": "4c580a84b70217bd",
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Red Hand of Doom/Compendium/Characters/Index.md",
+    "Red Hand of Doom/Compendium/Characters/Aelar.md",
+    "Red Hand of Doom/Compendium/Characters/Alton.md",
+    "Red Hand of Doom/Compendium/Characters/Bikam.md",
+    "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Red Hand of Doom/Compendium/Characters/Characters.md",
     "Red Hand of Doom/Compendium/Compendium.md",
     "Characters/Booker/Overview.md",
     "Reference/Spells/Wrathful Smite.md",
-    "conflict-files-obsidian-git.md",
-    "Red Hand of Doom/Compendium/Events/Events.md",
-    "Filters.md",
-    "Red Hand of Doom/Quests.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
