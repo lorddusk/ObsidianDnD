@@ -16,7 +16,31 @@
                 {
                   "leaf": "4c580a84b70217bd",
                   "group": null,
-                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Index.md\"}}",
+                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/__Index.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "4c580a84b70217bd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Aelar.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "4c580a84b70217bd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Alton.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "4c580a84b70217bd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Aelar.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":3},\"to\":{\"line\":18,\"ch\":3}}}"
+                },
+                {
+                  "leaf": "4c580a84b70217bd",
+                  "group": null,
+                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/__Index.md\"}}",
                   "eState": "{}"
                 }
               ]
@@ -24,7 +48,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Index.md"
+                "file": "Red Hand of Doom/Compendium/Characters/__Index.md"
               }
             }
           }
@@ -108,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Index.md",
+                "file": "Red Hand of Doom/Compendium/Characters/__Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Index.md"
+                "file": "Red Hand of Doom/Compendium/Characters/__Index.md"
               }
             }
           },
@@ -158,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Index.md",
+                "file": "Red Hand of Doom/Compendium/Characters/__Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,11 +219,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4c580a84b70217bd",
+  "active": "a675e60e8360408f",
   "lastOpenFiles": [
-    "Red Hand of Doom/Compendium/Characters/Index.md",
     "Red Hand of Doom/Compendium/Characters/Aelar.md",
     "Red Hand of Doom/Compendium/Characters/Alton.md",
+    "Red Hand of Doom/Compendium/Characters/__Index.md",
     "Red Hand of Doom/Compendium/Characters/Bikam.md",
     "Red Hand of Doom/Compendium/Characters/Booker.md",
     "Red Hand of Doom/Compendium/Characters/Characters.md",
