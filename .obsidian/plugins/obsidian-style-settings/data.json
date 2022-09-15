@@ -11,5 +11,8 @@
   "ITS@@lig": true,
   "ITS-AT@@paper": false,
   "ITS@@its-i": true,
-  "ITS@@n-s-ani": true
+  "ITS@@n-s-ani": false,
+  "ITS@@op-h": true,
+  "ITS@@rsb-up": true,
+  "ITS@@o-stat-bar": false
 }
