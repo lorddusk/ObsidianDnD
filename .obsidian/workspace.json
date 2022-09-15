@@ -144,18 +144,6 @@
             }
           },
           {
-            "id": "c7d7ccbed6f94a3b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
             "id": "f76d6a9f4cd2dbc2",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -181,14 +169,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "dfe4a9a728c56023",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "ab88a13461c063ed",
   "lastOpenFiles": [
