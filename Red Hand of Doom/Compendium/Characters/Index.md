@@ -18,6 +18,8 @@ columns:
     isDragDisabled: false
     csvCandidate: true
     position: 2
+    isHidden: true
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -32,10 +34,106 @@ columns:
     label: Player
     position: 1
     skipPersist: false
+    isHidden: true
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+  surname:
+    input: text
+    accessorKey: surname
+    key: surname
+    label: surname
+    position: 5
+    skipPersist: false
     isHidden: false
     sortIndex: -1
     config:
       enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+  desc:
+    input: text
+    accessorKey: desc
+    key: desc
+    label: desc
+    position: 6
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+  race:
+    input: text
+    accessorKey: race
+    key: race
+    label: race
+    position: 7
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+  class:
+    input: text
+    accessorKey: class
+    key: class
+    label: class
+    position: 8
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+  name:
+    input: text
+    accessorKey: name
+    key: name
+    label: name
+    position: 4
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+  player:
+    input: text
+    accessorKey: player
+    key: player
+    label: player
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
       media_width: 100
       media_height: 100
       isInline: false
