@@ -8,12 +8,29 @@ database-plugin: basic
 name: new database
 description: new description
 columns:
-  column1:
+  __file__:
+    key: __file__
+    input: markdown
+    label: File
+    accessorKey: __file__
+    isMetadata: true
+    skipPersist: false
+    isDragDisabled: false
+    csvCandidate: true
+    position: 2
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: true
+      task_hide_completed: true
+  Player:
     input: text
-    key: column1
-    accessorKey: column1
-    label: Column 1
-    position: 0
+    key: Player
+    accessorKey: Player
+    label: Player
+    position: 1
     skipPersist: false
     isHidden: false
     sortIndex: -1
