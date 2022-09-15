@@ -16,8 +16,26 @@
                 {
                   "leaf": "ab88a13461c063ed",
                   "group": null,
+                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Index.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "ab88a13461c063ed",
+                  "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Characters.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "ab88a13461c063ed",
+                  "group": null,
+                  "state": "{\"type\":\"database-plugin\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Index.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "ab88a13461c063ed",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Characters.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
                 },
                 {
                   "leaf": "ab88a13461c063ed",
@@ -28,11 +46,9 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Characters.md",
-                "mode": "source",
-                "source": false
+                "file": "Red Hand of Doom/Compendium/Characters/Index.md"
               }
             }
           }
@@ -116,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Characters.md",
+                "file": "Red Hand of Doom/Compendium/Characters/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Characters.md"
+                "file": "Red Hand of Doom/Compendium/Characters/Index.md"
               }
             }
           },
@@ -166,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Hand of Doom/Compendium/Characters/Characters.md",
+                "file": "Red Hand of Doom/Compendium/Characters/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -187,6 +203,10 @@
           {
             "id": "dfe4a9a728c56023",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "FANTASY_CALENDAR",
               "state": {}
@@ -201,6 +221,8 @@
   },
   "active": "ab88a13461c063ed",
   "lastOpenFiles": [
+    "Red Hand of Doom/Compendium/Characters/Characters.md",
+    "Red Hand of Doom/Compendium/Characters/Index.md",
     "Red Hand of Doom/Compendium/Compendium.md",
     "Characters/Booker/Overview.md",
     "Reference/Spells/Wrathful Smite.md",
@@ -208,8 +230,6 @@
     "Red Hand of Doom/Compendium/Events/Events.md",
     "Filters.md",
     "Red Hand of Doom/Quests.md",
-    "Red Hand of Doom/Compendium/Characters/Characters.md",
-    "Red Hand of Doom/Compendium/Locations/Locations.md",
-    "Red Hand of Doom/Session Notes/Session 2.md"
+    "Red Hand of Doom/Compendium/Locations/Locations.md"
   ]
 }
