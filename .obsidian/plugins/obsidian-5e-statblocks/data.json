@@ -8,11 +8,15 @@
   "showAdvanced": false,
   "version": {
     "major": 2,
-    "minor": 17,
-    "patch": 2
+    "minor": 21,
+    "patch": 0
   },
-  "path": "/",
+  "paths": [
+    "/"
+  ],
   "autoParse": false,
   "disableSRD": false,
-  "tryToRenderLinks": true
+  "tryToRenderLinks": true,
+  "debug": false,
+  "path": "/"
 }

@@ -1,5 +1,5 @@
 ---
-name: Aelar
+name: "Aelar"
 surname: Amastacia
 player: Rob
 type: character

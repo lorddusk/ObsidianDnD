@@ -7,5 +7,12 @@
   "ITS-AT@@select": "wotc-beyond",
   "ITS@@select": "wotc-beyond",
   "checkbox@@check-color": true,
-  "checkbox@@check-bg": true
+  "checkbox@@check-bg": true,
+  "ITS@@lig": true,
+  "ITS-AT@@paper": false,
+  "ITS@@its-i": true,
+  "ITS@@n-s-ani": false,
+  "ITS@@op-h": true,
+  "ITS@@rsb-up": true,
+  "ITS@@o-stat-bar": false
 }

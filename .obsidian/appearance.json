@@ -1,16 +1,3 @@
 {
-  "cssTheme": "ITS Theme",
-  "baseFontSize": 11,
-  "baseFontSizeAction": true,
-  "enabledCssSnippets": [
-    "larger popup",
-    "hide folders",
-    "custom-admonitions.8408be",
-    "ITS Snipper",
-    "headercolors red desat",
-    "ITS Admonitions",
-    "ITS Custom Checkboxes",
-    "Theme - All Alternate Themes"
-  ],
   "accentColor": ""
 }

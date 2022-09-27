@@ -1,167 +1,69 @@
 {
   "main": {
-    "id": "1366a0e3864a8528",
+    "id": "8cade3b51003c7aa",
     "type": "split",
     "children": [
       {
-        "id": "459cf18309899ac8",
+        "id": "e9a82c365260dfb8",
         "type": "tabs",
         "children": [
           {
-            "id": "72c82dda200a03e4",
+            "id": "53d90320ab0626ef",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": [
-                {
-                  "leaf": "72c82dda200a03e4",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Rolls/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "72c82dda200a03e4",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Filters.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":25,\"ch\":16}}}"
-                },
-                {
-                  "leaf": "72c82dda200a03e4",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Quests.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":51},\"to\":{\"line\":4,\"ch\":52}}}"
-                },
-                {
-                  "leaf": "72c82dda200a03e4",
-                  "group": null,
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "72c82dda200a03e4",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Filters.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "72c82dda200a03e4",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Filters.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":19},\"to\":{\"line\":5,\"ch\":19}}}"
-                },
-                {
-                  "leaf": "72c82dda200a03e4",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Reference/Spells/Wrathful Smite.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "72c82dda200a03e4",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":70.02577319587628}"
-                },
-                {
-                  "leaf": "72c82dda200a03e4",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Characters/Characters.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "72c82dda200a03e4",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Compendium/Locations/Locations.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "72c82dda200a03e4",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":99.51898734177215}"
-                },
-                {
-                  "leaf": "72c82dda200a03e4",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "72c82dda200a03e4",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Character Sheet.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":36},\"to\":{\"line\":0,\"ch\":36}}}"
-                },
-                {
-                  "leaf": "72c82dda200a03e4",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Overview.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "72c82dda200a03e4",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Character Sheet.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "72c82dda200a03e4",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Booker/Background.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "72c82dda200a03e4",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Red Hand of Doom/Session Notes/Session 2.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":98,\"ch\":0},\"to\":{\"line\":98,\"ch\":0}},\"scroll\":2.5384615384615383}"
-                }
-              ]
+              "stack": []
             },
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d926dd7f827d094f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "0.16.3"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "61a0a527e16866b1",
+    "id": "8b853dca230f0534",
     "type": "split",
     "children": [
       {
-        "id": "2507262ff4019950",
+        "id": "089a2d9f0edd1039",
         "type": "tabs",
         "children": [
           {
-            "id": "a675e60e8360408f",
+            "id": "3a201b676e765338",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
-            "id": "cf55e326298d89e2",
+            "id": "4420e85707495e60",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#timeline",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,12 +73,8 @@
             }
           },
           {
-            "id": "695bebb0d8c86231",
+            "id": "93c55ec36eda7625",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "starred",
               "state": {}
@@ -189,24 +87,19 @@
     "width": 300
   },
   "right": {
-    "id": "a578b6e487c5eb01",
+    "id": "66b51ae1f578f333",
     "type": "split",
     "children": [
       {
-        "id": "f7305abad6897f75",
+        "id": "23207bd9e1f72570",
         "type": "tabs",
         "children": [
           {
-            "id": "8446899718c9cc2c",
+            "id": "fddadc36475b2320",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,12 +111,19 @@
             }
           },
           {
-            "id": "5ef1f854eb311f57",
+            "id": "03914ea388b1f4a5",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b877b955e6fcf52",
+            "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
@@ -233,78 +133,28 @@
             }
           },
           {
-            "id": "5a1eb1cffe94f75a",
+            "id": "bd09cf7a73e02278",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "c7d7ccbed6f94a3b",
+            "id": "854fe67547031e8f",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
-          },
-          {
-            "id": "f76d6a9f4cd2dbc2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Red Hand of Doom/Session Notes/Rolls/Session 2.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "d1bebfe0310a3519",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "72c82dda200a03e4",
-  "lastOpenFiles": [
-    "Filters.md",
-    "Red Hand of Doom/Quests.md",
-    "Reference/Spells/Wrathful Smite.md",
-    "Characters/Booker/Overview.md",
-    "Red Hand of Doom/Compendium/Characters/Characters.md",
-    "Red Hand of Doom/Compendium/Locations/Locations.md",
-    "conflict-files-obsidian-git.md",
-    "Red Hand of Doom/Session Notes/Session 2.md",
-    "Characters/Booker/Character Sheet.md",
-    "Characters/Booker/Background.md"
-  ]
+  "active": "d926dd7f827d094f",
+  "lastOpenFiles": []
 }
