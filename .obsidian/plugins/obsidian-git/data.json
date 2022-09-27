@@ -8,7 +8,7 @@
   "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,
-  "disablePopups": true,
+  "disablePopups": false,
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": false,
@@ -20,7 +20,5 @@
   "basePath": "",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": true,
-  "username": "",
-  "showedMobileNotice": true,
-  "refreshSourceControlTimer": 7000
+  "username": ""
 }
