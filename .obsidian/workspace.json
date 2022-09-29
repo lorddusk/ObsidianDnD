@@ -143,8 +143,23 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ca4b9e6de956284",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "0.16.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +181,9 @@
             },
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -310,7 +327,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "000feacc0a781001",
+  "active": "3ca4b9e6de956284",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
