@@ -325,6 +325,23 @@
             "month": 15
           },
           "category": "festivals"
+        },
+        {
+          "name": "Session 3",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 13,
+            "year": 1491
+          },
+          "id": "ID_8b5b0b584a18",
+          "note": "Red Hand of Doom/Session Notes/Session 3",
+          "category": null,
+          "end": {
+            "year": 1491,
+            "month": 13,
+            "day": 2
+          }
         }
       ],
       "id": "ID_6a59aaf8db7b",
