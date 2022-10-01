@@ -25,7 +25,7 @@ After breakfast, [[Crucia Cromwell]] approaches us.
 She thanks us again for our help, but fears there is more to it than meets the eye.
 She says quietly, looking around the room for any eavesdroppers. Asks us to follow her outside, so she can show us something.
 Moving around to the back of the inn. A hidden cart under a tarp, under the tarp is a dead, but weird kobold.
-The kobold has "Antenna's", a chitin exoskeleton, and their eyes are insect-like. [[Keth]] feels a taint-like demonic energy from this kobold, origination from the [[Gaping Maw]]. 
+The kobold has antenna's, a chitin exoskeleton, and their eyes are insect-like faceted. [[Keth]] feels a taint-like demonic energy from this kobold, origination from the [[Gaping Maw]]. 
 
 Earlier this morning another kobold, guards shot down another kobold (a scout most likely), which was riding on a wasp.
 
@@ -34,7 +34,7 @@ Over the last 10 days rumours have been spreading about villages being attacked 
 Following her to her office for more pressing information, scouts come up and tell her that a kobold nest was found up stream.
 Village has no means to fight this nest. They think a much bigger attack will happen soon.
 
-Since 6 months the harvest has been growing to abnormal sizes. They initially thought [[Chauntea]] was the cause of this, until the insects also started to grow, this . 
+Since 6 months the harvest has been growing to abnormal sizes. They initially thought [[Chauntea]] was the cause of this, until the insects also started to grow, this was not an issue, until the wasps attacked. 
 
 
 ## Loot:
