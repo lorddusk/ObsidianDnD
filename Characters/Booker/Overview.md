@@ -24,11 +24,11 @@
 | Animal Handling | WIS  | +2  |      |
 | Arcana          | INT  | -1  |      |
 | Athletics       | STR  | +1  |      |
-| Deception       | CHA  | +5  |  ✔️  |
+| Deception       | CHA  | +5  |  ⭐️  |
 | History         | INT  | -1  |      |
-| Insight         | WIS  | +4  |  ✔️  |
+| Insight         | WIS  | +4  |  ⭐️  |
 | Intimidation    | CHA  | +3  |      |
-| Investigation   | INT  | +1  |  ✔️  |
+| Investigation   | INT  | +1  |  ⭐️  |
 | Medicine        | WIS  | +2  |      |
 | Nature          | INT  | -1  |      |
 | Perception      | WIS  | +4  |  ✔️  |
