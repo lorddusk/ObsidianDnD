@@ -55,6 +55,11 @@
 | Necrotic | Aasimar |
 | Radiant  | Aasimar |
 
+## Languages
+| Name   |
+| ------ |
+| Common |
+| Cele       |
 ## Actions
 ### Melee
 | Name                  | Roll  | DMG | Mod | Type     | Effect                                                     |

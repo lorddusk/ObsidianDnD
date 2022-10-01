@@ -4,7 +4,7 @@ tags: Location
 ---
 
 # Old abandoned watermill 
-Possible hideout of 
+Possible hideout of [[Veshje]]
 ```ad-ooc
 collapse:closed
 ```
