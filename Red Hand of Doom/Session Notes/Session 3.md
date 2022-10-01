@@ -47,7 +47,8 @@ If we want to help, we need to know more to increase our winning changes.
 
 During their scouting, they woke a sleeping Mythal that was stuck in rock. 
 They lost 3 party members during the scouting of a ruin in a teleporting accident, and decided to stop their adventuring.
-[[Crucia Cromwell]] 
+[[Crucia Cromwell]] went further with her life, [[Vestje]] couldn't move on, and started to research a way to get their friends back, due to overwhelming guilt.
+
 
 
 ## Loot:
