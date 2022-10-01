@@ -3,9 +3,9 @@ type: session
 tag: Session
 world: Faerun
 campaign: "Red Hand of Doom"
-session: xx
-game_date: xx xx xx DR
-players: []
+session: 3
+game_date: 1491 DR - Highharvestside
+players: [Peter, Guido, Rob, Tim]
 create_date: {{01 October 2022}}
 ---
 
