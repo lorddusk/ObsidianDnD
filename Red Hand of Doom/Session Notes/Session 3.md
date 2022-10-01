@@ -31,7 +31,8 @@ Earlier this morning another kobold, guards shot down another kobold (a scout mo
 
 Over the last 10 days rumours have been spreading about villages being attacked up the riverside (up stream).
 
-Followin
+Following her to her office for more pressing information, scouts come up and tell her that a kobold nest was found up stream.
+Village has no means to fight this nest. They think a much bigger attack will happen soon.
 
 
 ## Loot:
