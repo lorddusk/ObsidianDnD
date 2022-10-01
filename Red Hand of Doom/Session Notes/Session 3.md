@@ -45,8 +45,9 @@ She offers us whiskey, and I down it, while the rest of the party carefully trie
 [[Vestje]] has a hidden lab up north, an arcane artificer, his work has made [[Crucia Cromwell]] rich, and gave her a lot of influence.
 If we want to help, we need to know more to increase our winning changes.
 
-During their scouting, they woke
+During their scouting, they woke a sleeping Mythal that was stuck in rock. 
 They lost 3 party members during the scouting of a ruin in a teleporting accident, and decided to stop their adventuring.
+[[Crucia Cromwell]] 
 
 
 ## Loot:
