@@ -31,7 +31,7 @@
 | Investigation   | INT  | +1  |  ⭐️  |
 | Medicine        | WIS  | +2  |      |
 | Nature          | INT  | -1  |      |
-| Perception      | WIS  | +4  |  ✔️  |
+| Perception      | WIS  | +4  |  ⭐️  |
 | Performance     | CHA  | +3  |      |
 | Persuasion      | CHA  | +3  |      |
 | Religion        | INT  | -1  |      |
