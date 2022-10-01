@@ -57,6 +57,9 @@ After asking her what it would get us. She gives a copper javelin to [[Keth]]. A
 The assignment, the quest, has been shipped to [[Brindol]] to make it official. Giving quick access to the guild for [[Bikam]], [[Aelar]], and [[Alton]].
 
 Introducing ourselves to each other.
+Decided to do go to mill first, check on vashje, and finish the nest after.
+
+Moving along the river, we see the mutations of the vegetables very qu
 
 ## Loot:
 - [[Javelin of Lightning]] - Copper Javelin (Given to [[Keth]])
