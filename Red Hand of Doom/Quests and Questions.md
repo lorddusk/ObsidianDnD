@@ -1,3 +1,5 @@
+# Quests
+
 - [X] Meet [[Brother Keefe]] at the Graveyard.
 	- [X] Investigate the Crypt of [[Xandria]].
 	- [X] Clear out the Crypt of [[Xandria]]
@@ -6,5 +8,7 @@
 	- [R] Figure out the reason for the mutations.
 	- [?] Clear out the Kobold Nest.
 	- [R] Go to the old water mill, where the lab for [[Veshje]] is, and check up on him.
+
+# Questions
 
 - [!] What does [[The Benefactor]] want from me?
