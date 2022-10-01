@@ -50,7 +50,7 @@ They lost 3 party members during the scouting of a ruin in a teleporting acciden
 [[Crucia Cromwell]] went further with her life, [[Veshje]] couldn't move on, and started to research a way to get their friends back, due to overwhelming guilt.
 
 Crucia thinks Veshje is behind the increasing of vegetable sizes and insects.
-She doesn't have the resources to send 
+She doesn't have the resources to send a group to check on Veshje.
 
 
 ## Loot:
