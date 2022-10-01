@@ -51,6 +51,7 @@ They lost 3 party members during the scouting of a ruin in a teleporting acciden
 
 Crucia thinks Veshje is behind the increasing of vegetable sizes and insects.
 She doesn't have the resources to send a group to check on Veshje.
+She gives us 3 quests, figure out the reason for the mutations, check on Veshje, 
 
 
 ## Loot:
