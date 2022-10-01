@@ -66,7 +66,8 @@ An oil like substance, originates from the old mill, according to her that is th
 [[Keth]] casts Lay on Hands on her curing her of the poisonous state she is in. And gifts him a [[Fey enchanted drop of water]].
 
 Near the mill, we decide to set up camp.
-During the first watch, the trap that was set by [[Aelar]] was sprung.
+During the first watch, the trap that was set by [[Aelar]] was sprung. A massive spider (the size of a small dog).
+During [[Booker]]'s 
 
 
 ## Loot:
