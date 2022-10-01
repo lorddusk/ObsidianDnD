@@ -42,7 +42,9 @@ A grey banner, which is Zhentarim made.
 
 She offers us whiskey, and I down it, while the rest of the party carefully tries to sniff it. 
 
-They lost 3 party members during the scouting of a ruin, and decided to stop their adventuring.
+They lost 3 party members during the scouting of a ruin in a teleporting accident, and decided to stop their adventuring.
+
+Vestje has a hidden lab, an arcane artificer, 
 
 
 ## Loot:
