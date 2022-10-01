@@ -51,7 +51,7 @@ They lost 3 party members during the scouting of a ruin in a teleporting acciden
 
 Crucia thinks Veshje is behind the increasing of vegetable sizes and insects.
 She doesn't have the resources to send a group to check on Veshje.
-She gives us 3 quests, figure out the reason for the mutations, check on Veshje, and clear the Kobold Nest.
+She gives us 3 quests, figure out the reason for the mutations, check on Veshje at the [[Old abandoned water mill]], and clear the Kobold Nest.
 
 After asking her what it would get us. She gives a copper javelin to [[Keth]]. And a pouch of gold for the party as a downpayment.
 The assignment, the quest, has been shipped to [[Brindol]] to make it official. Giving quick access to the guild for [[Bikam]], [[Aelar]], and [[Alton]].
@@ -72,7 +72,7 @@ During the watch of [[Aelar]] and [[Bikam]] also nothing happens.
 
 We see the old mill, next to the river. On the mill, charms and effigies are attached.
 We hear voices/noises, carried by the wind, originating from the mill.
-In a cornflower field, we spot a kobold camp, with a dozen orso huts. 
+Next to the mill in a cornflower field, we spot a kobold camp, with a dozen or so huts and woodpulp.
 
 ## Loot:
 - [[Javelin of Lightning]] - Copper Javelin (Given to [[Keth]])
