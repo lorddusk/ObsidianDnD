@@ -21,6 +21,9 @@ create_date: {{01 October 2022}}
 ## Housekeeping:
 - [[DM Inspiration]] Dice - Currently left : 4 
 ## Notes:
+
+### 1 Marpenoth
+
 After breakfast, [[Crucia Cromwell]] approaches us.
 She thanks us again for our help, but fears there is more to it than meets the eye.
 She says quietly, looking around the room for any eavesdroppers. Asks us to follow her outside, so she can show us something.
@@ -70,7 +73,7 @@ During the first watch, by [[Keth]] and [[Alton]], the trap that was set by [[Ae
 During [[Booker]]'s watch (second) nothing was heard or seen.
 During the watch of [[Aelar]] and [[Bikam]] also nothing happens.
 
-## 2 Marpenoth
+### 2 Marpenoth
 
 We see the old mill, next to the river. On the mill, charms and effigies are attached.
 We hear voices/noises, carried by the wind, originating from the mill.
