@@ -56,7 +56,7 @@ She gives us 3 quests, figure out the reason for the mutations, check on Veshje,
 After asking her what it would get us. She gives a copper javelin to [[Keth]]. And a pouch of gold for the party as a downpayment.
 
 ## Loot:
-- Copper Javelin [[Keth]]
+- [[Javelin of Lightning]] - Copper Javelin (Given to [[Keth]])
 - Small pouch containing 3 [[Small Health Potion]]s
 
 ## Log:
