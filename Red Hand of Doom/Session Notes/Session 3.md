@@ -36,7 +36,7 @@ Village has no means to fight this nest. They think a much bigger attack will ha
 
 Since 6 months the harvest has been growing to abnormal sizes. They initially thought [[Chauntea]] was the cause of this, until the insects also started to grow, this was not an issue, until the wasps attacked. 
 
-
+Her office is very
 
 ## Loot:
 
