@@ -80,6 +80,8 @@ We hear voices/noises, carried by the wind, originating from the mill.
 Next to the mill in a cornflower field, we spot a kobold camp, with a dozen or so huts and wood pulp.
 We do reconnaissances and come up with a plan to get into the camp.
 
+[[Aelar]] and [[Keth]] are going to go Orc and try to convince the kobolds to tell them what their bp
+
 ## Loot:
 - [[Javelin of Lightning]] - Copper Javelin (Given to [[Keth]])
 - Small pouch containing 3 [[Small Health Potion]]s
