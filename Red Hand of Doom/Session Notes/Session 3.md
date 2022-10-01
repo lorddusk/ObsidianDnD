@@ -21,8 +21,9 @@ create_date: {{01 October 2022}}
 ## Housekeeping:
 
 ## Notes:
-
 After breakfast, [[Crucia Cromwell]] approaches us.
+She thanks us again for our help, but fears there is more to it than meets the eye.
+She says quietly, looking around the r
 ## Loot:
 
 ## Log:
