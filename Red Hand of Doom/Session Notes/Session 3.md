@@ -37,8 +37,8 @@ Village has no means to fight this nest. They think a much bigger attack will ha
 Since 6 months the harvest has been growing to abnormal sizes. They initially thought [[Chauntea]] was the cause of this, until the insects also started to grow, this was not an issue, until the wasps attacked. 
 
 Her office is very comfortable, and is lighted by wall to wall windows, and custom made [[Driftglobe]]s.
-A burned blue banner with a unicorn, 
-A greywhich is Zhentarim made.  
+A burned blue banner with a unicorn, made for an adventuring party, [[Knights of the Spiral Crown]]. 
+A grey banner, which is Zhentarim made.  
 
 ## Loot:
 
