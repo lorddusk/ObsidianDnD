@@ -3,8 +3,8 @@ type: location
 tags: Location
 ---
 
-# Old abandoned water mill 
-
+# Old abandoned watermill 
+Possible hideout of 
 ```ad-ooc
 collapse:closed
 ```
