@@ -8,6 +8,7 @@ tags: NPC
 
 # Crucia Cromwell 
 Proprietor of the Squinting Beholder in [[Nimon Gap]]
+Hal
 ```ad-ooc
 collapse:closed
 ```
