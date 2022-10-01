@@ -19,7 +19,7 @@ create_date: {{01 October 2022}}
 ![[Red Hand of Doom/Session Notes/Session 2#^summary]]
 
 ## Housekeeping:
-- DM Inspiration Dice - Currently left : 4 [[Insp]]
+- [[DM Inspiration]] Dice - Currently left : 4 
 ## Notes:
 After breakfast, [[Crucia Cromwell]] approaches us.
 She thanks us again for our help, but fears there is more to it than meets the eye.
