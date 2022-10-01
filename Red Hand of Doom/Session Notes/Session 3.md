@@ -29,7 +29,7 @@ The kobold has "Antenna's", a chitin exoskeleton, and their eyes are insect-like
 
 Earlier this morning another kobold, guards shot down another kobold (a scout most likely), which was riding on a wasp.
 
-Over the last 10 days rumours have been spreading about villages being attacked along the river.
+Over the last 10 days rumours have been spreading about villages being attacked up the riverside.
 
 
 ## Loot:
