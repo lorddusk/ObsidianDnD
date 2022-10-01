@@ -156,6 +156,10 @@ config:
   current_row_template: 
   pagination_size: 10
   formula_folder_path: /
+  inline_default: false
+  inline_new_position: top
+  date_format: yyyy-MM-dd
+  datetime_format: "yyyy-MM-dd HH:mm:ss"
 filters:
   enabled: false
   conditions:
