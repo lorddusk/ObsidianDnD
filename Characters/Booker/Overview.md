@@ -56,7 +56,7 @@
 | Radiant  | Aasimar |
 
 ## Languages
-| Name      | Type |
+| Name      | Type   |
 | --------- | ------ |
 | Common    | Common |
 | Celestial | Exotic |
