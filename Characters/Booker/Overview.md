@@ -56,10 +56,11 @@
 | Radiant  | Aasimar |
 
 ## Languages
-| Name     |  |
-|----------|
-| Necrotic |
-| Radiant  | Aasimar |
+| Name      | Type |
+| --------- | ------ |
+| Common    | Common |
+| Celestial | Exotic |
+| Elvish    | Common |
 
 ## Actions
 ### Melee
