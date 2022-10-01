@@ -5,7 +5,7 @@ world: Faerun
 campaign: "Red Hand of Doom"
 session: 3
 game_date: 1491 DR - 1 Marpenoth
-players: [Peter, Guido, Rob, Tim]
+players: [Peter, Guido, Rob, Tim, Danny]
 create_date: {{01 October 2022}}
 ---
 
