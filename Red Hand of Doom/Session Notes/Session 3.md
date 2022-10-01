@@ -57,7 +57,8 @@ After asking her what it would get us. She gives a copper javelin to [[Keth]]. A
 
 ## Loot:
 - Copper Javelin [[Keth]]
-- Small pouch of gold, 
+- Small pouch contain
+
 ## Log:
 
 
