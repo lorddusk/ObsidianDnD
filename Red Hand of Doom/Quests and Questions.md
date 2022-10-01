@@ -3,3 +3,5 @@
 	- [X] Clear out the Crypt of [[Xandria]]
 
 - [?] Meet [[Crucia Cromwell]] after a nights sleep.
+
+- [?] What does [[The Benefactor]] want from me?

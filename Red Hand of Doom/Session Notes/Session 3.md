@@ -31,6 +31,8 @@ Earlier this morning another kobold, guards shot down another kobold (a scout mo
 
 Over the last 10 days rumours have been spreading about villages being attacked up the riverside (up stream).
 
+Followin
+
 
 ## Loot:
 
