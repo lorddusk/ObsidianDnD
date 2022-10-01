@@ -23,7 +23,8 @@ create_date: {{01 October 2022}}
 ## Notes:
 After breakfast, [[Crucia Cromwell]] approaches us.
 She thanks us again for our help, but fears there is more to it than meets the eye.
-She says quietly, looking around the r
+She says quietly, looking around the room for any eavesdroppers. Asks us to follow her so she can show us something.
+
 ## Loot:
 
 ## Log:
