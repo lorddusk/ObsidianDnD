@@ -203,7 +203,7 @@
       "current": {
         "year": 1491,
         "day": 1,
-        "month": 0
+        "month": 13
       },
       "events": [
         {
@@ -342,6 +342,30 @@
             "month": 13,
             "day": 2
           }
+        },
+        {
+          "name": "Session 1",
+          "description": null,
+          "date": {
+            "year": 1491,
+            "month": 12,
+            "day": 1
+          },
+          "id": "ID_3b29a8db9b79",
+          "note": "Red Hand of Doom/Session Notes/Session 1",
+          "category": null
+        },
+        {
+          "name": "Session 2",
+          "description": null,
+          "date": {
+            "year": 1491,
+            "month": 12,
+            "day": 1
+          },
+          "id": "ID_cbfb0b1ab83b",
+          "note": "Red Hand of Doom/Session Notes/Session 2",
+          "category": null
         }
       ],
       "id": "ID_6a59aaf8db7b",
