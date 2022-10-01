@@ -16,7 +16,7 @@ create_date: {{01 October 2022}}
 ^summary
 
 ## Recap of Last Session:
-![[#^summary]]
+![[Red Hand of Doom/Session Notes/Session 2#^summary]]
 
 ## Housekeeping:
 
