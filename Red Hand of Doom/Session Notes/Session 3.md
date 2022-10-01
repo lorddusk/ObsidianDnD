@@ -57,7 +57,7 @@ After asking her what it would get us. She gives a copper javelin to [[Keth]]. A
 
 ## Loot:
 - Copper Javelin [[Keth]]
-- Small pouch contain
+- Small pouch containing 3 [[Small Health Potion]]s
 
 ## Log:
 
