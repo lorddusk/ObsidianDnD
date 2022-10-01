@@ -40,7 +40,8 @@ Her office is very comfortable, and is lighted by wall to wall windows, and cust
 A burned blue banner with a unicorn, made for an adventuring party, [[Knights of the Spiral Crown]]. 
 A grey banner, which is Zhentarim made.  
 
-She offers us whiskey, and I down it, while the rest of the party carefully 
+She offers us whiskey, and I down it, while the rest of the party carefully tries to sniff it. 
+
 
 ## Loot:
 
