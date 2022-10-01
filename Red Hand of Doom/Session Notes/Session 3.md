@@ -34,6 +34,8 @@ Over the last 10 days rumours have been spreading about villages being attacked 
 Following her to her office for more pressing information, scouts come up and tell her that a kobold nest was found up stream.
 Village has no means to fight this nest. They think a much bigger attack will happen soon.
 
+Since 6 months the harvest has been growing to abnormal sizes. 
+
 
 ## Loot:
 
