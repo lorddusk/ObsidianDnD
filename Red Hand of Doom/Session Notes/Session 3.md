@@ -72,7 +72,7 @@ During the watch of [[Aelar]] and [[Bikam]] also nothing happens.
 
 We see the old mill, next to the river. On the mill, charms and effigies are attached.
 We hear voices/noises, carried by the wind, originating from the mill.
-Next to the mill in a cornflower field, we spot a kobold camp, with a dozen or so huts and woodpulp.
+Next to the mill in a cornflower field, we spot a kobold camp, with a dozen or so huts and wood pulp.
 
 ## Loot:
 - [[Javelin of Lightning]] - Copper Javelin (Given to [[Keth]])
