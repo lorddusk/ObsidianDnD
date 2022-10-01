@@ -62,7 +62,8 @@ Decided to do go to mill first, check on [[Veshje]], and finish the nest after.
 Moving along the river, we see the mutations of the vegetables very quickly, and more often further along the river.
 
 We meet a fey woman, azure blue skin, fallen in eyes, asks us for help as she fell into the river.
-An oil like substance, originates from the old mill, according to her it;s the o
+An oil like substance, originates from the old mill, according to her it's the origin of the mutation.
+
 
 
 ## Loot:
