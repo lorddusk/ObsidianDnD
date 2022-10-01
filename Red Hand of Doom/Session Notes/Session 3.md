@@ -67,7 +67,8 @@ An oil like substance, originates from the old mill, according to her that is th
 
 Near the mill, we decide to set up camp.
 During the first watch, the trap that was set by [[Aelar]] was sprung. A massive spider (the size of a small dog).
-During [[Booker]]'s 
+During [[Booker]]'s watch (second) nothing was heard or seen.
+
 
 
 ## Loot:
