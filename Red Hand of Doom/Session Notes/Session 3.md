@@ -21,7 +21,8 @@ create_date: {{01 October 2022}}
 ## Housekeeping:
 
 ## Notes:
-After breakfast
+
+After breakfast, [[Crucia Cromwell]] approaches us.
 ## Loot:
 
 ## Log:
