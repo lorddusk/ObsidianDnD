@@ -61,6 +61,7 @@ Decided to do go to mill first, check on [[Veshje]], and finish the nest after.
 
 Moving along the river, we see the mutations of the vegetables very quickly, and more often further along the river.
 
+We meet a fae woman, azure blue skin, fallen in eyes, asks us for help as she 
 
 
 ## Loot:
