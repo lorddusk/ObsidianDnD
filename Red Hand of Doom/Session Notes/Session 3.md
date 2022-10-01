@@ -4,7 +4,7 @@ tag: Session
 world: Faerun
 campaign: "Red Hand of Doom"
 session: 3
-game_date: 1491 DR - 1 Marpenoth
+game_date: 1491 DR - 1 & 2 Marpenoth
 players: [Peter, Guido, Rob, Tim, Danny]
 create_date: {{01 October 2022}}
 ---
@@ -69,6 +69,8 @@ Near the mill, we decide to set up camp.
 During the first watch, by [[Keth]] and [[Alton]], the trap that was set by [[Aelar]] was sprung. A massive spider (the size of a small dog) was caught in it.
 During [[Booker]]'s watch (second) nothing was heard or seen.
 During the watch of [[Aelar]] and [[Bikam]] also nothing happens.
+
+## 2 Marpenoth
 
 We see the old mill, next to the river. On the mill, charms and effigies are attached.
 We hear voices/noises, carried by the wind, originating from the mill.
