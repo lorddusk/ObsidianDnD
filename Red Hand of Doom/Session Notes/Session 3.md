@@ -56,6 +56,7 @@ She gives us 3 quests, figure out the reason for the mutations, check on Veshje,
 After asking her what it would get us. She gives a copper javelin to [[Keth]]. And a pouch of gold for the party as a downpayment.
 The assignment, the quest, has been shipped to [[Brindol]] to make it official. Giving quick access to the guild for [[Bikam]], [[Aelar]], and [[Alton]].
 
+Introducing ourselves to each other.
 
 ## Loot:
 - [[Javelin of Lightning]] - Copper Javelin (Given to [[Keth]])
