@@ -65,7 +65,7 @@ We meet a fey woman, azure blue skin, fallen in eyes, asks us for help as she fe
 An oil like substance, originates from the old mill, according to her that is the origin of the mutation.
 [[Keth]] casts Lay on Hands on her curing her of the poisonous state she is in. And gifts him a [[Fey enchanted drop of water]].
 
-
+Near the mill, we decide to set up camp.
 
 ## Loot:
 - [[Javelin of Lightning]] - Copper Javelin (Given to [[Keth]])
