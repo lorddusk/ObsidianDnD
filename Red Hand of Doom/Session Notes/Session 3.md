@@ -70,7 +70,8 @@ During the first watch, by [[Keth]] and [[Alton]], the trap that was set by [[Ae
 During [[Booker]]'s watch (second) nothing was heard or seen.
 During the watch of [[Aelar]] and [[Bikam]] also nothing happens.
 
-
+We see the old mill, next to the river. On the mill, charms and effigies are attached.
+We hear voices, carried by the wind, originating from the charm
 In a cornflower field, we spot a kobold camp, with a dozen orso huts. 
 
 ## Loot:
