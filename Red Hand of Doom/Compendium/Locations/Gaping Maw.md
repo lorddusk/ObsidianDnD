@@ -4,7 +4,7 @@ tags: Location
 ---
 
 # Gaping Maw 
-Layer of hell, abyssal realm, f
+Layer of hell, abyssal realm, owner is the Demogorgon
 ```ad-ooc
 collapse:closed
 ```
