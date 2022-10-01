@@ -80,7 +80,6 @@
 	- [[Light]]
 	- [[Armor of Shadows]]
 
-
 - 1st Level:
 	- [[Armor of Agathys]]
 	- [[Comprehend Languages]]
