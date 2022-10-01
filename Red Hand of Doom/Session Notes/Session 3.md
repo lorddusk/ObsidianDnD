@@ -70,6 +70,7 @@ During the first watch, by [[Keth]] and [[Alton]], the trap that was set by [[Ae
 During [[Booker]]'s watch (second) nothing was heard or seen.
 During the watch of [[Aelar]] and [[Bikam]] also nothing happens.
 
+In a cornflower field, we spot a goblin camp, with a dozen-off  
 
 ## Loot:
 - [[Javelin of Lightning]] - Copper Javelin (Given to [[Keth]])
