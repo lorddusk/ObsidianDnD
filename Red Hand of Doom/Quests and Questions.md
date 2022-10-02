@@ -5,9 +5,10 @@
 	- [X] Clear out the Crypt of [[Xandria]]
 
 - [X] Meet [[Crucia Cromwell]] after a nights sleep.
-	- [R] Go to the old water mill, where the lab for [[Veshje]] is, and check up on him.
-		- [R] Figure out the reason for the mutations.
+	- [R] Go to the old water mill, 
+		- [R] Check on [[Veshje]] and his lab.
 		- [?] Clear out the Kobold Nest.
+		- [R] Figure out the reason for the mutations.
 
 # Questions
 
