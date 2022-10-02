@@ -8,7 +8,8 @@ tags: NPC
 
 # Veshje 
 
-Old part m
+Old party member of [[Crucia Cromwell]]
+Member of the [[Knights of the Spiral Crown]]
 ```ad-ooc
 collapse:closed
 ```
