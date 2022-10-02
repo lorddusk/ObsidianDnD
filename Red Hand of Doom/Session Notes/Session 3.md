@@ -13,6 +13,7 @@ create_date: {{01 October 2022}}
 
 ## Summary of This Session:
 Na een goede nachtrust zijn we bij Crucia geroepen, die ons wederom bedankt voor gisteravond.
+Maar drukt ons op het hart dat er meer te doen is dan zo op het eerste gezicht. En vraagt ons om haar te volgen naar de achterkant van de inn. Hier staat een kar met een dode kobold erin, gemuteerd met insecten 
 ^summary
 
 ## Recap of Last Session:
