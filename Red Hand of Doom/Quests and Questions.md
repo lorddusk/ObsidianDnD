@@ -13,5 +13,7 @@
 # Questions
 
 - [!] What does [[The Benefactor]] want from me?
-- [ ] Who is the cause of the mutations in the [[Elsir Vale]] area.
-- [ ] What is [[]]
+- [ ] When is [[The Benefactor]] 
+- [!] Who or what is the cause of the mutations in the [[Elsir Vale]] area?
+- [!] What is [[Jeralla]]'s plan?
+- [!] What is the reason for the attempts to summon a dracolich?
