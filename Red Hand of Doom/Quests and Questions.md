@@ -5,11 +5,13 @@
 	- [X] Clear out the Crypt of [[Xandria]]
 
 - [X] Meet [[Crucia Cromwell]] after a nights sleep.
-	- [R] Go to the old water mill, 
-		- [R] Check on [[Veshje]] and his lab.
-		- [?] Clear out the Kobold Nest.
-		- [R] Figure out the reason for the mutations.
+- [X] Go to the [[Old Abandoned Watermill]], 
+	- [R] Check on [[Veshje]] and his lab.
+	- [?] Clear out the Kobold Nest.
+	- [R] Figure out the reason for the mutations.
 
 # Questions
 
 - [!] What does [[The Benefactor]] want from me?
+- [ ] Who is the cause of the mutations in the [[Elsir Vale]] area.
+- [ ] What is [[]]
