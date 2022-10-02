@@ -13,7 +13,8 @@ create_date: {{01 October 2022}}
 
 ## Summary of This Session:
 Na een goede nachtrust zijn we bij Crucia geroepen, die ons wederom bedankt voor gisteravond.
-Maar drukt ons op het hart dat er meer te doen is dan zo op het eerste gezicht. En vraagt ons om haar te volgen naar de achterkant van de inn. Hier staat een kar met een dode kobold erin, gemuteerd met insecten 
+Maar drukt ons op het hart dat er meer te doen is dan zo op het eerste gezicht. En vraagt ons om haar te volgen naar de achterkant van de inn. Hier staat een kar met een dode kobold erin, gemuteerd met insect dna. 
+In haar kantoor legt ze uit wat zij denkt dat er aan de hand is. Een oude party genoot is aan het experimenteren om hun oude vrienden, die verdwenen zijn, terug te halen. Sinds 6 maanden zijn er rare mutaties geconstateerd in zowel groente/fruit en d
 ^summary
 
 ## Recap of Last Session:
