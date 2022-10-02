@@ -12,10 +12,11 @@ create_date: {{01 October 2022}}
 
 
 ## Summary of This Session:
-
+Na een goede nachtrust zijn we bij Crucia geroepen, die ons wederom bedankt voor gisteravond.
 ^summary
 
 ## Recap of Last Session:
+
 ![[Red Hand of Doom/Session Notes/Session 2#^summary]]
 
 ## Housekeeping:
