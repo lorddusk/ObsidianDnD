@@ -59,34 +59,27 @@ She gives us 3 objectives, figure out the reason for the mutations, check on Ves
 After asking her what it would get us. She gives a copper javelin to [[Keth]]. And a pouch of gold for the party as a down payment.
 The assignment, has been shipped to [[Brindol]] to make it official. Giving quicker access to the guild for [[Bikam]], [[Aelar]], and [[Alton]] if they want it in the future.
 
-Introducing ourselves to each other.
+Introduced ourselves to each other, as we only "met" last night.
 
 Decided to do go to mill first, check on [[Veshje]], and finish the nest after.
 
 Moving along the river, we see the mutations of the vegetables very quickly, and more often further along the river.
-
 We meet a fey woman, azure blue skin, fallen in eyes, asks us for help as she fell into the river.
-
 An oil like substance, originates from the old mill, according to her that is the origin of the mutation.
-
 [[Keth]] casts Lay on Hands on her curing her of the poisonous state she is in. And gifts him a [[Fey enchanted drop of water]].
 
 Near the mill, we decide to set up camp.
-
 During the first watch, by [[Keth]] and [[Alton]], the trap that was set by [[Aelar]] was sprung. A massive spider (the size of a small dog) was caught in it.
-
 During [[Booker]]'s watch (second) nothing was heard or seen.
-
 During the watch of [[Aelar]] and [[Bikam]] also nothing happens.
 
 ## 2 Marpenoth
 
+Waking up, and continuing our journey.
 We see the old mill, next to the river. On the mill, charms and effigies are attached.
-
 We hear voices/noises, carried by the wind, originating from the mill.
 
 Next to the mill in a cornflower field, we spot a kobold camp, with a dozen or so huts and wood pulp.
-
 We do reconnaissances and come up with a plan to get into the camp.
 
 [[Aelar]] and [[Keth]] are going to go Orc and try to convince the kobolds to tell them what their plan is and who their boss is.
