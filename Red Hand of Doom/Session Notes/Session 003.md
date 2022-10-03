@@ -15,7 +15,6 @@ create_date: {{01 October 2022}}
 Na een goede nachtrust zijn we bij Crucia geroepen, die ons wederom bedankt voor gisteravond.
 Maar drukt ons op het hart dat er meer te doen is dan zo op het eerste gezicht. En vraagt ons om haar te volgen naar de achterkant van de inn. Hier staat een kar met een dode kobold erin, gemuteerd met insect dna. 
 In haar kantoor legt ze uit wat zij denkt dat er aan de hand is. Een oude party genoot is aan het experimenteren om hun oude vrienden, die verdwenen zijn, terug te halen. Sinds 6 maanden zijn er rare mutaties geconstateerd in zowel groente/fruit en de insecten in de omgeving.
-
 Wij besloten als groep om te helpen, en te onderzoeken wat het probleem kan zijn.
 Ze geeft ons de informatie dat haar oude party genoot, Veshje, in de oude verlaten water molen zit ten noorden van het dorp, en dat daar ook een kobold nest is.
 Na een dag reizen, en een nacht rusten komen wij hier aan, en besluiten om Keth en een vermomde Aelar te laten checken wat de situatie is in het nest/kamp.

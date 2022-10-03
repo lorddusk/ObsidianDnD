@@ -14,15 +14,10 @@ create_date: {{27 July 2022}}
 # Summary of This Session:
 
 Op het festival aangekomen, de kraampjes afgegaan, spelletjes gespeeld, wedstrijden bezocht.
-
 Tegen het einde van de avond een aanval van kobolds rijdend op wespen.
-
 Dit afgeslagen met minieme schade opgelopen te hebben, een van de kobolds in leven gelaten.
-
 Deze ondervraagd en daarna vrijgelaten met een kleine safeguard.
-
 Een priest heeft ons gevraagd om mee te gaan, om een crypte te checken waar geruchten over naar boven zijn gekomen, dat er niet ligt wat er zou moeten liggen.
-
 ^summary
 
 # Recap of Last Session:

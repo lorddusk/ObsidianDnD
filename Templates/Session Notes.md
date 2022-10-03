@@ -11,7 +11,7 @@ create_date: {{<% tp.date.now("DD MMMM YYYY") %>}}
 ---
 
 <%* 
-	await tp.file.rename(`Session ${tp.user.getThisGameNum(tp, 1)}`);
+	await tp.file.rename(`Session ${tp.user.getThisGameNum(tp)}`);
 %>
 
 ## Summary of This Session:
@@ -19,7 +19,7 @@ create_date: {{<% tp.date.now("DD MMMM YYYY") %>}}
 ^summary
 
 ## Recap of Last Session:
-![[#^summary]]
+![[Red Hand of Doom/Session Notes/Session <% ${tp.user.getThisGameNum(tp, -1)} %>#^summary]]
 
 ## Housekeeping:
 
