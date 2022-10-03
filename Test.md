@@ -1,0 +1,1 @@
+[Primal Savagery (UA)](https://5e.tools/spells.html#primal%20savagery%20(ua)_uastarterspells)
