@@ -1,4 +1,4 @@
-###### Rolls
+# Rolls
 | Id. | What       | Dice | Roll | Extra | Adv. | Dis. | Note |
 | --- | ---------- | ---- | ---- | ----- | ---- | ---- | ---- |
 | 1   | Insight    | d20  | 2    |       |      |      |      |
@@ -7,7 +7,7 @@
 | 4   | Perception | d20  | 13   |       |      |      |      |
 | 5   | Con Save   | d20  | 3    |       |      |      |      |
 
-###### Combat #1
+# Combat #1
 | Id. | What          | Dice | Roll | Extra | Adv. | Dis. | Note                     |
 | --- | ------------- | ---- | ---- | ----- | :----: | ---- | ------------------------ |
 | 1   | Initiative    | d20  | 2    |       |      |      |                          |

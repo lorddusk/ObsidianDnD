@@ -6,10 +6,12 @@ desc: tbd
 tags: NPC
 ---
 
-# Veshje 
+# Veshje
 
 Old party member of [[Crucia Cromwell]]
+
 Member of the [[Knights of the Spiral Crown]]
+
 ```ad-ooc
 collapse:closed
 ```
