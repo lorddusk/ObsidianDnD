@@ -35,9 +35,7 @@ Na een dag reizen, en een nacht rusten komen wij hier aan, en besluiten om Keth 
 
 ## 1 Marpenoth
 
-After breakfast, [[Crucia Cromwell]] approaches us.
-
-She thanks us again for our help, but fears there is more to it than meets the eye.
+After breakfast, [[Crucia Cromwell]] approaches us. She thanks us again for our help, but fears there is more to it than meets the eye.
 
 She says quietly, looking around the room for any eavesdroppers. Asks us to follow her outside, so she can show us something.
 
@@ -115,9 +113,9 @@ We do reconnaissances and come up with a plan to get into the camp.
 
 [[Aelar]] and [[Keth]] are going to go Orc and try to convince the kobolds to tell them what their plan is and who their boss is.
 
-## Loot:
+# Loot:
 - [[Javelin of Lightning]] - Copper Javelin (Given to [[Keth]])
 - Small pouch containing 3 [[Small Health Potion]]s
 - [[Fey enchanted drop of water]] (Given to [[Keth]])
 
-## Log:
+# Log:
