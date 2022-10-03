@@ -24,14 +24,14 @@
 | Animal Handling | WIS  | +2  |      |
 | Arcana          | INT  | -1  |      |
 | Athletics       | STR  | +1  |      |
-| Deception       | CHA  | +5  |  ✔️  |
+| Deception       | CHA  | +5  |  ⭐️  |
 | History         | INT  | -1  |      |
-| Insight         | WIS  | +4  |  ✔️  |
+| Insight         | WIS  | +4  |  ⭐️  |
 | Intimidation    | CHA  | +3  |      |
-| Investigation   | INT  | +1  |  ✔️  |
+| Investigation   | INT  | +1  |  ⭐️  |
 | Medicine        | WIS  | +2  |      |
 | Nature          | INT  | -1  |      |
-| Perception      | WIS  | +4  |  ✔️  |
+| Perception      | WIS  | +4  |  ⭐️  |
 | Performance     | CHA  | +3  |      |
 | Persuasion      | CHA  | +3  |      |
 | Religion        | INT  | -1  |      |
@@ -54,6 +54,13 @@
 |----------|---------|
 | Necrotic | Aasimar |
 | Radiant  | Aasimar |
+
+## Languages
+| Name      | Type   |
+| --------- | ------ |
+| Common    | Common |
+| Celestial | Exotic |
+| Elvish    | Common |
 
 ## Actions
 ### Melee
@@ -79,7 +86,6 @@
 	- [[Green-Flame Blade]] (Bonus Action)
 	- [[Light]]
 	- [[Armor of Shadows]]
-
 
 - 1st Level:
 	- [[Armor of Agathys]]

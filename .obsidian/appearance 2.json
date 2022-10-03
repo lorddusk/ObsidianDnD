@@ -1,0 +1,14 @@
+{
+  "interfaceFontFamily": "Fira Code",
+  "monospaceFontFamily": "Fira Code",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "larger popup",
+    "hide folders",
+    "custom-admonitions.8408be",
+    "ITS Snipper",
+    "headercolors red desat"
+  ],
+  "translucency": false,
+  "baseFontSize": 12
+}
