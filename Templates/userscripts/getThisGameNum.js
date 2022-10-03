@@ -1,4 +1,4 @@
-function getThisGameNum(tp, add = 0){
+function getSessionNumber(tp, add = 0){
     let folderName = tp.file.folder(false);
     let numOfGames = 0;
     app.plugins.plugins.dataview.api.pages(`"Red Hand of Doom/${folderName}"`)
@@ -17,4 +17,4 @@ function getThisGameNum(tp, add = 0){
     return numOfGames;
 }
 
-module.exports = getThisGameNum;
+module.exports = getSessionNumber;
