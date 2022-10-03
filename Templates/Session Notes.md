@@ -11,8 +11,19 @@ create_date: {{<% tp.date.now("DD MMMM YYYY") %>}}
 ---
 
 <%* 
-let title = await tp.date.now("DD MMMM YYYY"); 
-await tp.file.rename(`Session xx - ${title}`); 
+	let title = tp.file.title 
+	if (title.startsWith("Untitled")) { 
+		title = await tp.system.prompt("Session Number?");
+		if (title.length == 1){
+			await tp.file.rename(`$Session 00{title}`); 
+		}
+		if (title.length == 2){
+			await tp.file.rename(`$Session 0{title}`); 
+		}
+		if (title.length > 2){
+			await tp.file.rename(`$Session {title}`); 
+		}
+	} 
 %>
 
 ## Summary of This Session:
