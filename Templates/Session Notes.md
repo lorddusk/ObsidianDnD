@@ -12,6 +12,7 @@ create_date: {{<% tp.date.now("DD MMMM YYYY") %>}}
 
 <%* 
 	await tp.file.rename(`Session ${tp.user.getSessionNumber(tp)}`);
+	await tp.file.create_new(tp.file.find_tfile("Rolls"));
 %>
 
 ## Summary of This Session:
