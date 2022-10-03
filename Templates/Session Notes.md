@@ -4,8 +4,9 @@ tag: Session
 world: Faerun
 campaign: "Red Hand of Doom"
 session: xx
-game_date: xx xx xx DR
-players: []
+game_year: 1491 DR
+game_date: []
+players: [Guido, Peter, Danny, Rob, Tim]
 create_date: {{<% tp.date.now("DD MMMM YYYY") %>}}
 ---
 
@@ -26,7 +27,3 @@ await tp.file.rename(`Session xx - ${title}`);
 ## Notes:
 
 ## Loot:
-
-## Log:
-
-

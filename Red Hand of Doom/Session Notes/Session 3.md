@@ -89,5 +89,3 @@ We do reconnaissances and come up with a plan to get into the camp.
 - [[Javelin of Lightning]] - Copper Javelin (Given to [[Keth]])
 - Small pouch containing 3 [[Small Health Potion]]s
 - [[Fey enchanted drop of water]] (Given to [[Keth]])
-
-# Log:
