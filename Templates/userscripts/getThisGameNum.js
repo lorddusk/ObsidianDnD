@@ -5,7 +5,9 @@ function getThisGameNum(tp){
         .pages(`"Red Hand Of Doom/${thisCampaign}"`)
         .where(page => {
             if(page.type === 'session'){
+                console.log("Page found");
                 if(page.campaign === thisCampaign.replace("/Session Notes", "")){
+                    console.log('SessionNum: ',page.sessionNum);
                     return true;
                 }
             }
