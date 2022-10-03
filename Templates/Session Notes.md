@@ -11,19 +11,8 @@ create_date: {{<% tp.date.now("DD MMMM YYYY") %>}}
 ---
 
 <%* 
-	let title = tp.file.title 
-	if (title.startsWith("Untitled")) { 
-		title = await tp.system.prompt("Session Number?");
-		if (title.length == 1) {
-			await tp.file.rename(`Session 00${title}`); 
-		}
-		else if (title.length == 2) {
-			await tp.file.rename(`Session 0${title}`); 
-		}
-		else {
-			await tp.file.rename(`Session ${title}`); 
-		}
-	} 
+	let title = tp.user.getThisGameNum(tp);
+	await tp.file.rename(`Session ${title}`); 	
 %>
 
 ## Summary of This Session:
