@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "(path:-\"Timeline Entries\") (path:-\"House Rules\") (path:-\"Characters/Booker/Spells\") (path:-\"Templates\") (path:-\"Rolls\") (path:-\"Reference\")  (file:-\"Index\") (file:-\"Tags\") (file:-\"Worldmap\") (file:-\"Timeline\") (file:-\"Compendium Index\") (file:-\"Overview\") (file:-\"Background\") (file:-\"Character Sheet\") (file:-\"Filters\") (file:-\"NPCs\") (file:-\"Items\") (file:-\"Compendium\") (file:-\"Deities\") (file:-\"Events\") (file:-\"Groups\") (file:-\"Characters\") (file:-\"Locations\") (file:-\"Session 0\") (file:-\"Quests\")",
   "showTags": false,
   "showAttachments": false,
@@ -83,11 +83,11 @@
   "textFadeMultiplier": -0.5,
   "nodeSizeMultiplier": 0.986653476540418,
   "lineSizeMultiplier": 1.50075183719616,
-  "collapse-forces": true,
-  "centerStrength": 0.29672131147541,
-  "repelStrength": 11.9400791407575,
-  "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 1.108113015283343,
-  "close": true
+  "collapse-forces": false,
+  "centerStrength": 0.238805970149254,
+  "repelStrength": 12.8026533996683,
+  "linkStrength": 0.749585406301824,
+  "linkDistance": 100,
+  "scale": 0.48952542336809957,
+  "close": false
 }
