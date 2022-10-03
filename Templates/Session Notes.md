@@ -11,8 +11,7 @@ create_date: {{<% tp.date.now("DD MMMM YYYY") %>}}
 ---
 
 <%* 
-	let title = tp.user.getThisGameNum(tp);
-	await tp.file.rename(`Session ${title}`); 	
+	await tp.file.rename(`Session`); 	
 %>
 
 ## Summary of This Session:
