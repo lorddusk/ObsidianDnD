@@ -3,7 +3,7 @@ type: session
 tag: Session
 world: Faerun
 campaign: "Red Hand of Doom"
-session: 1
+sessionNum: 1
 game_year: 1491 DR
 game_date: [Highharvesttide]
 players: [Peter, Guido, Tim, Danny, Rob]

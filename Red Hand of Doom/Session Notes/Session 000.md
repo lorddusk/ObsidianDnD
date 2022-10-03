@@ -3,7 +3,7 @@ type: session
 tag: Session
 world: Faerun
 campaign: "Red Hand of Doom"
-session: 0
+sessionNum: 0
 game_date: xx xx xx DR
 players: [Tim, Rob, Guido, Danny, Peter (eerder)]
 play_date: {{23 July 2022}}
