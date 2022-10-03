@@ -4,7 +4,8 @@ tag: Session
 world: Faerun
 campaign: "Red Hand of Doom"
 session: 2
-game_date: 1491 DR - Highharvestside
+game_year: 1491 DR
+game_date: [Highharvesttide]
 players: [Peter, Guido, Rob, Tim]
 create_date: {{26 August 2022}}
 ---
