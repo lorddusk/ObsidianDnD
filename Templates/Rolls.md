@@ -1,5 +1,5 @@
 <%* 
-	await tp.file.rename(`Rolls S${tp.user.getThisGameNum(tp)}`);
+	await tp.file.rename(`Rolls S${tp.user.getSessionNumber(tp)}`);
 %>
 
 ###### Rolls

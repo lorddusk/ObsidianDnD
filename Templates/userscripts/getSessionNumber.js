@@ -1,7 +1,7 @@
 function getSessionNumber(tp, add = 0){
-    let folderName = tp.file.folder(false);
+    let folderName = tp.file.folder(true);
     let numOfGames = 0;
-    app.plugins.plugins.dataview.api.pages(`"Red Hand of Doom/${folderName}"`)
+    app.plugins.plugins.dataview.api.pages(`"${folderName}"`)
     .forEach(page => {
         if(page.type === 'session'){
             if(page.campaign === "Red Hand of Doom"){
