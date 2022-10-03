@@ -19,7 +19,7 @@ create_date: {{<% tp.date.now("DD MMMM YYYY") %>}}
 ^summary
 
 ## Recap of Last Session:
-![[Red Hand of Doom/Session Notes/Session <% ${tp.user.getThisGameNum(tp, -1)} %>#^summary]]
+![[Red Hand of Doom/Session Notes/Session <%tp.user.getThisGameNum(tp, -1)%>#^summary]]
 
 ## Housekeeping:
 
