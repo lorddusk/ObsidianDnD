@@ -1,13 +1,13 @@
 function getThisGameNum(tp){
-    let thisCampaign = tp.file.folder(false);
-    console.log("Dataview: ", app.plugins.plugins.dataview.api.pages(`"Red Hand of Doom/${thisCampaign}"`));
+    let folderName = tp.file.folder(false);
+    console.log("Dataview: ", app.plugins.plugins.dataview.api.pages(`"Red Hand of Doom/${folderName}"`));
     let numOfGames = app.plugins.plugins.dataview.api
-        .pages(`"Red Hand Of Doom/${thisCampaign}"`)
+        .pages(`"Red Hand Of Doom/${folderName}"`)
         .where(page => {
             if(page.type === 'session'){
                 console.log("Page found");
-                if(page.campaign === thisCampaign.replace("/Session Notes", "")){
-                    console.log('SessionNum: ',page.sessionNum);
+                if(page.campaign === "Red Hand of Doom"){
+                    console.log('SessionNum: ', page.sessionNum);
                     return true;
                 }
             }
