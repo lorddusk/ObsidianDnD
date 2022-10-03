@@ -13,11 +13,8 @@ create_date: {{23 July 2022}}
 # Summary:
 
 Sessie 0 doorgenomen
-
 [[House Rules]] besproken
-
 Characters gerolled - [[Booker]]
-
 ^summary
 
 # Housekeeping
