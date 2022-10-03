@@ -1,8 +1,10 @@
 function getSessionNumber(tp, add = 0, rolls = false){
     let folderName = tp.file.folder(true);
+    console.log(rolls)
     if(rolls === true){
         folderName.replace("/Rolls","");
     }
+    console.log("Folder Name: ", folderName);
     let numOfGames = 0;
     app.plugins.plugins.dataview.api.pages(`"${folderName}"`)
     .forEach(page => {
