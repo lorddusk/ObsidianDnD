@@ -34,7 +34,7 @@ Morgen gaan we met de uitbaatster praten voor het vervolg!
 
 # Recap of Last Session:
 
-![[Red Hand of Doom/Session Notes/Session 1#^summary]]
+![[Red Hand of Doom/Session Notes/Session 001#^summary]]
 
 # Housekeeping:
 - We moeten gaan rollen in dice trays, de rolls waren behoorlijk goed te horen voor de kinderen.

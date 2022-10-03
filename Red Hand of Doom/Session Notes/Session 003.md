@@ -23,7 +23,7 @@ Na een dag reizen, en een nacht rusten komen wij hier aan, en besluiten om Keth 
 
 # Recap of Last Session:
 
-![[Red Hand of Doom/Session Notes/Session 2#^summary]]
+![[Red Hand of Doom/Session Notes/Session 002#^summary]]
 
 # Housekeeping:
 - [[DM Inspiration]] Dice - Currently left : 4 

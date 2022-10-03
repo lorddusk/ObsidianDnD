@@ -27,7 +27,7 @@ Een priest heeft ons gevraagd om mee te gaan, om een crypte te checken waar geru
 
 # Recap of Last Session:
 
-![[Session 0#^summary]]
+![[Session 000#^summary]]
 
 # Housekeeping:
 - Joe afgemeld vanwege ziekte.

@@ -8,7 +8,7 @@ tags: NPC
 
 # Kobob
 
-Captured kobold in [[Red Hand of Doom/Session Notes/Session 1]]
+Captured kobold in [[Red Hand of Doom/Session Notes/Session 001]]
 
 Marked with a cross under their wings.
 
