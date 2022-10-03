@@ -47,24 +47,17 @@ A grey banner, which is Zhentarim made.
 She offers us whiskey, and I down it, while the rest of the party carefully tries to sniff it. 
 
 [[Veshje]] has a hidden lab up north, an arcane artificer, his work has made [[Crucia Cromwell]] rich, and gave her a lot of influence.
-
 If we want to help, we need to know more to increase our winning changes.
-
 During their scouting, they woke a sleeping Mythal that was stuck in rock. 
-
 They lost 3 party members during the scouting of a ruin in a teleporting accident, and decided to stop their adventuring.
-
 [[Crucia Cromwell]] went further with her life, [[Veshje]] couldn't move on, and started to research a way to get their friends back, due to overwhelming guilt.
 
 Crucia thinks Veshje is behind the increasing of vegetable sizes and insects.
-
 She doesn't have the resources to send a group to check on Veshje.
+She gives us 3 objectives, figure out the reason for the mutations, check on Veshje at the [[Old Abandoned Watermill]], and clear the Kobold Nest.
 
-She gives us 3 quests, figure out the reason for the mutations, check on Veshje at the [[Old Abandoned Watermill]], and clear the Kobold Nest.
-
-After asking her what it would get us. She gives a copper javelin to [[Keth]]. And a pouch of gold for the party as a downpayment.
-
-The assignment, the quest, has been shipped to [[Brindol]] to make it official. Giving quick access to the guild for [[Bikam]], [[Aelar]], and [[Alton]].
+After asking her what it would get us. She gives a copper javelin to [[Keth]]. And a pouch of gold for the party as a down payment.
+The assignment, has been shipped to [[Brindol]] to make it official. Giving quicker access to the guild for [[Bikam]], [[Aelar]], and [[Alton]] if they want it in the future.
 
 Introducing ourselves to each other.
 
