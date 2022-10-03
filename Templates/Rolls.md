@@ -13,7 +13,6 @@ let title = tp.file.title
 		}
 	} 
 %>
-# <%* tR += `${title}` %> 
 
 ###### Rolls
 | Id. | What           | Dice | Roll | Extra | Adv. | Dis. | Note                             |
