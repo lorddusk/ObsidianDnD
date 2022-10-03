@@ -4,5 +4,6 @@ type: location
 tags: Location
 ---
 
-# Talar 
+# Talar
+
 Resides in [[Elsir Vale]]

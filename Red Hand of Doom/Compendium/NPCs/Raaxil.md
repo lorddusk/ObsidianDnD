@@ -6,8 +6,10 @@ desc: tbd
 tags: NPC
 ---
 
-# Raaxil 
+# Raaxil
+
 Connection to [[Jeralla]]
+
 ```ad-ooc
 collapse:closed
 ```

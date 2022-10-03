@@ -10,13 +10,14 @@ tags: Party
 ---
 
 # Booker Crest
-###### Age:
+## Age:
+
 28 years old
 
-###### Origin:
+## Origin:
 
+## History:
 
-###### History:
 ![[Background#^history]]
 
 Member of the Adventures Guild in [[Brindol]]

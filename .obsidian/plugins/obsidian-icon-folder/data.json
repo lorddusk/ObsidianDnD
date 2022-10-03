@@ -34,5 +34,9 @@
   "Tags.md": "FasTags",
   "Red Hand of Doom/Timeline Entries": "FasTimeline",
   "Red Hand of Doom/Compendium/Groups": "FasUserGroup",
-  "Filters.md": "FasFilter"
+  "Filters.md": "FasFilter",
+  "Red Hand of Doom/Quests and Questions.md": {
+    "iconName": null,
+    "inheritanceIcon": "FasCircleQuestion"
+  }
 }

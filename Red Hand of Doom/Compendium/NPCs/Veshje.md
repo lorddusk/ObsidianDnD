@@ -6,9 +6,11 @@ desc: tbd
 tags: NPC
 ---
 
-# Jovier Glemden
+# Veshje
 
-[[Brother Keefe]]'s senior
+Old party member of [[Crucia Cromwell]]
+
+Member of the [[Knights of the Spiral Crown]]
 
 ```ad-ooc
 collapse:closed

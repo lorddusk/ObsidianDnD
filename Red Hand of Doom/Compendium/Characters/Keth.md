@@ -10,7 +10,9 @@ tags: Party
 ---
 
 # Keth Bar'dag
+
 Wears a symbol of [[Dol Arrah]]
+
 Member of the Adventures Guild in [[Brindol]]
 
 ```ad-ooc
