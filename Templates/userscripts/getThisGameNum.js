@@ -1,4 +1,4 @@
-function getThisGameNum(tp){
+function getThisGameNum(tp, add = 5){
     let folderName = tp.file.folder(false);
     let numOfGames = 0;
     app.plugins.plugins.dataview.api.pages(`"Red Hand of Doom/${folderName}"`)
@@ -10,7 +10,7 @@ function getThisGameNum(tp){
         }
     });
     
-    numOfGames = JSON.stringify(numOfGames);
+    numOfGames = JSON.stringify(numOfGames+=add);
     while(numOfGames.length < 3){
         numOfGames = "0"+numOfGames;
     }
