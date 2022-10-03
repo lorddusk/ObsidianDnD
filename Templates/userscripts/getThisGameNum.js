@@ -1,6 +1,5 @@
 function getThisGameNum(tp){
     let folderName = tp.file.folder(false);
-    app.plugins.plugins.dataview.api.pages(`"Red Hand of Doom/${folderName}"`).forEach(page => console.log(page.type === 'session'));
     let numOfGames = app.plugins.plugins.dataview.api
         .pages(`"Red Hand Of Doom/${folderName}"`)
         .where(page => {
@@ -12,10 +11,12 @@ function getThisGameNum(tp){
                 }
             }
         }).length
+    console.log("Num of Games: ", numOfGames)
     numOfGames = JSON.stringify(numOfGames+1);
     while(numOfGames.length < 3){
         numOfGames = "0"+numOfGames;
     }
+    console.log("Num of Games: ", numOfGames)
     return numOfGames;
 }
 
