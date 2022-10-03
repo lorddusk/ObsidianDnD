@@ -151,7 +151,7 @@
       "Ensures that there is exactly one line break at the end of a document.": true
     },
     "Paragraph blank lines": {
-      "All paragraphs should have exactly one blank line both before and after.": true
+      "All paragraphs should have exactly one blank line both before and after.": false
     },
     "Remove Empty Lines Between List Markers and Checklists": {
       "There should not be any empty lines between list markers and checklists.": false
