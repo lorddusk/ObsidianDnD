@@ -53,7 +53,7 @@
     },
     {
       "id": "elsir",
-      "lastAccessed": 1664652597870,
+      "lastAccessed": 1664790312733,
       "markers": [
         {
           "id": "ID_f9db5b1b5998",
@@ -187,22 +187,6 @@
           "command": false,
           "percent": null,
           "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_3988a87b3a18",
-          "type": "default",
-          "loc": [
-            -0.9177894592285156,
-            1.7536354064941406
-          ],
-          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Abandoned Water Mill",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"

@@ -5,13 +5,14 @@ type: location
 tags: Location
 ---
 
-# Brindol 
+# Brindol
+
 Resides in [[Elsir Vale]]
 
-### Points of Interest
+## Points of Interest
 - Adventurers Guild
 
-### Population
+## Population
 - 80% Human
 - 10% Halfling
 - 5% Dwarf

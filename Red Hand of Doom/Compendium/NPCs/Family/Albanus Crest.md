@@ -8,7 +8,7 @@ tags: NPC, Family
 
 # Albanus Crest
 ___ 
-## References: 
+## References:
 - Brother of [[Booker]]
 - Brother of [[Chaedi Lia Crest]]
 - Half-brother of [[Eric Farrsight]]

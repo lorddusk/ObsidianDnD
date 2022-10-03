@@ -8,7 +8,7 @@ tags: NPC, Family
 
 # Eric Farrsight
 ___ 
-## References: 
+## References:
 - Half-brother of [[Booker]]
 - Half-brother of [[Albanus Crest]]
 - Half-brother of [[Chaedi Lia Crest]]

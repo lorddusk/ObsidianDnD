@@ -5,5 +5,6 @@ type: location
 tags: Location
 ---
 
-# Blackfens 
+# Blackfens
+
 Resides in [[Elsir Vale]]
