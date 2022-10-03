@@ -175,7 +175,10 @@
   },
   "lintOnSave": true,
   "displayChanged": true,
-  "foldersToIgnore": [],
+  "foldersToIgnore": [
+    "Reference",
+    ""
+  ],
   "linterLocale": "system-default",
   "logLevel": 4,
   "lintCommands": []
