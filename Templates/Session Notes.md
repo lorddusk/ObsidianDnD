@@ -15,13 +15,13 @@ create_date: {{<% tp.date.now("DD MMMM YYYY") %>}}
 	if (title.startsWith("Untitled")) { 
 		title = await tp.system.prompt("Session Number?");
 		if (title.length == 1) {
-			await tp.file.rename(`$Session 00{title}`); 
+			await tp.file.rename(`Session 00${title}`); 
 		}
 		else if (title.length == 2) {
-			await tp.file.rename(`$Session 0{title}`); 
+			await tp.file.rename(`Session 0${title}`); 
 		}
 		else {
-			await tp.file.rename(`$Session {title}`); 
+			await tp.file.rename(`Session ${title}`); 
 		}
 	} 
 %>
