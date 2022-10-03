@@ -1,5 +1,7 @@
 function getThisGameNum(tp){
     let thisCampaign = tp.file.folder(false);
+    console.log(thisCampaign);
+    console.log(app.plugins.plugins.dataview.api.pages(`"Red Hand of Doom/${thisCampaign}"`));
     let numOfGames = app.plugins.plugins.dataview.api.pages(`"Red Hand Of Doom/${thisCampaign}"`).where(page => {
         if(page.type === 'session'){
             if(page.campaign === thisCampaign){
