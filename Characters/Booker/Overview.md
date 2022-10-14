@@ -46,8 +46,8 @@
 | DEX  | +2  |      |
 | CON  | +3  |      |
 | INT  | -1  |      |
-| WIS  | +4  |  ✔️  |
-| CHA  | +5  |  ✔️  |
+| WIS  | +4  |  ⭐️  |
+| CHA  | +5  |  ⭐️  |
 
 ## Resistances
 | Name     | Source  |
