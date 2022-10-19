@@ -14,7 +14,7 @@ Through no choice of my own, I have no way to return to my home town of [[Crestb
 I have a weakness for the new intoxicants and other pleasures in these new lands. I'll indulge in more than is good for me, and have often land in fights, or other altercations with local folk.
 
 ## Appearance :
-![[Booker-Unmasked.jpg|500]]
+![[Booker (HighRes_Transparency).png|500]]
 # Backstory :
 Born in [[Crestbrook]] 28 years ago, a child of [[Titlayo Crest]] and [[Ramose Crest]]. 
 Living in a loving family, with 3 siblings. My full siblings: [[Albanus Crest]] and [[Chaedi Lia Crest]]; and my half-brother: [[Eric Farrsight]].
