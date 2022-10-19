@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "(path:-\"Timeline Entries\") (path:-\"House Rules\") (path:-\"Characters/Booker/Spells\") (path:-\"Templates\") (path:-\"Rolls\") (path:-\"Reference\")  (file:-\"Index\") (file:-\"Tags\") (file:-\"Worldmap\") (file:-\"Timeline\") (file:-\"Compendium Index\") (file:-\"Overview\") (file:-\"Background\") (file:-\"Character Sheet\") (file:-\"Filters\") (file:-\"NPCs\") (file:-\"Items\") (file:-\"Compendium\") (file:-\"Deities\") (file:-\"Events\") (file:-\"Groups\") (file:-\"Characters\") (file:-\"Locations\") (file:-\"Session 0\") (file:-\"Quests\")",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:Booker",
@@ -84,10 +84,10 @@
   "nodeSizeMultiplier": 0.986653476540418,
   "lineSizeMultiplier": 1.50075183719616,
   "collapse-forces": false,
-  "centerStrength": 0.262023217247098,
+  "centerStrength": 0.281346290590187,
   "repelStrength": 11.9402985074627,
   "linkStrength": 0.749585406301824,
   "linkDistance": 100,
-  "scale": 0.6316046762907495,
-  "close": true
+  "scale": 0.3213363860503588,
+  "close": false
 }
