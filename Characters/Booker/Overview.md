@@ -1,7 +1,7 @@
 # Overview
 |           What | Amount | Remaining |
 |---------------:|:------:|:---------:|
-|             HP |   20   |    20     |
+|             HP |   20   |    14     |
 | Hit dice (1d8) |   2    |     2     |
 |             AC |   17   |    17     |
 
