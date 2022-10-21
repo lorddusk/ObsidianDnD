@@ -41,6 +41,7 @@ This liquid is the origin of the changes, but in a very highly distilled version
 
 [[Aelar]] tosses a torch in the hive, lighting it up.
 [[Aelar]] and [[Keth]] carry the basin/copper pot towards the opening, and toss the pot in the opening of the hive, causing the liquid to ooze out. When the liquid catches fire, it explodes. 
+A giant wasp exits the hive. 
 
 
 # Loot:
