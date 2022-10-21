@@ -40,7 +40,7 @@ Copper pots are connected with pipes, set up like distilling lab. It's filled wi
 This liquid is the origin of the changes, but in a very highly distilled version. [[Alton]] scoops up an amount in his waterskin.
 
 [[Aelar]] tosses a torch in the hive, lighting it up.
-[[Aelar]] and [[Keth]] 
+[[Aelar]] and [[Keth]] carry the basin/copper pot towards the opening, and toss the pot in the opening of the hive, causing the liquid to ooze out.
 
 
 # Loot:
