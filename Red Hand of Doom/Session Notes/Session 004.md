@@ -21,5 +21,6 @@ create_date: {{21 October 2022}}
 - [[DM Inspiration]] Dice - Currently left : 4 
 # Notes:
 ## 2 Marpenoth
-[[Aelar]] and [[Keth]] walk into the [[Wretched Knife Camp]] and [[Keth]] notices traps around the bridge leading up to Point A
+[[Aelar]] and [[Keth]] walk into the [[Wretched Knife Camp]] and [[Keth]] notices traps around the bridge leading up to Point A (see map)
+[[Booker]] and [[Alton]]
 # Loot:
