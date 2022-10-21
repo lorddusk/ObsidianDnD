@@ -37,7 +37,8 @@ It has the size of a normal tavern.
 A shed without door is open on the south-side of the hive. On the inside clay icons reside looking like wasp kobolds.
 Several trinkets
 Copper pots are connected with pipes, set up like distilling lab. It's filled with a thicker scarlet red liquid. On the edge of the basin has a written message. " Shrine to Demogorgon, the great changer."
-This liquid is the origin of the changes, 
+This liquid is the origin of the changes, but in a very highly distilled version. [[Alton]] scoops up an amount in his waterskin.
+
 
 
 # Loot:
