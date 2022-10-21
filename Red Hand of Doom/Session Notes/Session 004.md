@@ -30,7 +30,13 @@ collapse: closed
 ![[Rolls S004#^combat]]
 ```
 After murdering a dozen or so kobolds we investigate the second island (Point B)
-On this island the nest/hive lays
+On this island the nest/hive lays, bones and feathers lay around
 An attempt to make them look like houses was not very successful.
+It has the size of a normal tavern
+
+A shed without door is open on the southside o
+
+
+[[Aelar]] chucks a torch towards the hive
 # Loot:
 
