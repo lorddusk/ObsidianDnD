@@ -6,13 +6,14 @@
 |             AC |   17   |    17     |
 
 # Slot based actions
-### Spell Slots
+### Spell Slots (1st Level)
 - [ ] 
 - [ ] 
 ### Healing Hands
 - [ ] 
 ### Hex Curse
 - [ ] 
+
 ## Stats
 | Name | Stat | Mod |
 |------|:----:|:---:|
