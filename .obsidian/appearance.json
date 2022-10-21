@@ -10,5 +10,8 @@
     "Theme - D&D WOTC"
   ],
   "baseFontSize": 14,
-  "accentColor": ""
+  "accentColor": "",
+  "showViewHeader": false,
+  "nativeMenus": true,
+  "translucency": false
 }

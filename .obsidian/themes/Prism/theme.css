@@ -1,5 +1,5 @@
 /*!
-    Prism Theme for Obsidian.md (Version: v3.0.0) Beta 8
+    Prism Theme for Obsidian.md (Version: v3.0.0) Beta 10
     > A Comprehensive, Highly-Customisable and Elegant Light/Dark Theme for Obsidian.md
 
     Source: https://github.com/damiankorcz/Obsidian-Prism
@@ -65,10 +65,14 @@ body {
   --background-modifier-error: var(--color-red-text);
   --background-modifier-border: var(--window-border);
   --background-modifier-border-focus: var(--interactive-accent-base);
+  --background-modifier-border-hover: var(--interactive-accent-tint);
+  --icon-color-hover: var(--highlight-text-normal);
+  --nav-item-color-hover: var(--highlight-text-normal);
   --checkbox-marker-color: var(--highlight-text-normal);
   --checklist-done-color: var(--interactive-accent-tint);
   --checkbox-border-color-hover: var(--interactive-accent-tint);
   --blockquote-border-color: var(--window-border);
+  --blockquote-border-thickness: 8px;
   --ribbon-background-collapsed: var(--background-secondary);
   --titlebar-background-focused: var(--background-secondary);
   --header-height: 41px;
@@ -87,21 +91,22 @@ body {
   --file-header-font-size: var(--font-ui-medium);
   --vault-name-font-size: var(--font-ui-medium);
   --status-bar-font-size: var(--font-ui-small);
+  --tab-stacked-font-size: var(--font-ui-medium);
   --modal-width: 85vw;
   --modal-max-width: 1400px;
   --modal-height: 80vh;
   --modal-max-height: 1000px;
   --modal-border-color: var(--window-border);
   --drag-ghost-text-color: var(--text-normal);
-  --clickable-icon-radius: var(--radius-m);
+  --clickable-icon-radius: var(--radius-s);
   --toggle-radius: var(--size-4-1);
   --toggle-thumb-radius: 3px;
   --slider-thumb-radius: var(--size-4-1);
   --slider-thumb-width: 10px;
   --scrollbar-active-thumb-bg: var(--interactive-accent-base);
-  --scrollbar-bg: var(--background-secondary);
   --scrollbar-thumb-bg: var(--background-primary);
   --text-on-accent: var(--text-normal);
+  --prompt-border-color: var(--window-border);
   --blur-intensity: 8px;
   --accent-border-width: 2px;
   --scroll-bar-size: 12px;
@@ -155,7 +160,9 @@ body:is(.theme-light, .theme-dark) {
   --color-accent-text-lt: hsl(var(--color-accent-h-lt) var(--color-accent-s-lt) var(--color-accent-l-text-lt));
   --input-shadow: unset;
   --input-shadow-hover: unset;
+  --tab-stacked-shadow: 0;
   --background-modifier-hover: hsla(var(--interactive-accent-base-hsl) / 50%);
+  --text-selection: var(--background-modifier-hover);
   --hue-background-lt: linear-gradient( to right, hsl(0 var(--color-accent-s-lt) var(--color-accent-l-base-lt)), hsl(30 var(--color-accent-s-lt) var(--color-accent-l-base-lt)), hsl(60 var(--color-accent-s-lt) var(--color-accent-l-base-lt)), hsl(90 var(--color-accent-s-lt) var(--color-accent-l-base-lt)), hsl(120 var(--color-accent-s-lt) var(--color-accent-l-base-lt)), hsl(150 var(--color-accent-s-lt) var(--color-accent-l-base-lt)), hsl(180 var(--color-accent-s-lt) var(--color-accent-l-base-lt)), hsl(210 var(--color-accent-s-lt) var(--color-accent-l-base-lt)), hsl(240 var(--color-accent-s-lt) var(--color-accent-l-base-lt)), hsl(270 var(--color-accent-s-lt) var(--color-accent-l-base-lt)), hsl(300 var(--color-accent-s-lt) var(--color-accent-l-base-lt)), hsl(330 var(--color-accent-s-lt) var(--color-accent-l-base-lt)), hsl(360 var(--color-accent-s-lt) var(--color-accent-l-base-lt)) );
   --saturation-background-lt: linear-gradient( to right, hsl(var(--color-accent-h-lt) 0% var(--color-accent-l-base-lt)), hsl(var(--color-accent-h-lt) 50% var(--color-accent-l-base-lt)), hsl(var(--color-accent-h-lt) 100% var(--color-accent-l-base-lt)) );
   --lightness-background-lt: linear-gradient( to right, hsl(var(--color-accent-h-lt) var(--color-accent-s-lt) 0%), hsl(var(--color-accent-h-lt) var(--color-accent-s-lt) 50%), hsl(var(--color-accent-h-lt) var(--color-accent-s-lt) 100%) );
@@ -187,7 +194,6 @@ body:is(.theme-light, .theme-dark).pt-disable-blur {
 body.theme-light {
   --window-border: var(--background-secondary-alt);
   --page-background-color: var(--background-primary);
-  --text-selection: var(--background-secondary-alt);
   --graph-line-color-lt: var(--background-secondary-alt);
   --graph-fill-color-lt: var(--color-grey-tint);
   --graph-fill-focused-color-lt: var(--interactive-accent-tint);
@@ -222,7 +228,7 @@ body.theme-light {
   --blockquote-background-color: var(--background-primary-alt);
   --checkbox-color: var(--background-primary-alt);
   --checkbox-border-color: var(--background-secondary-alt);
-  --toggle-thumb-color: var(--background-primary);
+  --scrollbar-bg: var(--background-secondary);
 }
 body.theme-light.pt-highlight-text-light-lt {
   --highlight-text-normal: var(--background-primary);
@@ -315,7 +321,6 @@ body.theme-light.pt-accent-color-grey-lt {
 body.theme-dark {
   --window-border: var(--background-primary-alt);
   --page-background-color: var(--background-secondary);
-  --text-selection: var(--background-primary-alt);
   --graph-line-color-dt: var(--background-primary-alt);
   --graph-fill-color-dt: var(--color-grey-tint);
   --graph-fill-focused-color-dt: var(--interactive-accent-tint);
@@ -350,6 +355,10 @@ body.theme-dark {
   --blockquote-background-color: var(--background-secondary-alt);
   --checkbox-color: var(--background-primary);
   --checkbox-border-color: var(--background-primary-alt);
+  --toggle-thumb-color: var(--text-normal);
+  --background-modifier-form-field: var(--background-secondary);
+  --modal-background: var(--background-secondary-alt);
+  --scrollbar-bg: var(--background-secondary);
 }
 body.theme-dark.pt-highlight-text-light-dt {
   --highlight-text-normal: var(--text-normal);
@@ -899,7 +908,7 @@ body.pt-titlebar-hide-text .titlebar .titlebar-text {
   right: 0;
   left: 0;
   width: fit-content;
-  margin: 0 auto calc(4px + var(--scroll-bar-size));
+  margin: 0 auto calc(var(--size-2-3) + var(--scroll-bar-size));
   background: var(--background-secondary-blur);
   border: 1px solid var(--window-border);
   border-radius: var(--radius-s);
@@ -955,6 +964,10 @@ body.pt-titlebar-hide-text .titlebar .titlebar-text {
 .workspace-tab-header::after {
   display: none;
 }
+.mod-left-split .workspace-tabs .workspace-tab-header-spacer,
+.mod-right-split .workspace-tabs .workspace-tab-header-spacer {
+  display: none;
+}
 .pt-fade-inactive-tabs :not(.mod-active) .workspace-tab-header.is-active:not(.mod-active) {
   opacity: 0.55;
 }
@@ -974,6 +987,9 @@ body.pt-titlebar-hide-text .titlebar .titlebar-text {
 }
 .workspace .mod-root .workspace-tab-header-inner::after {
   display: none;
+}
+.workspace-tab-header:not(.is-active):hover .workspace-tab-header-inner-title {
+  color: var(--highlight-text-normal);
 }
 .workspace-tabs .workspace-tab-header-container-inner {
   gap: var(--size-4-1);
@@ -997,6 +1013,9 @@ body.pt-titlebar-hide-text .titlebar .titlebar-text {
   background-color: var(--background-secondary);
   border: unset;
   border-right: 1px solid var(--window-border);
+}
+.workspace .mod-root .workspace-tabs.mod-stacked .workspace-tab-container .workspace-tab-header:not(.is-active) .workspace-tab-header-inner {
+  padding-top: 10px;
 }
 .workspace-split.mod-left-split .workspace-tab-header-container {
 }
@@ -1040,34 +1059,46 @@ body.pt-titlebar-hide-text .titlebar .titlebar-text {
   padding: 2px;
   border-radius: var(--radius-m);
 }
-:is(.nav-files-container, .workspace-leaf-content[data-type=tag] .tag-container, .workspace-leaf-content[data-type=backlink] .backlink-pane, .workspace-leaf-content[data-type=search] .search-results-children, .workspace-leaf-content[data-type=starred] .item-list, .workspace-leaf-content[data-type=dictionary-view] .contents) {
-  padding-bottom: calc(38px + 2 * var(--scroll-bar-size));
-}
-.workspace-leaf-content .nav-header {
-}
-:is(.pt-nav-header-left-sidebar-align-left .workspace-split.mod-left-split .workspace-leaf-content .nav-header, .pt-nav-header-right-sidebar-align-left .workspace-split.mod-right-split .workspace-leaf-content .nav-header) {
+:is(.pt-nav-header-left-sidebar-align-left .workspace-split.mod-left-split, .pt-nav-header-right-sidebar-align-left .workspace-split.mod-right-split) .workspace-leaf-content .nav-header {
   justify-content: flex-start;
 }
-:is(.pt-nav-header-left-sidebar-align-center .workspace-split.mod-left-split .workspace-leaf-content .nav-header, .pt-nav-header-right-sidebar-align-center .workspace-split.mod-right-split .workspace-leaf-content .nav-header) {
+:is(.pt-nav-header-left-sidebar-align-left .workspace-split.mod-left-split, .pt-nav-header-right-sidebar-align-left .workspace-split.mod-right-split) .workspace-leaf-content[data-type=dangling-links] .nav-header {
+  right: calc(var(--size-2-3) + var(--scroll-bar-size));
+  left: var(--size-2-3);
+  margin-right: auto;
+}
+:is(.pt-nav-header-left-sidebar-align-center .workspace-split.mod-left-split, .pt-nav-header-right-sidebar-align-center .workspace-split.mod-right-split) .workspace-leaf-content .nav-header {
   justify-content: center;
 }
-:is(.pt-nav-header-left-sidebar-align-right .workspace-split.mod-left-split .workspace-leaf-content .nav-header, .pt-nav-header-right-sidebar-align-right .workspace-split.mod-right-split .workspace-leaf-content .nav-header) {
+:is(.pt-nav-header-left-sidebar-align-center .workspace-split.mod-left-split, .pt-nav-header-right-sidebar-align-center .workspace-split.mod-right-split) .workspace-leaf-content[data-type=dangling-links] .nav-header {
+  right: calc(var(--size-2-3) + var(--scroll-bar-size));
+  left: var(--size-2-3);
+  margin-right: auto;
+  margin-left: auto;
+}
+:is(.pt-nav-header-left-sidebar-align-right .workspace-split.mod-left-split, .pt-nav-header-right-sidebar-align-right .workspace-split.mod-right-split) .workspace-leaf-content .nav-header {
   justify-content: flex-end;
+}
+:is(.pt-nav-header-left-sidebar-align-right .workspace-split.mod-left-split, .pt-nav-header-right-sidebar-align-right .workspace-split.mod-right-split) .workspace-leaf-content[data-type=dangling-links] .nav-header {
+  right: calc(var(--size-2-3) + var(--scroll-bar-size));
+  left: var(--size-2-3);
+  margin-left: auto;
 }
 :is(.pt-nav-header-left-sidebar-position-bottom .workspace-split.mod-left-split, .pt-nav-header-right-sidebar-position-bottom .workspace-split.mod-right-split, .pt-nav-header-left-sidebar-position-bottom .workspace-drawer.mod-left, .pt-nav-header-right-sidebar-position-bottom .workspace-drawer.mod-right) .nav-header {
   position: absolute;
-  bottom: calc(4px + var(--scroll-bar-size));
+  bottom: calc(var(--size-2-3) + var(--scroll-bar-size));
   z-index: var(--layer-popover);
   order: 2;
   width: -webkit-fill-available;
   width: fill-available;
   height: unset;
-  padding: 0 var(--size-4-2);
+  padding: 0 calc(var(--size-2-3) + var(--scroll-bar-size)) 0 var(--size-2-3);
   pointer-events: none;
   background-color: unset;
   border-bottom: unset;
 }
-:is(.pt-nav-header-left-sidebar-position-bottom .workspace-split.mod-left-split, .pt-nav-header-right-sidebar-position-bottom .workspace-split.mod-right-split, .pt-nav-header-left-sidebar-position-bottom .workspace-drawer.mod-left, .pt-nav-header-right-sidebar-position-bottom .workspace-drawer.mod-right) .nav-buttons-container {
+:is(.pt-nav-header-left-sidebar-position-bottom .workspace-split.mod-left-split, .pt-nav-header-right-sidebar-position-bottom .workspace-split.mod-right-split, .pt-nav-header-left-sidebar-position-bottom .workspace-drawer.mod-left, .pt-nav-header-right-sidebar-position-bottom .workspace-drawer.mod-right) .nav-buttons-container,
+:is(.pt-nav-header-left-sidebar-position-bottom .workspace-split.mod-left-split, .pt-nav-header-right-sidebar-position-bottom .workspace-split.mod-right-split, .pt-nav-header-left-sidebar-position-bottom .workspace-drawer.mod-left, .pt-nav-header-right-sidebar-position-bottom .workspace-drawer.mod-right) .workspace-leaf-content[data-type=dangling-links] .nav-header {
   padding: var(--size-4-1);
   pointer-events: auto;
   background: var(--background-secondary-blur);
@@ -1076,6 +1107,12 @@ body.pt-titlebar-hide-text .titlebar .titlebar-text {
   box-shadow: var(--shadow-l);
   -webkit-backdrop-filter: blur(var(--blur-intensity));
   backdrop-filter: blur(var(--blur-intensity));
+}
+:is(.pt-nav-header-left-sidebar-position-bottom .workspace-split.mod-left-split, .pt-nav-header-right-sidebar-position-bottom .workspace-split.mod-right-split, .pt-nav-header-left-sidebar-position-bottom .workspace-drawer.mod-left, .pt-nav-header-right-sidebar-position-bottom .workspace-drawer.mod-right) .workspace-leaf-content[data-type=dangling-links] .nav-header {
+  width: fit-content;
+}
+:is(.pt-nav-header-left-sidebar-position-bottom .workspace-split.mod-left-split, .pt-nav-header-right-sidebar-position-bottom .workspace-split.mod-right-split, .pt-nav-header-left-sidebar-position-bottom .workspace-drawer.mod-left, .pt-nav-header-right-sidebar-position-bottom .workspace-drawer.mod-right) :is(.nav-files-container, .workspace-leaf-content[data-type=tag] .tag-container, .workspace-leaf-content[data-type=backlink] .backlink-pane, .workspace-leaf-content[data-type=search] .search-results-children, .workspace-leaf-content[data-type=starred] .item-list, .workspace-leaf-content[data-type=dictionary-view] .contents, .workspace-leaf-content[data-type=dangling-links] .view-content .container) {
+  padding-bottom: calc(38px + 2 * var(--scroll-bar-size));
 }
 .modal.mod-settings .vertical-tab-header {
   flex: none;
@@ -1112,7 +1149,7 @@ body.pt-titlebar-hide-text .titlebar .titlebar-text {
   font-size: 14px;
   font-weight: 600;
   color: var(--interactive-accent-text);
-  content: "Prism v3.0.0 Beta 8";
+  content: "Prism v3.0.0 Beta 10";
   border: 1px solid var(--window-border);
   border-radius: var(--radius-s);
 }
@@ -1122,10 +1159,10 @@ body.pt-titlebar-hide-text .titlebar .titlebar-text {
 .theme-dark .modal.mod-settings .vertical-tab-header::after {
   background-color: var(--background-secondary-alt);
 }
-.modal.mod-settings .vertical-tab-content {
+.vertical-tab-content {
   height: calc(100% - 43px);
 }
-.modal.mod-settings .vertical-tab-content-container::before {
+.vertical-tab-content-container::before {
   position: relative;
   z-index: var(--layer-status-bar);
   display: block;
@@ -1138,10 +1175,10 @@ body.pt-titlebar-hide-text .titlebar .titlebar-text {
   -webkit-backdrop-filter: blur(var(--blur-intensity));
   backdrop-filter: blur(var(--blur-intensity));
 }
-.modal.mod-settings .vertical-tab-header-group {
+.vertical-tab-header-group {
   padding: unset;
 }
-.modal.mod-settings .vertical-tab-header-group-title {
+.vertical-tab-header-group-title {
   font-size: var(--font-ui-medium);
   color: var(--text-normal);
   text-align: center;
@@ -1149,30 +1186,37 @@ body.pt-titlebar-hide-text .titlebar .titlebar-text {
   border-top: 1px solid var(--window-border);
   border-bottom: 1px solid var(--window-border);
 }
-.modal.mod-settings .vertical-tab-header-group-items {
+.vertical-tab-header-group-items {
   gap: var(--size-2-1);
   padding: var(--size-4-2);
 }
-.modal.mod-settings .vertical-tab-nav-item {
-  padding: var(--size-2-1) var(--size-4-2);
-  margin-bottom: unset;
-  border: var(--accent-border-width) solid transparent;
-}
-.modal.mod-settings :is(.horizontal-tab-content, .vertical-tab-content) {
+:is(.horizontal-tab-content, .vertical-tab-content) {
   padding: var(--size-4-8);
 }
-.theme-light .modal.mod-settings :is(.horizontal-tab-content, .vertical-tab-content, .vertical-tab-header) {
+.theme-light :is(.horizontal-tab-content, .vertical-tab-content, .vertical-tab-header) {
   background-color: var(--background-primary);
 }
-.theme-dark .modal.mod-settings :is(.horizontal-tab-content, .vertical-tab-content, .vertical-tab-header) {
+.theme-dark :is(.horizontal-tab-content, .vertical-tab-content, .vertical-tab-header) {
   background-color: var(--background-secondary-alt);
 }
-.modal.mod-settings .installed-plugins-container {
+.installed-plugins-container {
   padding-top: var(--size-4-2);
   border-top: unset;
 }
-.modal.mod-settings .plugin-list-plugins:last-child {
+.plugin-list-plugins:last-child {
   padding-top: var(--size-4-1);
+}
+.vertical-tab-nav-item {
+  padding: var(--size-2-1) var(--size-4-2);
+  margin-bottom: unset;
+  color: var(--text-muted);
+  border: var(--accent-border-width) solid transparent;
+}
+@media (hover: hover) {
+  .horizontal-tab-nav-item:hover,
+  .vertical-tab-nav-item:hover {
+    color: var(--icon-color-focused);
+  }
 }
 .modal.mod-image-lightbox {
   width: var(--modal-width);
@@ -1198,6 +1242,12 @@ img.community-theme-lightbox {
 }
 .community-modal-sidebar {
   padding: unset;
+}
+.theme-light .community-modal-sidebar {
+  background-color: var(--background-primary);
+}
+.theme-dark .community-modal-sidebar {
+  background-color: var(--background-secondary-alt);
 }
 .community-modal-info {
   display: grid;
@@ -1348,7 +1398,7 @@ img.community-theme-lightbox {
   border-top: unset;
 }
 .setting-item.setting-item-heading {
-  margin-bottom: var(--size-4-2);
+  margin-bottom: var(--size-4-1);
   border-bottom: 1px solid var(--window-border);
 }
 .setting-item-name {
@@ -1358,6 +1408,9 @@ body:not(.native-scrollbars) .modal-close-button {
   top: var(--size-4-1);
   right: var(--size-4-1);
   z-index: var(--layer-popover);
+}
+.modal-close-button:hover {
+  color: var(--highlight-text-normal);
 }
 .mod-warning {
   color: var(--color-red-text);
@@ -1402,6 +1455,7 @@ input[type=range] {
 }
 input[type=range]::-webkit-slider-thumb {
   height: 19px;
+  background-color: var(--toggle-thumb-color);
   box-shadow: unset;
 }
 select.dropdown {
@@ -1456,26 +1510,22 @@ select.dropdown option[value*=grey] {
   background-color: var(--color-grey-base);
 }
 body:not(.native-scrollbars) .kanban-plugin__scroll-container::-webkit-scrollbar,
+body:not(.native-scrollbars) .prompt-results::-webkit-scrollbar,
 body:not(.native-scrollbars) ::-webkit-scrollbar {
   width: var(--scroll-bar-size);
   height: var(--scroll-bar-size);
+  background-color: var(--background-secondary);
   border-radius: unset;
 }
 body:not(.native-scrollbars) .kanban-plugin__scroll-container::-webkit-scrollbar:vertical,
+body:not(.native-scrollbars) .prompt-results::-webkit-scrollbar:vertical,
 body:not(.native-scrollbars) ::-webkit-scrollbar:vertical {
   border-left: 1px solid var(--window-border);
 }
 body:not(.native-scrollbars) .kanban-plugin__scroll-container::-webkit-scrollbar:horizontal,
+body:not(.native-scrollbars) .prompt-results::-webkit-scrollbar:horizontal,
 body:not(.native-scrollbars) ::-webkit-scrollbar:horizontal {
   border-top: 1px solid var(--window-border);
-}
-body:not(.native-scrollbars).theme-light .kanban-plugin__scroll-container::-webkit-scrollbar,
-body:not(.native-scrollbars).theme-light ::-webkit-scrollbar {
-  background: var(--background-secondary);
-}
-body:not(.native-scrollbars).theme-dark .kanban-plugin__scroll-container::-webkit-scrollbar,
-body:not(.native-scrollbars).theme-dark ::-webkit-scrollbar {
-  background: var(--background-secondary-alt);
 }
 body:not(.native-scrollbars) .kanban-plugin__scroll-container::-webkit-scrollbar-thumb,
 body:not(.native-scrollbars) ::-webkit-scrollbar-thumb {
@@ -1488,7 +1538,8 @@ body:not(.native-scrollbars) ::-webkit-scrollbar-thumb:active,
 body:not(.native-scrollbars) ::-webkit-scrollbar-thumb:hover {
   border-radius: unset;
 }
-.show-view-header .cm-scroller::-webkit-scrollbar-track {
+.show-view-header .cm-scroller::-webkit-scrollbar-track,
+.show-view-header .mod-root .view-content::-webkit-scrollbar-track {
   margin-top: var(--header-height) !important;
 }
 .progress-bar {
@@ -1515,27 +1566,6 @@ body:not(.css-settings-manager) .workspace-split.mod-left-split::before {
   background-color: var(--color-red-base);
   border: var(--accent-border-width) solid var(--color-red-tint);
   border-radius: var(--radius-m);
-}
-body.pt-hide-view-header div.workspace-leaf-content div.view-header {
-  height: 1px;
-  border: var(--accent-border-width) solid transparent;
-  box-shadow: unset;
-  transition-delay: 600ms;
-}
-body.pt-hide-view-header div.workspace-leaf-content div.view-header svg {
-  opacity: 0;
-  transition: opacity 200ms;
-  transition-delay: 600ms;
-}
-body.pt-hide-view-header div.workspace-leaf-content div.view-header:hover {
-  height: var(--header-height);
-  transition: all ease 200ms;
-}
-body.pt-hide-view-header div.workspace-leaf-content div.view-header:hover svg {
-  display: unset;
-  opacity: 1;
-  transition: opacity 200ms;
-  transition-delay: 200ms;
 }
 :is(.workspace-split.mod-vertical > * > .workspace-leaf-resize-handle, .workspace-split.mod-left-split > .workspace-leaf-resize-handle, .workspace-split.mod-right-split > .workspace-leaf-resize-handle) {
   height: calc(var(--divider-vertical-height) - var(--header-height));
@@ -1566,8 +1596,16 @@ body.pt-hide-view-header div.workspace-leaf-content div.view-header:hover svg {
 .view-actions {
   padding-right: var(--size-4-2);
 }
-:is(.is-focused .workspace-leaf.mod-active .view-header-title, .view-header-title) {
+.is-focused .workspace-leaf.mod-active .view-header-title,
+.view-header-title {
   color: var(--interactive-accent-text);
+}
+.is-focused .workspace-leaf.mod-active .view-header-title:hover,
+.view-header-title:hover {
+  color: var(--text-accent-hover);
+}
+.view-header-title-parent .view-header-breadcrumb:hover {
+  color: var(--highlight-text-normal);
 }
 .show-view-header {
   --file-margins: 64px 32px 32px 32px;
@@ -1606,11 +1644,15 @@ body.pt-hide-view-header div.workspace-leaf-content div.view-header:hover svg {
   right: 12px;
 }
 .menu {
-  background: var(--background-secondary-blur);
+  background: var(--background-secondary);
   border-color: var(--window-border);
   box-shadow: var(--shadow-l);
-  -webkit-backdrop-filter: blur(var(--blur-intensity));
-  backdrop-filter: blur(var(--blur-intensity));
+}
+.menu-item.selected:not(.is-disabled):not(.is-label):not(.is-warning) {
+  color: var(--highlight-text-normal);
+}
+.menu-item.selected:not(.is-disabled):not(.is-label):not(.is-warning) .menu-item-icon {
+  color: var(--highlight-text-normal);
 }
 div.notice-container div.notice {
   font-weight: 600;
@@ -1668,7 +1710,12 @@ div.notice-container div.notice {
   align-items: center;
   justify-content: center;
 }
-:is(.workspace-tab-header.is-active, .nav-action-button.is-active, .vertical-tab-nav-item.is-active, .nav-file-title.is-active, .suggestion-hotkey) {
+.workspace .mod-root .workspace-tabs.mod-stacked .workspace-tab-container .workspace-tab-header.is-active,
+.workspace-tab-header.is-active,
+.nav-action-button.is-active,
+.vertical-tab-nav-item.is-active,
+.nav-file-title.is-active,
+.suggestion-hotkey {
   color: var(--highlight-text-normal);
   border: var(--accent-border-width) solid;
   box-shadow: unset;
@@ -1681,7 +1728,7 @@ div.notice-container div.notice {
 button.mod-cta {
   color: var(--highlight-text-normal);
 }
-:is(button.mod-cta, button.mod-warning, .modal button:not(.mod-cta):not(.mod-warning), .graph-control-content button, .setting-hotkey, .flair.mod-pop, .community-item .flair, button.copy-code-button, .modal-setting-nav-bar .clickable-icon, .document-search-button, .side-dock-ribbon-action.is-active[aria-label="Start/stop recording"]) {
+:is(.pcr-button, button.mod-cta, button.mod-warning, .modal button:not(.mod-cta):not(.mod-warning), .graph-control-content button, .setting-hotkey, .flair.mod-pop, .community-item .flair, button.copy-code-button, .modal-setting-nav-bar .clickable-icon, .document-search-button, .side-dock-ribbon-action.is-active[aria-label="Start/stop recording"]) {
   border: var(--accent-border-width) solid;
   border-radius: var(--radius-s);
 }
@@ -1696,7 +1743,15 @@ button.mod-cta {
 :is(.workspace.is-right-sidedock-open .sidebar-toggle-button.mod-right, .workspace.is-left-sidedock-open .sidebar-toggle-button.mod-left) svg.svg-icon {
   color: var(--highlight-text-normal);
 }
-:is(.theme-dark.pt-accent-style-text-dt, .theme-light.pt-accent-style-text-lt) :is(.workspace-tab-header.is-active, .nav-action-button.is-active, .vertical-tab-nav-item.is-active, .nav-file-title.is-active, .suggestion-hotkey) {
+:is(.workspace.is-right-sidedock-open .sidebar-toggle-button.mod-right, .workspace.is-left-sidedock-open .sidebar-toggle-button.mod-left):hover svg.svg-icon {
+  color: var(--interactive-accent-hover);
+}
+:is(.theme-dark.pt-accent-style-text-dt, .theme-light.pt-accent-style-text-lt) .workspace .mod-root .workspace-tabs.mod-stacked .workspace-tab-container .workspace-tab-header.is-active,
+:is(.theme-dark.pt-accent-style-text-dt, .theme-light.pt-accent-style-text-lt) .workspace-tab-header.is-active,
+:is(.theme-dark.pt-accent-style-text-dt, .theme-light.pt-accent-style-text-lt) .nav-action-button.is-active,
+:is(.theme-dark.pt-accent-style-text-dt, .theme-light.pt-accent-style-text-lt) .vertical-tab-nav-item.is-active,
+:is(.theme-dark.pt-accent-style-text-dt, .theme-light.pt-accent-style-text-lt) .nav-file-title.is-active,
+:is(.theme-dark.pt-accent-style-text-dt, .theme-light.pt-accent-style-text-lt) .suggestion-hotkey {
   background-color: var(--background-primary);
   border-color: transparent;
 }
@@ -1731,12 +1786,12 @@ button.mod-cta {
 :is(.theme-dark.pt-accent-style-text-dt, .theme-light.pt-accent-style-text-lt) :is(button.mod-warning, .side-dock-ribbon-action.is-active[aria-label="Start/stop recording"]):hover {
   color: var(--color-red-tint);
 }
-:is(.theme-dark.pt-accent-style-text-dt, .theme-light.pt-accent-style-text-lt) :is(.modal button:not(.mod-cta):not(.mod-warning), .graph-control-content button, .modal-setting-nav-bar .clickable-icon, .document-search-button) {
+:is(.theme-dark.pt-accent-style-text-dt, .theme-light.pt-accent-style-text-lt) :is(.pcr-button, .modal button:not(.mod-cta):not(.mod-warning), .graph-control-content button, .modal-setting-nav-bar .clickable-icon, .document-search-button) {
   color: var(--color-grey-text);
   background-color: var(--background-primary);
   border-color: transparent;
 }
-:is(.theme-dark.pt-accent-style-text-dt, .theme-light.pt-accent-style-text-lt) :is(.modal button:not(.mod-cta):not(.mod-warning), .graph-control-content button, .modal-setting-nav-bar .clickable-icon, .document-search-button):hover {
+:is(.theme-dark.pt-accent-style-text-dt, .theme-light.pt-accent-style-text-lt) :is(.pcr-button, .modal button:not(.mod-cta):not(.mod-warning), .graph-control-content button, .modal-setting-nav-bar .clickable-icon, .document-search-button):hover {
   color: var(--color-grey-tint);
 }
 :is(.theme-dark.pt-accent-style-text-dt, .theme-light.pt-accent-style-text-lt) .setting-command-hotkeys .setting-hotkey {
@@ -1768,7 +1823,12 @@ button.mod-cta {
 :is(.theme-dark.pt-accent-style-text-dt, .theme-light.pt-accent-style-text-lt) :is(.workspace.is-right-sidedock-open .sidebar-toggle-button.mod-right, .workspace.is-left-sidedock-open .sidebar-toggle-button.mod-left):hover {
   color: var(--interactive-accent-hover);
 }
-:is(.theme-dark.pt-accent-style-border-dt, .theme-light.pt-accent-style-border-lt) :is(.workspace-tab-header.is-active, .nav-action-button.is-active, .vertical-tab-nav-item.is-active, .nav-file-title.is-active, .suggestion-hotkey) {
+:is(.theme-dark.pt-accent-style-border-dt, .theme-light.pt-accent-style-border-lt) .workspace .mod-root .workspace-tabs.mod-stacked .workspace-tab-container .workspace-tab-header.is-active,
+:is(.theme-dark.pt-accent-style-border-dt, .theme-light.pt-accent-style-border-lt) .workspace-tab-header.is-active,
+:is(.theme-dark.pt-accent-style-border-dt, .theme-light.pt-accent-style-border-lt) .nav-action-button.is-active,
+:is(.theme-dark.pt-accent-style-border-dt, .theme-light.pt-accent-style-border-lt) .vertical-tab-nav-item.is-active,
+:is(.theme-dark.pt-accent-style-border-dt, .theme-light.pt-accent-style-border-lt) .nav-file-title.is-active,
+:is(.theme-dark.pt-accent-style-border-dt, .theme-light.pt-accent-style-border-lt) .suggestion-hotkey {
   background-color: var(--background-primary);
   border-color: var(--interactive-accent-tint);
 }
@@ -1804,12 +1864,12 @@ button.mod-cta {
 :is(.theme-dark.pt-accent-style-border-dt, .theme-light.pt-accent-style-border-lt) :is(button.mod-warning, .side-dock-ribbon-action.is-active[aria-label="Start/stop recording"]):hover {
   color: var(--color-red-tint);
 }
-:is(.theme-dark.pt-accent-style-border-dt, .theme-light.pt-accent-style-border-lt) :is(.modal button:not(.mod-cta):not(.mod-warning), .graph-control-content button, .modal-setting-nav-bar .clickable-icon, .document-search-button) {
+:is(.theme-dark.pt-accent-style-border-dt, .theme-light.pt-accent-style-border-lt) :is(.pcr-button, .modal button:not(.mod-cta):not(.mod-warning), .graph-control-content button, .modal-setting-nav-bar .clickable-icon, .document-search-button) {
   color: var(--text-normal);
   background-color: var(--background-secondary);
   border-color: var(--color-grey-tint);
 }
-:is(.theme-dark.pt-accent-style-border-dt, .theme-light.pt-accent-style-border-lt) :is(.modal button:not(.mod-cta):not(.mod-warning), .graph-control-content button, .modal-setting-nav-bar .clickable-icon, .document-search-button):hover {
+:is(.theme-dark.pt-accent-style-border-dt, .theme-light.pt-accent-style-border-lt) :is(.pcr-button, .modal button:not(.mod-cta):not(.mod-warning), .graph-control-content button, .modal-setting-nav-bar .clickable-icon, .document-search-button):hover {
   color: var(--color-grey-tint);
 }
 :is(.theme-dark.pt-accent-style-border-dt, .theme-light.pt-accent-style-border-lt) .setting-command-hotkeys .setting-hotkey {
@@ -1842,7 +1902,12 @@ button.mod-cta {
 :is(.theme-dark.pt-accent-style-border-dt, .theme-light.pt-accent-style-border-lt) :is(.workspace.is-right-sidedock-open .sidebar-toggle-button.mod-right, .workspace.is-left-sidedock-open .sidebar-toggle-button.mod-left):hover {
   color: var(--interactive-accent-hover);
 }
-:is(.theme-dark.pt-accent-style-filled-dt, .theme-light.pt-accent-style-filled-lt) :is(.workspace-tab-header.is-active, .nav-action-button.is-active, .vertical-tab-nav-item.is-active, .nav-file-title.is-active, .suggestion-hotkey) {
+:is(.theme-dark.pt-accent-style-filled-dt, .theme-light.pt-accent-style-filled-lt) .workspace .mod-root .workspace-tabs.mod-stacked .workspace-tab-container .workspace-tab-header.is-active,
+:is(.theme-dark.pt-accent-style-filled-dt, .theme-light.pt-accent-style-filled-lt) .workspace-tab-header.is-active,
+:is(.theme-dark.pt-accent-style-filled-dt, .theme-light.pt-accent-style-filled-lt) .nav-action-button.is-active,
+:is(.theme-dark.pt-accent-style-filled-dt, .theme-light.pt-accent-style-filled-lt) .vertical-tab-nav-item.is-active,
+:is(.theme-dark.pt-accent-style-filled-dt, .theme-light.pt-accent-style-filled-lt) .nav-file-title.is-active,
+:is(.theme-dark.pt-accent-style-filled-dt, .theme-light.pt-accent-style-filled-lt) .suggestion-hotkey {
   background-color: var(--interactive-accent-base);
   border-color: transparent;
 }
@@ -1878,12 +1943,12 @@ button.mod-cta {
 :is(.theme-dark.pt-accent-style-filled-dt, .theme-light.pt-accent-style-filled-lt) :is(button.mod-warning, .side-dock-ribbon-action.is-active[aria-label="Start/stop recording"]):hover {
   color: var(--color-red-tint);
 }
-:is(.theme-dark.pt-accent-style-filled-dt, .theme-light.pt-accent-style-filled-lt) :is(.modal button:not(.mod-cta):not(.mod-warning), .graph-control-content button, .modal-setting-nav-bar .clickable-icon, .document-search-button) {
+:is(.theme-dark.pt-accent-style-filled-dt, .theme-light.pt-accent-style-filled-lt) :is(.pcr-button, .modal button:not(.mod-cta):not(.mod-warning), .graph-control-content button, .modal-setting-nav-bar .clickable-icon, .document-search-button) {
   color: var(--text-normal);
   background-color: var(--color-grey-base);
   border-color: var(--color-grey-base);
 }
-:is(.theme-dark.pt-accent-style-filled-dt, .theme-light.pt-accent-style-filled-lt) :is(.modal button:not(.mod-cta):not(.mod-warning), .graph-control-content button, .modal-setting-nav-bar .clickable-icon, .document-search-button):hover {
+:is(.theme-dark.pt-accent-style-filled-dt, .theme-light.pt-accent-style-filled-lt) :is(.pcr-button, .modal button:not(.mod-cta):not(.mod-warning), .graph-control-content button, .modal-setting-nav-bar .clickable-icon, .document-search-button):hover {
   color: var(--color-grey-tint);
 }
 :is(.theme-dark.pt-accent-style-filled-dt, .theme-light.pt-accent-style-filled-lt) .setting-command-hotkeys .setting-hotkey {
@@ -1919,7 +1984,12 @@ button.mod-cta {
 :is(.theme-dark.pt-accent-style-filled-dt, .theme-light.pt-accent-style-filled-lt) :is(.workspace.is-right-sidedock-open .sidebar-toggle-button.mod-right, .workspace.is-left-sidedock-open .sidebar-toggle-button.mod-left):hover {
   color: var(--interactive-accent-hover);
 }
-:is(.theme-dark.pt-accent-style-borderandfilled-dt, .theme-light.pt-accent-style-borderandfilled-lt) :is(.workspace-tab-header.is-active, .nav-action-button.is-active, .vertical-tab-nav-item.is-active, .nav-file-title.is-active, .suggestion-hotkey) {
+:is(.theme-dark.pt-accent-style-borderandfilled-dt, .theme-light.pt-accent-style-borderandfilled-lt) .workspace .mod-root .workspace-tabs.mod-stacked .workspace-tab-container .workspace-tab-header.is-active,
+:is(.theme-dark.pt-accent-style-borderandfilled-dt, .theme-light.pt-accent-style-borderandfilled-lt) .workspace-tab-header.is-active,
+:is(.theme-dark.pt-accent-style-borderandfilled-dt, .theme-light.pt-accent-style-borderandfilled-lt) .nav-action-button.is-active,
+:is(.theme-dark.pt-accent-style-borderandfilled-dt, .theme-light.pt-accent-style-borderandfilled-lt) .vertical-tab-nav-item.is-active,
+:is(.theme-dark.pt-accent-style-borderandfilled-dt, .theme-light.pt-accent-style-borderandfilled-lt) .nav-file-title.is-active,
+:is(.theme-dark.pt-accent-style-borderandfilled-dt, .theme-light.pt-accent-style-borderandfilled-lt) .suggestion-hotkey {
   background-color: var(--interactive-accent-base);
   border-color: var(--interactive-accent-tint);
 }
@@ -1956,12 +2026,12 @@ button.mod-cta {
 :is(.theme-dark.pt-accent-style-borderandfilled-dt, .theme-light.pt-accent-style-borderandfilled-lt) :is(button.mod-warning, .side-dock-ribbon-action.is-active[aria-label="Start/stop recording"]):hover {
   color: var(--color-red-tint);
 }
-:is(.theme-dark.pt-accent-style-borderandfilled-dt, .theme-light.pt-accent-style-borderandfilled-lt) :is(.modal button:not(.mod-cta):not(.mod-warning), .graph-control-content button, .modal-setting-nav-bar .clickable-icon, .document-search-button) {
+:is(.theme-dark.pt-accent-style-borderandfilled-dt, .theme-light.pt-accent-style-borderandfilled-lt) :is(.pcr-button, .modal button:not(.mod-cta):not(.mod-warning), .graph-control-content button, .modal-setting-nav-bar .clickable-icon, .document-search-button) {
   color: var(--text-normal);
   background-color: var(--color-grey-base);
   border-color: var(--color-grey-tint);
 }
-:is(.theme-dark.pt-accent-style-borderandfilled-dt, .theme-light.pt-accent-style-borderandfilled-lt) :is(.modal button:not(.mod-cta):not(.mod-warning), .graph-control-content button, .modal-setting-nav-bar .clickable-icon, .document-search-button):hover {
+:is(.theme-dark.pt-accent-style-borderandfilled-dt, .theme-light.pt-accent-style-borderandfilled-lt) :is(.pcr-button, .modal button:not(.mod-cta):not(.mod-warning), .graph-control-content button, .modal-setting-nav-bar .clickable-icon, .document-search-button):hover {
   color: var(--color-grey-tint);
 }
 :is(.theme-dark.pt-accent-style-borderandfilled-dt, .theme-light.pt-accent-style-borderandfilled-lt) .setting-command-hotkeys .setting-hotkey {
@@ -2002,6 +2072,12 @@ button.mod-cta {
 }
 .theme-dark .workspace-split.mod-root .view-content {
   background-color: var(--background-secondary-alt);
+}
+.show-view-header .workspace-leaf-content[data-type=image] .view-content {
+  padding-top: calc(var(--header-height) + var(--size-4-4));
+}
+.show-view-header .workspace-leaf-content[data-type=pdf] .view-content {
+  padding-top: var(--header-height);
 }
 p {
   margin-block-start: 0.5em;
@@ -2100,14 +2176,22 @@ a.tag:hover {
 }
 .code-block-flair {
   font-weight: 600;
-  background-color: var(--background-secondary-blur);
   border: 1px solid var(--window-border);
-  -webkit-backdrop-filter: blur(var(--blur-intensity));
-  backdrop-filter: blur(var(--blur-intensity));
+}
+.theme-light .code-block-flair {
+  background-color: var(--background-primary);
+}
+.theme-dark .code-block-flair {
+  background-color: var(--background-secondary-alt);
 }
 :is(.markdown-source-view.mod-cm6.is-live-preview .cm-content .HyperMD-quote, .markdown-rendered blockquote) {
   padding: var(--size-4-2) var(--size-4-4);
-  border-width: 1px 1px 1px 5px;
+  border-top: 1px solid var(--blockquote-border-color);
+  border-right: 1px solid var(--blockquote-border-color);
+  border-bottom: 1px solid var(--blockquote-border-color);
+}
+.markdown-source-view.mod-cm6.is-live-preview .cm-content .HyperMD-quote {
+  padding-left: var(--size-4-6) !important;
 }
 :is(.theme-light.pt-highlight-text-color-lt, .theme-dark.pt-highlight-text-color-dt) span.cm-link {
   color: var(--link-external-color);
@@ -2144,7 +2228,7 @@ a.tag:hover {
 }
 .callout .callout-title-inner {
   padding: var(--size-4-1) 0;
-  margin-left: var(--size-4-1);
+  margin: 0 var(--size-4-1);
 }
 .callout .callout-icon {
   margin: 0 var(--size-4-1) 0 var(--size-4-2);
@@ -2402,9 +2486,15 @@ a.tag:hover {
 .modal-container .prompt .prompt-results {
   padding: var(--size-4-2);
 }
+.theme-light .modal-container .prompt .prompt-results {
+  background-color: var(--background-primary);
+}
+.theme-dark .modal-container .prompt .prompt-results {
+  background-color: var(--background-secondary-alt);
+}
 .modal-container .prompt .prompt-results::-webkit-scrollbar-track {
-  border-radius: var(--radius-s);
-  box-shadow: var(--shadow-s);
+  margin-left: 1px solid var(--window-border);
+  border-radius: unset;
 }
 .theme-light .modal-container .prompt .prompt-results::-webkit-scrollbar-track {
   background-color: var(--background-primary);
@@ -2462,15 +2552,21 @@ input.prompt-input:focus-visible {
 .suggestion-container .suggestion-item {
   padding: var(--size-4-2);
 }
+.suggestion-item.mod-complex {
+  align-items: center;
+}
+.suggestion-item.mod-complex .suggestion-content {
+  overflow: visible;
+}
 .suggestion-prefix {
   padding: 0 var(--size-4-1);
   margin-right: var(--size-4-2);
   font-size: 0.9em;
   font-weight: 600;
-  background: var(--background-primary);
+  color: var(--interactive-accent-text);
+  background-color: var(--background-secondary);
   border: 1px solid var(--window-border);
   border-radius: var(--radius-s);
-  box-shadow: var(--shadow-s);
 }
 .suggestion-prefix::after {
   display: none;
@@ -2491,16 +2587,26 @@ input.prompt-input:focus-visible {
 .nav-folder.mod-root .nav-folder > .nav-folder-title {
   padding-left: var(--size-4-1);
 }
+.nav-file-tag {
+  background-color: var(--background-secondary);
+}
 :is(.nav-file:not(.mod-root), .nav-folder:not(.mod-root) > .nav-folder-children > .nav-folder) {
   margin-left: var(--file-explorer-left-margin);
 }
 :is(.nav-file-title, .nav-folder-title) {
+  min-height: 23px;
   padding: 1px var(--size-4-2);
   border: 2px solid transparent;
 }
 :is(.nav-file-title, .nav-folder-title).is-being-dragged-over {
   background-color: var(--interactive-accent-base);
   border: 2px solid var(--interactive-accent-tint);
+}
+.nav-folder:not(.is-collapsed) > .nav-folder-title {
+  color: var(--text-normal);
+}
+body:not(.is-grabbing) .nav-folder-title:hover .collapse-icon svg.svg-icon {
+  color: var(--nav-item-color-hover);
 }
 .workspace-leaf.mod-active .nav-folder.has-focus > .nav-folder-title {
   background-color: var(--interactive-accent-base);
@@ -2556,7 +2662,10 @@ body:not(.is-grabbing) .nav-folder-title.is-being-dragged,
   padding-bottom: var(--size-4-2);
 }
 .graph-control-section .tree-item-children {
-  padding: var(--size-4-1) var(--size-4-2);
+  padding: var(--size-4-1) 0;
+}
+.graph-control-section .setting-item:not(.mod-search-setting) {
+  padding: var(--size-2-3) var(--size-4-2);
 }
 :is(.graph-view.color-fill-unresolved, .graph-view.color-arrow) {
   opacity: 1;
@@ -2637,10 +2746,10 @@ body:not(.is-grabbing) .nav-folder-title.is-being-dragged,
   background-color: var(--interactive-accent-base);
 }
 .search-result {
-  margin-bottom: var(--size-4-2);
+  margin-bottom: var(--size-4-1);
 }
 .search-result-file-matches {
-  margin: var(--size-4-1) var(--size-4-1) var(--size-4-2) var(--size-4-5);
+  margin: var(--size-4-2);
 }
 .theme-dark .search-result-file-matches {
   background-color: var(--background-secondary-alt);
@@ -2654,6 +2763,8 @@ body:not(.is-grabbing) .nav-folder-title.is-being-dragged,
 }
 .internal-query .search-result-container {
   padding: var(--size-4-2) var(--size-4-1);
+  background-color: unset;
+  border-radius: unset;
 }
 .search-input-container::before {
   top: calc((var(--input-height) - var(--search-icon-size) + var(--size-4-2)) / 2);
@@ -2712,14 +2823,37 @@ body:not(.is-grabbing) .nav-folder-title.is-being-dragged,
   display: none;
 }
 :is(.backlink-pane, .outgoing-link-pane) {
+  padding: 0;
+}
+:is(.backlink-pane, .outgoing-link-pane) > .search-result-container {
   padding: var(--size-4-1);
 }
 :is(.backlink-pane, .outgoing-link-pane) .search-result-container .search-result-container {
   padding: unset;
   margin: var(--size-4-1) var(--size-4-1) var(--size-4-2) var(--size-4-5);
 }
+:is(.backlink-pane, .outgoing-link-pane) > .tree-item-self {
+  padding: var(--size-4-1) var(--size-4-2);
+  margin-bottom: -1px;
+  background-color: var(--background-secondary);
+  border-radius: unset;
+}
+:is(.backlink-pane, .outgoing-link-pane) > .tree-item-self:first-child {
+  border-bottom: 1px solid var(--window-border);
+}
+:is(.backlink-pane, .outgoing-link-pane) > .tree-item-self:nth-last-child(2) {
+  border-top: 1px solid var(--window-border);
+  border-bottom: 1px solid var(--window-border);
+}
 :is(.backlink-pane, .outgoing-link-pane) > .tree-item-self .collapse-icon {
   display: block;
+}
+:is(.backlink-pane, .outgoing-link-pane) > .tree-item-self.is-collapsed:hover,
+:is(.backlink-pane, .outgoing-link-pane) > .tree-item-self:hover .collapse-icon svg.svg-icon {
+  color: var(--highlight-text-normal);
+}
+.tree-item-self.is-clickable:hover svg {
+  color: var(--nav-item-color-hover);
 }
 .embedded-backlinks .nav-header {
   height: unset;
@@ -2897,7 +3031,6 @@ mark:is(.grey, .Grey) {
   font-variant: slashed-zero;
 }
 .pt-font-disable-ligatures * {
-  font-feature-settings: "liga" 0;
   font-variant-ligatures: none;
 }
 div.workspace-leaf-content[data-type=style-settings] div.view-content {
@@ -2906,11 +3039,14 @@ div.workspace-leaf-content[data-type=style-settings] div.view-content {
 div.workspace-leaf-content[data-type=style-settings] .view-content .style-settings-container .setting-item:not(.setting-item-heading) {
   flex-direction: row;
 }
+.style-settings-heading[data-level="0"] + .style-settings-container .style-settings-collapse-indicator {
+  margin-left: unset;
+}
 :is(.setting-item.setting-item-heading.style-settings-heading, .style-settings-container .style-settings-heading) {
   border-bottom: unset;
 }
-:is(div.style-settings-heading[data-level="1"] div.setting-item-description, div.style-settings-heading div.setting-item-description) {
-  padding-left: unset;
+.setting-item-heading .setting-item-description {
+  padding-left: var(--size-4-4);
 }
 .setting-item.setting-item-heading.is-collapsed {
   margin-bottom: unset;
@@ -2920,8 +3056,9 @@ div.workspace-leaf-content[data-type=style-settings] .view-content .style-settin
 }
 :is(.style-settings-heading[data-level="0"] + .style-settings-container, .style-settings-container) {
   padding-bottom: var(--size-4-2);
-  padding-left: var(--size-4-2);
+  padding-left: var(--size-4-4);
   margin-left: var(--size-4-1);
+  border-left: 1px solid var(--window-border);
 }
 .setting-item.style-settings-heading[data-id=appearance] .style-settings-collapse-indicator::after {
   margin-left: var(--size-4-2);
@@ -3120,17 +3257,25 @@ div.workspace-leaf-content[data-type=style-settings] .view-content .style-settin
 .style-settings-container .setting-item[data-id^=color-accent-l-text-dt] .setting-item-control::before {
   background-color: var(--color-accent-text-dt);
 }
+.kanban-plugin {
+  background-color: unset;
+}
 .kanban-plugin__lane-header-wrapper {
   gap: var(--size-4-1);
-  padding: var(--size-4-2);
+  padding: var(--size-4-1) var(--size-4-2);
+}
+.kanban-plugin__lane-wrapper {
+  width: 272px !important;
+  margin-right: var(--size-4-4);
 }
 .theme-dark .kanban-plugin__item-title-wrapper {
   background: var(--background-secondary-alt);
 }
-.kanban-plugin__new-item-button {
+button.kanban-plugin__new-item-button {
+  background-color: var(--background-primary);
   border: 1px solid var(--window-border);
 }
-.kanban-plugin__new-item-button:hover {
+button.kanban-plugin__new-item-button:hover {
   background-color: var(--background-modifier-hover);
 }
 .kanban-plugin__lane-items {
@@ -3141,10 +3286,17 @@ div.workspace-leaf-content[data-type=style-settings] .view-content .style-settin
 .kanban-plugin__lane-items > div {
   margin-top: unset;
 }
+.theme-light .kanban-plugin__scroll-container.kanban-plugin__vertical {
+  background-color: var(--background-primary);
+}
+.theme-dark .kanban-plugin__scroll-container.kanban-plugin__vertical {
+  background-color: var(--background-secondary);
+}
 :is(.kanban-plugin__lane-grip, div.kanban-plugin__lane-title-count, .kanban-plugin__lane button.kanban-plugin__lane-settings-button) {
   margin: unset;
 }
 .kanban-plugin__lane button.kanban-plugin__lane-settings-button {
+  height: unset;
   box-shadow: unset;
 }
 .modal.kanban-plugin__board-settings-modal {
@@ -3175,8 +3327,7 @@ div.workspace-leaf-content[data-type=style-settings] .view-content .style-settin
 .show-view-header .kanban-plugin__board > div {
   padding-top: calc(var(--header-height) + var(--size-4-4));
 }
-.theme-light div.kanban-plugin__lane-title-count,
-.theme-dark div.kanban-plugin__lane-title-count {
+div.kanban-plugin__lane-title-count {
   display: block;
   height: fit-content;
   padding: 0 4px;
@@ -3184,15 +3335,213 @@ div.workspace-leaf-content[data-type=style-settings] .view-content .style-settin
   font-weight: 600;
   line-height: 1.5em;
   color: var(--text-normal);
-  background-color: var(--background-secondary);
-  border: 1px solid var(--window-border);
+  background-color: unset;
   border-radius: var(--radius-s);
+}
+.kanban-plugin__lane-grip,
+.kanban-plugin__lane-settings-button-wrapper {
+  border-radius: var(--radius-s);
+}
+.kanban-plugin__lane-grip:hover,
+.kanban-plugin__lane-settings-button-wrapper:hover {
+  color: var(--interactive-accent-hover);
+  background-color: var(--interactive-accent-base);
+}
+.kanban-plugin__lane-grip {
+  padding: var(--size-4-1) 0;
 }
 .pt-center-kanban-title-text .kanban-plugin__lane-title {
   align-items: center;
 }
 .pt-disable-kanban-title-count div.kanban-plugin__lane-title-count {
   display: none;
+}
+.theme-light.pt-kanban-background-dots-lt .kanban-plugin__board {
+  background-image: radial-gradient(circle, var(--background-secondary) 1px, rgba(0, 0, 0, 0) 1px);
+  background-attachment: local;
+  background-size: 8px 8px;
+}
+.theme-dark.pt-kanban-background-dots-dt .kanban-plugin__board {
+  background-image: radial-gradient(circle, var(--background-secondary) 1px, rgba(0, 0, 0, 0) 1px);
+  background-attachment: local;
+  background-size: 8px 8px;
+}
+.theme-light.pt-kanban-background-grid-lt .kanban-plugin__board {
+  background-image: linear-gradient(to right, var(--background-secondary) 1px, transparent 1px), linear-gradient(to bottom, var(--background-secondary) 1px, transparent 1px);
+  background-attachment: local;
+  background-size: 8px 8px;
+}
+.theme-dark.pt-kanban-background-grid-dt .kanban-plugin__board {
+  background-image: linear-gradient(to right, var(--background-secondary) 1px, transparent 1px), linear-gradient(to bottom, var(--background-secondary) 1px, transparent 1px);
+  background-attachment: local;
+  background-size: 8px 8px;
+}
+.pt-icon-folder-accent .obsidian-icon-folder-icon {
+  color: var(--interactive-accent-text);
+}
+.pt-icons-accent .obsidian-icon {
+  color: var(--interactive-accent-text);
+}
+div#cMenuModalBar {
+  background-color: var(--background-secondary);
+  border: 1px solid var(--window-border);
+  border-radius: var(--radius-m);
+  box-shadow: var(--shadow-l);
+}
+div#cMenuModalBar .cMenuCommandItem {
+  color: var(--text-muted);
+  background-color: transparent;
+}
+div#cMenuModalBar button.cMenuCommandItem:hover {
+  color: var(--highlight-text-normal);
+  background-color: var(--background-modifier-hover);
+}
+div#cMenuModalBar.cMenuGlassAesthetic {
+  background: var(--background-secondary-blur);
+  -webkit-backdrop-filter: blur(var(--blur-intensity));
+  backdrop-filter: blur(var(--blur-intensity));
+}
+.pt-status-bar-position-floating div#cMenuModalBar {
+  bottom: calc(var(--size-4-3) + 33px + var(--scroll-bar-size)) !important;
+}
+.pt-status-bar-position-fixed div#cMenuModalBar {
+  bottom: calc(var(--size-2-3) + 26px + var(--scroll-bar-size)) !important;
+}
+.workspace-leaf-content[data-type=calendar] .view-content {
+  padding: unset;
+}
+.workspace-leaf-content[data-type=calendar] #calendar-container {
+  padding: unset;
+  border-bottom: 1px solid var(--window-border);
+}
+.workspace-leaf-content[data-type=calendar] #calendar-container .nav {
+  height: var(--header-height);
+  padding: var(--size-4-3);
+  margin: unset;
+  background: var(--background-secondary);
+  border-bottom: 1px solid var(--window-border);
+}
+.workspace-leaf-content[data-type=calendar] #calendar-container td.svelte-egt0yd {
+  background-color: var(--background-secondary);
+}
+.workspace-leaf-content[data-type=calendar] #calendar-container th.svelte-pcimu8 {
+  background-color: var(--background-secondary);
+  border-bottom: 1px solid var(--window-border);
+}
+.workspace-leaf-content[data-type=calendar] #calendar-container th.svelte-pcimu8:first-child {
+  border-right: 1px solid var(--window-border);
+}
+.workspace-leaf-content[data-type=calendar] #calendar-container div.today {
+  font-size: 1em;
+  font-weight: 600;
+  color: var(--interactive-accent-text);
+}
+.workspace-leaf-content[data-type=calendar] #calendar-container .day.svelte-q3wqg9:active,
+.workspace-leaf-content[data-type=calendar] #calendar-container .active.svelte-q3wqg9,
+.workspace-leaf-content[data-type=calendar] #calendar-container .active.today.svelte-q3wqg9 {
+  background-color: var(--interactive-accent-base);
+}
+.workspace-leaf-content[data-type=calendar] #calendar-container .week-num {
+  font-size: 0.7em;
+}
+.workspace-leaf-content[data-type=calendar] #calendar-container .year {
+  color: var(--interactive-accent-text);
+}
+.workspace-leaf-content[data-type=calendar] #calendar-container .dot.filled {
+  fill: var(--interactive-accent-text);
+}
+.workspace-leaf-content[data-type=calendar] #calendar-container .hollow.task {
+  stroke: var(--interactive-accent-text);
+}
+.workspace-leaf-content[data-type=calendar] #calendar-container .arrow:hover svg,
+.workspace-leaf-content[data-type=calendar] #calendar-container .reset-button:hover {
+  color: var(--highlight-text-normal);
+  background-color: var(--background-modifier-hover);
+  border-radius: var(--radius-s);
+}
+.workspace-leaf-content[data-type=recent-files] .view-content {
+  padding: unset;
+}
+.workspace-leaf-content[data-type=recent-files] .nav-folder.mod-root {
+  height: fit-content;
+  padding: var(--size-4-1);
+}
+.theme-light .workspace-leaf-content[data-type=recent-files] .nav-folder.mod-root {
+  background-color: var(--background-primary);
+}
+.theme-dark .workspace-leaf-content[data-type=recent-files] .nav-folder.mod-root {
+  background-color: var(--background-secondary-alt);
+}
+.workspace-leaf-content[data-type=dangling-links] .view-content {
+  padding: unset;
+}
+.workspace-leaf-content[data-type=dangling-links] .view-content .container h3:first-of-type {
+  display: none;
+}
+.workspace-leaf-content[data-type=dangling-links] .view-content .container details:first-of-type summary {
+  border-bottom: 1px solid var(--window-border);
+}
+.workspace-leaf-content[data-type=dangling-links] .view-content .container details:not(:first-of-type) summary {
+  border-top: 1px solid var(--window-border);
+  border-bottom: 1px solid var(--window-border);
+}
+.workspace-leaf-content[data-type=dangling-links] .view-content .container details:not([open]) {
+  color: var(--text-faint);
+}
+.workspace-leaf-content[data-type=dangling-links] .view-content .container details summary {
+  position: relative;
+  padding: var(--size-4-1) var(--size-4-2);
+  margin-bottom: -1px;
+  font-size: var(--font-ui-small);
+  background-color: var(--background-secondary);
+}
+.workspace-leaf-content[data-type=dangling-links] .view-content .container details ul {
+  padding-inline-start: 0;
+  margin: 8px;
+  font-family: var(--font-text);
+  font-size: 14px;
+  border: 1px solid var(--window-border);
+  border-radius: var(--radius-m);
+}
+.workspace-leaf-content[data-type=dangling-links] .view-content .container details ul li {
+  width: 100%;
+  padding: var(--size-4-2) var(--size-4-5) var(--size-4-2) var(--size-4-3);
+  color: var(--text-normal);
+  color: var(--text-muted);
+  box-shadow: var(--shadow-s);
+}
+.workspace-leaf-content[data-type=dangling-links] .view-content .container details ul li:not(:last-of-type) {
+  border-bottom: 1px solid var(--window-border);
+}
+.workspace-leaf-content[data-type=dangling-links] .view-content .container details ul li:hover {
+  color: var(--text-normal);
+  background-color: var(--text-selection);
+}
+.workspace-leaf-content[data-type=dangling-links] .view-content .container details ul li ::marker {
+  display: none;
+}
+.workspace-leaf-content[data-type=dangling-links] .view-content .nav-header {
+  gap: var(--size-4-1);
+  color: var(--icon-color);
+}
+:is(.pt-nav-header-left-sidebar-position-top .workspace-split.mod-left-split .workspace-leaf-content[data-type=dangling-links] .view-content .nav-header, .pt-nav-header-right-sidebar-position-top .workspace-split.mod-right-split .workspace-leaf-content[data-type=dangling-links] .view-content .nav-header) {
+  position: sticky;
+  top: 0;
+  z-index: var(--layer-popover);
+}
+.workspace-leaf-content[data-type=dangling-links] .view-content .nav-action-button {
+}
+.workspace-leaf-content[data-type=dangling-links] .view-content .nav-action-button:hover {
+  color: var(--icon-color-hover);
+  background-color: var(--background-modifier-hover);
+  opacity: var(--icon-opacity-hover);
+}
+.workspace-leaf-content[data-type=dangling-links] .view-content .nav-action-button svg {
+  width: var(--icon-size);
+  height: var(--icon-size);
+}
+.workspace-leaf-content[data-type=dangling-links] .view-content .nav-action-button path[stroke-width] {
+  color: var(--interactive-accent-text);
 }
 .workspace-leaf-content[data-type=advanced-tables-toolbar] {
 }
@@ -3206,6 +3555,116 @@ div.workspace-leaf-content[data-type=style-settings] .view-content .style-settin
 }
 .workspace-leaf-content[data-type=advanced-tables-toolbar] .nav-header {
   flex-direction: column;
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] {
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] > div.view-content {
+  padding: 0;
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-folder-pane {
+  resize: unset;
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-folders-tree-wrapper {
+  padding: unset;
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-folders-tree-wrapper > .oz-folder-contents {
+  margin-right: var(--size-4-1);
+  margin-bottom: var(--size-4-1);
+  margin-left: 14px !important;
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-folders-tree-wrapper > .treeview {
+  padding: 0 var(--size-4-1) 0 0;
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-folder-contents {
+  padding-left: 0;
+  margin-left: 15px !important;
+  border-left: 1px solid var(--window-border);
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-folder-element {
+  margin-left: var(--size-4-1);
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-icon-div {
+  padding-left: var(--size-4-1);
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-folders-action-items,
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-flex-container {
+  margin-bottom: unset;
+  background-color: var(--background-secondary-blur);
+  border: unset;
+  border-bottom: 1px solid var(--window-border);
+  border-radius: unset;
+  -webkit-backdrop-filter: blur(var(--blur-intensity));
+  backdrop-filter: blur(var(--blur-intensity));
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-folders-action-items {
+  margin-bottom: var(--size-4-1);
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-nav-action-button:hover {
+  color: var(--highlight-text-normal);
+  background-color: var(--background-modifier-hover);
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-file-tree-header {
+  margin-top: unset;
+  font-weight: var(--font-medium);
+  background-color: var(--background-secondary-blur);
+  border-bottom: 1px solid var(--window-border);
+  border-radius: unset;
+  -webkit-backdrop-filter: blur(var(--blur-intensity));
+  backdrop-filter: blur(var(--blur-intensity));
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .file-tree-header-fixed {
+  padding-right: unset;
+  padding-left: unset;
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] #file-tree-divider {
+  height: 1px;
+  margin-bottom: unset;
+  background-color: var(--window-border);
+  border-bottom: unset;
+  opacity: 1;
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] #file-tree-divider:hover {
+  height: 3px;
+  background-color: var(--divider-color-hover);
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-nav-file-tag {
+  background-color: unset;
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-folder-block {
+  padding-top: unset;
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .treeview {
+  margin-bottom: var(--size-2-1);
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-explorer-container {
+  padding-right: unset !important;
+  padding-left: unset !important;
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .is-folder-active {
+  color: var(--interactive-accent-text);
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .drag-entered,
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-folder-element:hover,
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-nav-file:hover {
+  background-color: var(--background-modifier-hover);
+  border-radius: var(--radius-s);
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .drag-entered .oz-folder-name,
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .drag-entered .oz-nav-file-title,
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .drag-entered .oz-nav-file-tag,
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-folder-element:hover .oz-folder-name,
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-folder-element:hover .oz-nav-file-title,
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-folder-element:hover .oz-nav-file-tag,
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-nav-file:hover .oz-folder-name,
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-nav-file:hover .oz-nav-file-title,
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] .oz-nav-file:hover .oz-nav-file-tag {
+  color: var(--highlight-text-normal);
+}
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] div.oz-nav-file.is-active,
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] div.oz-nav-file.is-active .oz-nav-file-tag,
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] div.oz-nav-file.is-active div.oz-nav-file-title,
+.workspace-leaf div.workspace-leaf-content[data-type=file-tree-view] div.oz-nav-file.is-active div.oz-nav-file-title-content {
+  color: var(--highlight-text-normal);
 }
 /*!
 /* @settings
@@ -4611,67 +5070,6 @@ settings:
         default: 1.2
         format: em
     -
-        id: header-padding-size
-        title: Header Padding Size
-        description: The additional space above and below the headers.
-        type: heading
-        level: 3
-        collapsed: true
-    -
-        id: h1-padding-size
-        title: Header 1 (H1) Padding Size (px)
-        type: variable-number-slider
-        min: 0
-        max: 20
-        step: 1
-        default: 0
-        format: px
-    -
-        id: h2-padding-size
-        title: Header 2 (H2) Padding Size (px)
-        type: variable-number-slider
-        min: 0
-        max: 20
-        step: 1
-        default: 0
-        format: px
-    -
-        id: h3-padding-size
-        title: Header 3 (H3) Padding Size (px)
-        type: variable-number-slider
-        min: 0
-        max: 20
-        step: 1
-        default: 0
-        format: px
-    -
-        id: h4-padding-size
-        title: Header 4 (H4) Padding Size (px)
-        type: variable-number-slider
-        min: 0
-        max: 20
-        step: 1
-        default: 0
-        format: px
-    -
-        id: h5-padding-size
-        title: Header 5 (H5) Padding Size (px)
-        type: variable-number-slider
-        min: 0
-        max: 20
-        step: 1
-        default: 0
-        format: px
-    -
-        id: h6-padding-size
-        title: Header 6 (H6) Padding Size (px)
-        type: variable-number-slider
-        min: 0
-        max: 20
-        step: 1
-        default: 0
-        format: px
-    -
         id: header-text-color
         title: Header Text Color
         description: Options for changing the color of each header type.
@@ -5744,7 +6142,7 @@ settings:
                 value: var(--interactive-accent-text)
             -
                 label: Custom
-                value: var(--text-italic-bold-custom-color-lt)
+                value: var(--text-italic-bold-custom-color-dt)
             -
                 label: Red
                 value: var(--color-red-text)
@@ -5983,7 +6381,7 @@ settings:
         level: 2
         collapsed: true
     -
-        id: border-radius
+        id: radius-m
         title: Border Radius Medium (px)
         description: The size of the border radius around larger elements of the UI.
         type: variable-number-slider
@@ -6134,39 +6532,10 @@ settings:
         description: Increases the Left Margin for Files/Folders in order indent them within another folder.
         type: variable-number-slider
         format: 'px'
-        default: 4
-        min: 1
+        default: 0
+        min: 0
         max: 25
         step: 1
-    -
-        id: color-folders
-        title: Colored Folders
-        description: Changes the background of folders in the File Explorer to help with readability.
-        type: heading
-        level: 4
-        collapsed: true
-    -
-        id: pt-color-folders
-        title: Enable Colored Folders
-        type: class-toggle
-        default: false
-    -
-        id: pt-color-folders-text
-        title: Colored Folders Root Folder Text Alignment
-        description: Horizontally aligns the Root Folder Text.
-        type: class-select
-        allowEmpty: false
-        default: pt-color-folders-text-center
-        options:
-            -
-                label: Left
-                value: pt-color-folders-text-left
-            -
-                label: Center
-                value: pt-color-folders-text-center
-            -
-                label: Right
-                value: pt-color-folders-text-right
     -
         id: custom-vault-banner
         title: Custom Vault Banner
@@ -6224,13 +6593,6 @@ settings:
         type: variable-text
         default: url(data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' x='0px' y='0px'%0Awidth='40' height='40'%0AviewBox='0 0 40 40'%0Astyle=' fill:%23000000;'%3E%3Cpath fill='%23dbb065' d='M1.5 35.5L1.5 4.5 11.793 4.5 14.793 7.5 35.5 7.5 35.5 35.5z'%3E%3C/path%3E%3Cpath fill='%23967a44' d='M11.586,5l2.707,2.707L14.586,8H15h20v27H2V5H11.586 M12,4H1v32h35V7H15L12,4L12,4z'%3E%3C/path%3E%3Cg%3E%3Cpath fill='%23f5ce85' d='M1.599 35.5L5.417 14.5 16.151 14.5 19.151 12.5 39.41 12.5 35.577 35.5z'%3E%3C/path%3E%3Cpath fill='%23967a44' d='M38.82,13l-3.667,22H2.198l3.636-20H16h0.303l0.252-0.168L19.303,13H38.82 M40,12H19l-3,2H5L1,36 h35L40,12L40,12z'%3E%3C/path%3E%3C/g%3E%3C/svg%3E)
     -
-        id: outline
-        title: Outline
-        description: Customisation options for the Outline module.
-        type: heading
-        level: 3
-        collapsed: true
-    -
         id: titlebar
         title: Titlebar
         description: Settings for changing the style of the Titlebar.
@@ -6246,7 +6608,7 @@ settings:
     -
         id: status-bar
         title: Status Bar
-        description: Settings for the Status Bar; Adjust position, Change the order of items, etc.
+        description: Settings for the Status Bar. Adjust position, Change the order of items, etc.
         type: heading
         level: 2
         collapsed: true
@@ -6371,7 +6733,7 @@ settings:
     -
         id: scrollbar
         title: Scrollbar
-        description: Settings for the Scrollbar; Adjust the width, Add Scroll Buttons, etc.
+        description: Settings for the Scrollbar. Adjust the width, Add Scroll Buttons, etc.
         type: heading
         level: 2
         collapsed: true
@@ -6394,7 +6756,7 @@ settings:
     -
         id: kanban-settings
         title: Kanban
-        description: Mgmeyers' Obsidian Kanban Plugin (https://github.com/mgmeyers/obsidian-kanban).
+        description: Mgmeyers Obsidian Kanban Plugin (https://github.com/mgmeyers/obsidian-kanban).
         type: heading
         level: 2
         collapsed: true
@@ -6416,56 +6778,38 @@ settings:
         description: Change the Light Theme background of the Kanban board.
         type: class-select
         allowEmpty: false
-        default: pt-kanban-background-grid-plain-lt
+        default: pt-kanban-background-grid-lt
         options:
             -
                 label: Solid Color
                 value: pt-kanban-background-default-lt
             -
-                label: Transparent
-                value: pt-kanban-background-transparent-lt
+                label: Dots
+                value: pt-kanban-background-dots-lt
             -
-                label: Dots Plain Color
-                value: pt-kanban-background-dots-plain-lt
-            -
-                label: Dots Accent Color
-                value: pt-kanban-background-dots-accent-lt
-            -
-                label: Grid Plain Color
-                value: pt-kanban-background-grid-plain-lt
-            -
-                label: Grid Accent Color
-                value: pt-kanban-background-grid-accent-lt
+                label: Grid
+                value: pt-kanban-background-grid-lt
     -
         id: pt-kanban-background-dt
         title: Dark Theme Kanban Background
         description: Change the Dark Theme background of the Kanban board.
         type: class-select
         allowEmpty: false
-        default: pt-kanban-background-grid-plain-dt
+        default: pt-kanban-background-grid-dt
         options:
             -
                 label: Solid Color
                 value: pt-kanban-background-default-dt
             -
-                label: Transparent
-                value: pt-kanban-background-transparent-dt
+                label: Dots
+                value: pt-kanban-background-dots-dt
             -
-                label: Dots Plain Color
-                value: pt-kanban-background-dots-plain-dt
-            -
-                label: Dots Accent Color
-                value: pt-kanban-background-dots-accent-dt
-            -
-                label: Grid Plain Color
-                value: pt-kanban-background-grid-plain-dt
-            -
-                label: Grid Accent Color
-                value: pt-kanban-background-grid-accent-dt
+                label: Grid
+                value: pt-kanban-background-grid-dt
     -
         id: icon-folder-settings
         title: Icon Folder
-        description: Florian Woelki's Icon Folder (https://github.com/FlorianWoelki/obsidian-icon-folder).
+        description: Florian Woelki Icon Folder (https://github.com/FlorianWoelki/obsidian-icon-folder).
         type: heading
         level: 2
         collapsed: true
@@ -6478,7 +6822,7 @@ settings:
     -
         id: icons-settings
         title: Icons
-        description: visini's Icons (https://github.com/visini/obsidian-icons-plugin).
+        description: visini Icons (https://github.com/visini/obsidian-icons-plugin).
         type: heading
         level: 2
         collapsed: true
@@ -6499,12 +6843,6 @@ settings:
         id: pt-disable-blur
         title: Disable Blurred Background Effect
         description: Disables the blur background in all elements that use it by making them opaque.
-        default: false
-        type: class-toggle
-    -
-        id: pt-hide-view-header
-        title: Hide Note Titlebar
-        description: Hides the Note Titlebar until you hover over the top part of a note.
         default: false
         type: class-toggle
     -
@@ -6536,7 +6874,7 @@ settings:
         collapsed: true
     -
         id: support-donate
-        title: Buy Me a Coffee!
+        title: Buy Me a Coffee
         description: https://www.buymeacoffee.com/DamianKorcz
         type: heading
         level: 2

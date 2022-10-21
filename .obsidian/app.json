@@ -27,5 +27,6 @@
   "rightToLeft": false,
   "autoPairMarkdown": true,
   "smartIndentList": true,
-  "foldHeading": true
+  "foldHeading": true,
+  "showInlineTitle": true
 }
