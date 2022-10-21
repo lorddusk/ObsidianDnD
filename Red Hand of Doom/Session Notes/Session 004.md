@@ -36,7 +36,7 @@ It has the size of a normal tavern
 
 A shed without door is open on the southside of the hive. On the inside clay icons reside looking like wasp kobolds.
 Several trinkets
-Copper pots are connected with pipes, set up like destilling lab. It's filled with a thicke
+Copper pots are connected with pipes, set up like distilling lab. It's filled with a thicker scarlet red liquid. On the edge of the basin has a written message.
 
 
 [[Aelar]] chucks a torch towards the hive
