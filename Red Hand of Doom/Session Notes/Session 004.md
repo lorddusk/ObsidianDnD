@@ -29,4 +29,8 @@ create_date: {{21 October 2022}}
 collapse: closed
 ![[Rolls S004#^combat]]
 ```
+After murdering a dozen or so kobolds we investigate the second island (Point B)
+On this island the nest/hive lays
+
 # Loot:
+
