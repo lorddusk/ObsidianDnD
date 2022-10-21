@@ -31,6 +31,6 @@ collapse: closed
 ```
 After murdering a dozen or so kobolds we investigate the second island (Point B)
 On this island the nest/hive lays
-
+An attempt to make them look like houses was not very successful
 # Loot:
 
