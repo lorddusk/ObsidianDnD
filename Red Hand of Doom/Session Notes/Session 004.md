@@ -10,15 +10,16 @@ players: [Peter, Danny, Rob, Tim]
 create_date: {{21 October 2022}}
 ---
 
-## Summary of This Session:
+# Summary of This Session:
 
 ^summary
 
-## Recap of Last Session:
+# Recap of Last Session:
 ![[Red Hand of Doom/Session Notes/Session 003#^summary]]
 
-## Housekeeping:
+# Housekeeping:
 - [[DM Inspiration]] Dice - Currently left : 4 
-## Notes:
+# Notes:
+## 2 Marpenoth
 
-## Loot:
+# Loot:
