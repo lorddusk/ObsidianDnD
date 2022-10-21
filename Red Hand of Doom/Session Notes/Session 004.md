@@ -25,5 +25,8 @@ create_date: {{21 October 2022}}
 [[Booker]] and [[Alton]] await further implications in the nearby cornflowers. 
 [[Keth]] tries to communicate with the 3 kobolds on guard, but fails miserably. One of the kobolds fires their bow.
 
-
+```ad-combat
+collapse: closed
+![[Rolls S004#^combat]]
+```
 # Loot:
