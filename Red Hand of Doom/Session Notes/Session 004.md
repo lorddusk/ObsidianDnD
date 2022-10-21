@@ -21,5 +21,5 @@ create_date: {{21 October 2022}}
 - [[DM Inspiration]] Dice - Currently left : 4 
 # Notes:
 ## 2 Marpenoth
-
+![[Screenshot 2022-10-21 at 8.25.45 PM.png||500]]
 # Loot:
