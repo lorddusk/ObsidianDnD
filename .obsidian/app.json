@@ -23,8 +23,9 @@
   "readableLineLength": false,
   "fileSortOrder": "alphabetical",
   "strictLineBreaks": false,
-  "showIndentGuide": false,
+  "showIndentGuide": true,
   "rightToLeft": false,
   "autoPairMarkdown": true,
-  "smartIndentList": true
+  "smartIndentList": true,
+  "foldHeading": true
 }
