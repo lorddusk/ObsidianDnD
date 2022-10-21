@@ -18,7 +18,7 @@
 | 1   | Initiative     | d20  | 17   |       |      |      |      |
 | 2   | Eldritch Blast | d20  | 10   |       |      |      |      |
 | 3   | Damage         | d10  | 3    |       |      |      |      |
-| 4   | Eldritch Blase | d20  | 7    |       |      |      |      |
+| 4   | Eldritch Blast | d20  | 7    |       |      |      |      |
 | 5   |                |      |      |       |      |      |      |
 | 6   |                |      |      |       |      |      |      |
 | 7   |                |      |      |       |      |      |      |
