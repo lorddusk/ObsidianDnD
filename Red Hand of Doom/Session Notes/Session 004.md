@@ -34,7 +34,9 @@ On this island the nest/hive lays, bones and feathers lay around
 An attempt to make them look like houses was not very successful.
 It has the size of a normal tavern
 
-A shed without door is open on the southside o
+A shed without door is open on the southside of the hive. On the inside clay icons reside looking like wasp kobolds.
+Several trinkets
+Copper pots are connected with pipes, set up like destilling lab. It's filled with a thicke
 
 
 [[Aelar]] chucks a torch towards the hive
