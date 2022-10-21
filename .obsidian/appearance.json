@@ -8,5 +8,7 @@
     "larger popup",
     "S - Encoded Icons",
     "Theme - D&D WOTC"
-  ]
+  ],
+  "baseFontSize": 14,
+  "accentColor": ""
 }

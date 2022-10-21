@@ -6,6 +6,8 @@ desc:
 tags: NPC
 ---
 
-# Jeralla 
+# Jeralla
+
 Name found in a note that was on a kobold. 
+
 Allegedly the boss of a pack of kobolds.

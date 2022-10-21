@@ -8,7 +8,7 @@ tags: NPC, Family
 
 # Ramose Crest
 ___ 
-## References: 
+## References:
 - Father of [[Booker]]
 - Father of [[Albanus Crest]]
 - Father of [[Chaedi Lia Crest]]

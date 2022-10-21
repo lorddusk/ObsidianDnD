@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasQuestion",
       "FasList",
       "FasFilter",
       "FasBookOpen",
-      "FasUserGroup"
+      "FasUserGroup",
+      "FasTags"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +35,8 @@
   "Red Hand of Doom/Timeline Entries": "FasTimeline",
   "Red Hand of Doom/Compendium/Groups": "FasUserGroup",
   "Filters.md": "FasFilter",
-  "Red Hand of Doom/Quests and Questions.md": "FasQuestion"
+  "Red Hand of Doom/Quests and Questions.md": {
+    "iconName": null,
+    "inheritanceIcon": "FasCircleQuestion"
+  }
 }

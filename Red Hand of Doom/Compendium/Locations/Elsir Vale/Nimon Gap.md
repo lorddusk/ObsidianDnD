@@ -4,15 +4,17 @@ type: location
 tags: Location
 ---
 
-# Nimon Gap 
+# Nimon Gap
+
 Resides in [[Elsir Vale]]
+
 Known for their apple orchards and sheep herders.
 
-### Points of Interest
+## Points of Interest
 - Home of the [[Harvest Festival]]
 - The graveyard is in the south of town.
 - The Squinting Beholder Inn, owned by [[Crucia Cromwell]]
 
-### Population
+## Population
 - 35% Halfling
 - 65% Human

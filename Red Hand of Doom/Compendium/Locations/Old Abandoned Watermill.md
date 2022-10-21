@@ -3,13 +3,16 @@ type: location
 tags: Location
 ---
 
-# Old abandoned watermill 
+# Old Abandoned Watermill
+
 Possible hideout of [[Veshje]]
+
 ```ad-ooc
 collapse:closed
 ```
 
 ___ 
-## References: - 
+## References: -
 --- 
+
 creation date:: [[2022-10-01]] 22:58

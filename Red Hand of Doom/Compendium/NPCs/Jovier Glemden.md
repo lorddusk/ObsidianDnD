@@ -6,8 +6,10 @@ desc: tbd
 tags: NPC
 ---
 
-# Jovier Glemden 
+# Jovier Glemden
+
 [[Brother Keefe]]'s senior
+
 ```ad-ooc
 collapse:closed
 ```

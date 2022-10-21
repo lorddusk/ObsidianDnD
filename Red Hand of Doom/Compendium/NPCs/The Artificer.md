@@ -6,9 +6,10 @@ desc: †
 tags: NPC
 ---
 
-# The Artificer 
+# The Artificer
 
 Has a connection to [[Raaxil]] and [[Jeralla]]
+
 ```ad-ooc
 collapse:closed
 ```

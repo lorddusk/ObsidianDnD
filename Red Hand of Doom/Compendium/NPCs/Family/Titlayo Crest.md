@@ -8,7 +8,7 @@ tags: NPC, Family
 
 # Titlayo Crest
 ___ 
-## References: 
+## References:
 - Mother of [[Booker]]
 - Mother of [[Albanus Crest]]
 - Mother of [[Chaedi Lia Crest]]

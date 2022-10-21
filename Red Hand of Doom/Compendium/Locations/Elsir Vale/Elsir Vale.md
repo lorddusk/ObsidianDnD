@@ -5,7 +5,7 @@ type: location
 tags: Location
 ---
 
-# Elsir Vale 
+# Elsir Vale
 ```leaflet
 id: elsir
 image: [[Elsir Vale.jpg]]

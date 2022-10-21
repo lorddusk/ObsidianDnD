@@ -8,7 +8,7 @@ tags: NPC, Family
 
 # Chaedi Lia Crest
 ___ 
-## References: 
+## References:
 - Sister of [[Booker]]
 - Sister of [[Albanus Crest]]
 - Half-sister of [[Eric Farrsight]]

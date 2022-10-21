@@ -9,7 +9,7 @@ tags: Party
 ---
 
 # Aelar Amastacia
--   Originally from a Druidic Settlement (The Keepers) in [[The Witchwood]]
+- Originally from a Druidic Settlement (The Keepers) in [[The Witchwood]]
 ```ad-ooc
 title: Out of Character Knowledge
 collapse: closed
