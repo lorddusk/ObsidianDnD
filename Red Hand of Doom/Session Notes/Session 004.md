@@ -29,6 +29,7 @@ create_date: {{21 October 2022}}
 collapse: closed
 ![[Rolls S004#^combat1]]
 ```
+
 After murdering a dozen or so kobolds we investigate the second island (Point B)
 On this island the nest/hive lays, bones and feathers lay around
 An attempt to make them look like houses was not very successful.
@@ -47,6 +48,8 @@ A giant wasp exits the hive from the top.
 collapse: closed
 ![[Rolls S004#^combat2]]
 ```
+
+The hive collapses, a few wasps exit but perish after a short while.
 
 # Loot:
 
