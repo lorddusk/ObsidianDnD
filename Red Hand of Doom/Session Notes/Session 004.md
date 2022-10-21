@@ -32,7 +32,7 @@ collapse: closed
 After murdering a dozen or so kobolds we investigate the second island (Point B)
 On this island the nest/hive lays, bones and feathers lay around
 An attempt to make them look like houses was not very successful.
-It has the size of a normal tavern
+It has the size of a normal tavern.
 
 A shed without door is open on the south-side of the hive. On the inside clay icons reside looking like wasp kobolds.
 Several trinkets
