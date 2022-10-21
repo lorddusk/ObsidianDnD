@@ -19,8 +19,8 @@
 | 2   | Eldritch Blast | d20  | 10   |       |      |      |      |
 | 3   | Damage         | d10  | 3    |       |      |      |      |
 | 4   | Eldritch Blast | d20  | 7    |       |      |      |      |
-| 5   | Eldritch Blase | d20  | 20   |       |      |      | CRIT | 
-| 6   |                |      |      |       |      |      |      |
+| 5   | Eldritch Blast | d20  | 20   |       |      |      | CRIT |
+| 6   | Damage         | d10  | 6    |       |      |      |      |
 | 7   |                |      |      |       |      |      |      |
 | 8   |                |      |      |       |      |      |      |
 ^combat
