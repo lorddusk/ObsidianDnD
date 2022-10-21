@@ -10,8 +10,6 @@ players: [Peter, Danny, Rob, Tim]
 create_date: {{21 October 2022}}
 ---
 
-
-
 ## Summary of This Session:
 
 ^summary
