@@ -27,7 +27,7 @@ create_date: {{21 October 2022}}
 
 ```ad-combat
 collapse: closed
-![[Rolls S004#^combat]]
+![[Rolls S004#^combat1]]
 ```
 After murdering a dozen or so kobolds we investigate the second island (Point B)
 On this island the nest/hive lays, bones and feathers lay around
@@ -41,8 +41,12 @@ This liquid is the origin of the changes, but in a very highly distilled version
 
 [[Aelar]] tosses a torch in the hive, lighting it up.
 [[Aelar]] and [[Keth]] carry the basin/copper pot towards the opening, and toss the pot in the opening of the hive, causing the liquid to ooze out. When the liquid catches fire, it explodes. 
-A giant wasp exits the hive. 
+A giant wasp exits the hive from the top.
 
+```ad-combat
+collapse: closed
+![[Rolls S004#^combat2]]
+```
 
 # Loot:
 
