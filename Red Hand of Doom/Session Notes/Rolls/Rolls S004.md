@@ -13,14 +13,15 @@
 | 8   |               |      |      |       |      |      |      |
 
 ###### Combat #1
-| Id. | What           | Dice | Roll | Extra | Adv. | Dis. | Note |
-| --- | -------------- | ---- | ---- | ----- | ---- | ---- | ---- |
-| 1   | Initiative     | d20  | 17   |       |      |      |      |
-| 2   | Eldritch Blast | d20  | 10   |       |      |      |      |
-| 3   | Damage         | d10  | 3    |       |      |      |      |
-| 4   | Eldritch Blast | d20  | 7    |       |      |      |      |
+| Id. | What           | Dice | Roll | Extra | Adv. | Dis. | Note       |
+| --- | -------------- | ---- | ---- | ----- | ---- | ---- | ---------- |
+| 1   | Initiative     | d20  | 17   |       |      |      |            |
+| 2   | Eldritch Blast | d20  | 10   |       |      |      |            |
+| 3   | Damage         | d10  | 3    |       |      |      |            |
+| 4   | Eldritch Blast | d20  | 7    |       |      |      |            |
 | 5   | Eldritch Blast | d20  | 20   |       |      |      | ***CRIT*** |
-| 6   | Damage         | d10  | 6    |       |      |      |      |
-| 7   |                |      |      |       |      |      |      |
-| 8   |                |      |      |       |      |      |      |
+| 6   | Damage         | d10  | 6    |       |      |      |            |
+| 7   | Eldritch Blast | d20  | 15   |       |      |      |            |
+| 8   | Damage         | d10  | 8    |       |      |      |            |
+|     |                |      |      |       |      |      |            |
 ^combat
