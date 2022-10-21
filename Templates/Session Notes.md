@@ -14,15 +14,15 @@ create_date: {{<% tp.date.now("DD MMMM YYYY") %>}}
 	await tp.file.rename(`Session ${tp.user.getSessionNumber(tp)}`);
 %>
 
-## Summary of This Session:
+# Summary of This Session:
 
 ^summary
 
-## Recap of Last Session:
+# Recap of Last Session:
 ![[Red Hand of Doom/Session Notes/Session <%tp.user.getSessionNumber(tp, -1)%>#^summary]]
 
-## Housekeeping:
+# Housekeeping:
 
-## Notes:
+# Notes:
 
-## Loot:
+# Loot:
