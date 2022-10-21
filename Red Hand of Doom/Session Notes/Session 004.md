@@ -22,5 +22,5 @@ create_date: {{21 October 2022}}
 # Notes:
 ## 2 Marpenoth
 [[Aelar]] and [[Keth]] walk into the [[Wretched Knife Camp]] and [[Keth]] notices traps around the bridge leading up to Point A (see map)
-[[Booker]] and [[Alton]]
+[[Booker]] and [[Alton]] await further implications in the nearby cornflowers. 
 # Loot:
