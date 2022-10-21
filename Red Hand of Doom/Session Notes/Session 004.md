@@ -23,4 +23,7 @@ create_date: {{21 October 2022}}
 ## 2 Marpenoth
 [[Aelar]] and [[Keth]] walk into the [[Wretched Knife Camp]] and [[Keth]] notices traps around the bridge leading up to Point A (see map)
 [[Booker]] and [[Alton]] await further implications in the nearby cornflowers. 
+[[Keth]] tries to communicate with the 3 kobolds on guard, but fails miserably. One of the kobolds fires their bow.
+
+
 # Loot:
