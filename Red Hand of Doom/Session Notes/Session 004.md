@@ -18,7 +18,7 @@ create_date: {{21 October 2022}}
 ![[Red Hand of Doom/Session Notes/Session 003#^summary]]
 
 ## Housekeeping:
-
+- [[DM Inspiration]] Dice - Currently left : 4 
 ## Notes:
 
 ## Loot:
