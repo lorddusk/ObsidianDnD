@@ -49,7 +49,7 @@ collapse: closed
 ![[Rolls S004#^combat2]]
 ```
 
-The hive collapses, a few wasps exit but perish after a short while.
+The hive collapses, a few wasps exit but perish after a short while. A huge giant exists, the queen, pulsing red eyes, with a kobold on its back.
 
 # Loot:
 
