@@ -7,9 +7,12 @@
 
 # Slot based actions
 ### Spell Slots
-- [ ]
-|  Healing Hands |   1    |     1     |
-|      Hex Curse |   1    |     1     | 
+- [ ] 
+- [ ] 
+### Healing Hands
+- [ ] 
+### Hex Curse
+- [ ] 
 ## Stats
 | Name | Stat | Mod |
 |------|:----:|:---:|
