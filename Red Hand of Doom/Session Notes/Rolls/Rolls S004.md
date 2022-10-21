@@ -32,7 +32,7 @@
 | 1   | Initiative     | d20  | 3    |       |      |      |            |
 | 2   | Eldritch Blast | d20  | 1    |       |      |      | ***FAIL*** |
 | 3   | Eldritch Blast | d20  | 6    |       |      |      |            |
-| 4   |                |      |      |       |      |      |            |
-| 5   |                |      |      |       |      |      |            |
+| 4   | eb             | d20  | 15   |       |      |      |            |
+| 5   | Damage         | d10  | 5    |       |      |      |            |
 | 6   |                |      |      |       |      |      |            |
 ^combat2
