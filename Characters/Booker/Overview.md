@@ -4,7 +4,10 @@
 |             HP |   20   |    20     |
 | Hit dice (1d8) |   2    |     2     |
 |             AC |   17   |    17     |
-|    Spell Slots |   2    |     2     |
+
+# Slot based actions
+### Spell Slots
+- [ ]
 |  Healing Hands |   1    |     1     |
 |      Hex Curse |   1    |     1     | 
 ## Stats
