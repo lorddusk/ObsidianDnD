@@ -11,7 +11,7 @@ create_date: {{21 October 2022}}
 ---
 
 # Summary of This Session:
-
+Het plan wat we bedacht hadden verliep compleet volgens planning, of nee, toch niet. 
 ^summary
 
 # Recap of Last Session:
