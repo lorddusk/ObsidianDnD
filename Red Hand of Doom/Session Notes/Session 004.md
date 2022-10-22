@@ -12,6 +12,7 @@ create_date: {{21 October 2022}}
 
 # Summary of This Session:
 Het plan wat we bedacht hadden verliep compleet volgens planning, of nee, toch niet. 
+Na 4 zinnen orcish roepen reageerde de kobolds nogal 
 ^summary
 
 # Recap of Last Session:
