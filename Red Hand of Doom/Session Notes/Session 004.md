@@ -12,7 +12,8 @@ create_date: {{21 October 2022}}
 
 # Summary of This Session:
 Het plan wat we bedacht hadden verliep compleet volgens planning, of nee, toch niet. 
-Na 4 zinnen orcish roepen reageerde de kobolds nogal 
+Na 4 zinnen Orcish roepen reageerde de kobolds nogal aggressive en vielen ze Aelar en Keth aan.
+Hierop donderde Alton in een spike trap aangezien hij wilde helpen.
 ^summary
 
 # Recap of Last Session:
