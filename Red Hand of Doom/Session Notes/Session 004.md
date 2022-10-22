@@ -14,6 +14,7 @@ create_date: {{21 October 2022}}
 Het plan wat we bedacht hadden verliep compleet volgens planning, of nee, toch niet. 
 Na 4 zinnen Orcish roepen reageerde de kobolds nogal aggressive en vielen ze Aelar en Keth aan.
 Hierop donderde Alton in een spike trap aangezien hij wilde helpen.
+Na vakkundig het hele kamp ontdaan van kobolds, zien wij 
 ^summary
 
 # Recap of Last Session:
