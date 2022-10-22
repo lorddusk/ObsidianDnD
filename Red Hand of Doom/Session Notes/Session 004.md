@@ -16,7 +16,7 @@ Na 4 zinnen Orcish roepen reageerde de kobolds nogal aggressive en vielen ze Ael
 Hierop donderde Alton in een spike trap aangezien hij wilde helpen.
 Na vakkundig het hele kamp ontdaan van kobolds, zien wij een uit de kluiten gewassen wespennest.
 In een schuurtje erlangs staat een miniatuur lab, waar zich een middel bevind, wat volgens ons het mutatie middel is waar deze omgeving zo'n last van heeft. 
-Ook erg vlambaar, hint hint, nudge nudge. Nest in de fik, wespen die wilde ontsnappen gedood. Nadat het nest ingestort is zien wij een veel grotere wesp, met pulserende rode ogen.
+Ook erg vlambaar, hint hint, nudge nudge. Nest in de fik, wespen die wilde ontsnappen gedood. Nadat het nest ingestort is zien wij een veel grotere wesp, met pulserende rode ogen. En een kobold op haar rug.
 ^summary
 
 # Recap of Last Session:
