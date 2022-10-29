@@ -42,5 +42,5 @@ We move to the island that houses the [[Old Abandoned Watermill]], its walls are
 On the inside the mill has been ransacked, glass shards, scorch marks, tables are thrown everywhere, it all points to an explosion from the inside of the mill towards the outside. 
 In the middle a circle with runes, some of them broken. The ichor originates from the broken runes.
 
-Next to this circle, pipes and erlemehers are broken and damaged. Plants have grown significantly 
+Next to this circle, pipes and an alembic are broken and damaged. Plants have grown significantly and run up the walls. 
 # Loot:
