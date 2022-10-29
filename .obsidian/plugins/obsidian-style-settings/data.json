@@ -30,5 +30,15 @@
   "ITS@@hash-top": false,
   "ITS@@hd-indi": false,
   "ITS@@hash-reg": false,
-  "ITS@@hd-ovr": false
+  "ITS@@hd-ovr": false,
+  "ITS@@head-spec": false,
+  "ITS@@head-spec-note": false,
+  "ITS@@sphd-pre-fs-2": 30,
+  "ITS@@sphd-ed-fs-2": 28,
+  "ITS@@sphd-pre-fs-3": 26,
+  "ITS@@sphd-ed-fs-3": 24,
+  "ITS@@sphd-pre-fs-4": 28,
+  "ITS@@sphd-pre-fs-5": 28,
+  "ITS@@sphd-ed-fs-5": 28,
+  "ITS@@sphd-ed-fs-4": 28
 }
