@@ -20,7 +20,8 @@ create_date: {{29 October 2022}}
 ![[Red Hand of Doom/Session Notes/Session 004#^summary]]
 
 # Housekeeping:
-
+- [[DM Inspiration]] Dice - Currently left : 4 
 # Notes:
+## 2 Marpenoth
 
 # Loot:
