@@ -4,6 +4,7 @@
 | Id. | What          | Dice | Roll | Extra | Adv. | Dis. | Note |
 | --- | ------------- | ---- | ---- | ----- | ---- | ---- | ---- |
 | 1   | Investigation | d20  | 3    |       |      |      |      |
+| 2   | Perception    | d20  | 14   |       |      |      |      |
 
 ###### Combat #1
 | Id. | What           | Dice | Roll | Extra | Adv. | Dis. | Note |
