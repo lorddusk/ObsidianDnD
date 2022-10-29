@@ -1,11 +1,12 @@
 
 
 ###### Rolls
-| Id. | What          | Dice | Roll | Extra | Adv. | Dis. | Note |
-| --- | ------------- | ---- | ---- | ----- | ---- | ---- | ---- |
-| 1   | Investigation | d20  | 3    |       |      |      |      |
-| 2   | Perception    | d20  | 14   |       |      |      |      |
-| 3   | Arcana        | d20  | 12     |       |      |      |      |
+| Id. | What          | Dice | Roll | Extra | Adv. | Dis. | Note                            |
+| --- | ------------- | ---- | ---- | ----- | ---- | ---- | ------------------------------- |
+| 1   | Investigation | d20  | 3    |       |      |      |                                 |
+| 2   | Perception    | d20  | 14   |       |      |      |                                 |
+| 3   | Arcana        | d20  | 12   |       |      |      |                                 |
+| 4   | Arcana        | d20  | 10   | 7     | X    |      | Because of comprehend languages | 
 
 ###### Combat #1
 | Id. | What           | Dice | Roll | Extra | Adv. | Dis. | Note |
