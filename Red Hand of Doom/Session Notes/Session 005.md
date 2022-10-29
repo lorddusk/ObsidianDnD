@@ -39,5 +39,6 @@ A short rest later, [[Bikam]] returns back amongst the living, [[Booker]] heals 
 We move to the island that houses the [[Old Abandoned Watermill]], its walls are filled with sticks, bones, and kobold graffiti. A very nasty smell lingers in the air, it burns a little in the nose. A closed door with in front of it badly created wards and offerings. A stream of red ichor runs through the fundaments of the walls, dripping in to the river.
 
 [[Keth]] mentions this area feels very desecrated. [[Alton]] opens the door, and we step inside.
-On the inside the mill has been ransacked, glass shards, scorch marks, tables are thrown 
+On the inside the mill has been ransacked, glass shards, scorch marks, tables are thrown everywhere, it all points to an explosion from the inside of the mill towards the outside. 
+In the middle a circle with runes, some of them broken. The ichor originates from the broken run
 # Loot:
