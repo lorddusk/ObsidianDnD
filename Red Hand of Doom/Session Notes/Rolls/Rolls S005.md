@@ -5,6 +5,7 @@
 | --- | ------------- | ---- | ---- | ----- | ---- | ---- | ---- |
 | 1   | Investigation | d20  | 3    |       |      |      |      |
 | 2   | Perception    | d20  | 14   |       |      |      |      |
+| 3   | Arcana        | d20  | 12     |       |      |      |      |
 
 ###### Combat #1
 | Id. | What           | Dice | Roll | Extra | Adv. | Dis. | Note |
