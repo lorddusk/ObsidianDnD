@@ -47,5 +47,5 @@ Next to this circle, pipes and an alembic are broken and damaged. Plants have gr
 Under a workbench a pretty far decayed corpse was found, we assumed this is [[Veshje]], according to [[Keth]] this has been for at least 4 or 5 months.
 
 We found a letter that explains what [[Veshje]] had been doing in this lab. 
-This whole setup here was created specifically to look into different planes to try and find his lost friends. The desp
+This whole setup here was created specifically to look into different planes to try and find his lost friends. The desperation in these letters/books are very much seeping through.
 # Loot:
