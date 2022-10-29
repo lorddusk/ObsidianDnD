@@ -36,4 +36,6 @@ Rider doesn't seem to have anything of value on them. Nothing that points into a
 
 A short rest later, [[Bikam]] returns back amongst the living, [[Booker]] heals him a bit more.
 
+We move to the island that houses the [[Old Abandoned Watermill]], it's walls are filled with kobold grafitti, stick
+
 # Loot:
