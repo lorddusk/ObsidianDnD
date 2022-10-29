@@ -6,6 +6,6 @@
 |     |      |      |      |       |      |      |      |
 
 ###### Combat 001
-| Id. | What | Dice | Roll | Extra | Adv. | Dis. | Note |
-| --- | ---- | ---- | ---- | ----- | ---- | ---- | ---- |
-|     |      |      |      |       |      |      |      |
+| Id. | What       | Dice | Roll | Extra | Adv. | Dis. | Note |
+| --- | ---------- | ---- | ---- | ----- | ---- | ---- | ---- |
+| 1   | Initiative | d20  |      |       |      |      |      |
