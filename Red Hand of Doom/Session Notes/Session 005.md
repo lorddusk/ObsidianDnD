@@ -31,6 +31,7 @@ collapse: closed
 Giant Wasp + Rider dead.
 Rider doesn't seem to have anything of value on them. Nothing that points into attack orders, and most likely just attacked us because we destroyed their hive.
 
-[[Bikam]] went down during combat, and seems to be paralyzed because of the poison the wasp injected into 
+[[Bikam]] went down during combat, and seems to be paralysed because of the poison the wasp injected into him.
+[[Aelar]] spend some time harvesting/salvaging the giant wasp.
 
 # Loot:
