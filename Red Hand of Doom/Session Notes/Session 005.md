@@ -44,5 +44,5 @@ On the inside the mill has been ransacked, glass shards, scorch marks, tables ar
 In the middle a circle with runes, some of them broken. The ichor originates from the broken runes.
 
 Next to this circle, pipes and an alembic are broken and damaged. Plants have grown significantly and run up the walls. 
-Under a workbench a pretty far decayed corpse was found.
+Under a workbench a pretty far decayed corpse was found, we assumed this is [[Veshje]], according to [[Keth]] this has been for at least 4 or 5 months.
 # Loot:

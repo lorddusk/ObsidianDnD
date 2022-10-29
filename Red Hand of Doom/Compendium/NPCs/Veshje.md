@@ -2,7 +2,7 @@
 type: npc
 name: Veshje
 location: DEADED
-desc: Died
+desc: Gnome, Died
 tags: NPC
 ---
 
