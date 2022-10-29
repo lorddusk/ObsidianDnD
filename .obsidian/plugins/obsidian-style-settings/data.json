@@ -20,5 +20,15 @@
   "ITS@@lh": 1.5,
   "ITS@@f-w-v": 600,
   "ITS@@f-w-t": 500,
-  "ITS@@nt-f": 16
+  "ITS@@nt-f": 16,
+  "ITS@@ntsz": false,
+  "ITS@@f-s-pre": 16,
+  "ITS@@writing-document": false,
+  "ITS@@justified": false,
+  "ITS@@imgctr": false,
+  "ITS@@unwrap-codeblock": false,
+  "ITS@@hash-top": false,
+  "ITS@@hd-indi": false,
+  "ITS@@hash-reg": false,
+  "ITS@@hd-ovr": false
 }
