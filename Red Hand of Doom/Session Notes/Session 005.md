@@ -29,6 +29,6 @@ collapse: closed
 ![[Rolls S005#^combat1]]
 ```
 Giant Wasp + Rider dead.
-
+Rider doesn't seem to have anything of value on them. Nothing that points into attack orders, and most likeley
 
 # Loot:
