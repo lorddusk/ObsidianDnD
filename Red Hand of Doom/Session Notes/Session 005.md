@@ -24,5 +24,8 @@ create_date: {{29 October 2022}}
 # Notes:
 ## 2 Marpenoth
 BOSS FIGHT
-
+```ad-combat
+collapse: closed
+![[Rolls S005#^combat1]]
+```
 # Loot:
