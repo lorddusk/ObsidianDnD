@@ -46,7 +46,7 @@
       "query": "tag:#Deity",
       "color": {
         "a": 1,
-        "rgb": 16769044
+        "rgb": 1372159
       }
     },
     {
@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 7368816
       }
+    },
+    {
+      "query": "file:Questions",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
     }
   ],
   "collapse-display": true,
@@ -88,6 +95,6 @@
   "repelStrength": 11.9400791407575,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.39324399210695377,
+  "scale": 0.6812864241617569,
   "close": true
 }
