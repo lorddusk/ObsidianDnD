@@ -34,6 +34,6 @@ Rider doesn't seem to have anything of value on them. Nothing that points into a
 [[Bikam]] went down during combat, and seems to be paralysed because of the poison the wasp injected into him.
 [[Aelar]] spend some time harvesting/salvaging the giant wasp.
 
-A short rest later, [[Bikam]] returns back amongst the living.
+A short rest later, [[Bikam]] returns back amongst the living, [[Booker]] heals him a bit more.
 
 # Loot:
