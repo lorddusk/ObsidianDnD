@@ -28,4 +28,7 @@ BOSS FIGHT
 collapse: closed
 ![[Rolls S005#^combat1]]
 ```
+Giant Wasp + Rider dead.
+
+
 # Loot:
