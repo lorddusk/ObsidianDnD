@@ -11,7 +11,7 @@
 - [ ] 
 - [ ] 
 ### Healing Hands
-- [ ] 
+- [x] 
 ### Hex Curse
 - [ ] 
 
