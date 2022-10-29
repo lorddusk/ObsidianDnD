@@ -1,8 +1,8 @@
 ---
 type: npc
-name: unknown
-location: unknown
-desc: tbd
+name: Veshje
+location: DEADED
+desc: Died
 tags: NPC
 ---
 
@@ -12,6 +12,7 @@ Old party member of [[Crucia Cromwell]]
 
 Member of the [[Knights of the Spiral Crown]]
 
+Found dead in [[Old Abandoned Watermill]]
 ```ad-ooc
 collapse:closed
 ```
