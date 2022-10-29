@@ -36,6 +36,6 @@ Rider doesn't seem to have anything of value on them. Nothing that points into a
 
 A short rest later, [[Bikam]] returns back amongst the living, [[Booker]] heals him a bit more.
 
-We move to the island that houses the [[Old Abandoned Watermill]], its walls are filled with sticks, bones, and kobold graffiti. A very nasty smell lingers in the air, it burns a little in the nose. A closed door
+We move to the island that houses the [[Old Abandoned Watermill]], its walls are filled with sticks, bones, and kobold graffiti. A very nasty smell lingers in the air, it burns a little in the nose. A closed door with in front of it badly created wards and offerings. A stream of red ichor runs through the fundaments of the walls, dripping in to the river
 
 # Loot:
