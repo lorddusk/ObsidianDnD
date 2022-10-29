@@ -13,7 +13,7 @@
 ### Healing Hands
 - [ ] 
 ### Hex Curse
-- [ ] 
+- [x] 
 
 ## Stats
 | Name | Stat | Mod |
