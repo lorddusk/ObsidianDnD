@@ -7,7 +7,7 @@
 - [X] Meet [[Crucia Cromwell]] after a nights sleep.
 - [X] Go to the [[Old Abandoned Watermill]], 
 	- [R] Check on [[Veshje]] and his lab.
-	- [!] Clear out the Kobold Nest.
+	- [ ] Clear out the Kobold Nest.
 	- [R] Figure out the reason for the mutations.
 
 # Questions
