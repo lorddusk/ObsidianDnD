@@ -16,8 +16,8 @@
 | 6   | Spear          | d20  | 6    |       |      |      | Miss |
 | 7   | Spear          | d20  | 6    |       |      |      | Miss |
 | 8   | Eldritch Blast | d20  | 1    |       |      |      | Miss |
-| 9   | Eldritch Blast | d20  |      |       |      |      |      |
-| 10  |                |      |      |       |      |      |      |
+| 9   | Eldritch Blast | d20  | 10   |       |      |      | Hit  | 
+| 10  | Damage         | d10  | 1    |       |      |      |      |
 | 11  |                |      |      |       |      |      |      |
 | 12  |                |      |      |       |      |      |      |
 | 13  |                |      |      |       |      |      |      |
