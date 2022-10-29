@@ -9,12 +9,12 @@
 | Id. | What           | Dice | Roll | Extra | Adv. | Dis. | Note |
 | --- | -------------- | ---- | ---- | ----- | ---- | ---- | ---- |
 | 1   | Initiative     | d20  | 17   |       |      |      |      |
-| 2   | Spear          | d20  | 12   |       |      |      |      |
+| 2   | Spear          | d20  | 12   |       |      |      | Hit  |
 | 3   | Damage         | d6   | 5    |       |      |      |      |
-| 4   | Eldritch Blast | d20  | 15   |       |      |      |      |
+| 4   | Eldritch Blast | d20  | 15   |       |      |      | Hit  |
 | 5   | Damage         | d10  | 3    |       |      |      |      |
-| 6   | Spear          | d20  | 6    |       |      |      |      |
-| 7   | Spear          | d20  | 6    |       |      |      |      |
+| 6   | Spear          | d20  | 6    |       |      |      | Miss |
+| 7   | Spear          | d20  | 6    |       |      |      | Miss | 
 | 8   |                |      |      |       |      |      |      |
 | 9   |                |      |      |       |      |      |      |
 | 10  |                |      |      |       |      |      |      |
