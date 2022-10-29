@@ -40,5 +40,7 @@ We move to the island that houses the [[Old Abandoned Watermill]], its walls are
 
 [[Keth]] mentions this area feels very desecrated. [[Alton]] opens the door, and we step inside.
 On the inside the mill has been ransacked, glass shards, scorch marks, tables are thrown everywhere, it all points to an explosion from the inside of the mill towards the outside. 
-In the middle a circle with runes, some of them broken. The ichor originates from the broken run
+In the middle a circle with runes, some of them broken. The ichor originates from the broken runes.
+
+Next to this circle, pipes and erlemehers are broken and damaged. Plants have grown significantly 
 # Loot:
