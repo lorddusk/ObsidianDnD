@@ -4,16 +4,16 @@
 |             HP |   20   |    14     |
 | Hit dice (1d8) |   2    |     2     |
 |             AC |   17   |    17     |
-|   Temporary HP |   5    |     1     | 
+|   Temporary HP |   -    |     -     | 
 
 # Slot based actions
 ### Spell Slots (1st Level)
-- [x] 
-- [x] 
+- [ ] 
+- [ ] 
 ### Healing Hands
 - [ ] 
 ### Hex Curse
-- [x] 
+- [ ] 
 
 ## Stats
 | Name | Stat | Mod |
