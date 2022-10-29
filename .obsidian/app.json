@@ -20,7 +20,7 @@
     "en-GB"
   ],
   "showLineNumber": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "fileSortOrder": "alphabetical",
   "strictLineBreaks": false,
   "showIndentGuide": true,
@@ -28,5 +28,5 @@
   "autoPairMarkdown": true,
   "smartIndentList": true,
   "foldHeading": true,
-  "showInlineTitle": true
+  "showInlineTitle": false
 }
