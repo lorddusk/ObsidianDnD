@@ -23,5 +23,6 @@ create_date: {{29 October 2022}}
 - [[DM Inspiration]] Dice - Currently left : 4 
 # Notes:
 ## 2 Marpenoth
+BOSS FIGHT
 
 # Loot:
