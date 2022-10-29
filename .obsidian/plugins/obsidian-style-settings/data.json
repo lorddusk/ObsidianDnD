@@ -14,5 +14,11 @@
   "ITS@@n-s-ani": false,
   "ITS@@op-h": true,
   "ITS@@rsb-up": true,
-  "ITS@@o-stat-bar": false
+  "ITS@@o-stat-bar": false,
+  "ITS@@f-w-h": 600,
+  "ITS@@head-h": 15,
+  "ITS@@lh": 1.5,
+  "ITS@@f-w-v": 600,
+  "ITS@@f-w-t": 500,
+  "ITS@@nt-f": 16
 }
