@@ -13,7 +13,8 @@ create_date: {{29 October 2022}}
 
 
 # Summary of This Session:
-Een fantastische boss battle, waarin we kat en mui
+Een fantastische boss battle, waarin we kat en muis spelen met een wesp die kosten nog moeite spaart om uit de range van elke melee character te blijven...
+Uiteindelijk, met veel moeite, deze gigantische wesp verslagen en konden we 
 ^summary
 
 # Recap of Last Session:
