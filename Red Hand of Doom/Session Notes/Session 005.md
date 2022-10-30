@@ -13,7 +13,7 @@ create_date: {{29 October 2022}}
 
 
 # Summary of This Session:
-
+Een fantastische boss battle, waarin we kat en mui
 ^summary
 
 # Recap of Last Session:
