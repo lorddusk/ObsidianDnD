@@ -14,7 +14,7 @@ create_date: {{29 October 2022}}
 
 # Summary of This Session:
 Een fantastische boss battle, waarin we kat en muis spelen met een wesp die kosten nog moeite spaart om uit de range van elke melee character te blijven...
-Uiteindelijk, met veel moeite, deze gigantische wesp verslagen en konden we 
+Uiteindelijk, met veel moeite, deze gigantische wesp verslagen en konden we rustig even een momentje rust pakken. Helaas hebben Bikam en Keth een paar goede klappen gehad, en heeft Bikam een tijdje de binnenkant van zijn oge
 ^summary
 
 # Recap of Last Session:
