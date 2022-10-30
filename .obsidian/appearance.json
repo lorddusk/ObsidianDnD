@@ -7,11 +7,12 @@
     "ITS Custom Checkboxes",
     "larger popup",
     "S - Encoded Icons",
-    "Theme - D&D WOTC"
+    "Theme - All Alternate Themes"
   ],
   "baseFontSize": 12,
   "accentColor": "",
   "showViewHeader": false,
   "nativeMenus": true,
-  "translucency": false
+  "translucency": false,
+  "baseFontSizeAction": true
 }
