@@ -14,7 +14,11 @@ create_date: {{29 October 2022}}
 
 # Summary of This Session:
 Een fantastische boss battle, waarin we kat en muis spelen met een wesp die kosten nog moeite spaart om uit de range van elke melee character te blijven...
-Uiteindelijk, met veel moeite, deze gigantische wesp verslagen en konden we rustig even een momentje rust pakken. Helaas hebben Bikam en Keth een paar goede klappen gehad, en heeft Bikam een tijdje de binnenkant van zijn oge
+Uiteindelijk, met veel moeite, deze gigantische wesp verslagen en konden we rustig even een momentje rust pakken. 
+Helaas hebben Bikam en Keth een paar goede klappen gehad, en heeft Bikam een tijdje de binnenkant van zijn oogleden bestudeerd.
+
+Met de rust achter de rug, zijn we verder gegaan met waar we hiervoor zijn gekomen, uitzoeken wat er aan de hand is kwa mutaties en of Veshje nog leeft (spoiler alert: he ded).
+
 ^summary
 
 # Recap of Last Session:
