@@ -18,7 +18,8 @@ Uiteindelijk, met veel moeite, deze gigantische wesp verslagen en konden we rust
 Helaas hebben Bikam en Keth een paar goede klappen gehad, en heeft Bikam een tijdje de binnenkant van zijn oogleden bestudeerd.
 
 Met de rust achter de rug, zijn we verder gegaan met waar we hiervoor zijn gekomen, uitzoeken wat er aan de hand is kwa mutaties en of Veshje nog leeft (spoiler alert: he ded).
-In de verlaten molen vinden we de overblijfse
+In de verlaten molen vinden we de overblijfselen van een lab en een teleportation circle. Deze circle is gebroken, en uit sommige van de runes loopt de vieze drab, waarvan wij denken dat het het mutatie middel is.
+Onder een werkbank ligt een lijk,
 
 ^summary
 
