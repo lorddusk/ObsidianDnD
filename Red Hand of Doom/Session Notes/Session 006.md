@@ -52,6 +52,7 @@ She also hands [[Alton]], [[Aelar]], and [[Bikam]] recommendation letters for th
 
 Discussing the future with her, she seems very unsure about what everything will do for her and the town, but promises us to keep us in the loop.
 
+After a meal we sleep and make plans to move back to [[Brindol]]
 # Loot:
 - Bag of 500 SP (100 SP each)
 - Bag of 200 GP (40 GP each)
