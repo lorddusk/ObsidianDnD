@@ -1,10 +1,11 @@
 
 
 ###### Rolls
-| Id. | What     | Dice | Roll | Extra | Adv. | Dis. | Note |
-| --- | -------- | ---- | ---- | ----- | ---- | ---- | ---- |
-| 1   | Dex Save | d20  | 3    |       |      |      |      |
-| 2   |          |      |      |       |      |      |      |
+| Id. | What       | Dice | Roll | Extra | Adv. | Dis. | Note |
+| --- | ---------- | ---- | ---- | ----- | ---- | ---- | ---- |
+| 1   | Dex Save   | d20  | 3    |       |      |      |      |
+| 2   | Perception | d20  | 11   |       |      |      |      |
+|     |            |      |      |       |      |      |      |
  
 
 ###### Combat 1
