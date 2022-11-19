@@ -21,7 +21,7 @@ create_date: {{19 November 2022}}
 
 # Housekeeping:
 - [[DM Inspiration]] Dice - Currently left : 4
-	- Received one for a stupid voice
+	- Received one for a stupid voice.
 	- Used one for adv. on [[Booker]]'s death save.
 # Notes:
 ## 2 Marpenoth
