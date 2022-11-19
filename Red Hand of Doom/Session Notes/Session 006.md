@@ -22,7 +22,7 @@ create_date: {{19 November 2022}}
 # Housekeeping:
 - [[DM Inspiration]] Dice - Currently left : 4
 	- Received one for a stupid voice
-	- Used one for adv. on [[Booker]]
+	- Used one for adv. on [[Booker]]'s death save.
 # Notes:
 ## 2 Marpenoth
 [[Bikam]] moved into the [[Old Abandoned Watermill]] after his rest, and started tracing the teleportation circle we found there. He figured out that the portal is not for teleportation perse and is more used to scry into other planes.
