@@ -46,5 +46,6 @@ We set up camp for the night.
 ## 3 Marpenoth
 After an uneventful night, we reach [[Nimon Gap]] in the afternoon.
 
+We walk to the Squinting Beholder Inn to speak to [[Crucia Cromwell]] to debrief ours
 
 # Loot:
