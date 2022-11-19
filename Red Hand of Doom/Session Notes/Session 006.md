@@ -44,5 +44,5 @@ By burning up the mill, it explodes, causing debris to fly out and hit [[Booker]
 We set up camp for the night.
 
 ## 3 Marpenoth
-
+After an 
 # Loot:
