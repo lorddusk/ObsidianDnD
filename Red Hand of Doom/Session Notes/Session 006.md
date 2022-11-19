@@ -32,6 +32,9 @@ The runes on this circle have no literal meaning, but in both Abyssal and Dracon
 
 In the mean time [[Aelar]] created a brancard from the door and some other materials lying around the mill.
 [[Bikam]] decides to check the rest of the mill, and managed to wake some blights.
-
+```ad-combat
+collapse: closed
+![[Rolls S006#^combat1]]
+```
 
 # Loot:
