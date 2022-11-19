@@ -8,4 +8,4 @@
 - [X] Go to the [[Old Abandoned Watermill]], 
 	- [X] Check on [[Veshje]] and his lab.
 	- [X] Clear out the Kobold Nest.
-	- [/] Figure out the reason for the mutations.
+	- [X] Figure out the reason for the mutations.
