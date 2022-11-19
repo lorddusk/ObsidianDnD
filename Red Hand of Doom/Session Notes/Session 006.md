@@ -5,8 +5,8 @@ world: Faerun
 campaign: Red Hand of Doom
 sessionNum: 006
 game_year: 1491 DR
-game_date: []
-players: [Guido, Peter, Danny, Rob, Tim]
+game_date: [2 Marpenoth]
+players: [Guido, Peter, Rob, Tim]
 create_date: {{19 November 2022}}
 ---
 
