@@ -8,7 +8,7 @@
  
 
 ###### Combat 1
-| Id. | What       | Dice | Roll | Extra | Adv. | Dis. | Note |
-| --- | ---------- | ---- | ---- | ----- | ---- | ---- | ---- |
-| 1   | Initiative | d20  | 12   |       |      |      |      |
-|     |            |      |      |       |      |      |      |
+| Id. | What           | Dice | Roll | Extra | Adv. | Dis. | Note |
+| --- | -------------- | ---- | ---- | ----- | ---- | ---- | ---- |
+| 1   | Initiative     | d20  | 12   |       |      |      |      |
+| 2   | Eldritch Blast | d20  | 20   |       |      |      |      |
