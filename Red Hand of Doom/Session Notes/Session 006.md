@@ -48,8 +48,8 @@ After an uneventful night, we reach [[Nimon Gap]] in the afternoon.
 
 We walk to the Squinting Beholder Inn to speak to [[Crucia Cromwell]] to debrief ourselves from the prior days.
 We hand deliver the research note to her, with the map, journals, and the goodbye letter.
-
+She hands us 2 bags, one filled with silver, one with gold.
 
 # Loot:
-- Bag of 500 SP ()
-- Bag of 200 GP
+- Bag of 500 SP (100 SP each)
+- Bag of 200 GP (40 GP each)
