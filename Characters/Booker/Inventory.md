@@ -1,7 +1,10 @@
 # Money
 | Kind | Amount |
 | ---- | ------ |
-| CP   |        |
-| SP   | 100    | 
-| GP   | 40       |
-| PP   |        |
+| CP   | 0      |
+| SP   | 100    |
+| GP   | 57     |
+| PP   | 0      | 
+
+# Items
+- [[Tourmaline (50gp)]]
