@@ -24,5 +24,5 @@ create_date: {{19 November 2022}}
 	- Received one for a stupid voice
 # Notes:
 ## 2 Marpenoth
-[[Bikam]] moved into the [[Old Abandoned Watermill]] and
+[[Bikam]] moved into the [[Old Abandoned Watermill]] and started tracing the teleportation circle we found there. He figured out that the portal is not for teleportation perse and is more used to scry into other planes.
 # Loot:
