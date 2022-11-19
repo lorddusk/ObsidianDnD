@@ -27,4 +27,6 @@ create_date: {{19 November 2022}}
 [[Bikam]] moved into the [[Old Abandoned Watermill]] after his rest, and started tracing the teleportation circle we found there. He figured out that the portal is not for teleportation perse and is more used to scry into other planes.
 
 The runes on this circle have no literal meaning, but in both Abyssal and Draconic they mean the same.
+
+
 # Loot:
