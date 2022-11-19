@@ -10,8 +10,6 @@ players: [Guido, Peter, Rob, Tim]
 create_date: {{19 November 2022}}
 ---
 
-
-
 # Summary of This Session:
 
 ^summary
