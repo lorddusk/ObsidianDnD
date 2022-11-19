@@ -39,4 +39,5 @@ collapse: closed
 ```
 
 In our rest after combat ( I'M ALIVE!!!!! ), we discuss how we want to deal with the mill. The choice falls upon arson.
+
 # Loot:
