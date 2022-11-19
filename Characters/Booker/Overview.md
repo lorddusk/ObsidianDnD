@@ -3,7 +3,7 @@
 | --------------:|:------:|:---------:|
 |             HP |   20   |     1     | 
 | Hit dice (1d8) |   2    |     1     |
-|             AC |   17   |    17     |
+|             AC |   17   |    14     |
 |   Temporary HP |   -    |     -     |
 
 # Slot based actions
