@@ -21,6 +21,7 @@ create_date: {{19 November 2022}}
 
 # Housekeeping:
 - [[DM Inspiration]] Dice - Currently left : 5
+	- Received one for a stupid voice
 # Notes:
 ## 2 Marpenoth
 
