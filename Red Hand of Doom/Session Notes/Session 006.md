@@ -20,7 +20,7 @@ create_date: {{19 November 2022}}
 ![[Red Hand of Doom/Session Notes/Session 005#^summary]]
 
 # Housekeeping:
-- [[DM Inspiration]] Dice - Currently left : 5
+- [[DM Inspiration]] Dice - Currently left : 4
 	- Received one for a stupid voice
 # Notes:
 ## 2 Marpenoth
