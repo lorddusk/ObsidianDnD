@@ -3,7 +3,7 @@
 ###### Rolls
 | Id. | What     | Dice | Roll | Extra | Adv. | Dis. | Note |
 | --- | -------- | ---- | ---- | ----- | ---- | ---- | ---- |
-| 1   | Dex Save |      |      |       |      |      |      |
+| 1   | Dex Save | d20  | 3    |       |      |      |      |
 | 2   |          |      |      |       |      |      |      |
  
 
