@@ -91,7 +91,7 @@
 ## Spells
 - Cantrip:
 	- [[Eldritch Blast]]
-	- [[Green-Flame Blade]] (Bonus Action)
+	- [[Green-Flame Blade]]
 	- [[Light]]
 	- [[Armor of Shadows]]
 
