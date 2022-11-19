@@ -18,5 +18,5 @@
 | 6   | Wisdom Save       | d20  | 3    |       |      |      |      |
 | 7   | Wisdom Save       | d20  | 10   |       |      |      |      |
 | 8   | Death Save        | d20  | 7    |       |      |      |      |
-	| 9    |                   |      |      |       |      |      |      |
+| 9   | DS                | d20  |      |       |      |      |      |
 ^combat1
