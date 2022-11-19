@@ -17,5 +17,5 @@
 | 5   | Damage            | d6   | 3    |       |      |      |      |
 | 6   | Wisdom Save       | d20  | 3    |       |      |      |      |
 | 7   | Wisdom Save       | d20  | 10   |       |      |      |      |
-| 8   |                   |      |      |       |      |      |      |
+| 8   | Death Save        | d20  | 7    |       |      |      |      |
 ^combat1
