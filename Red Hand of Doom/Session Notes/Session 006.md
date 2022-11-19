@@ -52,6 +52,8 @@ She hands us 2 bags, one filled with silver, one with gold.
 
 She also hands [[Alton]], [[Aelar]], and [[Bikam]] recommendation letters for the Adventurers Guild.
 
+Discussing the f
+
 # Loot:
 - Bag of 500 SP (100 SP each)
 - Bag of 200 GP (40 GP each)
