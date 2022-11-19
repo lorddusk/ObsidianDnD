@@ -5,7 +5,7 @@ world: Faerun
 campaign: Red Hand of Doom
 sessionNum: 006
 game_year: 1491 DR
-game_date: [2 Marpenoth]
+game_date: [2 Marpenoth, 3 Marpenoth]
 players: [Guido, Peter, Rob, Tim]
 create_date: {{19 November 2022}}
 ---
@@ -40,5 +40,9 @@ collapse: closed
 
 In our rest after combat ( I'M ALIVE!!!!! ), we discuss how we want to deal with the mill. The choice falls upon arson.
 By burning up the mill, it explodes, causing debris to fly out and hit [[Booker]] and [[Alton]].
+
+We set up camp for the night.
+
+## 3 Marpenoth
 
 # Loot:
