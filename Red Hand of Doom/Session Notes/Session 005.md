@@ -55,4 +55,4 @@ Under a workbench a pretty far decayed corpse was found, we assumed this is [[Ve
 We found a letter that explains what [[Veshje]] had been doing in this lab. 
 This whole setup here was created specifically to look into different planes to try and find his lost friends. The desperation in these letters/books are very much seeping through.
 # Loot:
-- Map from outerplanes, with marked locations.
+- Map from outer planes, with marked locations. 
