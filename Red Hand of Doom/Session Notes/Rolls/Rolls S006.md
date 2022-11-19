@@ -16,4 +16,6 @@
 | 4   | Green-Flame Blade | d20  | 17   |       |      |      |      |
 | 5   | Damage            | d6   | 3    |       |      |      |      |
 | 6   | Wisdom Save       | d20  | 3    |       |      |      |      |
+| 7   | Wisdom Save       | d20  | 10   |       |      |      |      |
+| 8   |                   |      |      |       |      |      |      |
 ^combat1
