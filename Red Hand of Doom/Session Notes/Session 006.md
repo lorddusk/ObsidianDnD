@@ -22,5 +22,6 @@ create_date: {{19 November 2022}}
 # Housekeeping:
 - [[DM Inspiration]] Dice - Currently left : 5
 # Notes:
+## 2 Marpenoth
 
 # Loot:
