@@ -51,3 +51,5 @@ We hand deliver the research note to her, with the map, journals, and the goodby
 
 
 # Loot:
+- Bag of 500 SP ()
+- Bag of 200 GP
