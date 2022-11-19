@@ -52,7 +52,7 @@ She hands us 2 bags, one filled with silver, one with gold.
 
 She also hands [[Alton]], [[Aelar]], and [[Bikam]] recommendation letters for the Adventurers Guild.
 
-Discussing the f
+Discussing the future with her, she seems very unsure about what everything will do for her and the town.
 
 # Loot:
 - Bag of 500 SP (100 SP each)
