@@ -16,3 +16,4 @@
 | 4   | Green-Flame Blade | d20  | 17   |       |      |      |      |
 | 5   | Damage            | d6   | 3    |       |      |      |      |
 |     |                   |      |      |       |      |      |      |
+^combat1
