@@ -1,10 +1,10 @@
 # Overview
 |           What | Amount | Remaining |
 | --------------:|:------:|:---------:|
-|             HP |   20   |     1     | 
+|             HP |   20   |     1     |
 | Hit dice (1d8) |   2    |     1     |
 |             AC |   17   |    14     |
-|   Temporary HP |   -    |     5     |
+|   Temporary HP |   -    |     -     | 
 
 # Slot based actions
 ### Spell Slots (1st Level)
