@@ -29,4 +29,6 @@ create_date: {{19 November 2022}}
 The runes on this circle have no literal meaning, but in both Abyssal and Draconic they mean the same.
 
 [[Bikam]] figured out which rune corresponds with the activity of the circle itself, and we decide to remove it from the circle.
+
+In the mean time [[Aelar]] created a brancard from the door and some other materials lying around the mill.
 # Loot:
