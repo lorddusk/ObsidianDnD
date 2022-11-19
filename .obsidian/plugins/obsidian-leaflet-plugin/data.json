@@ -53,7 +53,7 @@
     },
     {
       "id": "elsir",
-      "lastAccessed": 1664790312733,
+      "lastAccessed": 1668897208555,
       "markers": [
         {
           "id": "ID_f9db5b1b5998",
@@ -193,7 +193,60 @@
         }
       ],
       "overlays": [],
-      "shapes": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -1.1276321411132812,
+              "lng": 1.9036104240295781,
+              "id": "ID_e999db99c949",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -1.0573196411132812,
+              "lng": 2.056013796934854,
+              "id": "ID_caab39fb2998",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -1.0202102661132812,
+              "lng": 2.1302615939912712,
+              "id": "ID_4b795abba8ba",
+              "targets": {
+                "vertexIds": [
+                  "ID_9abba868581a"
+                ]
+              }
+            },
+            {
+              "lat": -1.0202102661132812,
+              "lng": 2.1302615939912712,
+              "id": "ID_9abba868581a",
+              "targets": {
+                "vertexIds": [
+                  "ID_4b795abba8ba"
+                ]
+              }
+            },
+            {
+              "lat": -1.0505218505859375,
+              "lng": 2.16485284515686,
+              "id": "ID_3b389b6a8a7a",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
       "files": [
         "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md"
       ]
