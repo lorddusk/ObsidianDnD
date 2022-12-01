@@ -11,6 +11,8 @@ tags: NPC
 Proprietor of the Squinting Beholder in [[Nimon Gap]]
 
 The "Elder" of the town, people look up to her, and look at her for answers to town questions.
+Member of Zhentarim
+
 
 ```ad-ooc
 collapse:closed

@@ -16,11 +16,10 @@ create_date: {{29 October 2022}}
 Een fantastische boss battle, waarin we kat en muis spelen met een wesp die kosten nog moeite spaart om uit de range van elke melee character te blijven...
 Uiteindelijk, met veel moeite, deze gigantische wesp verslagen en konden we rustig even een momentje rust pakken. 
 Helaas hebben Bikam en Keth een paar goede klappen gehad, en heeft Bikam een tijdje de binnenkant van zijn oogleden bestudeerd.
-
 Met de rust achter de rug, zijn we verder gegaan met waar we hiervoor zijn gekomen, uitzoeken wat er aan de hand is kwa mutaties en of Veshje nog leeft (spoiler alert: he ded).
 In de verlaten molen vinden we de overblijfselen van een lab en een teleportation circle. Deze circle is gebroken, en uit sommige van de runes loopt de vieze drab, waarvan wij denken dat het het mutatie middel is.
 Onder een werkbank ligt een lijk, al een behoorlijk eindje in een ontbindende staat. Wij vermoeden dat die Veshje is die bij de explosie om het leven is gekomen.
-We besluiten om het lijk mee ten
+We besluiten om het lijk mee te terug te nemen, en maken ons klaar om te vertrekken.
 ^summary
 
 # Recap of Last Session:
@@ -56,3 +55,4 @@ Under a workbench a pretty far decayed corpse was found, we assumed this is [[Ve
 We found a letter that explains what [[Veshje]] had been doing in this lab. 
 This whole setup here was created specifically to look into different planes to try and find his lost friends. The desperation in these letters/books are very much seeping through.
 # Loot:
+- Map from outer planes, with marked locations. 
