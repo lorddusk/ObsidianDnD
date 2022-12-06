@@ -11,7 +11,7 @@ create_date: {{19 November 2022}}
 ---
 
 # Summary of This Session:
-Bij het willen vertrekken neemt Bikam nog even de moeite om de teleportation cirkel te bekijken in de molen. Na een korte tijd komt hij er achter dat het geen teleportatie cirkel is, maar een scrying portal. Een portal om in andere planes te kijken. De runes rond/in de cirkel hebben allemaal een eigen betekenis maar hebben geen letterlijke betekenis. Toch weet Bikam erachter te komen welke rune er precies past bij het lekken van de 
+Bij het willen vertrekken neemt Bikam nog even de moeite om de teleportation cirkel te bekijken in de molen. Na een korte tijd komt hij er achter dat het geen teleportatie cirkel is, maar een scrying portal. Een portal om in andere planes te kijken. De runes rond/in de cirkel hebben allemaal een eigen betekenis maar hebben geen letterlijke betekenis. Toch weet Bikam erachter te komen welke rune er precies past bij het lekken van de rode vloeistof. Terwijl deze wordt gedeactiveerd heeft Aelar een brancard gemaakt van de deur, en vind Bikam het nodig om een boel slapende blights wakker te maken. De combat die vol
 ^summary
 
 # Recap of Last Session:
