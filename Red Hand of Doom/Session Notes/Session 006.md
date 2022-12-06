@@ -11,7 +11,7 @@ create_date: {{19 November 2022}}
 ---
 
 # Summary of This Session:
-
+Bij het willen vertrekken neemt Bikam nog even de moeite om de teleportation cirkel te bekijken in de molen. Na een korte tijd komt hij er achte
 ^summary
 
 # Recap of Last Session:
