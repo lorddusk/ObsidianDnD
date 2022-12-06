@@ -53,7 +53,7 @@
     },
     {
       "id": "elsir",
-      "lastAccessed": 1664790312733,
+      "lastAccessed": 1668897284436,
       "markers": [
         {
           "id": "ID_f9db5b1b5998",
@@ -193,7 +193,60 @@
         }
       ],
       "overlays": [],
-      "shapes": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -1.1276321411132812,
+              "lng": 1.9036104240295781,
+              "id": "ID_e999db99c949",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -1.0573196411132812,
+              "lng": 2.056013796934854,
+              "id": "ID_caab39fb2998",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -1.0202102661132812,
+              "lng": 2.1302615939912712,
+              "id": "ID_4b795abba8ba",
+              "targets": {
+                "vertexIds": [
+                  "ID_9abba868581a"
+                ]
+              }
+            },
+            {
+              "lat": -1.0202102661132812,
+              "lng": 2.1302615939912712,
+              "id": "ID_9abba868581a",
+              "targets": {
+                "vertexIds": [
+                  "ID_4b795abba8ba"
+                ]
+              }
+            },
+            {
+              "lat": -1.050750732421875,
+              "lng": 2.202381236685608,
+              "id": "ID_3b389b6a8a7a",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
       "files": [
         "Red Hand of Doom/Compendium/Locations/Elsir Vale/Elsir Vale.md"
       ]
@@ -215,11 +268,11 @@
   "long": -82.98333,
   "notePreview": false,
   "layerMarkers": true,
-  "previousVersion": "5.0.4",
+  "previousVersion": "5.1.1",
   "version": {
     "major": 5,
-    "minor": 0,
-    "patch": 4
+    "minor": 1,
+    "patch": 1
   },
   "warnedAboutMapMarker": false,
   "copyOnClick": false,
@@ -227,7 +280,46 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 8,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[Elsir Vale.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Elsir Vale.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 7,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "elsir",
+    "lat": 50,
+    "long": 50,
+    "unit": "meters",
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "metric",
   "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",

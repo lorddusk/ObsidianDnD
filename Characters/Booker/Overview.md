@@ -1,17 +1,17 @@
 # Overview
 |           What | Amount | Remaining |
 | --------------:|:------:|:---------:|
-|             HP |   20   |    18     |
-| Hit dice (1d8) |   2    |     1     |
+|             HP |   28   |    28     |
+| Hit dice (1d8) |   3    |     3     | 
 |             AC |   17   |    17     |
-|   Temporary HP |   -    |     -     | 
+|   Temporary HP |   -    |     -     |
 
 # Slot based actions
 ### Spell Slots (1st Level)
-- [x] 
+- [ ] 
 - [ ] 
 ### Healing Hands
-- [x] 
+- [ ] 
 ### Hex Curse
 - [ ] 
 
@@ -91,7 +91,7 @@
 ## Spells
 - Cantrip:
 	- [[Eldritch Blast]]
-	- [[Green-Flame Blade]] (Bonus Action)
+	- [[Green-Flame Blade]]
 	- [[Light]]
 	- [[Armor of Shadows]]
 
