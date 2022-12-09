@@ -99,7 +99,9 @@
 	- [[Armor of Agathys]]
 	- [[Comprehend Languages]]
 	- [[Wrathful Smite]] (Bonus Action)
-- 2nd
+
+- 2nd Level:
+	- [[Branding Smite]] (Bonus Action)
 
 ## Invocations
 - [[Armor of Shadows]]
