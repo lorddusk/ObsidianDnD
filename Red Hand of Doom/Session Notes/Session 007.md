@@ -28,5 +28,6 @@ After a nights sleep in the Squinting Beholder Inn in [[Nimon Gap]] we set out t
 On the road, we find a man rummaging in a bush. He's looking for mushrooms. We call him [[The Mushroom Man]]  He picks up several mushrooms, and some herbs. Doesn't bother us much, he gives [[Keth]] some directions what to pick.
 
 [[Keth]] and [[Aelar]] find a place to spend the night next to the road, with a bit of protection. [[Alton]] makes a fire for us to gather around. 
+Dur
 # Loot:
 
