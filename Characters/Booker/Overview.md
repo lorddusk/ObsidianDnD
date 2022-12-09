@@ -98,10 +98,10 @@
 - 1st Level:
 	- [[Armor of Agathys]]
 	- [[Comprehend Languages]]
-	- [[Wrathful Smite]] (Bonus Action)
 
 - 2nd Level:
 	- [[Branding Smite]] (Bonus Action)
+	- [[Earthbind]]
 
 ## Invocations
 - [[Armor of Shadows]]
