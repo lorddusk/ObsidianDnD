@@ -6,7 +6,7 @@ campaign: Red Hand of Doom
 sessionNum: 007
 game_year: 1491 DR
 game_date: []
-players: [Guido, Peter, Danny, Rob, Tim]
+players: [Peter, Danny, Rob, Tim]
 create_date: {{09 December 2022}}
 ---
 
