@@ -3,7 +3,7 @@
 | ---- | ------ |
 | CP   | 0      |
 | SP   | 90     |
-| GP   | 114    |
+| GP   | 110    |
 | PP   | 0      | 
 
 # Adventuring Items
