@@ -33,6 +33,9 @@ During the second watch ([[Booker]] and [[Alton]])  also hear this wolf cry. And
 
 ## 5 Marpenoth
 We continue our track to [[Talar]] keep an ear out for wolven cries. 
+Nothing of importance happend during the days travel.
+At the end of the day, we reach [[Talar]].
+
 
 # Loot:
 
