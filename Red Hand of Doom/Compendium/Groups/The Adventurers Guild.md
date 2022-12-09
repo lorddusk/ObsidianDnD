@@ -10,7 +10,7 @@ tags: Group
 
 Resides in [[Brindol]]
 
-Reynard 
+Leader: [[Reynard]] 
 ```ad-ooc
 collapse:closed
 ```
