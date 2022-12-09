@@ -40,6 +40,6 @@ There unfortunately is no water way back to [[Brindol]].
 We check-in into the inn, and make our way to the tavern.
 There is a family in the inn, who were said to have a cart that could bring us to [[Brindol]], he asks us 5gp for the trip. [[Keth]] tried to haggle for 4gp, but [[Alton]] can no longer watch it and puts up the extra 5sp that was asked. We agree to meet in the morning for the cart trip.
 
-[[Alton]] notices a figure in the corner of the tavern, and approaches it. This figure is not very enarmoured by [[Alton]], and tells him their names are Bob and Timmy.  It seems like this figure are [[Two Goblins in a Trenchcoat]]
+[[Alton]] notices a figure in the corner of the tavern, and approaches it. This figure is not very enamoured by [[Alton]], and tells him their names are Bob and Timmy.  It seems like this figure are [[Two Goblins in a Trenchcoat]].
 # Loot:
 
