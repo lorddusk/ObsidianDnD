@@ -42,6 +42,7 @@ There is a family in the inn, who were said to have a cart that could bring us t
 
 [[Alton]] notices a figure in the corner of the tavern, and approaches it. This figure is not very enamoured by [[Alton]], and tells him their names are Bob and Timmy.  It seems like this figure are [[Two Goblins in a Trenchcoat]].
 
+In the night [[Booker]] dreams. 
 ## 6 Marpenoth
 
 # Loot:
