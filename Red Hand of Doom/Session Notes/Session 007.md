@@ -46,6 +46,8 @@ In the night [[Booker]] dreams. In this dream he sees a mountain range, it's dar
 
 ## 6 Marpenoth
 Once outside [[Booker]] sneakily looks towards the Northern and Southern mountain ranges, but sees nothing.
+We meet up with the farmer man we hired for the cart ride towards [[Brindol]].
+
 
 
 
