@@ -22,6 +22,7 @@ create_date: {{09 December 2022}}
 # Housekeeping:
 
 # Notes:
+## 3 Marpenoth
 
 # Loot:
-## 3 Marpenoth
+
