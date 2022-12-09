@@ -45,6 +45,7 @@ There is a family in the inn, who were said to have a cart that could bring us t
 In the night [[Booker]] dreams. In this dream he sees a mountain range, it's dark, a night like every other one.  On the range fires erupt, the close I get, I see that they are campfires/bonfires. Around these beacons a very very very large amount of shapes and sizes appear, all across the range. Not being able to make out what these are. In the air, bigger shapes appear. And wakes up again.
 
 ## 6 Marpenoth
+Once outside [[Booker]] sneakily looks towards the Northern and Southern mountain ranges, but sees nothing.
 
 
 
