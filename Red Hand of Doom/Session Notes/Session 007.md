@@ -5,7 +5,7 @@ world: Faerun
 campaign: Red Hand of Doom
 sessionNum: 007
 game_year: 1491 DR
-game_date: [3 Marpenoth]
+game_date: [4 Marpenoth]
 players: [Peter, Danny, Rob, Tim]
 create_date: {{09 December 2022}}
 ---
@@ -22,7 +22,7 @@ create_date: {{09 December 2022}}
 # Housekeeping:
 
 # Notes:
-## 3 Marpenoth
+## 4 Marpenoth
 
 # Loot:
 
