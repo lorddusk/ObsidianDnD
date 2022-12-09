@@ -49,8 +49,8 @@
       "noTitle": false,
       "copy": false
     },
-    "Booker": {
-      "type": "Booker",
+    "booker": {
+      "type": "booker",
       "color": "255, 157, 46",
       "icon": {
         "type": "octicons",
