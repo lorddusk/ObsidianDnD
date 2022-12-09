@@ -3,7 +3,7 @@
 | ---- | ------ |
 | CP   | 0      |
 | SP   | 100    |
-| GP   | 115     |
+| GP   | 114    |
 | PP   | 0      | 
 
 # Adventuring Items
@@ -16,7 +16,11 @@
 	- 10 Torches
 	- Tinderbox
 	- 8 days of Rations
-	- Wat
+	- Waterskin
+	- Hempen Rope (50ft.)
+- Leather Armor
+- 2 Daggers
+- Shield
 
 # Items
 - [[Tourmaline (50gp)]]
