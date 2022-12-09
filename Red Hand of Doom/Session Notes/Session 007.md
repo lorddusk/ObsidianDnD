@@ -29,6 +29,6 @@ On the road, we find a man rummaging in a bush. He's looking for mushrooms. We c
 
 [[Keth]] and [[Aelar]] find a place to spend the night next to the road, with a bit of protection. [[Alton]] makes a fire for us to gather around. 
 During the first watch ([[Aelar]] and [[Keth]]) a wolf crying can be heard in the far distance.
-During the second watch ([[Booker]] and [[Alton]])  also hear this wolf cry
+During the second watch ([[Booker]] and [[Alton]])  also hear this wolf cry. And we have the idea that this is very very far away. 
 # Loot:
 
