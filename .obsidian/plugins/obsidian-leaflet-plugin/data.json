@@ -53,7 +53,7 @@
     },
     {
       "id": "elsir",
-      "lastAccessed": 1670614014256,
+      "lastAccessed": 1670614736810,
       "markers": [
         {
           "id": "ID_f9db5b1b5998",
@@ -161,14 +161,17 @@
           "id": "ID_ea0b38682b6b",
           "type": "default",
           "loc": [
-            -0.958038330078125,
-            0.775390625
+            -0.88018798828125,
+            0.4326629638671875
           ],
           "link": "Wyrmsmoke Mountains",
           "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.1384521484375,
+            0.4316630747126437
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
