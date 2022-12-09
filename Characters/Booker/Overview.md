@@ -7,7 +7,7 @@
 |   Temporary HP |   -    |     -     |
 
 # Slot based actions
-### Spell Slots (1st Level)
+### Spell Slots (2nd Level)
 - [ ] 
 - [ ] 
 ### Healing Hands
@@ -99,6 +99,7 @@
 	- [[Armor of Agathys]]
 	- [[Comprehend Languages]]
 	- [[Wrathful Smite]] (Bonus Action)
+- 2nd
 
 ## Invocations
 - [[Armor of Shadows]]
