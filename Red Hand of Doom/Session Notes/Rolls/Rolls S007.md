@@ -6,3 +6,4 @@
 | 1   | Perception | d20  | 20   |       |      |      |      |
 | 2   | Perception | d20  | 18   |       |      |      |      |
 | 3   | Perception | d20  | 5    |       |      |      |      |
+|     |            |      |      |       |      |      |      |

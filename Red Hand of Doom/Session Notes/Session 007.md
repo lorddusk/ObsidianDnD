@@ -48,6 +48,7 @@ In the night [[Booker]] dreams. In this dream he sees a mountain range, it's dar
 Once outside [[Booker]] sneakily looks towards the Northern and Southern mountain ranges, but sees nothing.
 We meet up with the farmer man we hired for the cart ride towards [[Brindol]].
 
+[[Booker]] has a gut feeling something is different, and tries to summon a dagger, instead of his spear. 
 
 
 
