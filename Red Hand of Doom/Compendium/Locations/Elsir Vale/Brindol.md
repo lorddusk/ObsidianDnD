@@ -10,7 +10,7 @@ tags: Location
 Resides in [[Elsir Vale]]
 
 ## Points of Interest
-- Adventurers Guild
+- [[The Adventurers Guild]]
 
 ## Population
 - 80% Human
