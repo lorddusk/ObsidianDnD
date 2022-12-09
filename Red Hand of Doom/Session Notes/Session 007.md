@@ -38,7 +38,7 @@ At the end of the day, we reach [[Talar]].
 
 There unfortunately is no water way back to [[Brindol]].
 We check-in into the inn, and make our way to the tavern.
-
+There is a family in the inn, who were said to have a cart that could bring us to [[Bri]]
 
 # Loot:
 
