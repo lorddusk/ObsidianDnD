@@ -1,13 +1,14 @@
 ---
 type: npc
-name: unknown
+name: Reynard Aristaios
 location: unknown
-desc: tbd
+desc: White Male
 tags: NPC
 ---
 
 # Reynard Aristaios 
 
+Leader of [[The Adventurers Guild]]
 ```ad-ooc
 collapse:closed
 ```
