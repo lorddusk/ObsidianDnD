@@ -8,6 +8,6 @@ tags: Location
 
 Resides in [[Elsir Vale]]
 
-Has a Tavern (Morning Glory), Motel, Town hall
+Has a Tavern (Schone Turtle), Motel (Morning Glory), Town hall
 
 Has no palisade around the town
