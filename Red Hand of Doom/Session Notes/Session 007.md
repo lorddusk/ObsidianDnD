@@ -20,7 +20,7 @@ create_date: {{09 December 2022}}
 ![[Red Hand of Doom/Session Notes/Session 006#^summary]]
 
 # Housekeeping:
-
+- [[DM Inspiration]] Dice - Currently left : 4
 # Notes:
 ## 4 Marpenoth
 After a nights sleep in the Squinting Beholder Inn in [[Nimon Gap]] we set out to restock our supplies for the trip to [[Talar]].
@@ -62,8 +62,6 @@ We reach [[Brindol]] 3 sides are palisaded, and 1 side is on the riverside. The 
 
 We walk towards [[The Adventurers Guild]] to get ourselves debriefed, and to enrol the three party members that are not yet a member.
 A black horse, dressed in black plate armour is in front of the guild. The horse bears no mark to which you could recognise it from. It has a golden rim around it's head armour. 
-
-
 
 
 # Loot:
