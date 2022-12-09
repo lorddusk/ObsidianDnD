@@ -23,7 +23,7 @@ create_date: {{09 December 2022}}
 
 # Notes:
 ## 4 Marpenoth
-After a nights sleep in the Squinting Beholder Inn we set out to restock our supplies for the trip to [[Talar]]
+After a nights sleep in the Squinting Beholder Inn we set out to restock our supplies for the trip to [[Talar]].
 
 # Loot:
 
