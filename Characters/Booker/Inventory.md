@@ -21,6 +21,7 @@
 - Leather Armour
 - 2 Daggers
 - Shield
+- A Dragon Pepper wrapped in paper
 
 # Items
 - [[Tourmaline (50gp)]]
