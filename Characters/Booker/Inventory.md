@@ -6,5 +6,9 @@
 | GP   | 115     |
 | PP   | 0      | 
 
+# Adventuring Items
+- Bedroll
+- 
+
 # Items
 - [[Tourmaline (50gp)]]
