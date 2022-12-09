@@ -18,7 +18,7 @@
 	- 8 days of Rations
 	- Waterskin
 	- Hempen Rope (50ft.)
-- Leather Armor
+- Leather Armour
 - 2 Daggers
 - Shield
 
