@@ -44,7 +44,6 @@ There is a family in the inn, who were said to have a cart that could bring us t
 
 ```ad-booker
 collapse: closed
-title: Booker only information
 In the night [[Booker]] dreams. In this dream he sees a mountain range, it's dark, a night like every other one.  On the range fires erupt, the close I get, I see that they are campfires/bonfires. Around these beacons a very very very large amount of shapes and sizes appear, all across the range. Not being able to make out what these are. In the air, bigger shapes appear. And wakes up again.
 ```
 
@@ -54,7 +53,6 @@ We meet up with the farmer man we hired for the cart ride towards [[Brindol]].
 
 ```ad-booker
 collapse: closed
-title: Booker only information
 Once outside [[Booker]] sneakily looks towards the Northern and Southern mountain ranges, but sees nothing.
 
 [[Booker]] has a gut feeling something is different, and tries to summon a dagger, instead of his spear. This goes a lot quicker than usual, and something just feels... off... Not sure what to do with this information, we continue to the Farmer, and board the cart.
