@@ -25,5 +25,6 @@ create_date: {{09 December 2022}}
 ## 4 Marpenoth
 After a nights sleep in the Squinting Beholder Inn we set out to restock our supplies for the trip to [[Talar]].
 
+On the road, we find a man rummaging in a bush. He's looking for mushrooms 
 # Loot:
 
