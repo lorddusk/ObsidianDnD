@@ -25,6 +25,8 @@ create_date: {{09 December 2022}}
 ## 4 Marpenoth
 After a nights sleep in the Squinting Beholder Inn we set out to restock our supplies for the trip to [[Talar]].
 
-On the road, we find a man rummaging in a bush. He's looking for mushrooms. We call him [[The Mushroom Man]]  He picks up several mushrooms, and some herbs, doe
+On the road, we find a man rummaging in a bush. He's looking for mushrooms. We call him [[The Mushroom Man]]  He picks up several mushrooms, and some herbs. Doesn't bother us much, he gives Keth some directions what to pick.
+
+
 # Loot:
 
