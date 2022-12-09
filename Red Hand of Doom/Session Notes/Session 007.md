@@ -36,7 +36,7 @@ We continue our track to [[Talar]] keep an ear out for wolven cries.
 Nothing of importance happend during the days travel.
 At the end of the day, we reach [[Talar]].
 
-There unfor
+There unfortunately is no water way back to [[Brindol]].
 We check-in into the inn, and make our way to the tavern.
 
 
