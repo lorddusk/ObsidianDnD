@@ -32,6 +32,7 @@ During the first watch ([[Aelar]] and [[Keth]]) a wolf crying can be heard in th
 During the second watch ([[Booker]] and [[Alton]])  also hear this wolf cry. And we have the idea that this is very very far away. Over the night we hear multiple of these cries, as if they are answering each other.
 
 ## 5 Marpenoth
+We continue our track to [[Talar]] keep an ear out for wolven cries. 
 
 # Loot:
 
