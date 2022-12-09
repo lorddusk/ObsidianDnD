@@ -24,3 +24,4 @@ create_date: {{09 December 2022}}
 # Notes:
 
 # Loot:
+## 3 Marpenoth
