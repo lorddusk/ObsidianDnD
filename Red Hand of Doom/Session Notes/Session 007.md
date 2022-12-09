@@ -60,7 +60,7 @@ Once outside [[Booker]] sneakily looks towards the Northern and Southern mountai
 [[Booker]] has a gut feeling something is different, and tries to summon a dagger, instead of his spear. This goes a lot quicker than usual, and something just feels... off... Not sure what to do with this information, we continue to the Farmer, and board the cart.
 ```
 
-We reach [[Brindol]] 3 sides are palisaded, and 1 side is on the riverside
+We reach [[Brindol]] 3 sides are palisaded, and 1 side is on the riverside.
 
 
 
