@@ -23,6 +23,6 @@ create_date: {{09 December 2022}}
 
 # Notes:
 ## 4 Marpenoth
-
+After a nights sleep in the [[]]
 # Loot:
 
