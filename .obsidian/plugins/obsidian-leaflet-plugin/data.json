@@ -53,7 +53,7 @@
     },
     {
       "id": "elsir",
-      "lastAccessed": 1668897284436,
+      "lastAccessed": 1670612870682,
       "markers": [
         {
           "id": "ID_f9db5b1b5998",
@@ -199,16 +199,16 @@
           "color": "#3388FF",
           "vertices": [
             {
-              "lat": -1.1276321411132812,
-              "lng": 1.9036104240295781,
+              "lat": -1.0529365539550781,
+              "lng": 2.1204083063184602,
               "id": "ID_e999db99c949",
               "targets": {
                 "vertexIds": []
               }
             },
             {
-              "lat": -1.0573196411132812,
-              "lng": 2.056013796934854,
+              "lat": -1.0306930541992188,
+              "lng": 2.1131316698211986,
               "id": "ID_caab39fb2998",
               "targets": {
                 "vertexIds": []
@@ -219,9 +219,7 @@
               "lng": 2.1302615939912712,
               "id": "ID_4b795abba8ba",
               "targets": {
-                "vertexIds": [
-                  "ID_9abba868581a"
-                ]
+                "vertexIds": []
               }
             },
             {
@@ -229,14 +227,12 @@
               "lng": 2.1302615939912712,
               "id": "ID_9abba868581a",
               "targets": {
-                "vertexIds": [
-                  "ID_4b795abba8ba"
-                ]
+                "vertexIds": []
               }
             },
             {
-              "lat": -1.050750732421875,
-              "lng": 2.202381236685608,
+              "lat": -1.0386810302734375,
+              "lng": 2.1492316051365172,
               "id": "ID_3b389b6a8a7a",
               "targets": {
                 "vertexIds": []
@@ -268,11 +264,11 @@
   "long": -82.98333,
   "notePreview": false,
   "layerMarkers": true,
-  "previousVersion": "5.1.1",
+  "previousVersion": "5.0.4",
   "version": {
     "major": 5,
-    "minor": 1,
-    "patch": 1
+    "minor": 0,
+    "patch": 4
   },
   "warnedAboutMapMarker": false,
   "copyOnClick": false,
