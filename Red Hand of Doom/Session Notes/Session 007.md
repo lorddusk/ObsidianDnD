@@ -41,5 +41,8 @@ We check-in into the inn, and make our way to the tavern.
 There is a family in the inn, who were said to have a cart that could bring us to [[Brindol]], They ask 5GP for the trip. [[Keth]] tried to haggle for 4GP, but [[Alton]] can no longer watch it and puts up the extra 5SP that was agreed upon. We agree to meet in the morning for the cart trip.
 
 [[Alton]] notices a figure in the corner of the tavern, and approaches it. This figure is not very enamoured by [[Alton]], and tells him their names are Bob and Timmy.  It seems like this figure are [[Two Goblins in a Trenchcoat]].
+
+## 6 Marpenoth
+
 # Loot:
 
