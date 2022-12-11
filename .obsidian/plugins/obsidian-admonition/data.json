@@ -51,16 +51,15 @@
     },
     "booker": {
       "type": "booker",
-      "color": "255, 157, 46",
+      "color": "247, 147, 54",
       "icon": {
         "type": "octicons",
         "name": "book"
       },
-      "command": true,
-      "title": "Booker only",
+      "command": false,
+      "title": "Booker only information",
       "injectColor": true,
-      "noTitle": false,
-      "copy": true
+      "noTitle": false
     }
   },
   "syntaxHighlight": true,
