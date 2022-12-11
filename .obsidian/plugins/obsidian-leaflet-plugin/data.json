@@ -53,7 +53,7 @@
     },
     {
       "id": "elsir",
-      "lastAccessed": 1668897284436,
+      "lastAccessed": 1670621851187,
       "markers": [
         {
           "id": "ID_f9db5b1b5998",
@@ -93,14 +93,17 @@
           "id": "ID_89d9bb893bb8",
           "type": "default",
           "loc": [
-            -0.9384765625,
-            1.9482421875
+            -0.9772796630859375,
+            1.9501736041196842
           ],
           "link": "Talar",
           "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.624055553318299,
+            0.4792789152298851
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -161,14 +164,17 @@
           "id": "ID_ea0b38682b6b",
           "type": "default",
           "loc": [
-            -0.958038330078125,
-            0.775390625
+            -0.9231910705566406,
+            0.7514762878417969
           ],
           "link": "Wyrmsmoke Mountains",
           "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.240472412109375,
+            0.4527527089319923
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -178,14 +184,17 @@
           "id": "ID_d9c93afb3858",
           "type": "default",
           "loc": [
-            -1.2193374633789062,
-            2.0966796875
+            -1.2528305053710938,
+            2.094234052835051
           ],
           "link": "Dauth",
           "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.6701548969072164,
+            0.6144149604885057
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -199,16 +208,16 @@
           "color": "#3388FF",
           "vertices": [
             {
-              "lat": -1.1276321411132812,
-              "lng": 1.9036104240295781,
+              "lat": -1.0529365539550781,
+              "lng": 2.1204083063184602,
               "id": "ID_e999db99c949",
               "targets": {
                 "vertexIds": []
               }
             },
             {
-              "lat": -1.0573196411132812,
-              "lng": 2.056013796934854,
+              "lat": -1.0306930541992188,
+              "lng": 2.1131316698211986,
               "id": "ID_caab39fb2998",
               "targets": {
                 "vertexIds": []
@@ -219,9 +228,7 @@
               "lng": 2.1302615939912712,
               "id": "ID_4b795abba8ba",
               "targets": {
-                "vertexIds": [
-                  "ID_9abba868581a"
-                ]
+                "vertexIds": []
               }
             },
             {
@@ -229,14 +236,12 @@
               "lng": 2.1302615939912712,
               "id": "ID_9abba868581a",
               "targets": {
-                "vertexIds": [
-                  "ID_4b795abba8ba"
-                ]
+                "vertexIds": []
               }
             },
             {
-              "lat": -1.050750732421875,
-              "lng": 2.202381236685608,
+              "lat": -1.0386810302734375,
+              "lng": 2.1492316051365172,
               "id": "ID_3b389b6a8a7a",
               "targets": {
                 "vertexIds": []

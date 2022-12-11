@@ -7,7 +7,7 @@
 |   Temporary HP |   -    |     -     |
 
 # Slot based actions
-### Spell Slots (1st Level)
+### Spell Slots (2nd Level)
 - [ ] 
 - [ ] 
 ### Healing Hands
@@ -98,7 +98,10 @@
 - 1st Level:
 	- [[Armor of Agathys]]
 	- [[Comprehend Languages]]
-	- [[Wrathful Smite]] (Bonus Action)
+
+- 2nd Level:
+	- [[Branding Smite]] (Bonus Action)
+	- [[Earthbind]]
 
 ## Invocations
 - [[Armor of Shadows]]

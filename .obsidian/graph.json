@@ -1,0 +1,100 @@
+{
+  "collapse-filter": false,
+  "search": "(path:-\"Timeline Entries\") (path:-\"House Rules\") (path:-\"Characters/Booker/Spells\") (path:-\"Templates\") (path:-\"Rolls\") (path:-\"Reference\")  (file:-\"Index\") (file:-\"Tags\") (file:-\"Worldmap\") (file:-\"Timeline\") (file:-\"Compendium Index\") (file:-\"Overview\") (file:-\"Background\") (file:-\"Character Sheet\") (file:-\"Filters\") (file:-\"NPCs\") (file:-\"Items\") (file:-\"Compendium\") (file:-\"Deities\") (file:-\"Events\") (file:-\"Groups\") (file:-\"Characters\") (file:-\"Locations\") (file:-\"Session 0\") (file:-\"Quests\")",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:Booker",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#Party",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#Family",
+      "color": {
+        "a": 1,
+        "rgb": 15909631
+      }
+    },
+    {
+      "query": "tag:#Group",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#NPC",
+      "color": {
+        "a": 1,
+        "rgb": 16739179
+      }
+    },
+    {
+      "query": "tag:#Deity",
+      "color": {
+        "a": 1,
+        "rgb": 1372159
+      }
+    },
+    {
+      "query": "tag:#Item",
+      "color": {
+        "a": 1,
+        "rgb": 7357988
+      }
+    },
+    {
+      "query": "tag:#Location",
+      "color": {
+        "a": 1,
+        "rgb": 7733099
+      }
+    },
+    {
+      "query": "tag:#Event",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#Session",
+      "color": {
+        "a": 1,
+        "rgb": 7368816
+      }
+    },
+    {
+      "query": "file:Questions",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 0.986653476540418,
+  "lineSizeMultiplier": 1.50075183719616,
+  "collapse-forces": true,
+  "centerStrength": 0.29672131147541,
+  "repelStrength": 11.9400791407575,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.8541931529037362,
+  "close": true
+}
