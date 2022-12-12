@@ -30,5 +30,6 @@
   "foldHeading": true,
   "showInlineTitle": false,
   "foldIndent": true,
-  "useTab": true
+  "useTab": true,
+  "trashOption": "none"
 }
