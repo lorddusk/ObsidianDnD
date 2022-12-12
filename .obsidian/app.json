@@ -28,7 +28,7 @@
   "autoPairMarkdown": true,
   "smartIndentList": true,
   "foldHeading": true,
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "foldIndent": true,
   "useTab": true,
   "trashOption": "none"
