@@ -51,7 +51,7 @@
     },
     "booker": {
       "type": "booker",
-      "color": "247, 147, 54",
+      "color": "255, 150, 51",
       "icon": {
         "type": "octicons",
         "name": "book"
