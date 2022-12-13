@@ -19,5 +19,7 @@
   "obsidian-style-settings",
   "table-editor-obsidian",
   "obsidian-linter",
-  "quickadd"
+  "quickadd",
+  "obsidian42-brat",
+  "obsidian-mkdocs-publisher"
 ]
