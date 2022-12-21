@@ -11,8 +11,12 @@
             "id": "bc39e05eb44f05d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Red Hand of Doom/Session Notes/Session 001.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Red Hand of Doom/Session Notes/Session 001.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Red Hand of Doom/Session Notes/Session 001.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Red Hand of Doom/Session Notes/Session 001.md"
+          }
         }
       },
       {
@@ -121,9 +129,15 @@
     ],
     "currentTab": 3
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "bc39e05eb44f05d4",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Red Hand of Doom/Session Notes/Session 001.md",
+    "Red Hand of Doom/Session Notes/Session 006.md",
+    "Red Hand of Doom/Session Notes/Rolls/Rolls S006.md",
+    "Red Hand of Doom/Session Notes/Rolls/Rolls S007.md",
+    "Red Hand of Doom/Compendium/NPCs/Two Goblins in a Trenchcoat.md",
+    "Red Hand of Doom/Session Notes/Session 007.md",
+    "Characters/Booker/Background.md",
+    "The Mushroom Man.md"
+  ]
 }
