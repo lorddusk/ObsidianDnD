@@ -38,5 +38,7 @@
   "automaticallyMergePR": true,
   "metadataExtractorPath": "",
   "convertInternalNonShared": false,
+  "frontmatterTitleRegex": "",
+  "frontmatterTitleReplacement": "",
   "ExcludedFolder": []
 }
