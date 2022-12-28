@@ -13,7 +13,8 @@ create_date: {{09 December 2022}}
 
 
 # Summary of This Session:
-
+Een goede nachtrust, en het inslaan van proviand en wat verdere benodigdheden later, gaan we op reis naar Talar, om in Brindol te geraken.
+Onderweg komen we de 
 ^summary
 
 # Recap of Last Session:
