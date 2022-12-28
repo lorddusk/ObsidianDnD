@@ -16,7 +16,8 @@ create_date: {{09 December 2022}}
 Een goede nachtrust, en het inslaan van proviand en wat verdere benodigdheden later, gaan we op reis naar Talar, om in Brindol te geraken.
 Onderweg komen we de Mushroom Man tegen, die wat warrig overkomt, maar Keth wat hints geeft wat eetbaar is en wat niet.
 Een nacht zonder enige verassingen volgt, met als enig noemenswaardig het huilen van wolven in de verre verte. Dit houden we dan ook in het achterhoofd tot aan Talar.
-Eenmaal in Talar aangekomen, tegen het einde van de dag, duiken we een taverne in. Hier zit een groepje boeren te tafelen en het gesprek van de dag te voeren. Keth spreekt ze aan om te kijken of ze ons toevalli
+Eenmaal in Talar aangekomen, tegen het einde van de dag, duiken we een taverne in. Hier zit een groepje boeren te tafelen en het gesprek van de dag te voeren. Keth spreekt ze aan om te kijken of ze ons toevallig naar Brindol kunnen brengen, waar ze mee in stemmen (na enig gesteggel over de prijs).
+De trip naar Brindol verloopt soepel en snel
 ^summary
 
 # Recap of Last Session:
