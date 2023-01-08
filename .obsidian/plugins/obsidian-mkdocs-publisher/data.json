@@ -27,7 +27,7 @@
   "hardBreak": false,
   "logNotice": false,
   "convertDataview": true,
-  "useFrontmatterTitle": false,
+  "useFrontmatterTitle": true,
   "censorText": [],
   "inlineTags": false,
   "dataviewFields": [],
