@@ -34,5 +34,5 @@ Namely that some of the guild members like to hunt (evil) monsters for materials
 
 He gives [[Booker]] and [[Keth]] a bronze tag, as an upgrade over our older ones. He also gives the same tag to the others. This means we move up in the ranking system of the Guild. These tags have a one-time use only function. It functions as an emergency call to the Guild, only one-way akin to [[Sending]].
 
-
+[[Witch cross]]
 # Loot:
