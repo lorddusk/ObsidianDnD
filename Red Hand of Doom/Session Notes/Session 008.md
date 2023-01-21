@@ -38,5 +38,5 @@ He tells us, if we choose to accept it, that a new mission is ready for us.
 In [[Witchcross]] there seem to be reports of missing persons. He has no accurate numbers of the amount of people missing.
 In the Crossing Inn, our contact person resides, and the question is to go see them. [[Romsan Kall]] is their name.
 He gives us a rundown what the facilities are in the Guild;
-Stables, Identifications, Minor magic item sale, purchase of monster parts/loot, resurrection/healing services, 
+Stables, Identifications, Minor magic item sale, purchase of monster parts/loot, resurrection/healing services, smiths, herbalists, and a lot more crafters are available for requests.
 # Loot:
