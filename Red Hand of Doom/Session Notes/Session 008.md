@@ -41,4 +41,6 @@ He gives us a rundown what the facilities are in the Guild;
 Stables, Identifications, Minor magic item sale, purchase of monster parts/loot, resurrection/healing services, smiths, herbalists, and a lot more crafters are available for requests.
 
 Shopping spree ensues.
+
+We decide to go to the Zombie Inn
 # Loot:
