@@ -20,7 +20,7 @@ tags: Party
 
 ![[Background#^history]]
 
-Member of the Adventures Guild in [[Brindol]]
+Member of [[The Adventurers Guild]] in [[Brindol]]
 
 ___ 
 ## References:
