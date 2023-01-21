@@ -4,7 +4,7 @@
 
 - [?] When is [[The Benefactor]] coming for their promised collection?
 
-- [?] Who or what is the cause of the mutations in the [[Elsir Vale]] area?
+- [ ] Who or what is the cause of the mutations in the [[Elsir Vale]] area?
 - This seems to be originating from broken ruins in the [[Old Abandoned Watermill]].
 - Most likely the scarlet liquid that's been seeping from the teleportation circle in the [[Old Abandoned Watermill]]
 

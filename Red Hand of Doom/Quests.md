@@ -9,4 +9,8 @@
 	- [X] Check on [[Veshje]] and his lab.
 	- [X] Clear out the Kobold Nest.
 	- [X] Figure out the reason for the mutations.
-- [ ]  Missing People from [[Witch]]
+
+- [ ]  Missing People from [[Witchcross]]
+	- [ ] Find the missing people
+	- [ ] Figure out what is happening
+	- [ ] What is the cause of the missing people
