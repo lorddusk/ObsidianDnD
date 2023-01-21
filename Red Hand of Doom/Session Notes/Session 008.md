@@ -53,6 +53,7 @@ We arrive in [[Witchcross]] after an uneventful trip. And we head for the [[Cros
 
 The disappearances happened a week ago, on the first day of the drums. Those started to happen from the east. Might be as far away as the Twilight Marshes. They happen throughout the whole night, and at the beginning of the day people, with their complete life-stock vanish. 
 They have a few clues, riverside people hear stuff from the river and fear that a monster made lair in the river. Others think its lizard folk from the marshes.
-A rough estimate is that at least 30 people have gone missing at this time. 
+A rough estimate is that at least 30 people have gone missing at this time. No specifics about the missing people, they can be any age, any race, any gender.
+No people have returned so far.
 
 # Loot:
