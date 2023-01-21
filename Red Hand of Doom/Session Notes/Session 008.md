@@ -23,5 +23,6 @@ create_date: {{21 January 2023}}
 - [[DM Inspiration]] Dice - Currently left : 4
 # Notes:
 The [[The Adventurers Guild]] has seen better days.
-It looks a bit decrepit, but it hold 
+It looks a bit decrepit, but it holds up.
+A sign with [[The hall of Great Valor]] hangs outside.
 # Loot:
