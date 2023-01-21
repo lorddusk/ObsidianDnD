@@ -31,6 +31,6 @@ Behind the bar is [[Reynard Aristaios]]
 A man, dressed in black dragon leather armour is talking to him. They seem to agree on something, and he walks away holding pieces of paper.
 
 We speak with [[Reynard Aristaios]] about the rest of the group joining up. He introduces himself to [[Alton]], [[Aelar]], and [[Bikam]]. He gives a small speech about what [[The Adventurers Guild]] does in the region, and what we can do for them.
-
+Namely that some of the guild members like to hunt monsters for materials, food, and trophies.
 
 # Loot:
