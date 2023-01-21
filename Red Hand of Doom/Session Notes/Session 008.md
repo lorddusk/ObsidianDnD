@@ -5,7 +5,7 @@ world: Faerun
 campaign: Red Hand of Doom
 sessionNum: 008
 game_year: 1491 DR
-game_date: [6 Marpenoth]
+game_date: [6 Marpenoth, 7 Marpenoth]
 players: [Guido, Peter, Danny, Rob, Tim]
 create_date: {{21 January 2023}}
 ---
@@ -43,6 +43,8 @@ Stables, Identifications, Minor magic item sale, purchase of monster parts/loot,
 
 Shopping spree ensues.
 
-We decide to go to the Zombie Inn to see if we might gather some more information about the disappearances in [[Witchcross]]. Noone knows anything,
+We decide to go to the Zombie Inn to see if we might gather some more information about the disappearances in [[Witchcross]]. No-one knows anything, so we decide to go to bed.
+
+## 7 Marpenoth
 
 # Loot:
