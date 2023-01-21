@@ -40,5 +40,5 @@ In the Crossing Inn, our contact person resides, and the question is to go see t
 He gives us a rundown what the facilities are in the Guild;
 Stables, Identifications, Minor magic item sale, purchase of monster parts/loot, resurrection/healing services, smiths, herbalists, and a lot more crafters are available for requests.
 
-Shopping sp
+Shopping spree ensues.
 # Loot:
