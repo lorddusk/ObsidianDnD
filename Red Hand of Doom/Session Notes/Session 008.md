@@ -22,6 +22,7 @@ create_date: {{21 January 2023}}
 # Housekeeping:
 - [[DM Inspiration]] Dice - Currently left : 4
 # Notes:
+## 6 Marpenoth
 The [[The Adventurers Guild]] has seen better days.
 It looks a bit decrepit, but it holds up.
 A sign with [[The Hall of Great Valour]] hangs outside.
@@ -42,5 +43,6 @@ Stables, Identifications, Minor magic item sale, purchase of monster parts/loot,
 
 Shopping spree ensues.
 
-We decide to go to the Zombie Inn to see if we might gather some more information about the disappearances in [[Witchcross]]
+We decide to go to the Zombie Inn to see if we might gather some more information about the disappearances in [[Witchcross]].
+
 # Loot:
