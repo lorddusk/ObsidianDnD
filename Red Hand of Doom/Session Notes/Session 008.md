@@ -49,6 +49,6 @@ We decide to go to the Zombie Inn to see if we might gather some more informatio
 Nothing worth mentioning happens today.
 
 ## 8 Marpenoth
-We arrive in [[Witchcross]] after an uneventful trip. And we head for the [[Crossing Inn]]
+We arrive in [[Witchcross]] after an uneventful trip. And we head for the [[Crossing Inn]], which is in the west of the village.
 
 # Loot:
