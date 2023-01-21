@@ -2,9 +2,9 @@
 | Kind | Amount |
 | ---- | ------ |
 | CP   | 0      |
-| SP   | 89     |
-| GP   |115|
-| PP   | 0      | 
+| SP   |89 |
+| GP   |114|
+| PP   |0|
 
 # Adventuring Items
 - Backpack containing:
