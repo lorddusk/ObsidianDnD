@@ -35,5 +35,6 @@ Namely that some of the guild members like to hunt (evil) monsters for materials
 He gives [[Booker]] and [[Keth]] a bronze tag, as an upgrade over our older ones. He also gives the same tag to the others. This means we move up in the ranking system of the Guild. These tags have a one-time use only function. It functions as an emergency call to the Guild, only one-way akin to [[Sending]].
 
 He tells us, if we choose to accept it, that a new mission is ready for us.
-In [[Witchcross]] there seem to be reports of missing persons.
+In [[Witchcross]] there seem to be reports of missing persons. He has no accurate numbers of the amount of people missing.
+In the Crossing Inn, our contact person resides, and the question is to go see them. [[Romsan Kall]] is their name.
 # Loot:
