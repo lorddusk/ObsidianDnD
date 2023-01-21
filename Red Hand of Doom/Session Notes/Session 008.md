@@ -60,4 +60,6 @@ The last one who called in a disappearance was [[Snorre]]
 Suddenly the door opens, a human male hurriedly enters, looks around and moves towards us. Visibly upset. 
 "The family Renon has gone missing, help us!" 
 
+We go to the place where the Renons were last seen, via boot.
+
 # Loot:
