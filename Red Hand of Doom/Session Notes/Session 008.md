@@ -55,6 +55,6 @@ The disappearances happened a week ago, on the first day of the drums. Those sta
 They have a few clues, riverside people hear stuff from the river and fear that a monster made lair in the river. Others think its lizard folk from the marshes.
 A rough estimate is that at least 30 people have gone missing at this time. No specifics about the missing people, they can be any age, any race, any gender.
 No people have returned so far.
-The last one who disappeared 
+The last one who called in a disappearance was [[Snorre]] 
 
 # Loot:
