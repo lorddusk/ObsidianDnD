@@ -24,5 +24,5 @@ create_date: {{21 January 2023}}
 # Notes:
 The [[The Adventurers Guild]] has seen better days.
 It looks a bit decrepit, but it holds up.
-A sign with [[The hall of Great Valor]] hangs outside.
+A sign with [[The Hall of Great Valour]] hangs outside.
 # Loot:
