@@ -27,5 +27,5 @@ It looks a bit decrepit, but it holds up.
 A sign with [[The Hall of Great Valour]] hangs outside.
 
 Inside the guild, the setup like a tavern. Behind the bar is an older man, with a scar across his face. 
-
+A man, dressed in black dragon leather armour is talking to him. They seem to agreeing 
 # Loot:
