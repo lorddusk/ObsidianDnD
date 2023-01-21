@@ -51,6 +51,7 @@ Nothing worth mentioning happens today.
 ## 8 Marpenoth
 We arrive in [[Witchcross]] after an uneventful trip. And we head for the [[Crossing Inn]], which is in the west of the village.
 
-The disappearnces happened a week ago, on the first day of the drums. Those started to happen from the east. Might be as far away as the Twilight Marshes. They happen throughout the whole night, and at the beginning of the day people, 
+The disappearnces happened a week ago, on the first day of the drums. Those started to happen from the east. Might be as far away as the Twilight Marshes. They happen throughout the whole night, and at the beginning of the day people, with their ecomplete lifestock vanish. 
+They have a few clues, riverside people hear stuff from the river and fear that a monster made lair in the river. Others think its a monster from the marshes.
 
 # Loot:
