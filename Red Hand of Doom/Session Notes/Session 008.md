@@ -26,6 +26,7 @@ The [[The Adventurers Guild]] has seen better days.
 It looks a bit decrepit, but it holds up.
 A sign with [[The Hall of Great Valour]] hangs outside.
 
-Inside the guild, the setup like a tavern. Behind the bar is an older man, with a scar across his face. 
+Inside the guild, the setup like a tavern. 
+Behind the bar is [[Reynard Aristaios]]
 A man, dressed in black dragon leather armour is talking to him. They seem to agree on something, and he walks away holding pieces of paper.
 # Loot:
