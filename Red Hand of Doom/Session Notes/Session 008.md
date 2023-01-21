@@ -5,7 +5,7 @@ world: Faerun
 campaign: Red Hand of Doom
 sessionNum: 008
 game_year: 1491 DR
-game_date: [6 Marpenoth, 7 Marpenoth, 8 Ma]
+game_date: [6 Marpenoth, 7 Marpenoth, 8 Marpenoth]
 players: [Guido, Peter, Danny, Rob, Tim]
 create_date: {{21 January 2023}}
 ---
@@ -49,5 +49,6 @@ We decide to go to the Zombie Inn to see if we might gather some more informatio
 Nothing worth mentioning happens today
 
 ## 8 Marpenoth
+
 
 # Loot:
