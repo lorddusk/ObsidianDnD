@@ -20,7 +20,7 @@ create_date: {{21 January 2023}}
 ![[Red Hand of Doom/Session Notes/Session 007#^summary]]
 
 # Housekeeping:
-
+- [[DM Inspiration]] Dice - Currently left : 4
 # Notes:
 
 # Loot:
