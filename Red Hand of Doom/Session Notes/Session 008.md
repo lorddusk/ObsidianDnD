@@ -58,6 +58,6 @@ No people have returned so far.
 The last one who called in a disappearance was [[Snorre]] 
 
 Suddenly the door opens, a human male hurriedly enters, looks around and moves towards us. Visibly upset. 
-Renons
+"The family Renon has gone missing, help us!" 
 
 # Loot:
