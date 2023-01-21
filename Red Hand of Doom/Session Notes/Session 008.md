@@ -33,4 +33,5 @@ A man, dressed in black dragon leather armour is talking to him. They seem to ag
 We speak with [[Reynard Aristaios]] about the rest of the group joining up. He introduces himself to [[Alton]], [[Aelar]], and [[Bikam]]. He gives a small speech about what [[The Adventurers Guild]] does in the region, and what we can do for them.
 Namely that some of the guild members like to hunt (evil) monsters for materials, parts, food, and trophies.
 
+He gives us a bronze tag, as an upgrade over our older o
 # Loot:
