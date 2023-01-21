@@ -46,7 +46,7 @@ Shopping spree ensues.
 We decide to go to the Zombie Inn to see if we might gather some more information about the disappearances in [[Witchcross]]. No-one knows anything, so we decide to go to bed.
 
 ## 7 Marpenoth
-Nothing worth mentioning happens today
+Nothing worth mentioning happens today.
 
 ## 8 Marpenoth
 
