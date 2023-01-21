@@ -57,4 +57,6 @@ A rough estimate is that at least 30 people have gone missing at this time. No s
 No people have returned so far.
 The last one who called in a disappearance was [[Snorre]] 
 
+Suddenly the door opens, a human male hurriedly enters, looks around and moves towards us. Visibly upset.  
+
 # Loot:
