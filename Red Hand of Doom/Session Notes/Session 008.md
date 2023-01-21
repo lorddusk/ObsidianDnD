@@ -26,8 +26,7 @@ The [[The Adventurers Guild]] has seen better days.
 It looks a bit decrepit, but it holds up.
 A sign with [[The Hall of Great Valour]] hangs outside.
 
-Inside the guild, the setup like a tavern. 
-Behind the bar is [[Reynard Aristaios]]
+Inside the guild, the setup like a tavern, behind the bar stands [[Reynard Aristaios]].
 A man, dressed in black dragon leather armour is talking to him. They seem to agree on something, and he walks away holding pieces of paper.
 
 We speak with [[Reynard Aristaios]] about the rest of the group joining up. He introduces himself to [[Alton]], [[Aelar]], and [[Bikam]]. He gives a small speech about what [[The Adventurers Guild]] does in the region, and what we can do for them.
