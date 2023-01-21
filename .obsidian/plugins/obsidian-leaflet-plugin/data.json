@@ -53,7 +53,7 @@
     },
     {
       "id": "elsir",
-      "lastAccessed": 1670621851187,
+      "lastAccessed": 1674331667098,
       "markers": [
         {
           "id": "ID_f9db5b1b5998",
@@ -93,8 +93,8 @@
           "id": "ID_89d9bb893bb8",
           "type": "default",
           "loc": [
-            -0.9772796630859375,
-            1.9501736041196842
+            -0.9400882757682585,
+            1.9466121182198162
           ],
           "link": "Talar",
           "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
@@ -195,6 +195,23 @@
             0.6701548969072164,
             0.6144149604885057
           ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a4a48ea7899",
+          "type": "default",
+          "loc": [
+            -0.7467466402883439,
+            2.042823990341927
+          ],
+          "link": "Witchcross",
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
