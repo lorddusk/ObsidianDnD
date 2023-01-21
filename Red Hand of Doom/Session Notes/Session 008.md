@@ -43,6 +43,6 @@ Stables, Identifications, Minor magic item sale, purchase of monster parts/loot,
 
 Shopping spree ensues.
 
-We decide to go to the Zombie Inn to see if we might gather some more information about the disappearances in [[Witchcross]].
+We decide to go to the Zombie Inn to see if we might gather some more information about the disappearances in [[Witchcross]]. Noone knows anything,
 
 # Loot:
