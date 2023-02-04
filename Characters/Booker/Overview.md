@@ -13,7 +13,7 @@
 ### Healing Hands
 - [ ] 
 ### Hex Curse
-- [ ] 
+- [x] 
 ### Radiant Consumption
 - [x] 
 
