@@ -29,5 +29,5 @@ A couple of farm animals have also gone missing alongside the humans.
 
 Every night, since a week, drums can be heard in the distance.
 
-After 45 minutes we arrive at the farmstead. 
+After 45 minutes we arrive at the farmstead.  We beach
 # Loot:

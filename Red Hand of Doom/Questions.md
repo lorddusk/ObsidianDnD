@@ -15,4 +15,7 @@
 - [?] What or who is cause for the disappearances in the [[The Witchwood]] area?
 
 - [?] What do my visions mean?
-![[Session 007#]]
+![[Session 007#^vision1]]
+![[Session 007#^vision2]]
+
+- [?] ...
