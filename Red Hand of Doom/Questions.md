@@ -12,4 +12,6 @@
 
 - [?] What is the reason for the attempts to summon a dracolich?
 
-- [?] What or who is cause for the dissapearences in the [[The Witchwood]]
+- [?] What or who is cause for the disappearances in the [[The Witchwood]] area?
+
+- [?] What do my visions mean?
