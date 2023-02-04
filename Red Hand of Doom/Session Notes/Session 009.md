@@ -37,5 +37,6 @@ The farmstead is a wooden structure, one of the doors is of it's hinges, with in
 Deep cuts reside in the floorings, with blood spatters scattered around. With some investigation, at least 1 person has been dragged through the house, back to the river, through the backdoor.
 
 Following this trail, we find a gravel beach, where a big boat was beached before, trails of blood and claws are scattered around.
+We find a gourd wedged in between rocks, with a seemingly poison in it, or at least used to be.
 
 # Loot:
