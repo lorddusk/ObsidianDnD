@@ -25,4 +25,6 @@ create_date: {{04 February 2023}}
 # Notes:
 ## 8 Marpenoth
 The Renons are a farmers family (man and woman), alongside the river. Tarou is the assistant for the family, and helps them out on the land. They can take care of themselves if needed. 
+
+Every night, since a week, drums can be heard in the distance.
 # Loot:
