@@ -39,4 +39,6 @@ Deep cuts reside in the floorings, with blood spatters scattered around. With so
 Following this trail, we find a gravel beach, where a big boat was beached before, trails of blood and claws are scattered around.
 We find a gourd wedged in between rocks, with a seemingly poison in it, or at least used to be.
 
+We decide to walk to the other 2 farmsteads in the neighbourhood (albeit they are at least a click away)
+
 # Loot:
