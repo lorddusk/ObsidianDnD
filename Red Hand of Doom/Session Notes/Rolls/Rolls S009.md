@@ -4,7 +4,7 @@
 | Id. | What              | Roll |
 | --- | ----------------- | ---- |
 | 1   | Investigation     | 17   |
-| 2   | Investigation     | 1    |
+| 2   |Investigation| 1    |
 | 3   | Strength          | 18   |
 | 4   | Survival          | 18   |
 | 5   | Constitution Save | 11   |
@@ -20,3 +20,5 @@
 | 15  |                   |      |
 | 16  |                   |      |
 |     |                   |      |
+
+###### Combat Rolls #1

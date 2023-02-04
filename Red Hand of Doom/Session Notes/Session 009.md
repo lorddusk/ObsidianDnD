@@ -45,6 +45,7 @@ Both steads are empty, and similar to the Renons trashed. A bull has some blood 
 A plan is made, and we take the boat further up the stream, towards the drum sounds.
 Moving forward pushing to our exhaustion, but ultimately decide to anchor the boat, to rest for the night.
 
+During the watch we are ambushed by 6 creatu
 ## 9 Marpenoth
 
 
