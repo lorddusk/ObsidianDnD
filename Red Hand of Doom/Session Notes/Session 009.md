@@ -51,6 +51,6 @@ During the watch we are ambushed by 6 creatures.
 
 ## 9 Marpenoth
 
-
+We awake.
 
 # Loot:
