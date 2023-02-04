@@ -17,7 +17,11 @@ function getSessionNumber(tp, add = 0, rolls = false){
     while(numOfGames.length < 3){
         numOfGames = "0"+numOfGames;
     }
-    return numOfGames;
+    if(rolls === true){
+        return numOfGames-1;
+    }else{
+        return numOfGames;
+    }
 }
 
 module.exports = getSessionNumber;
