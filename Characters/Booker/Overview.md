@@ -1,7 +1,7 @@
 # Overview
 |           What | Amount | Remaining |
 | --------------:|:------:|:---------:|
-|             HP |   28   |23|
+|             HP |   28   |22|
 | Hit dice (1d8) |   3    |3|
 |             AC |   17   |    17     |
 |   Temporary HP |   -    |     -     |
@@ -9,7 +9,7 @@
 # Slot based actions
 ### Spell Slots (2nd Level)
 - [x] 
-- [ ] 
+- [x] 
 ### Healing Hands
 - [ ] 
 ### Hex Curse
