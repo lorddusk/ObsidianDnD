@@ -46,7 +46,9 @@ A plan is made, and we take the boat further up the stream, towards the drum sou
 Moving forward pushing to our exhaustion, but ultimately decide to anchor the boat, to rest for the night.
 
 During the watch we are ambushed by 6 creatures.
+
 ![[Rolls S009#Combat Rolls 1]]
+
 ## 9 Marpenoth
 
 
