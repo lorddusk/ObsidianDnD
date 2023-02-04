@@ -24,5 +24,5 @@ create_date: {{04 February 2023}}
 
 # Notes:
 ## 8 Marpenoth
-
+The Renons are a famers
 # Loot:
