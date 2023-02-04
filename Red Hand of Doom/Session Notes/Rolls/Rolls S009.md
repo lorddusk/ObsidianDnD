@@ -7,4 +7,4 @@
 | 2   | Investigation | 1    |
 | 3   | Strength      | 18   |
 | 4   | Survival      | 18   |
-|     |               |      |
+|5|Constitution Save|11|
