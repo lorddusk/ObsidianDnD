@@ -36,4 +36,6 @@ Leading directly to the farmstead, moving in a southern direction. The footprint
 The farmstead is a wooden structure, one of the doors is of it's hinges, with indications of a struggle inside and outside of the building.
 Deep cuts reside in the floorings, with blood spatters scattered around. With some investigation, at least 1 person has been dragged through the house, back to the river, through the backdoor.
 
+Following this trail, we find a gravel beach, where a big boat was bea
+
 # Loot:
