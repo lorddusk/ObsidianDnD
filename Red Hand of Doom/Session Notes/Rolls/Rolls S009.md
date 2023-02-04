@@ -12,7 +12,7 @@
 | 7   | Constitution Save | 16   |
 | 8   | Strength          | 15   |
 | 9   | Perception        | 7    |
-| 10  |                   |      |
+| 10  | Initiative        | 9    |
 | 11  |                   |      |
 | 12  |                   |      |
 | 13  |                   |      |
