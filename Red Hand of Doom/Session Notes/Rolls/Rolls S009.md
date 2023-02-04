@@ -25,4 +25,5 @@
 | Id. | What              | Roll |
 | --- | ----------------- | ---- |
 | 1   | Constitution Save | 13   |
-| 2   |                   |      |
+| 2   | Constitution Save | 17   |
+|     |                   |      |
