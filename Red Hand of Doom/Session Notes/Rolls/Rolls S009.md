@@ -5,4 +5,4 @@
 | --- | ------------- | ---- |
 | 1   | Investigation | 17   |
 | 2   | Investigation | 1    |
-| 3   | Stre              |      |
+| 3   | Strength      | 18   | 
