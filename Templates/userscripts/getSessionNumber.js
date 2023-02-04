@@ -1,9 +1,11 @@
 function getSessionNumber(tp, add = 0, rolls = false){
     let folderName = tp.file.folder(true);
+    let numOfGames = 0;
     if(rolls === true){
+        numOfGames = -1;
         folderName = folderName.replace("/Rolls","");
     }
-    let numOfGames = 0;
+    
     app.plugins.plugins.dataview.api.pages(`"${folderName}"`)
     .forEach(page => {
         if(page.type === 'session'){
@@ -17,11 +19,7 @@ function getSessionNumber(tp, add = 0, rolls = false){
     while(numOfGames.length < 3){
         numOfGames = "0"+numOfGames;
     }
-    if(rolls === true){
-        return numOfGames-1;
-    }else{
-        return numOfGames;
-    }
+    return numOfGames;
 }
 
 module.exports = getSessionNumber;
