@@ -27,4 +27,5 @@
 | 1   | Constitution Save | 13   |
 | 2   | Constitution Save | 17   |
 | 3   | Melee Attack      | 18   |
-|     |                   |      |
+| 4   | Constitution Save | 17   |
+| 5   |                   |      |
