@@ -40,6 +40,9 @@ Following this trail, we find a gravel beach, where a big boat was beached befor
 We find a gourd wedged in between rocks, with a seemingly poison in it, or at least used to be.
 
 We decide to walk to the other 2 farmsteads in the neighbourhood (albeit they are at least a click away).
+Both steads are empty, and similar to the Renons trashed. A bull has some blood on his horn, so it has hurt one of the assailants, and it was shot by smaller darts, three times.
+
+
 
 
 # Loot:
