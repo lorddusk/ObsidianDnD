@@ -15,7 +15,7 @@
 ### Hex Curse
 - [ ] 
 ### Radiant Consumption
-- [ ] 
+- [x] 
 
 ## Stats
 | Name | Stat | Mod |
