@@ -24,5 +24,5 @@ create_date: {{04 February 2023}}
 
 # Notes:
 ## 8 Marpenoth
-The Renons are a famers
+The Renons are a farmers family, alongside the river. Tarou is the assistant for the family, and helps them out on the land. They can take care of themselves if needed,
 # Loot:
