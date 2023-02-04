@@ -28,4 +28,6 @@ The Renons are a farmers family (man and woman), alongside the river. Tarou is t
 A couple of farm animals have also gone missing alongside the humans.
 
 Every night, since a week, drums can be heard in the distance.
+
+After 45 minutes we arrive at the farmstead. 
 # Loot:
