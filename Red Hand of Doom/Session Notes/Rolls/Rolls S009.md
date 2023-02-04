@@ -24,4 +24,4 @@
 ###### Combat Rolls #1
 | Id. | What | Roll |
 | --- | ---- | ---- |
-| 1   |      |      |
+| 1   | Constit     |      |
