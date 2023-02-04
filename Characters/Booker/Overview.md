@@ -1,7 +1,7 @@
 # Overview
 |           What | Amount | Remaining |
 | --------------:|:------:|:---------:|
-|             HP |   28   |17|
+|             HP |   28   |23|
 | Hit dice (1d8) |   3    |3|
 |             AC |   17   |    17     |
 |   Temporary HP |   -    |     -     |
