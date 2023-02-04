@@ -11,3 +11,5 @@
 - [?] What is [[Jeralla]]'s plan?
 
 - [?] What is the reason for the attempts to summon a dracolich?
+
+- [?] What or who is cause for the dissapearences in the [[The Witchwood]]
