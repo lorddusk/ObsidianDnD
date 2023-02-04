@@ -9,4 +9,6 @@
 | 4   | Survival          | 18   |
 | 5   | Constitution Save | 11   |
 | 6   | Strength          | 11   |
+| 7   | Constitution Save | 16   |
+| 8   | Strength          | 15   |
 |     |                   |      |
