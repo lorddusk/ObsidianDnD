@@ -11,8 +11,8 @@
 | 6   | Strength          | 11   |
 | 7   | Constitution Save | 16   |
 | 8   | Strength          | 15   |
-| 9   |                   |      |
-| 10  |                   |      | 
+| 9   | Perception        | 7    |
+| 10  |                   |      |
 | 11  |                   |      |
 | 12  |                   |      |
 | 13  |                   |      |
