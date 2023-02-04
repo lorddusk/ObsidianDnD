@@ -16,6 +16,5 @@
 
 - [?] What do my visions mean?
 ![[Session 007#^vision1]]
-![[Session 007#^vision2]]
 
 - [?] ...
