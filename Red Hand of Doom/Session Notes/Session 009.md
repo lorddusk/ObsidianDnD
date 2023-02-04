@@ -33,4 +33,6 @@ After 45 minutes we arrive at the farmstead.  We beach the boat, and make sure i
 When walking to the farmstead, we notice a ploughed field, with 3 sets of clawed footprints in them.
 Leading directly to the farmstead, moving in a southern direction. The footprints are bi-pedal in origin. Their size larger than a kobolds.
 
+The 
+
 # Loot:
