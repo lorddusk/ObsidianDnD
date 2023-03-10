@@ -34,7 +34,9 @@ When reaching a crossroads in the marsh, [[Alton ]]is grabbed and pulled from th
 After dispatching 2 of the Large Toads, we find more and more skeletal remains, all halfling size. Bones cleaned by the acid of the toads.
 
 After some debating amongst the group, we decide to continue on our way, and take the middle road of the three-way fork.
-A short while away we spot several lizard-men that are guiding a raft through the rivier themselves.
+A short while away we spot several lizard-men that are guiding a raft through the rivier themselves. We let them go and decide to wait in the grass until nightfall.
+
+A couple of hours into the wait, behind the bend 
 
 # Loot:
 4 copper (5 copper for the rest each)
