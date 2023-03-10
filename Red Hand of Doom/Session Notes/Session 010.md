@@ -29,5 +29,6 @@ We continue our way along the river towards where we heard the drums last.
 
 Along the coastal line we spot more and more blood trails.
 Further along the trail we find a marsh, we continue through the river.
-When reaching a crossroads in the marsh, [[Alton ]]is grabbed and pulled from the boat by a Large Frog
+When reaching a crossroads in the marsh, [[Alton ]]is grabbed and pulled from the boat by a Large Toad.
+After dispatching 2 of the Large Toads, we find more and more skeletal remains, all halfling size. Bones cleaned by the acid of the toads.
 # Loot:
