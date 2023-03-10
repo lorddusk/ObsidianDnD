@@ -31,6 +31,9 @@ Along the coastal line we spot more and more blood trails.
 Further along the trail we find a marsh, we continue through the river.
 When reaching a crossroads in the marsh, [[Alton ]]is grabbed and pulled from the boat by a Large Toad.
 After dispatching 2 of the Large Toads, we find more and more skeletal remains, all halfling size. Bones cleaned by the acid of the toads.
+
+After some debating amongst the group, we decide to continue on our way, and take the middle road of the three-way fork.
+
 # Loot:
 4 copper (5 copper for the rest each)
 7 silver (8 silver for the rest each)
