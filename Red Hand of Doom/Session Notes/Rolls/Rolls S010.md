@@ -10,7 +10,7 @@
 | 4   | Perception | 12   |
 | 5   | Survival   | 9    |
 | 6   | Survival   | 16   |
-|     |            |      |
+| 7   |            |      |
 
 ###### Combat 1
 | Id. | What           | Roll |
