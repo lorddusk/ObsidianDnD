@@ -11,7 +11,7 @@
 | 5   | Survival   | 9    |
 | 6   | Survival   | 16   |
 | 7   | Perception | 12   |
-| 8   | Stealth    |      |
+| 8   | Stealth    | 9     |
 
 ###### Combat 1
 | Id. | What           | Roll |
