@@ -290,11 +290,11 @@
   "long": -82.98333,
   "notePreview": false,
   "layerMarkers": true,
-  "previousVersion": "5.2.6",
+  "previousVersion": "5.1.2",
   "version": {
     "major": 5,
-    "minor": 2,
-    "patch": 6
+    "minor": 1,
+    "patch": 2
   },
   "warnedAboutMapMarker": false,
   "copyOnClick": false,
