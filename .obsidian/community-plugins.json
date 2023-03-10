@@ -1,9 +1,12 @@
 [
   "obsidian-code-block-enhancer",
+  "obsidian-rich-links",
   "obsidian-git",
+  "fantasy-calendar",
   "breadcrumbs",
   "templater-obsidian",
   "obsidian-leaflet-plugin",
+  "obsidian-5e-statblocks",
   "dataview",
   "obsidian-dice-roller",
   "obsidian-outliner",
@@ -15,7 +18,8 @@
   "obsidian-icon-folder",
   "obsidian-style-settings",
   "table-editor-obsidian",
+  "obsidian-linter",
+  "quickadd",
   "obsidian42-brat",
-  "ob-table-enhancer",
-  "OA-file-hider"
+  "webpage-html-export"
 ]

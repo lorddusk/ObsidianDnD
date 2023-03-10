@@ -1,0 +1,11 @@
+{
+  "inlineCSS": true,
+  "inlineJS": true,
+  "inlineImages": true,
+  "makeNamesWebStyle": false,
+  "includePluginCSS": "obsidian-code-block-enhancer\nobsidian-git\nfantasy-calendar\ntemplater-obsidian\nobsidian-leaflet-plugin\nobsidian-hider\ntable-editor-obsidian\nobsidian-style-settings\nobsidian-icon-folder\noz-image-plugin\nobsidian-outliner\npane-relief\ndataview",
+  "addDarkModeToggle": true,
+  "includeOutline": true,
+  "customLineWidth": 0,
+  "openAfterExport": true,
+  "lastExportP
