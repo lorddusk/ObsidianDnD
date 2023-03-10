@@ -13,6 +13,7 @@
 - [?] What is the reason for the attempts to summon a dracolich?
 
 - [?] What or who is cause for the disappearances in the [[The Witchwood]] area?
+- Could they be lizardmen? We have seen them during our trip towards the mountains
 
 - [?] What does my vision mean?
 ![[Session 007#^vision1]]
