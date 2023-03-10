@@ -23,5 +23,5 @@ create_date: {{10 March 2023}}
 
 # Notes:
 ## 9 Marpenoth
-The humanoids that are still on our ships deck are humanoids, blue scaled skin, clearly bi-pedal
+The humanoids that are still on our ships deck are humanoids, blue scaled skin, clearly bi-pedal with claws. Looks are very primitive.
 # Loot:
