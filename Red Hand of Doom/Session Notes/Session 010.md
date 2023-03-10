@@ -33,5 +33,5 @@ When reaching a crossroads in the marsh, [[Alton ]]is grabbed and pulled from th
 After dispatching 2 of the Large Toads, we find more and more skeletal remains, all halfling size. Bones cleaned by the acid of the toads.
 # Loot:
 4 copper (5 copper for the rest each)
-39 silver (8 silver for the rest each)
-53 gold (10 gold for the rest each)
+7 silver (8 silver for the rest each)
+13 gold (10 gold for the rest each)
