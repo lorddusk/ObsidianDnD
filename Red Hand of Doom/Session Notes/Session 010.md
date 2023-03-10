@@ -25,5 +25,5 @@ create_date: {{10 March 2023}}
 ## 9 Marpenoth
 The humanoids that are still on our ships deck are humanoids, blue scaled skin, clearly bi-pedal with claws. Looks are very primitive. These seem very similar to the claw prints we have found in the fields near the farmsteads.
 
-We continue our way along the river
+We continue our way along the river towards where we heard the drums last.
 # Loot:
