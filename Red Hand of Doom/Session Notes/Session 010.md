@@ -20,6 +20,7 @@ create_date: {{10 March 2023}}
 ![[Red Hand of Doom/Session Notes/Session 009#^summary]]
 
 # Housekeeping:
+[[DM Inspiration]] Dice - Currently left : 4
 
 # Notes:
 ## 9 Marpenoth
@@ -34,6 +35,7 @@ After dispatching 2 of the Large Toads, we find more and more skeletal remains, 
 
 After some debating amongst the group, we decide to continue on our way, and take the middle road of the three-way fork.
 A short while away we spot several lizard-men that are guiding a raft through the rivier themselves.
+
 # Loot:
 4 copper (5 copper for the rest each)
 7 silver (8 silver for the rest each)
