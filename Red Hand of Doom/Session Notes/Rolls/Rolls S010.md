@@ -13,4 +13,5 @@
 | --- | -------------- | ---- |
 | 1   | Initiative     | 5    |
 | 2   | Eldritch Blast | 12   |
+| 3   | Damage         | 9    |
 |     |                |      |
