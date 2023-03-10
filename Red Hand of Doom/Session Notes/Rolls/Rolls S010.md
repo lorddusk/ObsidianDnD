@@ -9,7 +9,8 @@
 |     |          |      |
 
 ###### Combat 1
-| Id. | What       | Roll |
-| --- | ---------- | ---- |
-| 1   | Initiative | 5    |
-|     |            |      |
+| Id. | What           | Roll |
+| --- | -------------- | ---- |
+| 1   | Initiative     | 5    |
+| 2   | Eldritch Blast | 12   |
+|     |                |      |
