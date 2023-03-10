@@ -28,5 +28,5 @@ The humanoids that are still on our ships deck are humanoids, blue scaled skin, 
 We continue our way along the river towards where we heard the drums last.
 
 Along the coastal line we spot more and more blood trails.
-Further along the trail we find a marsh, while struggling to 
+Further along the trail we find a marsh, we continue through the river.
 # Loot:
