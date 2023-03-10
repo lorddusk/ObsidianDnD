@@ -1,6 +1,6 @@
 {
-  "inlineCSS": true,
-  "inlineJS": true,
+  "inlineCSS": false,
+  "inlineJS": false,
   "inlineImages": true,
   "makeNamesWebStyle": true,
   "includePluginCSS": "obsidian-code-block-enhancer\nobsidian-git\nfantasy-calendar\ntemplater-obsidian\nobsidian-leaflet-plugin\nobsidian-hider\ntable-editor-obsidian\nobsidian-style-settings\nobsidian-icon-folder\noz-image-plugin\nobsidian-outliner\npane-relief\ndataview\nobsidian-timelines\nobsidian-5e-statblocks\nobsidian-admonition\nobsidian-linter\nquickadd\nobsidian42-brat",
