@@ -36,7 +36,8 @@ After dispatching 2 of the Large Toads, we find more and more skeletal remains, 
 After some debating amongst the group, we decide to continue on our way, and take the middle road of the three-way fork.
 A short while away we spot several lizard-men that are guiding a raft through the rivier themselves. We let them go and decide to wait in the grass until nightfall.
 
-A couple of hours into the wait, behind the bend 
+A couple of hours into the wait, behind the bend a raft with at least 2 lizard-men appear. They spot our boat and we decide to hold.
+
 
 # Loot:
 4 copper (5 copper for the rest each)
