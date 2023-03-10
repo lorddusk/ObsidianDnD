@@ -13,7 +13,8 @@
 | 7   | Perception | 12   |
 | 8   | Stealth    | 9    |
 | 9   | D20        | 13   |
-|     |            |      |
+| 10  | Perception | 11   |
+| 11  |            |      |
 
 ###### Combat 1
 | Id. | What           | Roll |
