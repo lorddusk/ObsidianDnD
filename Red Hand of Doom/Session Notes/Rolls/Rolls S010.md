@@ -2,11 +2,12 @@
 
 
 ###### Rolls
-| Id. | What     | Roll |
-| --- | -------- | ---- |
-| 1   | Survival | 9    |
-| 2   | Survival | 14   |
-|     |          |      |
+| Id. | What       | Roll |
+| --- | ---------- | ---- |
+| 1   | Survival   | 9    |
+| 2   | Survival   | 14   |
+| 3   | Perception | 13   |
+|     |            |      |
 
 ###### Combat 1
 | Id. | What           | Roll |
