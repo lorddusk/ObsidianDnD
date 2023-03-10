@@ -1,0 +1,12 @@
+{
+  "inlineCSS": false,
+  "inlineJS": false,
+  "inlineImages": true,
+  "makeNamesWebStyle": true,
+  "includePluginCSS": "obsidian-code-block-enhancer\nobsidian-git\nfantasy-calendar\ntemplater-obsidian\nobsidian-leaflet-plugin\nobsidian-hider\ntable-editor-obsidian\nobsidian-style-settings\nobsidian-icon-folder\noz-image-plugin\nobsidian-outliner\npane-relief\ndataview\nobsidian-timelines\nobsidian-5e-statblocks\nobsidian-admonition\nobsidian-linter\nquickadd\nobsidian42-brat",
+  "addDarkModeToggle": true,
+  "includeOutline": true,
+  "customLineWidth": 0,
+  "openAfterExport": true,
+  "lastExportPath": "C:/Users/timl/OneDrive - Driessen Groep/Documenten/ObsidianHTML"
+}
