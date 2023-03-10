@@ -8,6 +8,7 @@
 | 2   | Survival   | 14   |
 | 3   | Perception | 9    |
 | 4   | Perception | 12   |
+| 5   | Survival   |9|
 
 ###### Combat 1
 | Id. | What           | Roll |
