@@ -6,7 +6,7 @@ campaign: Red Hand of Doom
 sessionNum: 010
 game_year: 1491 DR
 game_date: [9 Marpenoth]
-players: [Guido, Peter, Danny, Rob, Tim]
+players: [Guido, Peter, Rob, Tim]
 create_date: {{10 March 2023}}
 ---
 
