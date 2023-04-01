@@ -8,6 +8,8 @@
 | 2   | Initiative | 5    |
 
 ###### Combat Rolls #1
-| What | Roll |
-| ---- | ---- |
-|      |      |
+| What  | Roll |
+| ----- | ---- |
+| Spear | 18   |
+|       |      |
+									     
