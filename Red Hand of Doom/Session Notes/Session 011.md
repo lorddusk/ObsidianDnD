@@ -28,8 +28,9 @@ create_date: {{01 April 2023}}
 ## 9 Marpenoth
 We rolled stealth, we rolled poorly, we are fucked.
 Alton was moe, en moest even een power nappie doen.
+![[Rolls S011#Combat Rolls 1]]
 We rolled stealth, we rolled poorly, we aren't fucked!
 We moved back to the farmsteads for a tactical retreat, as most of us are heavily damaged, and can't really continue like this.
-In the evening we hear the drums again, with responses from 
+In the evening we hear the drums again, with responses from the area.
 
 # Loot:
