@@ -24,5 +24,6 @@ create_date: {{01 April 2023}}
 
 # Notes:
 ## 9 Marpenoth
-We rolled stealth, we rolled p
+We rolled stealth, we rolled poorly, we are fucked.
+
 # Loot:
