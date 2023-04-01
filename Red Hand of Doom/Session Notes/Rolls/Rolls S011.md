@@ -14,5 +14,6 @@
 | Damage            | 5    |
 | Athletics         | 15   |
 | Constitution Save | 12   |
+| Spear             | 4    |
 |                   |      |
 									     
