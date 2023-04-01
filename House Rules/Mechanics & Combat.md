@@ -16,4 +16,4 @@
 
 [[Skill Usage]]
 
-[[Death ]]
+[[Death Saves]]
