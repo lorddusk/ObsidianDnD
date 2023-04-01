@@ -37,4 +37,7 @@ We moved back to the farmsteads for a tactical retreat, as most of us are heavil
 In the evening we hear the drums again, with responses from the area.
 During the night I spot a winged creature just outside my 120ft vision range. Luckily it didnt see us, or it ignored us. But it flies towards the mountains. It originates from the North.
 
+## 10 Marpenoth
+
+
 # Loot:
