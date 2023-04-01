@@ -8,6 +8,7 @@
 | 2   | Initiative | 5    |
 | 3   | Stealth    | 4    |
 | 4   | Perception | 14   |
+| 5   | Perception | 12   |
 |     |            |      |
 
 ###### Combat Rolls #1
