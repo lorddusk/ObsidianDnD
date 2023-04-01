@@ -6,6 +6,8 @@
 | --- | ---------- | ---- |
 | 1   | Stealth    | 11   |
 | 2   | Initiative | 5    |
+| 3   | Stealth    | 4    |
+|     |            |      |
 
 ###### Combat Rolls #1
 | What              | Roll |
