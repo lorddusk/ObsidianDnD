@@ -29,5 +29,6 @@ create_date: {{01 April 2023}}
 We rolled stealth, we rolled poorly, we are fucked.
 Alton was moe, en moest even een power nappie doen.
 We rolled stealth, we rolled poorly, we aren't fucked!
+We moved back to the farmsteads for a tactical retreat
 
 # Loot:
