@@ -16,5 +16,5 @@
 | Constitution Save | 12   |
 | Spear             | 4    |
 | Spear             | 20   |
-|                   |      |
+| Damage            | 7    | 
 									     
