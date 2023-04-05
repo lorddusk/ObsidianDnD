@@ -12,10 +12,11 @@
   "command-palette",
   "slash-command",
   "editor-status",
-  "starred",
+  "bookmarks",
   "markdown-importer",
   "outline",
   "word-count",
+  "starred",
   "file-recovery",
   "publish"
 ]

@@ -1,10 +1,10 @@
 # Overview
-|           What | Amount |Remaining|
+|           What | Amount | Remaining |
 | --------------:|:------:|:---------:|
-|             HP |   28   |28|
-| Hit dice (1d8) |   3    |3|
+|             HP |   28   |    28     |
+| Hit dice (1d8) |   3    |     3     |
 |             AC |   17   |    17     |
-|   Temporary HP |   -    |     -     |
+|   Temporary HP |   -    |     -     | 
 
 # Slot based actions
 ### Spell Slots (2nd Level)
@@ -78,7 +78,7 @@
 |-----------------------|-------|-----|-----|----------|------------------------------------------------------------|
 | Spear                 | +5    | 1d6 | +3  | Piercing | If Hexed, Mod +5                                           |
 | [[Green-Flame Blade]] | +5    | 1d6 | +3  | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg. If Hexed, Mod +5 |
-| [[Wrathful Smite]]    | Spear | 1d6 |     | Psychic  |Wisdom save, or frightened for 1 minute (concentration)|
+| [[Branding Smite]]    | Spear | 2d6 |     | Radiant  |(concentration)|
 ### Ranged
 | Name               | Range | Roll | DMG  | Mod | Type     | Effect           |
 |--------------------|-------|------|------|-----|----------|------------------|

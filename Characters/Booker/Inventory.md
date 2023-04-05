@@ -1,8 +1,8 @@
 # Money
 | Kind | Amount |
 | ---- | ------ |
-| CP   | 0      |
-| SP   |89 |
+| CP   |4|
+| SP   |96|
 | GP   |112|
 | PP   |0|
 
