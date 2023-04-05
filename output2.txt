@@ -1,0 +1,73 @@
+Folder PATH listing for volume Windows
+Volume serial number is 9417-62AD
+C:.
++---.idea
+|   \---.idea.DND.dir
+|       \---.idea
++---.obsidian
+|   +---icons
+|   |   \---font-awesome-solid
+|   +---plugins
+|   |   +---dataview
+|   |   +---fantasy-calendar
+|   |   +---OA-file-hider
+|   |   +---ob-table-enhancer
+|   |   +---obsidian-5e-statblocks
+|   |   +---obsidian-admonition
+|   |   +---obsidian-code-block-enhancer
+|   |   +---obsidian-git
+|   |   +---obsidian-hider
+|   |   +---obsidian-icon-folder
+|   |   +---obsidian-leaflet-plugin
+|   |   +---obsidian-linter
+|   |   +---obsidian-outliner
+|   |   +---obsidian-style-settings
+|   |   +---obsidian-timelines
+|   |   +---obsidian42-brat
+|   |   +---oz-image-plugin
+|   |   +---pane-relief
+|   |   +---quickadd
+|   |   +---table-editor-obsidian
+|   |   +---templater-obsidian
+|   |   \---webpage-html-export
+|   |       \---assets
+|   +---snippets
+|   \---themes
+|       \---ITS Theme
++---Characters
+|   \---Booker
++---House Rules
+|   +---Inspiration
+|   +---Mechanics & Combat
+|   +---Rule of Cool
+|   \---Third Party Additions
++---Red Hand of Doom
+|   +---Compendium
+|   |   +---Characters
+|   |   +---Events
+|   |   +---Groups
+|   |   +---Items
+|   |   +---Locations
+|   |   |   \---Elsir Vale
+|   |   \---NPCs
+|   |       \---Family
+|   +---Session Notes
+|   |   \---Rolls
+|   \---Timeline Entries
+|       +---1463 DR
+|       +---1479 DR
+|       +---1481 DR
+|       \---1491 DR
++---Reference
+|   +---Class Features
+|   +---CSS
+|   +---Deities
+|   +---Invocations
+|   \---Spells
++---Resources
+|   +---Booker
+|   |   \---Mask
+|   \---Character Sheets
+|       \---Flattened
+\---Templates
+    \---userscripts
