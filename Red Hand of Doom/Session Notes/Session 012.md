@@ -32,6 +32,6 @@ He talks... a lot...
 His name is [[Rolk]]
 
 His brother helped him escape. He was kidnapped by a tribe called [[Dusk Dusk]], one of the 3 tribes currently in a contest. A contest about who can capture the most prisoners. It's supposedly still going for a few days.
-They were planning on bringing him to the [[Island of the Lizard King]] in the center of the marshes
+They were planning on bringing him to the [[Island of the Lizard King]] in the center of the marshes.
 
 # Loot:
