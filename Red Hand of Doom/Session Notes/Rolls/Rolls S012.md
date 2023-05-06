@@ -5,7 +5,7 @@
 | What     | Roll |
 | -------- | ---- |
 | Survival | 19   |
-|          |      |
+| Strength | 20   |
 |          |      |
 |          |      |
 |          |      |
