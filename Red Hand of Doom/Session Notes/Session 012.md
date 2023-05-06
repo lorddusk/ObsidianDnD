@@ -28,4 +28,8 @@ During the preparations of the plan, we hear a dwarf coming towards us, very hea
 
 [[Aelar]] helps him out of the river.
 
+He talks... a lot...
+
+
+
 # Loot:
