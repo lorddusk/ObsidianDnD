@@ -22,5 +22,7 @@ create_date: {{06 May 2023}}
 # Housekeeping:
 - [[DM Inspiration]] Dice - Currently left : 3
 # Notes:
+## 11 Marpenoth
+We plan.
 
 # Loot:
