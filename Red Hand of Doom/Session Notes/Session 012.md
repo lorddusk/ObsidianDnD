@@ -24,5 +24,8 @@ create_date: {{06 May 2023}}
 # Notes:
 ## 11 Marpenoth
 We plan.
+During the preparations of the plan, we hear a dwarf coming towards us, very heavily beaten, and they come out from the water.
+
+[[Aelar]] helps him out of the river.
 
 # Loot:
