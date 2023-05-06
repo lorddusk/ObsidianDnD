@@ -14,7 +14,7 @@ Iridescent eyes.
 
 Went to a different plane.
 
-From Wind
+From Windview
 
 ```ad-ooc
 collapse:closed
