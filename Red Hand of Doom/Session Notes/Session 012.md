@@ -31,6 +31,6 @@ During the preparations of the plan, we hear a dwarf coming towards us, very hea
 He talks... a lot...
 His name is [[Rolk]]
 
-His brother helped him escape. He was kidnapped by a tribe called [[Dusk Dusk]], one of the 3 tribes currently in a contest. A contest about who can capture the most prisoners. I
+His brother helped him escape. He was kidnapped by a tribe called [[Dusk Dusk]], one of the 3 tribes currently in a contest. A contest about who can capture the most prisoners. It's supposedly still going for a few days.
 
 # Loot:
