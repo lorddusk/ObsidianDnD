@@ -29,8 +29,8 @@ During the preparations of the plan, we hear a dwarf coming towards us, very hea
 [[Aelar]] helps him out of the river.
 
 He talks... a lot...
-His name is [[Rolk ]]
+His name is [[Rolk]]
 
-His brother helped him escape, 
+His brother helped him escape. 
 
 # Loot:
