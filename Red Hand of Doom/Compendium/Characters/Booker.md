@@ -24,7 +24,7 @@ Member of [[The Adventurers Guild]] in [[Brindol]]
 
 ___ 
 ## References:
-- [[Overview]]
+- [[Characters/Booker/Overview]]
 - [[Character Sheet]]
 - [[Background]]
 --- 
