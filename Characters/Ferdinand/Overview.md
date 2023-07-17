@@ -61,11 +61,11 @@
 | Radiant  | Aasimar |
 
 ## Languages
-| Name      | Type   |
-| --------- | ------ |
-| Common    | Common |
-| Celestial | Exotic |
-| Elvish    | Common |
+| Name     | Type   |
+| -------- | ------ |
+| Common   | Common |
+| Gnomish  | Common |
+| Dwarvish | Common |
 
 ## Actions
 ### Melee
@@ -102,6 +102,3 @@
 	- [[Branding Smite]] (Bonus Action)
 	- [[Earthbind]]
 
-## Invocations
-- [[Armor of Shadows]]
-- [[Devil's Sight]]
