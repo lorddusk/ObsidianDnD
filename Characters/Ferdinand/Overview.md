@@ -14,12 +14,12 @@
 ## Stats
 | Name | Stat | Mod |
 | ---- |:----:|:---:|
-| STR  |  7   | +1  |
-| DEX  |  12  | +2  |
-| CON  |  14  | +3  |
-| INT  |  17  | -1  |
-| WIS  |  12  | +2  |
-| CHA  |  8   | +3  |
+| STR  |  7   | -2  |
+| DEX  |  12  | +1  |
+| CON  |  14  | +2  |
+| INT  |  17  | +3  |
+| WIS  |  12  | +1  |
+| CHA  |  8   | -1  |
 
 ## Skills
 | Name            | Stat | Mod | Prof |
