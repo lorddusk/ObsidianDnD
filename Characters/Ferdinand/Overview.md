@@ -3,12 +3,12 @@
 | --------------:|:------:|:---------:|
 |             HP |   43   |    43     |
 | Hit dice (1d8) |   5    |     5     |
-|             AC |   15   |     -     | 
+|             AC |   15   |     Breastplate     | 
 |   Temporary HP |   -    |     -     |
 
 # Slot based actions
 ### Spell Slots (2nd Level)
-- [x] 
+- [ ] 
 - [ ] 
 
 ## Stats
