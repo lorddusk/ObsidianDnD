@@ -1,7 +1,7 @@
 # Overview
 |           What | Amount | Remaining |
 | --------------:|:------:|:---------:|
-|             HP |   43   |    43     |
+|             HP |   50   |    50     |
 | Hit dice (1d8) |   5    |     5     |
 |             AC |   15   |     Breastplate     | 
 |   Temporary HP |   -    |     -     |
