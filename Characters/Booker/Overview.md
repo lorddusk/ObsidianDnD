@@ -17,8 +17,8 @@
 - [ ] 
 ### Radiant Consumption
 - [ ] 
-### 
-
+### Burning Hands
+- [ ]  - Recharges at dawn
 ## Stats
 | Name | Stat | Mod |
 |------|:----:|:---:|
@@ -104,6 +104,7 @@
 - 1st Level:
 	- [[Armor of Agathys]]
 	- [[Comprehend Languages]]
+	- [[Bur]]
 
 - 2nd Level:
 	- [[Branding Smite]] (Bonus Action)
