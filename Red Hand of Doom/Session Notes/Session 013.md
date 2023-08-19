@@ -13,7 +13,7 @@ players:
   - Danny
   - Rob
 create_date:
-  "{ 19 August 2023 }":
+  "{ 13 June 2023 }":
 ---
 
 # Summary of This Session:
