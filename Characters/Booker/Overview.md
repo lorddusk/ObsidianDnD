@@ -104,7 +104,7 @@
 - 1st Level:
 	- [[Armor of Agathys]]
 	- [[Comprehend Languages]]
-	- [[Bur]]
+	- [[Burning Hands]]
 
 - 2nd Level:
 	- [[Branding Smite]] (Bonus Action)
