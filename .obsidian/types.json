@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "create_date": "date"
+    "create_date": "date",
+    "game_date": "text"
   }
 }
