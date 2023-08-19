@@ -27,5 +27,6 @@ create_date: 2023-08-19
 - [[DM Inspiration]] Dice - Currently left : 3
 # Notes:
 Found a gem that attached to my weapon, doesn' t come off.
+Gem gives me access to Burning Hands once every day.
 
 # Loot:
