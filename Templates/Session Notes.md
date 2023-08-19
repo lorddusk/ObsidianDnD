@@ -9,11 +9,9 @@ game_date: []
 players: [Guido, Peter, Danny, Rob, Tim]
 create_date: {{<% tp.date.now("DD MMMM YYYY") %>}}
 ---
-
 <%* 
 	await tp.file.rename(`Session ${tp.user.getSessionNumber(tp)}`);
 %>
-
 # Summary of This Session:
 
 ^summary
