@@ -102,6 +102,7 @@
 	- [[Green-Flame Blade]]
 	- [[Light]]
 	- [[Armor of Shadows]]
+	- [[Lightning Lure]]
 
 - 1st Level:
 	- [[Armor of Agathys]]
