@@ -1,10 +1,10 @@
 # Money
 | Kind | Amount |
 | ---- | ------ |
-| CP   |4|
-| SP   |96|
-| GP   |112|
-| PP   |0|
+| CP   | 4      | 
+| SP   | 96     |
+| GP   | 112    |
+| PP   | 0      |
 
 # Adventuring Items
 - Backpack containing:
