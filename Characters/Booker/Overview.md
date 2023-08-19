@@ -93,7 +93,7 @@
  | Hexblade's Curse    | Bonus Action | 1      | Short    | Crits on 19 and 20, Heal HP on Kill Level + Cha Mod                                                                                       |
  | Healing Hands       | Action       | 1      | Long     | Heals Level HP                                                                                                                            |
  | Radiant Consumption | Action       | 1      | Long     | 1 minute, 10ft radius <br> Everyone inc me, radiant dmg half lvl every round. <br> every turn extra radiant dmg at level on attack/spell. |
- | [[Burning Hands       | Action       | 1      | Dawn     | [[Burning Hands]]                                                                                                                                          |
+ | [[Burning Hands]]       | Action       | 1      | Dawn     | See Spells                                                                                                                                          |
 
 
 ## Spells
