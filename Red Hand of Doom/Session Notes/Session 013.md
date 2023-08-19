@@ -12,8 +12,7 @@ players:
   - Peter
   - Danny
   - Rob
-create_date:
-  "{ 13 June 2023 }":
+create_date: 13 June 2023
 ---
 
 # Summary of This Session:
