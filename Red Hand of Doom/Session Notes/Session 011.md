@@ -9,9 +9,6 @@ game_date: [9, 10, 11 Marpenoth]
 players: [Guido, Peter, Danny, Tim]
 create_date: {{01 April 2023}}
 ---
-
-
-
 # Summary of This Session:
 
 ^summary
