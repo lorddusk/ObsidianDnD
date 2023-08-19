@@ -7,7 +7,7 @@ sessionNum: <% tp.user.getSessionNumber(tp) %>
 game_year: 1491 DR
 game_date: []
 players: [Guido, Peter, Danny, Rob, Tim]
-create_date: {{<% tp.date.now("DD MMMM YYYY") %>}}
+create_date: {{<% tp.date.now('YYYY-MM-DD') %>}}
 ---
 <%* 
 	await tp.file.rename(`Session ${tp.user.getSessionNumber(tp)}`);
