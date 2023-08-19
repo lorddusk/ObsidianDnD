@@ -14,8 +14,7 @@ players:
   - Danny
   - Rob
   - Tim
-create_date:
-  "{ 19 August 2023 }":
+create_date: 2023-08-19
 ---
 
 # Summary of This Session:
