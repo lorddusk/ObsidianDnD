@@ -115,3 +115,4 @@
 ## Invocations
 - [[Armor of Shadows]]
 - [[Devil's Sight]]
+- [[Improved Pact Weapon]]
