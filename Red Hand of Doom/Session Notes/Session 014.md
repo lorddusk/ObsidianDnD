@@ -28,5 +28,5 @@ create_date: 2023-08-19
 # Notes:
 Found a gem that attached to my weapon, doesn' t come off.
 Gem gives me access to Burning Hands once every day.
-[[Regiarix]] the name of the dragon that has been
+[[Regiarix]] the name of the dragon that has been flying around this area.
 # Loot:
