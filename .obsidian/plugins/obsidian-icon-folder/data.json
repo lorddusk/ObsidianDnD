@@ -19,7 +19,8 @@
       "bottom": 2,
       "left": 2
     },
-    "emojiStyle": "none"
+    "emojiStyle": "none",
+    "iconInTabsEnabled": false
   },
   "Red Hand of Doom/Compendium": "FasBookOpen",
   "Red Hand of Doom/Compendium/Locations": "FasMapLocationDot",
