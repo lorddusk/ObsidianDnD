@@ -111,6 +111,7 @@
 - 2nd Level:
 	- [[Branding Smite]] (Bonus Action)
 	- [[Earthbind]]
+	- [[Shatter]]
 
 ## Invocations
 - [[Armor of Shadows]]
