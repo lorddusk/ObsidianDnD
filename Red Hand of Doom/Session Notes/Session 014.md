@@ -28,6 +28,6 @@ create_date:
 # Housekeeping:
 - [[DM Inspiration]] Dice - Currently left : 3
 # Notes:
-Found a gem that attached to my weapon, doesnt come off.
+Found a gem that attached to my weapon, doesn' t come off.
 
 # Loot:
