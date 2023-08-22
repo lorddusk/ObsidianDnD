@@ -22,7 +22,7 @@ Een priest heeft ons gevraagd om mee te gaan, om een crypte te checken waar geru
 
 # Recap of Last Session:
 
-![[Session 000#^summary]]
+![[Red Hand of Doom/Session Notes/Session 000#^summary]]
 
 # Housekeeping:
 - Joe afgemeld vanwege ziekte.

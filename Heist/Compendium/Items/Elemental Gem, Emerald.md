@@ -1,3 +1,8 @@
+---
+type: item
+tags: Item
+---
+
 Wondrous item, uncommon, minor tier
 
 ---
