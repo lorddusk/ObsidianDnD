@@ -113,6 +113,7 @@
 	- [[Identify]]
 	- [[Sanctuary]]
 	- [[Absorb Elements]]
+	- [[Tasha's Caustic Brew]] (+4 dmg)
 
 - 2nd Level:
 	- [[Flaming Sphere]] (+4 dmg)
