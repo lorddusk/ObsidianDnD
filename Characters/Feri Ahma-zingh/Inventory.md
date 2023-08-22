@@ -25,3 +25,4 @@
  - [[Elemental Gem, Emerald]]
  - [[Elemental Gem, Red Corundum]]
  - [[Wand of Web]]
+ - [[Tankard of Sobriety]]
