@@ -11,6 +11,7 @@
 | ---Post Combat #1 --- | ---- |
 | Perception            | 1    |
 | Perception            | 19   |
+| Insight               | 14   | 
 
 ###### Combat #1 Rolls
 | What            | Roll |
