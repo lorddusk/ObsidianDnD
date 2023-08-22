@@ -53,6 +53,10 @@
     {
       "folder": "Heist/Session Notes",
       "template": "Templates/Session Notes.md"
+    },
+    {
+      "folder": "Heist/Session Notes/Rolls",
+      "template": "Templates/Rolls.md"
     }
   ],
   "syntax_highlighting": true,
