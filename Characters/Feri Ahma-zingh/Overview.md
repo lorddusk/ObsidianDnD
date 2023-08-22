@@ -81,23 +81,19 @@
 
 ## Actions
 ### Melee
-| Name                  | Roll  | DMG  | Mod | Type     | Effect                                                     |
-| --------------------- | ----- | ---- | --- | -------- | ---------------------------------------------------------- |
-| Spear                 | +5    | 1d6  | +3  | Piercing | If Hexed, Mod +5                                           |
-| Glaive                | +5    | 1d10 | +3  | Slashing | 10ft Reach - If Hexed, Mod +5                                           |
-| [[Green-Flame Blade]] | +5    | 1d6  | +3  | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg. If Hexed, Mod +5 |
-| [[Branding Smite]]    | Spear | 2d6  |     | Radiant  | (concentration)                                            |
+| Name | Roll | DMG | Mod | Type | Effect |
+| ---- | ---- | --- | --- | ---- | ------ |
+|      |      |     |     |      |        |
 ### Ranged
-| Name               | Range | Roll | DMG  | Mod | Type     | Effect           |
-|--------------------|-------|------|------|-----|----------|------------------|
-| [[Eldritch Blast]] | 120   | +5   | 1d10 |     | Force    |                  |
-| Spear              | 20/60 | +5   | 1d6  | +3  | Piercing | If Hexed, Mod +5 |
+| Name | Range | Roll | DMG | Mod | Type | Effect |
+| ---- | ----- | ---- | --- | --- | ---- | ------ |
+|      |       |      |     |     |      |        |
+
 ### Others
- | Name                | Type         | Amount | Recovery | Effect                                              |
- | ------------------- | ------------ | ------ | -------- | --------------------------------------------------- |
- | Hexblade's Curse    | Bonus Action | 1      | Short    | Crits on 19 and 20, Heal HP on Kill Level + Cha Mod |
- | Healing Hands       | Action       | 1      | Long     | Heals Level HP                                      |
-| Radiant Consumption | Action       | 1      | Long     |1 minute, 10ft radius <br> Everyone inc me, radiant dmg half lvl every round. <br> every turn extra radiant dmg at level on attack/spell.|
+ | Name | Type | Amount | Recovery | Effect |
+ | ---- | ---- | ------ | -------- | ------ |
+ |      |      |        |          |        |
+
 
 ## Infusions Known
 - [[Homunculus Servant]]
