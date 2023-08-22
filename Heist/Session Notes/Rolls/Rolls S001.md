@@ -11,7 +11,8 @@
 |                   |      |
 
 ###### Combat #1 Rolls
-| What       | Roll |
-| ---------- | ---- |
-| Initiative | 6    |
-|            |      |
+| What            | Roll |
+| --------------- | ---- |
+| Initiative      | 6    |
+| Ray of Sickness | 15   |
+| Force Strike    | 17   | 
