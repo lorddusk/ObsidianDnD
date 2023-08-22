@@ -10,15 +10,15 @@ ___
 | STR  |  4   | -3  | 
 | DEX  |  15  | +2  |
 | CON  |  12  | +1  |
-| INT  |  10  | +3  |
-| WIS  |  12  | +1  |
-| CHA  |  10  | +0  |
+| INT  |  10  | +0  |
+| WIS  |  10  | +0  |
+| CHA  |  7  | -2  |
 ___
-- **Saving Throws** Dex +2 plus PB
-- **Skills** Perception +0 plus PB × 2, Stealth +2 plus PB
+- **Saving Throws** Dex +5
+- **Skills** Perception +6, Stealth +5
 - **Damage Immunities** poison
 - **Condition Immunities** exhaustion, poisoned
-- **Senses** darkvision 60 ft., passive Perception 10 + (PB × 2)
+- **Senses** darkvision 60 ft., passive Perception 16
 - **Languages** understands the languages you speak
 - **Challenge** —
 - **Proficiency Bonus** equals your bonus
