@@ -1,1 +1,0 @@
-The golden anvil strikes through (passphrase for audience to king Morinn)
