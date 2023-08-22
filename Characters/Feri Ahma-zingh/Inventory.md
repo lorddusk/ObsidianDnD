@@ -1,11 +1,4 @@
-| Name | Stat | Mod |
-| ---- |:----:|:---:|
-| STR  |  8   | -1  |
-| DEX  |  14  | +2  |
-| CON  |  14  | +2  |
-| INT  |  17  | +3  |
-| WIS  |  12  | +1  |
-| CHA  |  10  | +0  |# Money
+# Money
 | Kind | Amount |
 | ---- | ------ |
 | CP   | 4      | 
@@ -31,4 +24,3 @@
 - A Dragon Pepper wrapped in paper
 
 # Items
-- [[Tourmaline (50gp)]]
