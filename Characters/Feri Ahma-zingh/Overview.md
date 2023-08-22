@@ -1,10 +1,10 @@
 # Overview
-|           What | Amount | Remaining |
-| --------------:|:------:|:---------:|
-|             HP |   50   |    50     |
-| Hit dice (1d8) |   6    |     6     |
-|             AC |   15   |     Breastplate     | 
-|   Temporary HP |   -    |     -     |
+|           What | Amount |  Remaining  |
+| --------------:|:------:|:-----------:|
+|             HP |   50   |     50      |
+| Hit dice (1d8) |   6    |      6      |
+|             AC |   16   | Breastplate | 
+|   Temporary HP |   -    |      -      |
 
 # Slot based actions
 ### Spell Slots (1st Level)
@@ -19,23 +19,23 @@
 ## Stats
 | Name | Stat | Mod |
 | ---- |:----:|:---:|
-| STR  |  7   | -2  |
-| DEX  |  14  | +1  |
+| STR  |  8   | -1  |
+| DEX  |  14  | +2  |
 | CON  |  14  | +2  |
 | INT  |  17  | +3  |
 | WIS  |  12  | +1  |
-| CHA  |  8   | -1  |
+| CHA  |  10  | +0  |
 
 ## Skills
 | Name            | Stat | Mod | Prof |
 |-----------------|------|:---:|:----:|
 | Acrobatics      | DEX  | +2  |      |
-| Animal Handling | WIS  | +2  |      |
-| Arcana          | INT  | -1  |      |
-| Athletics       | STR  | +1  |      |
-| Deception       | CHA  | +5  |  ⭐️  |
-| History         | INT  | -1  |      |
-| Insight         | WIS  | +4  |  ⭐️  |
+| Animal Handling | WIS  | +1  |      |
+| Arcana          | INT  | +3  |      |
+| Athletics       | STR  | -1  |      |
+| Deception       | CHA  | 0  |  ⭐️  |
+| History         | INT  | +3  |      |
+| Insight         | WIS  | 0  |  ⭐️  |
 | Intimidation    | CHA  | +3  |      |
 | Investigation   | INT  | +1  |  ⭐️  |
 | Medicine        | WIS  | +2  |      |
