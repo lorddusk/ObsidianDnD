@@ -22,7 +22,7 @@
 
 | D6  | EFFECT                                                                                                                                                                                    |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Healing: The drinker regains a number of hit points equal to 2d4 + my Intelligence modifier.                                                                                              |
+| 1   | Healing: The drinker regains a number of hit points equal to 2d4 + 4                                                                                             |
 | 2   | Swiftness: The drinker's walking speed increases by 10 ft for 1 hour.                                                                                                                     |
 | 3   | Resilience: The drinker gains a +1 bonus to AC for 10 minutes.                                                                                                                            |
 | 4   | Boldness: The drinker can roll a d4 and add the number rolled to every attack roll and saving throw they make for the next minute.                                                        |
