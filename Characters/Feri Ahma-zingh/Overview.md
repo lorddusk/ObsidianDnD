@@ -108,11 +108,3 @@
 	- [[Acid Splash]]
 	- [[Mending]]
 
-- 1st Level:
-	- [[Armor of Agathys]]
-	- [[Comprehend Languages]]
-
-- 2nd Level:
-	- [[Branding Smite]] (Bonus Action)
-	- [[Earthbind]]
-
