@@ -11,6 +11,7 @@
 |                   |      |
 
 ###### Combat #1 Rolls
-| What | Roll |
-| ---- | ---- |
-|      |      |
+| What       | Roll |
+| ---------- | ---- |
+| Initiative | 6    |
+|            |      |
