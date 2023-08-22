@@ -99,10 +99,13 @@
  | Healing Hands       | Action       | 1      | Long     | Heals Level HP                                      |
 | Radiant Consumption | Action       | 1      | Long     |1 minute, 10ft radius <br> Everyone inc me, radiant dmg half lvl every round. <br> every turn extra radiant dmg at level on attack/spell.|
 
-## Infusions
+## Infusions Known
 - [[Homunculus Servant]]
 - [[Enhanced Defense]]
-- 
+- [[Boots of Winding Path]]
+- [[Replicate Magic Item]]
+- [[Returning Weapon]]
+- [[Spell-Refueling Ring]]
 ## Spells
 - Cantrip:
 	- [[Minor Illusion]]
