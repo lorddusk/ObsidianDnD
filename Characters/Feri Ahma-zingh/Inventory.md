@@ -25,3 +25,5 @@
 
 # Items
  - [[Staff of Adornment]]
+ - [[Elemental Gem, Emerald]]
+ - [[Elemental Gem, Red Corundum]]
