@@ -16,7 +16,10 @@
 - [ ] 
 - [ ] 
 
-# Alchemist Elixers
+# Alchemist Elixers (Per long rest)
+- [ ] 
+- [ ] 
+
 | D6  | EFFECT                                                                                                                                                                                    |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Healing: The drinker regains a number of hit points equal to 2d4 + my Intelligence modifier.                                                                                              |
