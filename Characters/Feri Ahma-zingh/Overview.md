@@ -17,7 +17,7 @@
 - [ ] 
 
 # Alchemist Elixers (Per long rest)
-- [ ] 
+- [x] 
 - [ ] 
 
 | D6  | EFFECT                                                                                                                                                                                    |
