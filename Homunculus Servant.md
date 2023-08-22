@@ -5,9 +5,14 @@ ___
 - **Hit Points** 1 + your Intelligence modifier + your artificer level (the homunculus has a number of Hit Dice [d4s] equal to your artificer level)
 - **Speed** 20 ft., fly 30 ft.
 ___
-|STR|DEX|CON|INT|WIS|CHA|
-|---|---|---|---|---|---|
-|4 (-3)|15 (+2)|12 (+1)|10 (+0)|10 (+0)|7 (-2)|
+| Name | Stat | Mod |
+| ---- |:----:|:---:|
+| STR  |  8   | -1  |
+| DEX  |  14  | +2  |
+| CON  |  14  | +2  |
+| INT  |  17  | +3  |
+| WIS  |  12  | +1  |
+| CHA  |  10  | +0  |
 ___
 - **Saving Throws** Dex +2 plus PB
 - **Skills** Perception +0 plus PB × 2, Stealth +2 plus PB
