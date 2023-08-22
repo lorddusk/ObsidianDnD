@@ -31,19 +31,19 @@
 | --------------- | ---- |:---:|:----:|
 | Acrobatics      | DEX  | +2  |      |
 | Animal Handling | WIS  | +1  |      |
-| Arcana          | INT  | +3  |      |
+| Arcana          | INT  | +4  |      |
 | Athletics       | STR  | -1  |      |
 | Deception       | CHA  | +0  |      |
-| History         | INT  | +3  |      |
+| History         | INT  | +4  |      |
 | Insight         | WIS  | +4  | ⭐️   | 
 | Intimidation    | CHA  | +0  |      |
-| Investigation   | INT  | +6  | ⭐️  |
+| Investigation   | INT  | +7  | ⭐️  |
 | Medicine        | WIS  | +1  |      |
-| Nature          | INT  | +3  |      |
+| Nature          | INT  | +4  |      |
 | Perception      | WIS  | +4  | ⭐️  |
 | Performance     | CHA  | +3  |      |
 | Persuasion      | CHA  | +3  | ⭐️  |
-| Religion        | INT  | -1  |      |
+| Religion        | INT  | +4  |      |
 | Sleight of Hand | DEX  | +2  |      |
 | Stealth         | DEX  | +2  |      |
 | Survival        | WIS  | +2  |      |
@@ -55,7 +55,7 @@
 | STR  | -1  |      |
 | DEX  | +2  |      |
 | CON  | +5  | ⭐️  |
-| INT  | +6  | ⭐️  |
+| INT  | +7  | ⭐️  |
 | WIS  | +1  |      | 
 | CHA  | +0  |      |
 
@@ -104,18 +104,18 @@
 ## Spells
 - Cantrip:
 	- [[Minor Illusion]]
-	- [[Acid Splash]] (+3 dmg)
+	- [[Acid Splash]] (+4 dmg)
 	- [[Mending]]
 
 - 1st Level:
-	- [[Healing Word]] (+3 hp)
-	- [[Ray of Sickness]] (+3 dmg)
+	- [[Healing Word]] (+4 hp)
+	- [[Ray of Sickness]] (+4 dmg)
 	- [[Identify]]
 	- [[Sanctuary]]
 	- [[Absorb Elements]]
 
 - 2nd Level:
-	- [[Flaming Sphere]] (+3 dmg)
-	- [[Melf's Acid Arrow]] (+3 dmg)
+	- [[Flaming Sphere]] (+4 dmg)
+	- [[Melf's Acid Arrow]] (+4 dmg)
 	- [[Spider Climb]]
 	- [[Invisibility]]
