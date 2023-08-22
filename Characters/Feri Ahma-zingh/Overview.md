@@ -72,11 +72,12 @@
 | Dwarvish | Common |
 
 ## Tools
-| Name     |
-| -------- | 
-| Common   |
-| Gnomish  |
-| Dwarvish |
+| Name                 |
+| -------------------- |
+| Thieves' tools       |
+| Tinker's tools       |
+| Alchemist's supplies |
+| Jeweler's tools      | 
 
 ## Actions
 ### Melee
