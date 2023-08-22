@@ -10,7 +10,7 @@
 - Backpack containing:
 	- Bedroll
 	- Crystal Arcane Focus
-	- Russell Crowbar
+	- Crowbar
 	- Hammer
 	- 10 Pitons
 	- 10 Torches
@@ -18,14 +18,10 @@
 	- 7 days of Rations
 	- Waterskin
 	- Hempen Rope (50ft.)
-- Leather Armour
-- 2 Daggers
-- Shield
-- A Dragon Pepper wrapped in paper
+- Breastplate
 
 # Items
  - [[Staff of Adornment]]
  - [[Elemental Gem, Emerald]]
  - [[Elemental Gem, Red Corundum]]
  - [[Wand of Web]]
- - 
