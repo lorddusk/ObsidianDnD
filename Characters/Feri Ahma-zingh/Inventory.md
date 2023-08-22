@@ -1,9 +1,9 @@
 # Money
 | Kind | Amount |
 | ---- | ------ |
-| CP   | 0      | 
-| SP   | 0     |
-| GP   | 1    |
+| CP   | 0      |
+| SP   | 0      |
+| GP   | 0      | 
 | PP   | 0      |
 
 # Adventuring Items
@@ -27,3 +27,5 @@
  - [[Staff of Adornment]]
  - [[Elemental Gem, Emerald]]
  - [[Elemental Gem, Red Corundum]]
+ - [[Wand of Web]]
+ - 
