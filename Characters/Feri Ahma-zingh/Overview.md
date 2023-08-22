@@ -3,7 +3,7 @@
 | --------------:|:------:|:-----------:|
 |             HP |   50   |     50      |
 | Hit dice (1d8) |   6    |      6      |
-|             AC |   16   | Breastplate | 
+|             AC |   17   | Breastplate + (Enhanced Defense Infusion) | 
 |   Temporary HP |   -    |      -      |
 
 # Slot based actions
