@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasWandMagicSparkles",
+      "FasNoteSticky",
+      "FasDice",
       "FasList",
-      "FasFilter",
-      "FasBookOpen",
-      "FasUserGroup",
-      "FasTags"
+      "FasFilter"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,9 @@
   "Red Hand of Doom/Quests and Questions.md": {
     "iconName": null,
     "inheritanceIcon": "FasCircleQuestion"
-  }
+  },
+  "Heist/Session Notes/Rolls": "FasDice",
+  "Heist/Session Notes": "FasNoteSticky",
+  "Heist/Compendium": "FasBookOpen",
+  "Heist/Compendium/Items": "FasWandMagicSparkles"
 }
