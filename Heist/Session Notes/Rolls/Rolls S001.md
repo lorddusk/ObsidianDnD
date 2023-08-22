@@ -1,16 +1,16 @@
 ###### Rolls
-| What              | Roll |
-| ----------------- | ---- |
-| Perception        | 10   |
-| Nature            | 2    |
-| Perception        | 1    |
-| Constitution Save | 7    |
-| Perception        | 17   |
-| Perception        | 12   |
-| Perception        | 19   |
-| ----------------- | ---- |
-| Perception        | 1    |
-| Perception        | 19   |
+| What                  | Roll |
+| --------------------- | ---- |
+| Perception            | 10   |
+| Nature                | 2    |
+| Perception            | 1    |
+| Constitution Save     | 7    |
+| Perception            | 17   |
+| Perception            | 12   |
+| Perception            | 19   |
+| ---Post Combat #1 --- | ---- |
+| Perception            | 1    |
+| Perception            | 19   |
 
 ###### Combat #1 Rolls
 | What            | Roll |
