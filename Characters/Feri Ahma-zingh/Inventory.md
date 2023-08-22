@@ -1,9 +1,9 @@
 # Money
 | Kind | Amount |
 | ---- | ------ |
-| CP   | 4      | 
-| SP   | 96     |
-| GP   | 112    |
+| CP   | 0      | 
+| SP   | 0     |
+| GP   | 1    |
 | PP   | 0      |
 
 # Adventuring Items
