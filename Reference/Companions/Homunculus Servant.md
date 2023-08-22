@@ -6,14 +6,16 @@ ___
 - **Hit Points** 10 (6d4)
 - **Speed** 20 ft., fly 30 ft.
 ___
+
 | Name | Stat | Mod |
 | ---- |:----:|:---:|
-| STR  |  4   | -3  | 
+| STR  |  4   | -3  |
 | DEX  |  15  | +2  |
 | CON  |  12  | +1  |
 | INT  |  10  | +0  |
 | WIS  |  10  | +0  |
-| CHA  |  7  | -2  |
+| CHA  |  7   | -2  |
+
 ___
 - **Saving Throws** Dex +5
 - **Skills** Perception +6, Stealth +5
