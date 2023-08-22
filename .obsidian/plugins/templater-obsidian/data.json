@@ -48,7 +48,11 @@
     },
     {
       "folder": "Heist/Compendium/Items",
-      "template": ""
+      "template": "Templates/Item.md"
+    },
+    {
+      "folder": "Heist/Session Notes",
+      "template": "Templates/Session Notes.md"
     }
   ],
   "syntax_highlighting": true,
