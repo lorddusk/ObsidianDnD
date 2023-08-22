@@ -117,4 +117,5 @@
 - 2nd Level:
 	- [[Flaming Sphere]]
 	- [[Melf's Acid Arrow]]
-	- [[]]
+	- [[Spider Climb]]
+	- [[Invisibility]]
