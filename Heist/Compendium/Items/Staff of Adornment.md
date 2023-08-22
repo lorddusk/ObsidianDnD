@@ -1,3 +1,10 @@
+---
+type: item
+tags: Item
+---
+
+# Staff of Adornment
+
 Staff, weapon, common, simple weapon, melee weapon, minor tier, 4 lb.
 
 1d6 bludgeoning  - versatile (1d8)

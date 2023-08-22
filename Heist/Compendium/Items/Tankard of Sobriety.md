@@ -1,3 +1,10 @@
+---
+type: item
+tags: Item
+---
+
+# Tankard of Sobriety
+
 Wondrous item, common, minor tier
 
 ---
