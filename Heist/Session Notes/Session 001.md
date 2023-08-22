@@ -27,4 +27,6 @@ The golden anvil strikes truth (passphrase for audience to [[King Morinn]])
 
 We are going to [[Little Lockfort]]
 
+[[Tixie Tokwork]]
+
 # Loot:
