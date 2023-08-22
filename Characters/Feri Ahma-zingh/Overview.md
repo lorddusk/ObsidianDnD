@@ -88,7 +88,6 @@
 | Name | Range | Roll | DMG | Mod | Type | Effect |
 | ---- | ----- | ---- | --- | --- | ---- | ------ |
 |      |       |      |     |     |      |        |
-
 ### Others
  | Name | Type | Amount | Recovery | Effect |
  | ---- | ---- | ------ | -------- | ------ |
