@@ -21,7 +21,10 @@ create_date: 2023-08-22
 # Housekeeping:
 
 # Notes:
-Kevin, Dennis and [[Feri]] go into the underdark to do something for King Morinn
+Kevin, Dennis and [[Feri]] go into the underdark to do something for [[King Morinn]]
 
-The golden anvil strikes truth (passphrase for audience to King Morinn)
+The golden anvil strikes truth (passphrase for audience to [[King Morinn]])
+
+We are going to [[Little Lockfort]]
+
 # Loot:
