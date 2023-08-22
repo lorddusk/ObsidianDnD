@@ -35,7 +35,7 @@
 | Athletics       | STR  | -1  |      |
 | Deception       | CHA  | +0  |      |
 | History         | INT  | +3  |      |
-| Insight         | WIS  | +4  | ⭐️  | 
+| Insight         | WIS  | +4  | ⭐️   | 
 | Intimidation    | CHA  | +0  |      |
 | Investigation   | INT  | +6  | ⭐️  |
 | Medicine        | WIS  | +1  |      |
@@ -51,18 +51,18 @@
 
 ## Saves
 | Name | Mod | Prof |
-|------|:---:|:----:|
-| STR  | +1  |      |
+| ---- |:---:|:----:|
+| STR  | -1  |      |
 | DEX  | +2  |      |
-| CON  | +3  |      |
-| INT  | -1  |      |
-| WIS  | +4  |  ⭐️  |
-| CHA  | +5  |  ⭐️  |
+| CON  | +5  | ⭐️  |
+| INT  | +6  | ⭐️  |
+| WIS  | +1  |      | 
+| CHA  | +0  |      |
 
 ## Resistances
 | Name     | Source  |
 |----------|---------|
-| Necrotic | Aasimar |
+| Adv. on Int/Wis/Ch | Aasimar |
 | Radiant  | Aasimar |
 
 ## Languages
