@@ -1,5 +1,6 @@
 ## Liu
 *Tiny Construct*
+![[Screenshot 2023-08-22 at 8.30.44 PM.png]]
 ___
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 10 (6d4)
