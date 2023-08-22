@@ -15,4 +15,5 @@
 | --------------- | ---- |
 | Initiative      | 6    |
 | Ray of Sickness | 15   |
-| Force Strike    | 17   | 
+| Force Strike    | 17   |
+| Ray of Sickness | 19   | 
