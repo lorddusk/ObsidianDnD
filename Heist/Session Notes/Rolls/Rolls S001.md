@@ -7,8 +7,9 @@
 | Constitution Save | 7    |
 | Perception        | 17   |
 | Perception        | 12   |
+| Perception        | 19   |
+| Perception        | 1    |
 | Perception        | 19   | 
-|                   |      |
 
 ###### Combat #1 Rolls
 | What            | Roll |
