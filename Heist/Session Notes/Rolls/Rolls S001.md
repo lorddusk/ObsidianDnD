@@ -6,6 +6,6 @@
 | Perception        | 1    |
 | Constitution Save | 7    |
 | Perception        | 17   |
-| Perception        | 12   | 
-|                   |      |
+| Perception        | 12   |
+| Perception        | 19   | 
 |                   |      |
