@@ -9,7 +9,7 @@
 # Slot based actions
 ### Spell Slots (1st Level)
 - [x] 
-- [ ] 
+- [x] 
 - [ ]  
 - [ ] 
 ### Spell Slots (2nd Level)
