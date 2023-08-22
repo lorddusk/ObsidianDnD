@@ -98,7 +98,7 @@
 - [[Homunculus Servant]]
 - [[Enhanced Defense]]
 - [[Boots of Winding Path]]
-- [[Replicate Magic Item]] (Tankard of Sobriety)
+- [[Replicate Magic Item]] ([[Tankard of Sobriety]])
 - [[Returning Weapon]]
 - [[Spell-Refueling Ring]]
 ## Spells
