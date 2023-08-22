@@ -8,7 +8,7 @@
 | Perception            | 17   |
 | Perception            | 12   |
 | Perception            | 19   |
-| ---Post Combat #1 --- | ---- |
+| --------------- | ---- |
 | Perception            | 1    |
 | Perception            | 19   |
 | Insight               | 14   | 
