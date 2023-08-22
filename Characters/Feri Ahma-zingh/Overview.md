@@ -104,18 +104,18 @@
 ## Spells
 - Cantrip:
 	- [[Minor Illusion]]
-	- [[Acid Splash]]
+	- [[Acid Splash]] (+3 dmg)
 	- [[Mending]]
 
 - 1st Level:
-	- [[Healing Word]]
-	- [[Ray of Sickness]]
+	- [[Healing Word]] (+3 hp)
+	- [[Ray of Sickness]] (+3 dmg)
 	- [[Identify]]
 	- [[Sanctuary]]
 	- [[Absorb Elements]]
 
 - 2nd Level:
-	- [[Flaming Sphere]]
-	- [[Melf's Acid Arrow]]
+	- [[Flaming Sphere]] (+3 dmg)
+	- [[Melf's Acid Arrow]] (+3 dmg)
 	- [[Spider Climb]]
 	- [[Invisibility]]
