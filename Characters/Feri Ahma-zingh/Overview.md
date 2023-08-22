@@ -27,7 +27,7 @@
 | 3   | Resilience: The drinker gains a +1 bonus to AC for 10 minutes.                                                                                                                            |
 | 4   | Boldness: The drinker can roll a d4 and add the number rolled to every attack roll and saving throw they make for the next minute.                                                        |
 | 5   | Flight: The drinker gains a flying speed of 10 ft for 10 minutes.                                                                                                                         |
-| 6   | Transformation: The drinker's body is transformed as if by the alter self spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes. |
+| 6   | Transformation: The drinker's body is transformed as if by the [[alter self]] spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes. |
 ## Stats
 | Name | Stat | Mod |
 | ---- |:----:|:---:|
