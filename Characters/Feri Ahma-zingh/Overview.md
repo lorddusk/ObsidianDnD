@@ -62,8 +62,7 @@
 ## Resistances
 | Name     | Source  |
 |----------|---------|
-| Adv. on Int/Wis/Ch | Aasimar |
-| Radiant  | Aasimar |
+| Adv. on Int/Wis/Cha vs magic | Gnome, Forest |
 
 ## Languages
 | Name     | Type   |
@@ -71,6 +70,13 @@
 | Common   | Common |
 | Gnomish  | Common |
 | Dwarvish | Common |
+
+## Tools
+| Name     |
+| -------- | 
+| Common   |
+| Gnomish  |
+| Dwarvish |
 
 ## Actions
 ### Melee
