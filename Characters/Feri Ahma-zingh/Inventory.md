@@ -9,7 +9,6 @@
 # Adventuring Items
 - Backpack containing:
 	- Bedroll
-	- Crystal Arcane Focus
 	- Crowbar
 	- Hammer
 	- 10 Pitons
