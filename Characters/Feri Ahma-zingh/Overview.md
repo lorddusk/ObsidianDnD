@@ -110,7 +110,11 @@
 - 1st Level:
 	- [[Healing Word]]
 	- [[Ray of Sickness]]
+	- [[Identify]]
+	- [[Sanctuary]]
+	- [[Absorb Elements]]
 
 - 2nd Level:
 	- [[Flaming Sphere]]
 	- [[Melf's Acid Arrow]]
+	- [[]]
