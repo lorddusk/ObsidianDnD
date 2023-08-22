@@ -110,7 +110,7 @@
 - 1st Level:
 	- [[Healing Word]] (+4 hp)
 	- [[Ray of Sickness]] (+4 dmg)
-	- [[Identify]]
+	- [[Identify]] (Ritual)
 	- [[Sanctuary]]
 	- [[Absorb Elements]]
 	- [[Tasha's Caustic Brew]] (+4 dmg)
