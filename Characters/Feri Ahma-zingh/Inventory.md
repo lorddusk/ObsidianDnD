@@ -24,3 +24,4 @@
 - A Dragon Pepper wrapped in paper
 
 # Items
+ - [[Staff of Adornment]]
