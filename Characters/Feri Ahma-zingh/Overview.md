@@ -101,10 +101,9 @@
 
 ## Spells
 - Cantrip:
-	- [[Eldritch Blast]]
-	- [[Green-Flame Blade]]
-	- [[Light]]
-	- [[Armor of Shadows]]
+	- [[Minor Illusion]]
+	- [[Acid Splash]]
+	- [[Mending]]
 
 - 1st Level:
 	- [[Armor of Agathys]]
