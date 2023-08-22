@@ -7,6 +7,9 @@
 |   Temporary HP |   -    |     -     |
 
 # Slot based actions
+### Spell Slots (1st Level)
+- [ ] [ ]  [ ] [ ] 
+- [ ] 
 ### Spell Slots (2nd Level)
 - [ ] 
 - [ ] 
