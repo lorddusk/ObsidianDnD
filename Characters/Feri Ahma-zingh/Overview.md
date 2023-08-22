@@ -106,4 +106,9 @@
 	- [[Minor Illusion]]
 	- [[Acid Splash]]
 	- [[Mending]]
-
+- 1st Level:
+	- [[Healing Word]]
+	- [[Ray of Sickness]]
+- 2nd Level:
+	- [[Flaming Sphere]]
+	- [[Melf's Acid Arrow]]
