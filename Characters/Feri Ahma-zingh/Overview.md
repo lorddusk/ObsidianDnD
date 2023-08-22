@@ -2,7 +2,7 @@
 |           What | Amount |  Remaining  |
 | --------------:|:------:|:-----------:|
 |             HP |   50   |     31      |
-| Hit dice (1d8) |   6    |      6      |
+| Hit dice (1d8+2) |   6    |      6      |
 |             AC |   17   | Breastplate + (Enhanced Defense Infusion) | 
 |   Temporary HP |   -    |      -      |
 
