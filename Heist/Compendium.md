@@ -30,28 +30,28 @@ sort file.name asc
 
 ## Groups
 ```dataview
-list from "Red Hand of Doom/Compendium"
+list from "Heist/Compendium"
 where type="group"
 sort file.name asc
 ```
 
 ## Items
 ```dataview
-list from "Red Hand of Doom/Compendium"
+list from "Heist/Compendium"
 where type="item"
 sort file.name asc
 ```
 
 ## Events
 ```dataview
-list from "Red Hand of Doom/Compendium"
+list from "Heist/Compendium"
 where type="event"
 sort file.name asc
 ```
 
 ## Deities
 ```dataview
-list from "Red Hand of Doom/Compendium"
+list from "Heist/Compendium"
 where type="deity"
 sort file.name asc
 ```
