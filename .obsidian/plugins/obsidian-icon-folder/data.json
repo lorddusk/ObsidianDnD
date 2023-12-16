@@ -1,6 +1,6 @@
 {
   "settings": {
-    "migrated": true,
+    "migrated": 3,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "iconColor": null,
@@ -20,7 +20,11 @@
       "left": 2
     },
     "emojiStyle": "none",
-    "iconInTabsEnabled": false
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
   },
   "Red Hand of Doom/Compendium": "FasBookOpen",
   "Red Hand of Doom/Compendium/Locations": "FasMapLocationDot",
