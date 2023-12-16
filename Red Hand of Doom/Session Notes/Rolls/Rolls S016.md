@@ -3,7 +3,7 @@
 | What   | Roll |
 | ------ | ---- |
 | Nature | 20     |
-| Deception       |      |
+| Deception       | 17     |
 |        |      |
 |        |      |
 |        |      |
