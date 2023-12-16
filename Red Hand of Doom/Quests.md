@@ -10,7 +10,7 @@
 	- [X] Clear out the Kobold Nest.
 	- [X] Figure out the reason for the mutations.
 
-- [ ]  Missing People from [[Witchcross]]
-	- [ ] Find the missing people
-	- [ ] Figure out what is happening
-	- [ ] What is the cause of the missing people
+- [x]  Missing People from [[Witchcross]]
+	- [x] Find the missing people
+	- [x] Figure out what is happening
+	- [x] What is the cause of the missing people
