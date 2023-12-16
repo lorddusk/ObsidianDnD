@@ -1,9 +1,10 @@
 ---
 type: npc
 name: Reynard Aristaios
-location: unknown
+location: Brindol
 desc: White Male
-tags: NPC
+tags:
+  - NPC
 ---
 
 # Reynard Aristaios 
