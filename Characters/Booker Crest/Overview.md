@@ -19,6 +19,7 @@
 - [ ] 
 ### Burning Hands
 - [ ]  - Recharges at dawn
+
 ## Stats
 | Name | Stat | Mod |
 |------|:----:|:---:|
