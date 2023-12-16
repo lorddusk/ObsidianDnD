@@ -34,4 +34,7 @@ During the fight with [[Regiarix]] Booker remains in a deep deep sleep.
 
 The well that was destroyed is now, with proper light, actually completely destroyed, and a new well needs to be struck. The whole village is out and about to help fix this.
 
+We arrive after 2 days in [[Brindol]], the adventuring guild is already filled with many people.
+
+
 # Loot:
