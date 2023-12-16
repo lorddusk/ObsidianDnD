@@ -29,4 +29,7 @@ create_date: 2023-12-16
 During the fight with [[Regiarix]] Booker remains in a deep deep sleep.
 [[The Benefactor]] appears before him during this dream, Gem of Dark Majesty was found. She says; "find the rest if you want to avoid your destiny."
 
+[[Booker]] and [[Bikam]] make a bet that the dragon might be in [[Rhest]]
+(If [[Regiarix]] is in [[Rhest]], [[Booker]]. has t)
+
 # Loot:
