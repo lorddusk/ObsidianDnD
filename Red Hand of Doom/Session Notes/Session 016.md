@@ -25,5 +25,5 @@ create_date: 2023-12-16
 # Housekeeping:
 - [[DM Inspiration]] Dice - Currently left : 3
 # Notes:
-
+During the fight with [[Regiarix]] 
 # Loot:
