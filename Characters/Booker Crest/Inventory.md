@@ -24,6 +24,7 @@
 - 2 Daggers
 - Shield (loaned to [[Keth]])
 - A Dragon Pepper wrapped in paper
+- Dragon tailbone (300-400 gp worth)
 
 # Items
 - [[Tourmaline (50gp)]]
