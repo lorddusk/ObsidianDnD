@@ -1,13 +1,20 @@
 ---
 type: session
-tag: Session
+tags:
+  - Session
 world: Faerun
 campaign: Red Hand of Doom
-sessionNum: 008
+sessionNum: 8
 game_year: 1491 DR
-game_date: [6 Marpenoth, 7 Marpenoth, 8 Marpenoth]
-players: [Guido, Peter, Danny, Rob, Tim]
-create_date: {{21 January 2023}}
+game_date: 6 Marpenoth,7 Marpenoth,8 Marpenoth
+players:
+  - Guido
+  - Peter
+  - Danny
+  - Rob
+  - Tim
+create_date:
+  "{ 21 January 2023 }":
 ---
 
 
