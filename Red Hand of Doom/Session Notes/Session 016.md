@@ -25,5 +25,7 @@ create_date: 2023-12-16
 # Housekeeping:
 - [[DM Inspiration]] Dice - Currently left : 3
 # Notes:
-During the fight with [[Regiarix]] 
+During the fight with [[Regiarix]] Booker remains in a deep deep sleep.
+[[The Benefactor]] appears before him during this dream, 
+Gem of Dark Majesty
 # Loot:
