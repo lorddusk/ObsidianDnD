@@ -9,7 +9,7 @@ tags:
 
 # Regiarix 
 
-This be a dragon yo.
+This be a young dragon yo.
 
 ```ad-ooc
 collapse:closed
