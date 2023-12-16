@@ -26,6 +26,6 @@ create_date: 2023-12-16
 - [[DM Inspiration]] Dice - Currently left : 3
 # Notes:
 During the fight with [[Regiarix]] Booker remains in a deep deep sleep.
-[[The Benefactor]] appears before him during this dream, 
-Gem of Dark Majesty
+[[The Benefactor]] appears before him during this dream, Gem of Dark Majesty was found.
+They should help you to avoid your 
 # Loot:
