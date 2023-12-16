@@ -16,7 +16,7 @@ create_date: 2023-12-03
 ---
 
 # Summary of This Session:
-Zie Notities Guido
+Zie Notities Guido of Rob of Danny of Peter, bij nader inzien skip Peter
 ^summary
 
 # Recap of Last Session:
