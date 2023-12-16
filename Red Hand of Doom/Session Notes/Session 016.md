@@ -34,7 +34,8 @@ During the fight with [[Regiarix]] Booker remains in a deep deep sleep.
 
 The well that was destroyed is now, with proper light, actually completely destroyed, and a new well needs to be struck. The whole village is out and about to help fix this.
 
-We arrive after 2 days in [[Brindol]], the adventuring guild is already filled with many people. Where we find [[Reynard Aristaios]] and we discuss the current affairs about the dragon, and what we can do with the dragonv
+We arrive after 2 days in [[Brindol]], the adventuring guild is already filled with many people. Where we find [[Reynard Aristaios]] and we discuss the current affairs about the dragon, and what we can do with the dragonbone. Reynard tells us he will find a smith who can forge with this material. 
+We also tell him, that for the time being, we will not be taking any new guild quests, and that everything to do with the dragon has a bigger priority
 
 
 # Loot:
