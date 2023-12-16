@@ -6,7 +6,7 @@ world: Faerun
 campaign: Red Hand of Doom
 sessionNum: 8
 game_year: 1491 DR
-game_date: 6 Marpenoth,7 Marpenoth,8 Marpenoth
+game_date: 6 Marpenoth, 7 Marpenoth, 8 Marpenoth
 players:
   - Guido
   - Peter
