@@ -5,7 +5,7 @@
 | ---- | ------ |
 | CP   | 4      |
 | SP   | 96     |
-| GP   | 112    |
+| GP   | 127    |
 | PP   | 0      |
 
 # Adventuring Items
