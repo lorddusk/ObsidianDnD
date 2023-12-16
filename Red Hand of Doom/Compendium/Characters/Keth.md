@@ -1,12 +1,14 @@
 ---
 name: Keth
 surname: Bar'dag
+nickname: The Pope
 player: Danny
 class: Vengeance Paladin
 type: character
 desc: 
 race: Half-Orc
-tags: Party
+tags:
+  - Party
 ---
 
 # Keth Bar'dag
