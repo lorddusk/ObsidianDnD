@@ -53,7 +53,7 @@
     },
     {
       "id": "elsir",
-      "lastAccessed": 1683398822751,
+      "lastAccessed": 1702757750676,
       "markers": [
         {
           "id": "ID_f9db5b1b5998",
@@ -215,6 +215,23 @@
             0.6526774286379063,
             0.3644903596772906
           ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab4bab389a28",
+          "type": "default",
+          "loc": [
+            -0.6351192027298905,
+            2.188691874486037
+          ],
+          "link": "Windview",
+          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
