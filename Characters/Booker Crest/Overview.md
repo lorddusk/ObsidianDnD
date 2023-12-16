@@ -78,9 +78,9 @@
 ### Melee
 | Name                  | Roll  | DMG  | Mod | Type     | Effect                                                     |
 | --------------------- | ----- | ---- | --- | -------- | ---------------------------------------------------------- |
-| Spear                 | +7    | 1d6  | +4  | Piercing | If Hexed, Mod +7                                           |
-| Glaive                | +7    | 1d10 | +4  | Slashing | 10ft Reach - If Hexed, Mod +7                                           |
-| [[Green-Flame Blade]] | +7    | 1d6  | +4  | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg. If Hexed, Mod +7 |
+| Spear                 | +6    | 1d6  | +4  | Piercing | If Hexed, Mod +6                                           |
+| Glaive                | +6    | 1d10 | +4  | Slashing | 10ft Reach - If Hexed, Mod +6                                           |
+| [[Green-Flame Blade]] | +6    | 1d6  | +4  | Fire     | 1 Creature in 5ft range, gets 3 Fire dmg. If Hexed, Mod +6 |
 | [[Branding Smite]]    | Spear | 2d6  |     | Radiant  | (concentration)                                            |
 ### Ranged
 | Name               | Range | Roll | DMG  | Mod | Type     | Effect           |
