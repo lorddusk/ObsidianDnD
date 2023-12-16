@@ -32,6 +32,6 @@ During the fight with [[Regiarix]] Booker remains in a deep deep sleep.
 [[Booker]] and [[Bikam]] make a bet that the dragon might be in [[Rhest]]
 (If [[Regiarix]] is in [[Rhest]], [[Booker]] has to give [[Bikam]] 1 GP.)
 
-The well that was destroyed is now, with proper light, actually completely destroyed, and a new well needs to be 
+The well that was destroyed is now, with proper light, actually completely destroyed, and a new well needs to be struck. The whole village is out and about to help fix this.
 
 # Loot:
