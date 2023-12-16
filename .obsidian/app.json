@@ -14,11 +14,7 @@
   "attachmentFolderPath": "Resources",
   "alwaysUpdateLinks": true,
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "en-US",
-    "nl",
-    "en-GB"
-  ],
+  "spellcheckLanguages": null,
   "showLineNumber": false,
   "readableLineLength": false,
   "fileSortOrder": "alphabetical",
