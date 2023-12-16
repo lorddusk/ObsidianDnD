@@ -30,7 +30,7 @@
 	- Hempen Rope (50ft.)
 - Leather Armour
 - 2 Daggers
-- Shield
+- Shield (loaned to [[Keth]])
 - A Dragon Pepper wrapped in paper
 
 # Items
