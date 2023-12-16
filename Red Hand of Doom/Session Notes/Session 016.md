@@ -32,4 +32,6 @@ During the fight with [[Regiarix]] Booker remains in a deep deep sleep.
 [[Booker]] and [[Bikam]] make a bet that the dragon might be in [[Rhest]]
 (If [[Regiarix]] is in [[Rhest]], [[Booker]] has to give [[Bikam]] 1 GP.)
 
+
+
 # Loot:
