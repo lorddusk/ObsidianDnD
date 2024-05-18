@@ -15,6 +15,7 @@ create_date: 2024-05-18
 ^summary
 
 # Recap of Last Session:
+
 ![[Red Hand of Doom/Session Notes/Session 017#^summary]]
 
 # Housekeeping:

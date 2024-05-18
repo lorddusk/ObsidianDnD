@@ -18,7 +18,7 @@ create_date:
 ---
 
 # Summary of This Session:
-
+Zie Notities Guido of Rob of Danny of Peter, bij nader inzien skip Peter
 ^summary
 
 # Recap of Last Session:
