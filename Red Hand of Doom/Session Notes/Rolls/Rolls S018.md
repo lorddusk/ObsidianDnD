@@ -6,7 +6,7 @@
 | Perception | 3    |
 | Perception | 14   |
 | Strength   | 12   |
-|            |      |
+| Insight    | 3    |
 |            |      |
 |            |      |
 |            |      |
