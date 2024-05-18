@@ -96,6 +96,9 @@
  | Radiant Consumption | Action       | 1      | Long     | 1 minute, 10ft radius <br> Everyone inc me, radiant dmg half lvl every round. <br> every turn extra radiant dmg at level on attack/spell. |
  | [[Burning Hands]]   | Action       | 1      | Dawn     | See Spells  |
 
+| Name | Type | Amount | Recovery | Effect |
+| ---- | ---- | ------ | -------- | ------ |
+|      |      |        |          |        |
 
 ## Spells
 - Cantrip:
