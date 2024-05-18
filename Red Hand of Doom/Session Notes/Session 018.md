@@ -29,5 +29,6 @@ create_date:
 - [[DM Inspiration]] Dice - Currently left : 3
 # Notes:
 
-After a days walk we arive in [[Prosser]]
+After a days walk we arrive in [[Prosser]]
+
 # Loot:
