@@ -24,7 +24,7 @@ Zie Notities Guido of Rob of Danny of Peter, bij nader inzien skip Peter
 ![[Red Hand of Doom/Session Notes/Session 016#^summary]]
 
 # Housekeeping:
-
+- [[DM Inspiration]] Dice - Currently left : 3
 # Notes:
 
 # Loot:

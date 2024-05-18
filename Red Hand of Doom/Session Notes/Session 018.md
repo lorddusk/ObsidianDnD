@@ -26,7 +26,7 @@ create_date:
 ![[Red Hand of Doom/Session Notes/Session 017#^summary]]
 
 # Housekeeping:
-
+- [[DM Inspiration]] Dice - Currently left : 3
 # Notes:
 
 # Loot:
