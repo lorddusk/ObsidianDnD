@@ -1,6 +1,6 @@
 {
   "settings": {
-    "migrated": 3,
+    "migrated": 5,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "iconColor": null,
@@ -12,19 +12,33 @@
       "FasFilter"
     ],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "icon": "FasCircleQuestion",
+        "rule": "Red Hand of Doom/Quests and Questions.md\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 2,
       "bottom": 2,
       "left": 2
     },
-    "emojiStyle": "none",
+    "emojiStyle": "native",
     "iconInTabsEnabled": false,
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
-    "iconsInNotesEnabled": true
+    "iconsInNotesEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
   },
   "Red Hand of Doom/Compendium": "FasBookOpen",
   "Red Hand of Doom/Compendium/Locations": "FasMapLocationDot",
@@ -41,10 +55,6 @@
   "Red Hand of Doom/Timeline Entries": "FasTimeline",
   "Red Hand of Doom/Compendium/Groups": "FasUserGroup",
   "Filters.md": "FasFilter",
-  "Red Hand of Doom/Quests and Questions.md": {
-    "iconName": null,
-    "inheritanceIcon": "FasCircleQuestion"
-  },
   "Heist/Session Notes/Rolls": "FasDice",
   "Heist/Session Notes": "FasNoteSticky",
   "Heist/Compendium": "FasBookOpen",
