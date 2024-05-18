@@ -5,7 +5,7 @@
 | Perception | 16   |
 | Perception | 3    |
 | Perception | 14   |
-| Strength   | 13   |
+| Strength   | 12   |
 |            |      |
 |            |      |
 |            |      |
