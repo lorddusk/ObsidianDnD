@@ -90,9 +90,7 @@
 | Spear              | 20/60 | +6   | 1d6  | +4  | Piercing | If Hexed, Mod +6 |
 ### Others
  
- | Name
-
- | Name                | Type         | Amount | Recovery | Effect                                                                                                                                    |
+ | Name                | Type         | Amount | Recovery | Effect |
  | ------------------- | ------------ | ------ | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
  | Hexblade's Curse    | Bonus Action | 1      | Short    | Crits on 19 and 20, Heal HP on Kill Level + Cha Mod                                                                                       |
  | Healing Hands       | Action       | 1      | Long     | Heals Level HP                                                                                                                            |
