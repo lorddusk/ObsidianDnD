@@ -16,7 +16,7 @@ create_date: 2023-12-16
 ---
 
 # Summary of This Session:
-
+![[Red Hand of Doom/Session Notes/Session 016#^notes]]
 ^summary
 
 # Recap of Last Session:
