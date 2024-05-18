@@ -85,23 +85,16 @@
 | [[Branding Smite]]    | Spear | 2d6  |     | Radiant  | (concentration)                                            |
 ### Ranged
 | Name               | Range | Roll | DMG  | Mod | Type     | Effect           |
-|--------------------|-------|------|------|-----|----------|------------------|
+| ------------------ | ----- | ---- | ---- | --- | -------- | ---------------- |
 | [[Eldritch Blast]] | 120   | +5   | 1d10 |     | Force    |                  |
 | Spear              | 20/60 | +6   | 1d6  | +4  | Piercing | If Hexed, Mod +6 |
 ### Others
- 
- | Name                | Type         | Amount | Recovery | Effect |
- | Hexblade's Curse    | Bonus Action | 1      | Short    | Crits on 19 and 20, Heal HP on Kill Level + Cha Mod | 
- | Healing Hands       | Action       | 1      | Long     | Heals Level HP   |
- | Radiant Consumption | Action       | 1      | Long     | 1 minute, 10ft radius <br> Everyone inc me, radiant dmg half lvl every round. <br> every turn extra radiant dmg at level on attack/spell. |
- | [[Burning Hands]]   | Action       | 1      | Dawn     | See Spells  |
-
-| Name                | Type         | Amount | Recovery | Effect                                                                                                                                  |
-| ------------------- | ------------ | ------ | -------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Hexblade's Curse    | Bonus Action | 1      | Short    | Crits on 19 and 20, Heal HP on Kill, Level + CHA Mod                                                                                    |
-| Healing Hands       | Action       | 1      | Long     | Heals Level HP                                                                                                                          |
-| Radiant Consumption | Action       | 1      | Long     | 1 minute, 10ft radius <br> Everyone radiant damage half level every round <br> every turn extra radiant damage at level on attack/spell |
-| [[Burning Hands]]   | Actin        | 1      | Dawn     |                                                                                                                                         |
+| Name                | Type         | Amount | Recovery | Effect                                                                                                                                   |
+| ------------------- | ------------ | ------ | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Hexblade's Curse    | Bonus Action | 1      | Short    | Crits on 19 and 20, Heal HP on Kill, Level + CHA Mod                                                                                     |
+| Healing Hands       | Action       | 1      | Long     | Heals Level HP                                                                                                                           |
+| Radiant Consumption | Action       | 1      | Long     | 1 minute, 10ft radius. <br> Everyone radiant damage half level every round <br> Every turn extra radiant damage at level on attack/spell |
+| [[Burning Hands]]   | Actin        | 1      | Dawn     | See Spell                                                                                                                                |
 
 ## Spells
 - Cantrip:
