@@ -9,7 +9,7 @@ tags: Location
 collapse:closed
 ```
 
-
+Resides in [[Elsir Vale]]
 ___ 
 ## References: - 
 --- 
