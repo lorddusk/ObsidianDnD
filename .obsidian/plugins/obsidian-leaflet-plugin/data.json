@@ -247,7 +247,7 @@
     },
     {
       "id": "world",
-      "lastAccessed": 1716057177073,
+      "lastAccessed": 1716058169436,
       "markers": [
         {
           "id": "ID_ebf929bb599a",
@@ -297,6 +297,23 @@
             2.1853760465837118
           ],
           "link": "Prosser",
+          "layer": "%5B%5Bworld.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bda58daabbb",
+          "type": "default",
+          "loc": [
+            -1.5156936645507812,
+            2.0936014149886475
+          ],
+          "link": "Dauth",
           "layer": "%5B%5Bworld.png%5D%5D",
           "mutable": true,
           "command": false,

@@ -17,7 +17,7 @@
 	- 10 Pitons
 	- 10 Torches
 	- Tinderbox
-	- 7 days of Rations
+	- 6 days of Rations
 	- Waterskin
 	- Hempen Rope (50ft.)
 - Leather Armour

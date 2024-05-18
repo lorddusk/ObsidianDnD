@@ -30,5 +30,6 @@ create_date:
 # Notes:
 
 After a days walk we arrive in [[Prosser]]
-We ask about Mr. Dwarf, but the innkee
+We ask about Mr. Dwarf, but the innkeeper doesn't know him or ever heard of him.
+And we continue our way to [[Dauth]]
 # Loot:
