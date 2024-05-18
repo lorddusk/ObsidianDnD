@@ -89,12 +89,12 @@
 | [[Eldritch Blast]] | 120   | +5   | 1d10 |     | Force    |                  |
 | Spear              | 20/60 | +6   | 1d6  | +4  | Piercing | If Hexed, Mod +6 |
 ### Others
-| Name                | Type         | Amount | Recovery | Effect                                                                                                                                   |
-| ------------------- | ------------ | ------ | -------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Hexblade's Curse    | Bonus Action | 1      | Short    | Crits on 19 and 20, Heal HP on Kill, Level + CHA Mod                                                                                     |
-| Healing Hands       | Action       | 1      | Long     | Heals Level HP                                                                                                                           |
-| Radiant Consumption | Action       | 1      | Long     | 1 minute, 10ft radius. <br> Everyone radiant damage half level every round <br> Every turn extra radiant damage at level on attack/spell |
-| [[Burning Hands]]   | Action       | 1      | Dawn     | See Spell                                                                                                                                |
+| Name                | Type         | Amount | Recovery | Effect                                                                                                                                 |
+| ------------------- | ------------ | ------ | -------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Hexblade's Curse    | Bonus Action | 1      | Short    | Crits on 19 and 20, Heal HP on Kill, Level + CHA Mod                                                                                   |
+| Healing Hands       | Action       | 1      | Long     | Heals Level HP                                                                                                                         |
+| Radiant Consumption | Action       | 1      | Long     | 1 minute, 10ft radius. <br>Everyone radiant damage half level every round <br>Every turn extra radiant damage at level on attack/spell |
+| [[Burning Hands]]   | Action       | 1      | Dawn     | See Spell                                                                                                                              |
 
 ## Spells
 - Cantrip:
