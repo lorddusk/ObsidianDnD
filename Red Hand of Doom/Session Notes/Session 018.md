@@ -1,13 +1,20 @@
 ---
 type: session
-tag: Session
+tags:
+  - Session
 world: Faerun
 campaign: Red Hand of Doom
-sessionNum: 018
+sessionNum: "18"
 game_year: 1491 DR
-game_date: []
-players: [Guido, Peter, Danny, Rob, Tim]
-create_date: 2024-05-18
+game_date: 
+players:
+  - Guido
+  - Peter
+  - Danny
+  - Rob
+  - Tim
+create_date:
+  - 2024-05-18
 ---
 
 # Summary of This Session:
