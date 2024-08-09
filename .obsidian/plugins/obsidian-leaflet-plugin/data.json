@@ -247,7 +247,7 @@
     },
     {
       "id": "world",
-      "lastAccessed": 1716058169436,
+      "lastAccessed": 1723231322161,
       "markers": [
         {
           "id": "ID_ebf929bb599a",
@@ -273,16 +273,16 @@
           "id": "ID_882a58385828",
           "type": "default",
           "loc": [
-            -1.291015625,
-            2.205078125
+            -1.2869186401367188,
+            2.2033082226387526
           ],
           "link": "Nimon Gap",
           "layer": "%5B%5Bworld.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.7379084967320262,
-            0.5241871530531325
+            0.7373162156804192,
+            0.5225236667327517
           ],
           "description": null,
           "minZoom": null,
