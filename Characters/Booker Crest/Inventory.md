@@ -21,7 +21,7 @@
 	- Waterskin
 	- Hempen Rope (50ft.)
 - Leather Armour
-- 2 Daggers
+- 1 Dagger
 - Shield (loaned to [[Keth]])
 - A Dragon Pepper wrapped in paper
 - Dragon tailbone (300-400 gp worth)
