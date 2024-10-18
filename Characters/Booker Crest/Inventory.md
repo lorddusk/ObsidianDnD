@@ -12,7 +12,7 @@
 - Backpack containing:
 	- Bedroll
 	- Crystal Arcane Focus
-	- Russell Crowbar
+	- Russell Crowebar
 	- Hammer
 	- 10 Pitons
 	- 10 Torches
