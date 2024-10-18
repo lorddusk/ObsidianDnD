@@ -17,7 +17,7 @@ create_date:
 ---
 
 # Summary of This Session:
-Ildrina stonehair
+Ildrina Flamehair
 
 ^summary
 
