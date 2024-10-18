@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "world",
-      "lastAccessed": 1729280157989,
+      "lastAccessed": 1729280169936,
       "markers": [
         {
           "id": "ID_ebf929bb599a",
@@ -87,7 +87,7 @@
     },
     {
       "id": "elsir",
-      "lastAccessed": 1729280157990,
+      "lastAccessed": 1729280169936,
       "markers": [
         {
           "id": "ID_f9db5b1b5998",
@@ -269,22 +269,6 @@
             0.5950536774677379,
             0.2871505784388987
           ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_baabc8990b9b",
-          "type": "default",
-          "loc": [
-            -1.3720855712890625,
-            1.7620353365956294
-          ],
-          "layer": "%5B%5BElsir%20Vale.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
