@@ -2,7 +2,7 @@
 ###### Rolls
 | What       | Roll |
 | ---------- | ---- |
-| Perception |      |
+| Perception | 20   |
 |            |      |
 |            |      |
 |            |      |
