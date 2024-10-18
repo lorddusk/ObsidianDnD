@@ -3,7 +3,7 @@
 | What       | Roll |
 | ---------- | ---- |
 | Perception | 20   |
-| Perception |      |
+| Perception | 12   |
 |            |      |
 |            |      |
 |            |      |
