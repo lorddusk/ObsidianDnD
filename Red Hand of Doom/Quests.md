@@ -1,4 +1,3 @@
-# Quests
 
 - [X] Meet [[Brother Keefe]] at the Graveyard.
 	- [X] Investigate the Crypt of [[Xandria]].
