@@ -10,7 +10,7 @@
 # Slot based actions
 ### Spell Slots (2nd Level)
 - [x] 
-- [ ] 
+- [x] 
 ### Healing Hands
 - [ ] 
 ### Hex Curse
