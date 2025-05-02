@@ -17,7 +17,7 @@
 	- 10 Pitons
 	- 10 Torches
 	- Tinderbox
-	- 6 days of Rations
+	- 5 days of Rations
 	- Waterskin
 	- Hempen Rope (50ft.)
 	- A Dragon Pepper wrapped in paper
