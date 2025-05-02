@@ -8,7 +8,7 @@ race: Gnome
 type: character
 tags: Party
 ---
-
+g
 # Bikam Folkor
 
 ```ad-ooc
