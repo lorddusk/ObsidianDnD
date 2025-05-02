@@ -54,9 +54,5 @@
   "Tags.md": "FasTags",
   "Red Hand of Doom/Timeline Entries": "FasTimeline",
   "Red Hand of Doom/Compendium/Groups": "FasUserGroup",
-  "Filters.md": "FasFilter",
-  "Heist/Session Notes/Rolls": "FasDice",
-  "Heist/Session Notes": "FasNoteSticky",
-  "Heist/Compendium": "FasBookOpen",
-  "Heist/Compendium/Items": "FasWandMagicSparkles"
+  "Filters.md": "FasFilter"
 }
