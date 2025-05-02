@@ -20,11 +20,9 @@
 	- 6 days of Rations
 	- Waterskin
 	- Hempen Rope (50ft.)
+	- A Dragon Pepper wrapped in paper
+	- Dragon tailbone (300-400 gp worth)
+	- [[Tourmaline (50gp)]]
 - Leather Armour
 - 1 Dagger
 - Shield (loaned to [[Keth]])
-- A Dragon Pepper wrapped in paper
-- Dragon tailbone (300-400 gp worth)
-
-# Items
-- [[Tourmaline (50gp)]]
