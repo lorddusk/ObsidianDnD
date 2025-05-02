@@ -9,7 +9,7 @@
 
 # Slot based actions
 ### Spell Slots (2nd Level)
-- [x] 
+- [ ] 
 - [ ] 
 ### Healing Hands
 - [ ] 
