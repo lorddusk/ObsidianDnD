@@ -14,7 +14,7 @@
 ### Healing Hands
 - [ ] 
 ### Hex Curse
-- [ ] 
+- [x] 
 ### Radiant Consumption
 - [ ] 
 ### Burning Hands
