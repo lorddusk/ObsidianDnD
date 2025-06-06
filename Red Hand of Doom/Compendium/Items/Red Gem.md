@@ -3,7 +3,7 @@ type: item
 tags: Item
 ---
 
-# Red stone 
+# Red Gem
 Stone encrusted in my weapon, gives access to [[Burning Hands]] 
 ```ad-ooc
 collapse:closed
