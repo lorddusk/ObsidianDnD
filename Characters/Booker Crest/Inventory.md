@@ -19,7 +19,6 @@
 	- Tinderbox
 	- 5 days of Rations
 	- Waterskin
-	- Hempen Rope (50ft.)
 	- A Dragon Pepper wrapped in paper
 	- Dragon tailbone (300-400 gp worth)
 	- [[Tourmaline (50gp)]]
