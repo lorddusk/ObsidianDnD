@@ -2,7 +2,7 @@
 ###### Rolls
 | What          | Roll |
 | ------------- | ---- |
-|               |      |
+| Investigation | 8    |
 |               |      |
 |               |      |
 |               |      |
