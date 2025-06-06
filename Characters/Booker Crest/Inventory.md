@@ -26,3 +26,4 @@
 - Leather Armour
 - 1 Dagger
 - Shield (loaned to [[Keth]])
+- [[Red stone]]
