@@ -4,8 +4,8 @@
 | ------------- | ---- |
 | Investigation | 8    |
 | Investigation | 17   |
-| Dexterity     | 7    |
-|               |      |
+| Dexterity     | 5    |
+| Dexterity     | 8    |
 |               |      |
 |               |      |
 |               |      |
