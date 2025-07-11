@@ -20,7 +20,6 @@
 	- 5 days of Rations
 	- Waterskin
 	- A Dragon Pepper wrapped in paper
-	- Dragon tailbone (300-400 gp worth)
 	- [[Tourmaline (50gp)]]
 - Leather Armour
 - 1 Dagger
