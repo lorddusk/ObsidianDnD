@@ -17,7 +17,6 @@
 	- 10 Pitons
 	- 10 Torches
 	- Tinderbox
-	- 5 days of Rations
 	- Waterskin
 	- A Dragon Pepper wrapped in paper
 	- [[Tourmaline (50gp)]]
