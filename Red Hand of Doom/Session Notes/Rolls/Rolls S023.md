@@ -7,7 +7,7 @@
 | Perception     | 5    |
 | Dexterity Save | 14   |
 | Perception     | 17   |
-|                |      |
+| Dexterity Save | 10   |
 |                |      |
 |                |      |
 |                |      |
