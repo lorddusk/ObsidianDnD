@@ -1,7 +1,7 @@
 # Overview
 |           What | Amount | Remaining |
 | -------------: | :----: | :-------: |
-|             HP |   33   |    21     |
+|             HP |   33   |    14     |
 | Hit dice (1d8) |   4    |     4     |
 |             AC |   17   |     -     |
 | AC (No shield) |   15   |     -     |
