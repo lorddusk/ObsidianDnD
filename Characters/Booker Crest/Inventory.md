@@ -21,4 +21,4 @@
 - Leather Armour
 - 1 Dagger
 - [[Red Gem]]
-- []
+- [[Bag of Holding]]
