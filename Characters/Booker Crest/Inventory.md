@@ -22,3 +22,5 @@
 - 1 Dagger
 - Shield
 - [[Red Gem]]
+- [Bag of Holding]:
+	- 
