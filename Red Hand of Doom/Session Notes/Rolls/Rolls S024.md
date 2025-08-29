@@ -2,7 +2,7 @@
 ###### Rolls
 | What   | Roll |
 | ------ | ---- |
-| Nature |      |
+| Nature | 18   |
 |        |      |
 |        |      |
 |        |      |
