@@ -23,4 +23,4 @@ Aelar:
 - .
 
 Party:
-- .
+- 2 Tents (2 persons)
