@@ -11,7 +11,7 @@ Booker:
 - Russell Crowebar
 
 Keth:
-- Hunting Trap
+- Hunting Trap (25lb)
 
 Bikam:
 - .
@@ -23,4 +23,4 @@ Aelar:
 - .
 
 Party:
-- 2 Tents (2 persons)
+- 2 Tents (2 persons) (40lb)
