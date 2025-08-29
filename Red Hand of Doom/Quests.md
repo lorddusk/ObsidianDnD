@@ -14,5 +14,5 @@
 	- [x] Figure out what is happening
 	- [x] What is the cause of the missing people
  
-[ ]
+- [ ] 
 ![[telegram-cloud-photo-size-4-5877260031718705066-y.jpg]]
