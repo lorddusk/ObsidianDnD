@@ -18,7 +18,6 @@
 	- 10 Torches
 	- Tinderbox
 	- Waterskin
-	- A Dragon Pepper wrapped in paper
 	- [[Tourmaline (50gp)]]
 - Leather Armour
 - 1 Dagger
