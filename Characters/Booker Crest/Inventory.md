@@ -21,5 +21,5 @@
 	- [[Tourmaline (50gp)]]
 - Leather Armour
 - 1 Dagger
-- Shield (loaned to [[Keth]])
+- Shield
 - [[Red Gem]]
