@@ -7,7 +7,6 @@
 | SP   | 96     |
 | GP   | 111    |
 | PP   | 0      |
-|      |        |
 
 # Adventuring Items
 - Backpack containing:
