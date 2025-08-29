@@ -16,11 +16,12 @@ Has a ranking system from lowest to highest:
 
 - Iron
 - Copper
-- Bronze
+- Bronze (Our current rank)
 - Silver
 - Gold
 - Electrum
-- 
+- Platinum
+- Guild Leader
 ```ad-ooc
 collapse:closed
 ```
