@@ -15,11 +15,12 @@ Leader: [[Reynard Aristaios]]
 Has a ranking system from lowest to highest:
 
 - Iron
+- Copper
 - Bronze
-- ?
-- ?
-- ?
-- ?
+- Silver
+- Gold
+- Electrum
+- 
 ```ad-ooc
 collapse:closed
 ```
