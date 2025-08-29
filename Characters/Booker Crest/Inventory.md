@@ -4,8 +4,8 @@
 | Kind | Amount |
 | ---- | ------ |
 | CP   | 2      |
-| SP   | 96     |
-| GP   |        |
+| SP   | 6      |
+| GP   | 0      |
 | PP   | 0      |
 
 # Adventuring Items
@@ -18,7 +18,6 @@
 	- 10 Torches
 	- Tinderbox
 	- Waterskin
-	- [[Tourmaline (50gp)]]
 - Leather Armour
 - 1 Dagger
 - Shield
